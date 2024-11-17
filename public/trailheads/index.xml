@@ -14,7 +14,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/trailheads/fairbrother-corner/</guid>
-      <description></description>
+      <description>This is the the summary. Now is this reasonable?</description>
       
     </item>
     
@@ -24,7 +24,193 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/trailheads/misasin/</guid>
-      <description></description>
+      <description>&lt;div class=&#34;flex flex-col text-surface shadow-secondary-1 dark:bg-surface-dark dark:text-white max-w-max lg:flex-row h-auto sm:pb-10&#34;&gt;
+&lt;div class=&#34;w-full lg:w-1/2&#34; style=&#34;margin-bottom: 20px;&#34;&gt;
+image or iframe
+&lt;/div&gt;
+  &lt;div class=&#34;flex flex-col justify-start pl-5 lg:w-1/2&#34;&gt;
+    &lt;h4 class=&#34;text-xl font-large mt-0&#34;&gt;Trailhead Details&lt;/h4&gt;
+      &lt;table width=100% class=&#34;w-full&#34;&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;100%&#34; class=&#34;mb-2 text-base&#34; colspan=&#34;2&#34;&gt;&lt;b&gt;GPS Location (Opens in Google Maps): &lt;/b&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; colspan=&#34;2&#34; class=&#34;my-4 text-base&#34;&gt;&lt;a href=&#34;https://maps.app.goo.gl/34r3stN2LZ2viuLe7&#34; target=&#34;_blank&#34;&gt;N53 21.431 W112 55.686&lt;/a&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; class=&#34;mb-2 text-base&#34;&gt;&lt;b&gt;Parking:&lt;/b&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; colspan=&#34;2&#34; class=&#34;my-4 text-base&#34;&gt;Blah blah blah about parking. More blah blah blah about parking. More blah blah blah about parking.&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+      &lt;/table&gt;
+    &lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+    
+    
+
+
+
+&lt;h2 class=&#34;mt-20 text-2xl font-extrabold mb-10&#34;&gt;There is 1 Suggested Hike Starting at the Misasin Trailhead.&lt;/h2&gt;
+
+
+
+&lt;section class=&#34;w-full grid gap-4 sm:grid-cols-2 md:grid-cols-3&#34;&gt;
+    
+        
+            
+                
+
+  &lt;a href=&#34;//localhost:1313/hikes/misasin-trail/&#34; class=&#34;min-w-full&#34;&gt;
+    
+    &lt;div class=&#34;min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative&#34;&gt;
+        
+        &lt;div class=&#34;w-full thumbnail_card nozoom&#34; style=&#34;background-image:url(/hikes/misasin-trail/featured-017-NE-Boundary-Trailhead-to-End-of-Trail-Misasin-Trail_hu4082904832443302097.jpg);&#34;&gt;&lt;/div&gt;
+        
+      
+
+      &lt;div class=&#34;px-6 py-4&#34;&gt;
+
+        
+        &lt;div class=&#34;font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;
+          href=&#34;//localhost:1313/hikes/misasin-trail/&#34;&gt;Misasin Trail&lt;/div&gt;
+        
+
+        &lt;div class=&#34;text-sm text-neutral-500 dark:text-neutral-400&#34;&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
+  
+  
+
+  
+  
+&lt;/div&gt;
+
+
+
+
+
+&lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
+  
+  
+  
+  
+  
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/misasin-trailhead/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Misasin Trailhead
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/hike-length-less-than-5-km/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Hike Length: Less Than 5 Km
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/route-type-out--back/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Route Type: Out &amp;amp; Back
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/difficulty-easy/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Difficulty: Easy
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+&lt;/div&gt;
+
+
+
+
+        &lt;/div&gt;
+
+        
+        &lt;div class=&#34;py-1 prose dark:prose-invert&#34;&gt;
+           Hike route: Misasin Trail Hike Details Trailhead: Misasin Trailhead Hike Length: 2.4 km Route Type: Loop Difficulty: Rated 36: Easy 36&amp;nbsp;/&amp;nbsp;221 
+        &lt;/div&gt;
+        
+      &lt;/div&gt;
+      &lt;div class=&#34;px-6 pt-4 pb-2&#34;&gt;
+
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/a&gt;
+
+            
+        
+    
+&lt;/section&gt;</description>
       
     </item>
     
@@ -34,7 +220,61 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/trailheads/north-miquelon-road/</guid>
-      <description></description>
+      <description>&lt;div class=&#34;flex flex-col text-surface shadow-secondary-1 dark:bg-surface-dark dark:text-white max-w-max lg:flex-row h-auto sm:pb-10&#34;&gt;
+&lt;div class=&#34;w-full lg:w-1/2&#34; style=&#34;margin-bottom: 20px;&#34;&gt;
+image or iframe
+&lt;/div&gt;
+  &lt;div class=&#34;flex flex-col justify-start pl-5 lg:w-1/2&#34;&gt;
+    &lt;h4 class=&#34;text-xl font-large mt-0&#34;&gt;Trailhead Details&lt;/h4&gt;
+      &lt;table width=100% class=&#34;w-full&#34;&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;100%&#34; class=&#34;mb-2 text-base&#34; colspan=&#34;2&#34;&gt;&lt;b&gt;GPS Location (Opens in Google Maps): &lt;/b&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; colspan=&#34;2&#34; class=&#34;my-4 text-base&#34;&gt;&lt;a href=&#34;https://maps.app.goo.gl/8eXaArddzUuGGnfTA&#34; target=&#34;_blank&#34;&gt;N53 16.400 W112 55.690&lt;/a&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; class=&#34;mb-2 text-base&#34;&gt;&lt;b&gt;Parking:&lt;/b&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; colspan=&#34;2&#34; class=&#34;my-4 text-base&#34;&gt;Blah blah blah about parking. More blah blah blah about parking. More blah blah blah about parking.&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+      &lt;/table&gt;
+    &lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+
+
+&lt;h2 class=&#34;mt-20 text-2xl font-extrabold mb-10&#34;&gt;There are 0 Suggested Hikes Starting at the North Miquelon Road Trailhead.&lt;/h2&gt;
+
+
+
+&lt;section class=&#34;w-full grid gap-4 sm:grid-cols-2 md:grid-cols-3&#34;&gt;
+    
+        
+    
+&lt;/section&gt;</description>
       
     </item>
     
@@ -44,7 +284,193 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/trailheads/site-2/</guid>
-      <description></description>
+      <description>&lt;div class=&#34;flex flex-col text-surface shadow-secondary-1 dark:bg-surface-dark dark:text-white max-w-max lg:flex-row h-auto sm:pb-10&#34;&gt;
+&lt;div class=&#34;w-full lg:w-1/2&#34; style=&#34;margin-bottom: 20px;&#34;&gt;
+image or iframe
+&lt;/div&gt;
+  &lt;div class=&#34;flex flex-col justify-start pl-5 lg:w-1/2&#34;&gt;
+    &lt;h4 class=&#34;text-xl font-large mt-0&#34;&gt;Trailhead Details&lt;/h4&gt;
+      &lt;table width=100% class=&#34;w-full&#34;&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;100%&#34; class=&#34;mb-2 text-base&#34; colspan=&#34;2&#34;&gt;&lt;b&gt;GPS Location (Opens in Google Maps): &lt;/b&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; colspan=&#34;2&#34; class=&#34;my-4 text-base&#34;&gt;&lt;a href=&#34;https://maps.app.goo.gl/TFJbwTmz3GSGsRAK6&#34; target=&#34;_blank&#34;&gt;N53 20.706 W113 04.459&lt;/a&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; class=&#34;mb-2 text-base&#34;&gt;&lt;b&gt;Parking:&lt;/b&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; colspan=&#34;2&#34; class=&#34;my-4 text-base&#34;&gt;Blah blah blah about parking. More blah blah blah about parking. More blah blah blah about parking.&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+      &lt;/table&gt;
+    &lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+    
+    
+
+
+
+&lt;h2 class=&#34;mt-20 text-2xl font-extrabold mb-10&#34;&gt;There is 1 Suggested Hike Starting at the Site 2 Parking Lot / Trailhead.&lt;/h2&gt;
+
+
+
+&lt;section class=&#34;w-full grid gap-4 sm:grid-cols-2 md:grid-cols-3&#34;&gt;
+    
+        
+            
+                
+
+  &lt;a href=&#34;//localhost:1313/hikes/site2-to-wildland-meadows/&#34; class=&#34;min-w-full&#34;&gt;
+    
+    &lt;div class=&#34;min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative&#34;&gt;
+        
+        &lt;div class=&#34;w-full thumbnail_card nozoom&#34; style=&#34;background-image:url(/hikes/site2-to-wildland-meadows/featured%20-039_Site_2_to_Wildland_Meadows_Loop_hu3350046840101071480.jpg);&#34;&gt;&lt;/div&gt;
+        
+      
+
+      &lt;div class=&#34;px-6 py-4&#34;&gt;
+
+        
+        &lt;div class=&#34;font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;
+          href=&#34;//localhost:1313/hikes/site2-to-wildland-meadows/&#34;&gt;Site 2 to Wildland Meadows Loop&lt;/div&gt;
+        
+
+        &lt;div class=&#34;text-sm text-neutral-500 dark:text-neutral-400&#34;&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
+  
+  
+
+  
+  
+&lt;/div&gt;
+
+
+
+
+
+&lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
+  
+  
+  
+  
+  
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/site-2-parking-lot/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Site 2 Parking Lot
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/hike-length-5-to-7-km/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Hike Length: 5 to 7 Km
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/route-type-out--back/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Route Type: Out &amp;amp; Back
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/difficulty-strenuous/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Difficulty: Strenuous
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+&lt;/div&gt;
+
+
+
+
+        &lt;/div&gt;
+
+        
+        &lt;div class=&#34;py-1 prose dark:prose-invert&#34;&gt;
+           Hike route: Site 2 to Wildland Meadows Loop Hike Details Trailhead: Site 2 Parking Lot Hike Length: 5.7 km Route Type: Out &amp; Back Difficulty: Rated 151: Strenuous 151&amp;nbsp;/&amp;nbsp;221 
+        &lt;/div&gt;
+        
+      &lt;/div&gt;
+      &lt;div class=&#34;px-6 pt-4 pb-2&#34;&gt;
+
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/a&gt;
+
+            
+        
+    
+&lt;/section&gt;</description>
       
     </item>
     
@@ -54,7 +480,61 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/trailheads/site-33/</guid>
-      <description></description>
+      <description>&lt;div class=&#34;flex flex-col text-surface shadow-secondary-1 dark:bg-surface-dark dark:text-white max-w-max lg:flex-row h-auto sm:pb-10&#34;&gt;
+&lt;div class=&#34;w-full lg:w-1/2&#34; style=&#34;margin-bottom: 20px;&#34;&gt;
+image or iframe
+&lt;/div&gt;
+  &lt;div class=&#34;flex flex-col justify-start pl-5 lg:w-1/2&#34;&gt;
+    &lt;h4 class=&#34;text-xl font-large mt-0&#34;&gt;Trailhead Details&lt;/h4&gt;
+      &lt;table width=100% class=&#34;w-full&#34;&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;100%&#34; class=&#34;mb-2 text-base&#34; colspan=&#34;2&#34;&gt;&lt;b&gt;GPS Location (Opens in Google Maps): &lt;/b&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; colspan=&#34;2&#34; class=&#34;my-4 text-base&#34;&gt;&lt;a href=&#34;https://maps.app.goo.gl/uxdjTYsei54QmhSE7&#34; target=&#34;_blank&#34;&gt;N53 22.012 W112 59.663&lt;/a&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; class=&#34;mb-2 text-base&#34;&gt;&lt;b&gt;Parking:&lt;/b&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; colspan=&#34;2&#34; class=&#34;my-4 text-base&#34;&gt;Blah blah blah about parking. More blah blah blah about parking. More blah blah blah about parking.&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+      &lt;/table&gt;
+    &lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+
+
+&lt;h2 class=&#34;mt-20 text-2xl font-extrabold mb-10&#34;&gt;There are 0 Suggested Hikes Starting at the Site 33 Parking Lot / Trailhead.&lt;/h2&gt;
+
+
+
+&lt;section class=&#34;w-full grid gap-4 sm:grid-cols-2 md:grid-cols-3&#34;&gt;
+    
+        
+    
+&lt;/section&gt;</description>
       
     </item>
     
@@ -64,7 +544,325 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/trailheads/berg-south/</guid>
-      <description></description>
+      <description>&lt;div class=&#34;flex flex-col text-surface shadow-secondary-1 dark:bg-surface-dark dark:text-white max-w-max lg:flex-row h-auto sm:pb-10&#34;&gt;
+&lt;div class=&#34;w-full lg:w-1/2&#34; style=&#34;margin-bottom: 20px;&#34;&gt;
+image or iframe
+&lt;/div&gt;
+  &lt;div class=&#34;flex flex-col justify-start pl-5 lg:w-1/2&#34;&gt;
+    &lt;h4 class=&#34;text-xl font-large mt-0&#34;&gt;Trailhead Details&lt;/h4&gt;
+      &lt;table width=100% class=&#34;w-full&#34;&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;100%&#34; class=&#34;mb-2 text-base&#34; colspan=&#34;2&#34;&gt;&lt;b&gt;GPS Location (Opens in Google Maps): &lt;/b&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; colspan=&#34;2&#34; class=&#34;my-4 text-base&#34;&gt;&lt;a href=&#34;https://maps.app.goo.gl/U5CtkTNvsuVEa32s9&#34; target=&#34;_blank&#34;&gt;N53 22.026 W112 57.994&lt;/a&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; class=&#34;mb-2 text-base&#34;&gt;&lt;b&gt;Parking:&lt;/b&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; colspan=&#34;2&#34; class=&#34;my-4 text-base&#34;&gt;Blah blah blah about parking. More blah blah blah about parking. More blah blah blah about parking.&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+      &lt;/table&gt;
+    &lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    
+
+
+
+
+    
+    
+
+
+
+&lt;h2 class=&#34;mt-20 text-2xl font-extrabold mb-10&#34;&gt;There are 2 Suggested Hikes Starting at the Waskahegan Berg Section - South Trailhead.&lt;/h2&gt;
+
+
+
+&lt;section class=&#34;w-full grid gap-4 sm:grid-cols-2 md:grid-cols-3&#34;&gt;
+    
+        
+            
+                
+
+  &lt;a href=&#34;//localhost:1313/hikes/berg-section-2-car/&#34; class=&#34;min-w-full&#34;&gt;
+    
+    &lt;div class=&#34;min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative&#34;&gt;
+        
+        &lt;div class=&#34;w-full thumbnail_card nozoom&#34; style=&#34;background-image:url(/hikes/berg-section-2-car/featured-004-Waskahegan-Berg-Section_hu673939913139968702.jpg);&#34;&gt;&lt;/div&gt;
+        
+      
+
+      &lt;div class=&#34;px-6 py-4&#34;&gt;
+
+        
+        &lt;div class=&#34;font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;
+          href=&#34;//localhost:1313/hikes/berg-section-2-car/&#34;&gt;Waskahegan Berg Section - 2 Car&lt;/div&gt;
+        
+
+        &lt;div class=&#34;text-sm text-neutral-500 dark:text-neutral-400&#34;&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
+  
+  
+
+  
+  
+&lt;/div&gt;
+
+
+
+
+
+&lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
+  
+  
+  
+  
+  
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/waskahegan-berg-section-south-trailhead/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Waskahegan Berg Section South Trailhead
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/hike-length-less-than-5-km/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Hike Length: Less Than 5 Km
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/route-type-2-car/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Route Type: 2 Car
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/difficulty-moderate/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Difficulty: Moderate
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+&lt;/div&gt;
+
+
+
+
+        &lt;/div&gt;
+
+        
+        &lt;div class=&#34;py-1 prose dark:prose-invert&#34;&gt;
+           Hike route: &amp;ldquo;Waskahegan Berg Section 2 Car&amp;rdquo; Hike Details Trailhead: Waskahegan Berg Section South Trailhead Hike Length: 3.7 km Route Type: 2 Car Difficulty: Rated 56: Moderate 56&amp;nbsp;/&amp;nbsp;221 
+        &lt;/div&gt;
+        
+      &lt;/div&gt;
+      &lt;div class=&#34;px-6 pt-4 pb-2&#34;&gt;
+
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/a&gt;
+
+            
+        
+            
+                
+
+  &lt;a href=&#34;//localhost:1313/hikes/berg-section-out-and-back/&#34; class=&#34;min-w-full&#34;&gt;
+    
+    &lt;div class=&#34;min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative&#34;&gt;
+        
+        &lt;div class=&#34;w-full thumbnail_card nozoom&#34; style=&#34;background-image:url(/hikes/berg-section-out-and-back/featured-004-Waskahegan-Berg-Section_hu673939913139968702.jpg);&#34;&gt;&lt;/div&gt;
+        
+      
+
+      &lt;div class=&#34;px-6 py-4&#34;&gt;
+
+        
+        &lt;div class=&#34;font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;
+          href=&#34;//localhost:1313/hikes/berg-section-out-and-back/&#34;&gt;Waskahegan Berg Section - Out &amp; Back&lt;/div&gt;
+        
+
+        &lt;div class=&#34;text-sm text-neutral-500 dark:text-neutral-400&#34;&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
+  
+  
+
+  
+  
+&lt;/div&gt;
+
+
+
+
+
+&lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
+  
+  
+  
+  
+  
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/waskahegan-berg-section-south-trailhead/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Waskahegan Berg Section South Trailhead
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/hike-length-7-to-10-km/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Hike Length: 7 to 10 Km
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/route-type-out--back/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Route Type: Out &amp;amp; Back
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/difficulty-strenuous/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Difficulty: Strenuous
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+&lt;/div&gt;
+
+
+
+
+        &lt;/div&gt;
+
+        
+        &lt;div class=&#34;py-1 prose dark:prose-invert&#34;&gt;
+           Hike route: &amp;ldquo;Waskahegan Berg Section Out &amp;amp; Back&amp;rdquo; Hike Details Trailhead: Waskahegan Berg Section South Trailhead Hike Length: 7.4 km Route Type: Out &amp; Back Difficulty: Rated 111: Strenuous 111&amp;nbsp;/&amp;nbsp;221 
+        &lt;/div&gt;
+        
+      &lt;/div&gt;
+      &lt;div class=&#34;px-6 pt-4 pb-2&#34;&gt;
+
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/a&gt;
+
+            
+        
+    
+&lt;/section&gt;</description>
       
     </item>
     
@@ -74,7 +872,457 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/trailheads/stove-lake-trailhead/</guid>
-      <description></description>
+      <description>&lt;div class=&#34;flex flex-col text-surface shadow-secondary-1 dark:bg-surface-dark dark:text-white max-w-max lg:flex-row h-auto sm:pb-10&#34;&gt;
+&lt;div class=&#34;w-full lg:w-1/2&#34; style=&#34;margin-bottom: 20px;&#34;&gt;
+image or iframe
+&lt;/div&gt;
+  &lt;div class=&#34;flex flex-col justify-start pl-5 lg:w-1/2&#34;&gt;
+    &lt;h4 class=&#34;text-xl font-large mt-0&#34;&gt;Trailhead Details&lt;/h4&gt;
+      &lt;table width=100% class=&#34;w-full&#34;&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;100%&#34; class=&#34;mb-2 text-base&#34; colspan=&#34;2&#34;&gt;&lt;b&gt;GPS Location (Opens in Google Maps): &lt;/b&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; colspan=&#34;2&#34; class=&#34;my-4 text-base&#34;&gt;&lt;a href=&#34;https://maps.app.goo.gl/aWebodVdiCCcVfgQ7&#34; target=&#34;_blank&#34;&gt;N53 20.188 W112 55.673&lt;/a&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; class=&#34;mb-2 text-base&#34;&gt;&lt;b&gt;Parking:&lt;/b&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; colspan=&#34;2&#34; class=&#34;my-4 text-base&#34;&gt;Blah blah blah about parking. More blah blah blah about parking. More blah blah blah about parking.&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+      &lt;/table&gt;
+    &lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    
+
+    
+
+
+
+
+    
+    
+
+
+
+&lt;h2 class=&#34;mt-20 text-2xl font-extrabold mb-10&#34;&gt;There are 3 Suggested Hikes Starting at the Stove Lake Trailhead.&lt;/h2&gt;
+
+
+
+&lt;section class=&#34;w-full grid gap-4 sm:grid-cols-2 md:grid-cols-3&#34;&gt;
+    
+        
+            
+                
+
+  &lt;a href=&#34;//localhost:1313/hikes/stove-lake-to-fairbrother-corner/&#34; class=&#34;min-w-full&#34;&gt;
+    
+    &lt;div class=&#34;min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative&#34;&gt;
+        
+        &lt;div class=&#34;w-full thumbnail_card nozoom&#34; style=&#34;background-image:url(/hikes/stove-lake-to-fairbrother-corner/featured-020-Stove-Lake-to-Fairbrother-Corner_hu6595058300858270022.jpg);&#34;&gt;&lt;/div&gt;
+        
+      
+
+      &lt;div class=&#34;px-6 py-4&#34;&gt;
+
+        
+        &lt;div class=&#34;font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;
+          href=&#34;//localhost:1313/hikes/stove-lake-to-fairbrother-corner/&#34;&gt;Stove Lake to Fairbrother Corner&lt;/div&gt;
+        
+
+        &lt;div class=&#34;text-sm text-neutral-500 dark:text-neutral-400&#34;&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
+  
+  
+
+  
+  
+&lt;/div&gt;
+
+
+
+
+
+&lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
+  
+  
+  
+  
+  
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/stove-lake-trailhead-gate/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Stove Lake Trailhead Gate
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/hike-length-more-than-10-km/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Hike Length: More Than 10 Km
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/route-type-2-car/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Route Type: 2 Car
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/difficulty-expedition/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Difficulty: Expedition
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+&lt;/div&gt;
+
+
+
+
+        &lt;/div&gt;
+
+        
+        &lt;div class=&#34;py-1 prose dark:prose-invert&#34;&gt;
+           Hike route: Stove Lake to Fairbrother Corner Hike Details Trailhead: Stove Lake Trailhead Gate Hike Length: 12.6 km Route Type: 2 Car Difficulty: Rated 189: Expedition 189&amp;nbsp;/&amp;nbsp;221 
+        &lt;/div&gt;
+        
+      &lt;/div&gt;
+      &lt;div class=&#34;px-6 pt-4 pb-2&#34;&gt;
+
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/a&gt;
+
+            
+        
+            
+                
+
+  &lt;a href=&#34;//localhost:1313/hikes/stove-lake-to-mandy-lake/&#34; class=&#34;min-w-full&#34;&gt;
+    
+    &lt;div class=&#34;min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative&#34;&gt;
+        
+        &lt;div class=&#34;w-full thumbnail_card nozoom&#34; style=&#34;background-image:url(/hikes/stove-lake-to-mandy-lake/featured-019-Stove-Lake-to-Mandy-Lake-PK_hu4557794135246464959.jpg);&#34;&gt;&lt;/div&gt;
+        
+      
+
+      &lt;div class=&#34;px-6 py-4&#34;&gt;
+
+        
+        &lt;div class=&#34;font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;
+          href=&#34;//localhost:1313/hikes/stove-lake-to-mandy-lake/&#34;&gt;Stove Lake to Mandy Lake Parking&lt;/div&gt;
+        
+
+        &lt;div class=&#34;text-sm text-neutral-500 dark:text-neutral-400&#34;&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
+  
+  
+
+  
+  
+&lt;/div&gt;
+
+
+
+
+
+&lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
+  
+  
+  
+  
+  
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/stove-lake-trailhead-gate/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Stove Lake Trailhead Gate
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/hike-length-7-to-10-km/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Hike Length: 7 to 10 Km
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/route-type-2-car/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Route Type: 2 Car
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/difficulty-strenuous/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Difficulty: Strenuous
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+&lt;/div&gt;
+
+
+
+
+        &lt;/div&gt;
+
+        
+        &lt;div class=&#34;py-1 prose dark:prose-invert&#34;&gt;
+           Hike route: Stove Lake to Mandy Lake Parking Hike Details Trailhead: Stove Lake Trailhead Gate Hike Length: 10 km Route Type: 2 Car Difficulty: Rated 164: Strenuous 164&amp;nbsp;/&amp;nbsp;221 
+        &lt;/div&gt;
+        
+      &lt;/div&gt;
+      &lt;div class=&#34;px-6 pt-4 pb-2&#34;&gt;
+
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/a&gt;
+
+            
+        
+            
+                
+
+  &lt;a href=&#34;//localhost:1313/hikes/stove-lake-to-crossroads/&#34; class=&#34;min-w-full&#34;&gt;
+    
+    &lt;div class=&#34;min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative&#34;&gt;
+        
+        &lt;div class=&#34;w-full thumbnail_card nozoom&#34; style=&#34;background-image:url(/hikes/stove-lake-to-crossroads/featured-018-Stove-Lake-to-Crossroads_hu3264891172538472870.jpg);&#34;&gt;&lt;/div&gt;
+        
+      
+
+      &lt;div class=&#34;px-6 py-4&#34;&gt;
+
+        
+        &lt;div class=&#34;font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;
+          href=&#34;//localhost:1313/hikes/stove-lake-to-crossroads/&#34;&gt;Stove Lake to Trail Crossroads&lt;/div&gt;
+        
+
+        &lt;div class=&#34;text-sm text-neutral-500 dark:text-neutral-400&#34;&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
+  
+  
+
+  
+  
+&lt;/div&gt;
+
+
+
+
+
+&lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
+  
+  
+  
+  
+  
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/stove-lake-trailhead-gate/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Stove Lake Trailhead Gate
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/hike-length-5-to-7-km/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Hike Length: 5 to 7 Km
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/route-type-out--back/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Route Type: Out &amp;amp; Back
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/difficulty-moderate/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Difficulty: Moderate
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+&lt;/div&gt;
+
+
+
+
+        &lt;/div&gt;
+
+        
+        &lt;div class=&#34;py-1 prose dark:prose-invert&#34;&gt;
+           Hike route: Stove Lake to Trail Crossroads Hike Details Trailhead: Stove Lake Trailhead Gate Hike Length: 5.2 km Route Type: Out &amp; Back Difficulty: Rated 78: Moderate 78&amp;nbsp;/&amp;nbsp;221 
+        &lt;/div&gt;
+        
+      &lt;/div&gt;
+      &lt;div class=&#34;px-6 pt-4 pb-2&#34;&gt;
+
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/a&gt;
+
+            
+        
+    
+&lt;/section&gt;</description>
       
     </item>
     
@@ -84,7 +1332,722 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/trailheads/few/</guid>
-      <description></description>
+      <description>&lt;div class=&#34;flex flex-col text-surface shadow-secondary-1 dark:bg-surface-dark dark:text-white max-w-max lg:flex-row h-auto sm:pb-10&#34;&gt;
+&lt;div class=&#34;w-full lg:w-1/2&#34; style=&#34;margin-bottom: 20px;&#34;&gt;
+&lt;iframe src=&#34;https://www.google.com/maps/embed?pb=!4v1731077475537!6m8!1m7!1shDuS8rw8dHn404Q18dRJvQ!2m2!1d53.36688937033411!2d-113.0015561553516!3f181.79372238013238!4f-10.815174010977856!5f1.1924812503605782&#34; width=&#34;100%&#34; height=&#34;450&#34; style=&#34;border:0;&#34; allowfullscreen=&#34;&#34; loading=&#34;lazy&#34; referrerpolicy=&#34;no-referrer-when-downgrade&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+  &lt;div class=&#34;flex flex-col justify-start pl-5 lg:w-1/2&#34;&gt;
+    &lt;h4 class=&#34;text-xl font-large mt-0&#34;&gt;Trailhead Details&lt;/h4&gt;
+      &lt;table width=100% class=&#34;w-full&#34;&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;100%&#34; class=&#34;mb-2 text-base&#34; colspan=&#34;2&#34;&gt;&lt;b&gt;GPS Location (Opens in Google Maps): &lt;/b&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; colspan=&#34;2&#34; class=&#34;my-4 text-base&#34;&gt;&lt;a href=&#34;https://maps.app.goo.gl/rT9MCK823RFvHCgt8&#34; target=&#34;_blank&#34;&gt;N53 22.011 W113 00.100&lt;/a&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; class=&#34;mb-2 text-base&#34;&gt;&lt;b&gt;Parking:&lt;/b&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; colspan=&#34;2&#34; class=&#34;my-4 text-base&#34;&gt;Blah blah blah about parking. More blah blah blah about parking. More blah blah blah about parking.&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+      &lt;/table&gt;
+    &lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    
+
+    
+
+    
+
+    
+
+
+
+
+    
+    
+
+
+
+&lt;h2 class=&#34;mt-20 text-2xl font-extrabold mb-10&#34;&gt;There are 5 Suggested Hikes Starting at the &amp;#34;Francis Edward Williams&amp;#34; Trailhead.&lt;/h2&gt;
+
+
+
+&lt;section class=&#34;w-full grid gap-4 sm:grid-cols-2 md:grid-cols-3&#34;&gt;
+    
+        
+            
+                
+
+  &lt;a href=&#34;//localhost:1313/hikes/few-to-five-meadows-loop/&#34; class=&#34;min-w-full&#34;&gt;
+    
+    &lt;div class=&#34;min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative&#34;&gt;
+        
+        &lt;div class=&#34;w-full thumbnail_card nozoom&#34; style=&#34;background-image:url(/hikes/few-to-five-meadows-loop/featured-037-FEW-to-Five-Meadows-Hike-Fire-Tower-Loop_hu3697336182771907083.jpg);&#34;&gt;&lt;/div&gt;
+        
+      
+
+      &lt;div class=&#34;px-6 py-4&#34;&gt;
+
+        
+        &lt;div class=&#34;font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;
+          href=&#34;//localhost:1313/hikes/few-to-five-meadows-loop/&#34;&gt;Francis Edward Williams to Five Meadows Loop&lt;/div&gt;
+        
+
+        &lt;div class=&#34;text-sm text-neutral-500 dark:text-neutral-400&#34;&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
+  
+  
+
+  
+  
+&lt;/div&gt;
+
+
+
+
+
+&lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
+  
+  
+  
+  
+  
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/francis-edward-williams-trailhead/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Francis Edward Williams Trailhead
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/hike-length-more-than-10-km/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Hike Length: More Than 10 Km
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/route-type-loop/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Route Type: Loop
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/difficulty-expedition/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Difficulty: Expedition
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+&lt;/div&gt;
+
+
+
+
+        &lt;/div&gt;
+
+        
+        &lt;div class=&#34;py-1 prose dark:prose-invert&#34;&gt;
+           Hike route: Francis Edward Williams to Five Meadows Loop Hike Details Trailhead: Francis Edward Williams Trailhead Hike Length: 11.4 km Route Type: Loop Difficulty: Rated 221: Expedition 221&amp;nbsp;/&amp;nbsp;221 
+        &lt;/div&gt;
+        
+      &lt;/div&gt;
+      &lt;div class=&#34;px-6 pt-4 pb-2&#34;&gt;
+
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/a&gt;
+
+            
+        
+            
+                
+
+  &lt;a href=&#34;//localhost:1313/hikes/few-to-fire-tower/&#34; class=&#34;min-w-full&#34;&gt;
+    
+    &lt;div class=&#34;min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative&#34;&gt;
+        
+        &lt;div class=&#34;w-full thumbnail_card nozoom&#34; style=&#34;background-image:url(/hikes/few-to-fire-tower/featured-002-FEW-to-Waskahegan-Fire-Tower_hu15728059022830232988.jpg);&#34;&gt;&lt;/div&gt;
+        
+      
+
+      &lt;div class=&#34;px-6 py-4&#34;&gt;
+
+        
+        &lt;div class=&#34;font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;
+          href=&#34;//localhost:1313/hikes/few-to-fire-tower/&#34;&gt;Francis Edward Williams Trailhead to the Ministik Fire Tower&lt;/div&gt;
+        
+
+        &lt;div class=&#34;text-sm text-neutral-500 dark:text-neutral-400&#34;&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
+  
+  
+
+  
+  
+&lt;/div&gt;
+
+
+
+
+
+&lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
+  
+  
+  
+  
+  
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/uofa-access-road-gate/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    UofA Access Road Gate
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/hike-length-7-to-10-km/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Hike Length: 7 to 10 Km
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/route-type-out--back/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Route Type: Out &amp;amp; Back
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/difficulty-strenuous/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Difficulty: Strenuous
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+&lt;/div&gt;
+
+
+
+
+        &lt;/div&gt;
+
+        
+        &lt;div class=&#34;py-1 prose dark:prose-invert&#34;&gt;
+           Hike route: &amp;ldquo;Francis Edward Williams Trailhead to the Ministik Fire Tower&amp;rdquo; Hike Details Trailhead: UofA Access Road Gate Hike Length: 8.3 km Route Type: Out &amp; Back Difficulty: Rated 164: Strenuous 164&amp;nbsp;/&amp;nbsp;221 
+        &lt;/div&gt;
+        
+      &lt;/div&gt;
+      &lt;div class=&#34;px-6 pt-4 pb-2&#34;&gt;
+
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/a&gt;
+
+            
+        
+            
+                
+
+  &lt;a href=&#34;//localhost:1313/hikes/few-to-fireplace-test/&#34; class=&#34;min-w-full&#34;&gt;
+    
+    &lt;div class=&#34;min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative&#34;&gt;
+        
+        &lt;div class=&#34;w-full thumbnail_card nozoom&#34; style=&#34;background-image:url(/hikes/few-to-fireplace-test/featured-001-FEW-to-Fireplace_hu3940082841370758603.jpg);&#34;&gt;&lt;/div&gt;
+        
+      
+
+      &lt;div class=&#34;px-6 py-4&#34;&gt;
+
+        
+        &lt;div class=&#34;font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;
+          href=&#34;//localhost:1313/hikes/few-to-fireplace-test/&#34;&gt;Francis Edward Williams Trailhead to the Ministik Fireplace&lt;/div&gt;
+        
+
+        &lt;div class=&#34;text-sm text-neutral-500 dark:text-neutral-400&#34;&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
+  
+  
+
+  
+  
+&lt;/div&gt;
+
+
+
+
+
+&lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
+  
+  
+  
+  
+  
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/francis-edward-williams-trailhead/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Francis Edward Williams Trailhead
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/hike-length-less-than-5-km/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Hike Length: Less Than 5 Km
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/route-type-out--back/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Route Type: Out &amp;amp; Back
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/difficulty-easy/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Difficulty: Easy
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+&lt;/div&gt;
+
+
+
+
+        &lt;/div&gt;
+
+        
+        &lt;div class=&#34;py-1 prose dark:prose-invert&#34;&gt;
+           the caption Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis auctor feugiat diam, ac sodales nisl fringilla in. Interdum et malesuada fames ac ante ipsum primis in faucibus. Phasellus ante turpis, porta et ipsum sit amet, lobortis semper nulla. Phasellus dapibus nibh enim, a ultricies orci bibendum at. Ut sit amet tellus dolor. Morbi gravida luctus turpis quis ornare. Sed quis lorem suscipit, hendrerit urna vel, sagittis ex. Nam euismod velit ac metus facilisis, nec convallis felis mattis. Nulla facilisi. Here&amp;rsquo;s the paragraph BREAK.
+
+        &lt;/div&gt;
+        
+      &lt;/div&gt;
+      &lt;div class=&#34;px-6 pt-4 pb-2&#34;&gt;
+
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/a&gt;
+
+            
+        
+            
+                
+
+  &lt;a href=&#34;//localhost:1313/hikes/few-to-fireplace/&#34; class=&#34;min-w-full&#34;&gt;
+    
+    &lt;div class=&#34;min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative&#34;&gt;
+        
+        &lt;div class=&#34;w-full thumbnail_card nozoom&#34; style=&#34;background-image:url(/hikes/few-to-fireplace/featured-001-FEW-to-Fireplace_hu3940082841370758603.jpg);&#34;&gt;&lt;/div&gt;
+        
+      
+
+      &lt;div class=&#34;px-6 py-4&#34;&gt;
+
+        
+        &lt;div class=&#34;font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;
+          href=&#34;//localhost:1313/hikes/few-to-fireplace/&#34;&gt;Francis Edward Williams Trailhead to the Ministik Fireplace&lt;/div&gt;
+        
+
+        &lt;div class=&#34;text-sm text-neutral-500 dark:text-neutral-400&#34;&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
+  
+  
+
+  
+  
+&lt;/div&gt;
+
+
+
+
+
+&lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
+  
+  
+  
+  
+  
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/francis-edward-williams-trailhead/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Francis Edward Williams Trailhead
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/hike-length-less-than-5-km/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Hike Length: Less Than 5 Km
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/route-type-out--back/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Route Type: Out &amp;amp; Back
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/difficulty-easy/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Difficulty: Easy
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+&lt;/div&gt;
+
+
+
+
+        &lt;/div&gt;
+
+        
+        &lt;div class=&#34;py-1 prose dark:prose-invert&#34;&gt;
+           Hike route: &amp;ldquo;Francis Edward Williams Trailhead to the Ministik Fireplace&amp;rdquo; Hike Details Trailhead: Francis Edward Williams Trailhead Hike Length: 2.1 km Route Type: Out &amp; Back Difficulty: Rated 52: Easy 52&amp;nbsp;/&amp;nbsp;221 
+        &lt;/div&gt;
+        
+      &lt;/div&gt;
+      &lt;div class=&#34;px-6 pt-4 pb-2&#34;&gt;
+
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/a&gt;
+
+            
+        
+            
+                
+
+  &lt;a href=&#34;//localhost:1313/hikes/few-to-uofa-gate/&#34; class=&#34;min-w-full&#34;&gt;
+    
+    &lt;div class=&#34;min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative&#34;&gt;
+        
+        &lt;div class=&#34;w-full thumbnail_card nozoom&#34; style=&#34;background-image:url(/hikes/few-to-uofa-gate/featured-003-FEW-to-UofA-Access-Road-Gate_hu14957382989064360569.jpg);&#34;&gt;&lt;/div&gt;
+        
+      
+
+      &lt;div class=&#34;px-6 py-4&#34;&gt;
+
+        
+        &lt;div class=&#34;font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;
+          href=&#34;//localhost:1313/hikes/few-to-uofa-gate/&#34;&gt;Francis Edward Williams Trailhead to the UofA Access Road Gate&lt;/div&gt;
+        
+
+        &lt;div class=&#34;text-sm text-neutral-500 dark:text-neutral-400&#34;&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
+  
+  
+
+  
+  
+&lt;/div&gt;
+
+
+
+
+
+&lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
+  
+  
+  
+  
+  
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/uofa-access-road-gate/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    UofA Access Road Gate
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/hike-length-less-than-5-km/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Hike Length: Less Than 5 Km
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/route-type-2-car/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Route Type: 2 Car
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/difficulty-moderate/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Difficulty: Moderate
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+&lt;/div&gt;
+
+
+
+
+        &lt;/div&gt;
+
+        
+        &lt;div class=&#34;py-1 prose dark:prose-invert&#34;&gt;
+           Hike route: &amp;ldquo;Francis Edward Williams Trailhead to the UofA Access Road Gate&amp;rdquo; Hike Details Trailhead: UofA Access Road Gate Hike Length: 4.9 km Route Type: 2 Car Difficulty: Rated 85: Moderate 85&amp;nbsp;/&amp;nbsp;221 
+        &lt;/div&gt;
+        
+      &lt;/div&gt;
+      &lt;div class=&#34;px-6 pt-4 pb-2&#34;&gt;
+
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/a&gt;
+
+            
+        
+    
+&lt;/section&gt;</description>
       
     </item>
     
@@ -94,7 +2057,589 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/trailheads/mandy-lake-road/</guid>
-      <description></description>
+      <description>&lt;div class=&#34;flex flex-col text-surface shadow-secondary-1 dark:bg-surface-dark dark:text-white max-w-max lg:flex-row h-auto sm:pb-10&#34;&gt;
+&lt;div class=&#34;w-full lg:w-1/2&#34; style=&#34;margin-bottom: 20px;&#34;&gt;
+image or iframe
+&lt;/div&gt;
+  &lt;div class=&#34;flex flex-col justify-start pl-5 lg:w-1/2&#34;&gt;
+    &lt;h4 class=&#34;text-xl font-large mt-0&#34;&gt;Trailhead Details&lt;/h4&gt;
+      &lt;table width=100% class=&#34;w-full&#34;&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;100%&#34; class=&#34;mb-2 text-base&#34; colspan=&#34;2&#34;&gt;&lt;b&gt;GPS Location (Opens in Google Maps): &lt;/b&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; colspan=&#34;2&#34; class=&#34;my-4 text-base&#34;&gt;&lt;a href=&#34;https://maps.app.goo.gl/cVHyYcdgvbA8PDfR7&#34; target=&#34;_blank&#34;&gt;N53 18.529 W113 00.084&lt;/a&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; class=&#34;mb-2 text-base&#34;&gt;&lt;b&gt;Parking:&lt;/b&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; colspan=&#34;2&#34; class=&#34;my-4 text-base&#34;&gt;Blah blah blah about parking. More blah blah blah about parking. More blah blah blah about parking.&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+      &lt;/table&gt;
+    &lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    
+
+    
+
+    
+
+
+
+
+    
+    
+
+
+
+&lt;h2 class=&#34;mt-20 text-2xl font-extrabold mb-10&#34;&gt;There are 4 Suggested Hikes Starting at the Mandy Lake Road Trailhead.&lt;/h2&gt;
+
+
+
+&lt;section class=&#34;w-full grid gap-4 sm:grid-cols-2 md:grid-cols-3&#34;&gt;
+    
+        
+            
+                
+
+  &lt;a href=&#34;//localhost:1313/hikes/mandy-lake-to-shelter/&#34; class=&#34;min-w-full&#34;&gt;
+    
+    &lt;div class=&#34;min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative&#34;&gt;
+        
+        &lt;div class=&#34;w-full thumbnail_card nozoom&#34; style=&#34;background-image:url(/hikes/mandy-lake-to-shelter/featured-027-Mandy-Lake-Road-to-Old-Shelter_hu14113016192977020277.jpg);&#34;&gt;&lt;/div&gt;
+        
+      
+
+      &lt;div class=&#34;px-6 py-4&#34;&gt;
+
+        
+        &lt;div class=&#34;font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;
+          href=&#34;//localhost:1313/hikes/mandy-lake-to-shelter/&#34;&gt;Mandy Lake Parking to Old Shelter&lt;/div&gt;
+        
+
+        &lt;div class=&#34;text-sm text-neutral-500 dark:text-neutral-400&#34;&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
+  
+  
+
+  
+  
+&lt;/div&gt;
+
+
+
+
+
+&lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
+  
+  
+  
+  
+  
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/mandy-lake-road-gate/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Mandy Lake Road Gate
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/hike-length-less-than-5-km/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Hike Length: Less Than 5 Km
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/route-type-out--back/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Route Type: Out &amp;amp; Back
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/difficulty-easy/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Difficulty: Easy
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+&lt;/div&gt;
+
+
+
+
+        &lt;/div&gt;
+
+        
+        &lt;div class=&#34;py-1 prose dark:prose-invert&#34;&gt;
+           Hike route: Mandy Lake Parking to Old Shelter Hike Details Trailhead: Mandy Lake Road Gate Hike Length: 4 km Route Type: Out &amp; Back Difficulty: Rated 40: Easy 40&amp;nbsp;/&amp;nbsp;221 
+        &lt;/div&gt;
+        
+      &lt;/div&gt;
+      &lt;div class=&#34;px-6 pt-4 pb-2&#34;&gt;
+
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/a&gt;
+
+            
+        
+            
+                
+
+  &lt;a href=&#34;//localhost:1313/hikes/mandy-lake-tr-to-oliver-lake/&#34; class=&#34;min-w-full&#34;&gt;
+    
+    &lt;div class=&#34;min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative&#34;&gt;
+        
+        &lt;div class=&#34;w-full thumbnail_card nozoom&#34; style=&#34;background-image:url(/hikes/mandy-lake-tr-to-oliver-lake/featured-028-Mandy-Lake-PK-to-Oliver-Lake-East_hu6980231623135514032.jpg);&#34;&gt;&lt;/div&gt;
+        
+      
+
+      &lt;div class=&#34;px-6 py-4&#34;&gt;
+
+        
+        &lt;div class=&#34;font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;
+          href=&#34;//localhost:1313/hikes/mandy-lake-tr-to-oliver-lake/&#34;&gt;Mandy Lake Parking to Oliver Lake East&lt;/div&gt;
+        
+
+        &lt;div class=&#34;text-sm text-neutral-500 dark:text-neutral-400&#34;&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
+  
+  
+
+  
+  
+&lt;/div&gt;
+
+
+
+
+
+&lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
+  
+  
+  
+  
+  
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/mandy-lake-road-gate/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Mandy Lake Road Gate
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/hike-length-5-to-7-km/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Hike Length: 5 to 7 Km
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/route-type-out--back/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Route Type: Out &amp;amp; Back
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/difficulty-moderate/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Difficulty: Moderate
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+&lt;/div&gt;
+
+
+
+
+        &lt;/div&gt;
+
+        
+        &lt;div class=&#34;py-1 prose dark:prose-invert&#34;&gt;
+           Hike route: Mandy Lake Parking to Oliver Lake East Hike Details Trailhead: Mandy Lake Road Gate Hike Length: 5.4 km Route Type: Out &amp; Back Difficulty: Rated 88: Moderate 88&amp;nbsp;/&amp;nbsp;221 
+        &lt;/div&gt;
+        
+      &lt;/div&gt;
+      &lt;div class=&#34;px-6 pt-4 pb-2&#34;&gt;
+
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/a&gt;
+
+            
+        
+            
+                
+
+  &lt;a href=&#34;//localhost:1313/hikes/mandy-lake-to-waskahegan/&#34; class=&#34;min-w-full&#34;&gt;
+    
+    &lt;div class=&#34;min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative&#34;&gt;
+        
+        &lt;div class=&#34;w-full thumbnail_card nozoom&#34; style=&#34;background-image:url(/hikes/mandy-lake-to-waskahegan/featured-029-Mandy-Lake-PK-to-Waskahegan-Loop_hu8331981447788662577.jpg);&#34;&gt;&lt;/div&gt;
+        
+      
+
+      &lt;div class=&#34;px-6 py-4&#34;&gt;
+
+        
+        &lt;div class=&#34;font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;
+          href=&#34;//localhost:1313/hikes/mandy-lake-to-waskahegan/&#34;&gt;Mandy Lake Parking to Waskahegan Trail Loop&lt;/div&gt;
+        
+
+        &lt;div class=&#34;text-sm text-neutral-500 dark:text-neutral-400&#34;&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
+  
+  
+
+  
+  
+&lt;/div&gt;
+
+
+
+
+
+&lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
+  
+  
+  
+  
+  
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/mandy-lake-road-gate/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Mandy Lake Road Gate
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/hike-length-7-to-10-km/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Hike Length: 7 to 10 Km
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/route-type-loop/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Route Type: Loop
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/difficulty-strenuous/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Difficulty: Strenuous
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+&lt;/div&gt;
+
+
+
+
+        &lt;/div&gt;
+
+        
+        &lt;div class=&#34;py-1 prose dark:prose-invert&#34;&gt;
+           Hike route: Mandy Lake Parking to Waskahegan Trail Loop Hike Details Trailhead: Mandy Lake Road Gate Hike Length: 8.1 km Route Type: Loop Difficulty: Rated 152: Strenuous 152&amp;nbsp;/&amp;nbsp;221 
+        &lt;/div&gt;
+        
+      &lt;/div&gt;
+      &lt;div class=&#34;px-6 pt-4 pb-2&#34;&gt;
+
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/a&gt;
+
+            
+        
+            
+                
+
+  &lt;a href=&#34;//localhost:1313/hikes/north-of-502/&#34; class=&#34;min-w-full&#34;&gt;
+    
+    &lt;div class=&#34;min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative&#34;&gt;
+        
+        &lt;div class=&#34;w-full thumbnail_card nozoom&#34; style=&#34;background-image:url(/hikes/north-of-502/featured-036-North-of-Township-Road-502-Loop_hu13521788422671238716.jpg);&#34;&gt;&lt;/div&gt;
+        
+      
+
+      &lt;div class=&#34;px-6 py-4&#34;&gt;
+
+        
+        &lt;div class=&#34;font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;
+          href=&#34;//localhost:1313/hikes/north-of-502/&#34;&gt;North of Township Road 502 Loop&lt;/div&gt;
+        
+
+        &lt;div class=&#34;text-sm text-neutral-500 dark:text-neutral-400&#34;&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
+  
+  
+
+  
+  
+&lt;/div&gt;
+
+
+
+
+
+&lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
+  
+  
+  
+  
+  
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/mandy-lake-road-gate/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Mandy Lake Road Gate
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/hike-length-5-to-7-km/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Hike Length: 5 to 7 Km
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/route-type-loop/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Route Type: Loop
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/difficulty-moderate/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Difficulty: Moderate
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+&lt;/div&gt;
+
+
+
+
+        &lt;/div&gt;
+
+        
+        &lt;div class=&#34;py-1 prose dark:prose-invert&#34;&gt;
+           Hike route: North of Township Road 502 Loop Hike Details Trailhead: Mandy Lake Road Gate Hike Length: 5.1 km Route Type: Loop Difficulty: Rated 83: Moderate 83&amp;nbsp;/&amp;nbsp;221 
+        &lt;/div&gt;
+        
+      &lt;/div&gt;
+      &lt;div class=&#34;px-6 pt-4 pb-2&#34;&gt;
+
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/a&gt;
+
+            
+        
+    
+&lt;/section&gt;</description>
       
     </item>
     
@@ -104,7 +2649,193 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/trailheads/joseph-lake/</guid>
-      <description></description>
+      <description>&lt;div class=&#34;flex flex-col text-surface shadow-secondary-1 dark:bg-surface-dark dark:text-white max-w-max lg:flex-row h-auto sm:pb-10&#34;&gt;
+&lt;div class=&#34;w-full lg:w-1/2&#34; style=&#34;margin-bottom: 20px;&#34;&gt;
+image or iframe
+&lt;/div&gt;
+  &lt;div class=&#34;flex flex-col justify-start pl-5 lg:w-1/2&#34;&gt;
+    &lt;h4 class=&#34;text-xl font-large mt-0&#34;&gt;Trailhead Details&lt;/h4&gt;
+      &lt;table width=100% class=&#34;w-full&#34;&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;100%&#34; class=&#34;mb-2 text-base&#34; colspan=&#34;2&#34;&gt;&lt;b&gt;GPS Location (Opens in Google Maps): &lt;/b&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; colspan=&#34;2&#34; class=&#34;my-4 text-base&#34;&gt;&lt;a href=&#34;https://maps.app.goo.gl/6EXc6rk8eWA2yPW79&#34; target=&#34;_blank&#34;&gt;N 53 18.514, W 113 03.317&lt;/a&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; class=&#34;mb-2 text-base&#34;&gt;&lt;b&gt;Parking:&lt;/b&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; colspan=&#34;2&#34; class=&#34;my-4 text-base&#34;&gt;Blah blah blah about parking. More blah blah blah about parking. More blah blah blah about parking.&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+      &lt;/table&gt;
+    &lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+    
+    
+
+
+
+&lt;h2 class=&#34;mt-20 text-2xl font-extrabold mb-10&#34;&gt;There is 1 Suggested Hike Starting at the Joseph Lake Trailhead.&lt;/h2&gt;
+
+
+
+&lt;section class=&#34;w-full grid gap-4 sm:grid-cols-2 md:grid-cols-3&#34;&gt;
+    
+        
+            
+                
+
+  &lt;a href=&#34;//localhost:1313/hikes/joseph-lake-loop/&#34; class=&#34;min-w-full&#34;&gt;
+    
+    &lt;div class=&#34;min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative&#34;&gt;
+        
+        &lt;div class=&#34;w-full thumbnail_card nozoom&#34; style=&#34;background-image:url(/hikes/joseph-lake-loop/featured-026-Joseph-Lake-Loop_hu6724932557098547534.jpg);&#34;&gt;&lt;/div&gt;
+        
+      
+
+      &lt;div class=&#34;px-6 py-4&#34;&gt;
+
+        
+        &lt;div class=&#34;font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;
+          href=&#34;//localhost:1313/hikes/joseph-lake-loop/&#34;&gt;Joseph Lake Loop&lt;/div&gt;
+        
+
+        &lt;div class=&#34;text-sm text-neutral-500 dark:text-neutral-400&#34;&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
+  
+  
+
+  
+  
+&lt;/div&gt;
+
+
+
+
+
+&lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
+  
+  
+  
+  
+  
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/joseph-lake-trailhead/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Joseph Lake Trailhead
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/hike-length-5-to-7-km/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Hike Length: 5 to 7 Km
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/route-type-loop/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Route Type: Loop
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/difficulty-moderate/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Difficulty: Moderate
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+&lt;/div&gt;
+
+
+
+
+        &lt;/div&gt;
+
+        
+        &lt;div class=&#34;py-1 prose dark:prose-invert&#34;&gt;
+           Hike route: Joseph Lake Loop Hike Details Trailhead: Joseph Lake Trailhead Hike Length: 6.3 km Route Type: Loop Difficulty: Rated 97: Moderate 97&amp;nbsp;/&amp;nbsp;221 
+        &lt;/div&gt;
+        
+      &lt;/div&gt;
+      &lt;div class=&#34;px-6 pt-4 pb-2&#34;&gt;
+
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/a&gt;
+
+            
+        
+    
+&lt;/section&gt;</description>
       
     </item>
     
@@ -114,7 +2845,1665 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/trailheads/uofa-road/</guid>
-      <description></description>
+      <description>&lt;div class=&#34;flex flex-col text-surface shadow-secondary-1 dark:bg-surface-dark dark:text-white max-w-max lg:flex-row h-auto sm:pb-10&#34; style=margin-bottom:-100px;&gt;
+&lt;div class=&#34;w-full lg:w-1/2&#34; style=&#34;margin-bottom: 20px;&#34;&gt;
+image or iframe
+&lt;/div&gt;
+  &lt;div class=&#34;flex flex-col justify-start pl-5 lg:w-1/2&#34;&gt;
+    &lt;h4 class=&#34;text-xl font-large mt-0&#34;&gt;Trailhead Details&lt;/h4&gt;
+      &lt;table width=100% class=&#34;w-full&#34;&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;100%&#34; class=&#34;mb-2 text-base&#34; colspan=&#34;2&#34;&gt;&lt;b&gt;GPS Location (Opens in Google Maps): &lt;/b&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; colspan=&#34;2&#34; class=&#34;my-4 text-base&#34;&gt;&lt;a href=&#34;https://maps.app.goo.gl/p6NFvhybbCuPJVet9&#34; target=&#34;_blank&#34;&gt;N53 22.014 W112 57.904&lt;/a&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; class=&#34;mb-2 text-base&#34;&gt;&lt;b&gt;Parking:&lt;/b&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; colspan=&#34;2&#34; class=&#34;my-4 text-base&#34;&gt;Blah blah blah about parking. More blah blah blah about parking. More blah blah blah about parking.&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+      &lt;/table&gt;
+    &lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Description 
+    &lt;div id=&#34;description&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#description&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+
+
+
+    
+    
+
+
+
+&lt;h2 class=&#34;mt-20 text-2xl font-extrabold mb-10&#34;&gt;There are 12 Suggested Hikes Starting at the U of A Field Station Access Road Gate.&lt;/h2&gt;
+
+
+
+&lt;section class=&#34;w-full grid gap-4 sm:grid-cols-2 md:grid-cols-3&#34;&gt;
+    
+        
+            
+                
+
+  &lt;a href=&#34;//localhost:1313/hikes/five-meadows-loop/&#34; class=&#34;min-w-full&#34;&gt;
+    
+    &lt;div class=&#34;min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative&#34;&gt;
+        
+        &lt;div class=&#34;w-full thumbnail_card nozoom&#34; style=&#34;background-image:url(/hikes/five-meadows-loop/featured-009-Five-Meadows-Loop_hu5038119872036917909.jpg);&#34;&gt;&lt;/div&gt;
+        
+      
+
+      &lt;div class=&#34;px-6 py-4&#34;&gt;
+
+        
+        &lt;div class=&#34;font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;
+          href=&#34;//localhost:1313/hikes/five-meadows-loop/&#34;&gt;Five Meadows Loop&lt;/div&gt;
+        
+
+        &lt;div class=&#34;text-sm text-neutral-500 dark:text-neutral-400&#34;&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
+  
+  
+
+  
+  
+&lt;/div&gt;
+
+
+
+
+
+&lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
+  
+  
+  
+  
+  
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/uofa-access-road-gate/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    UofA Access Road Gate
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/hike-length-more-than-10-km/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Hike Length: More Than 10 Km
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/route-type-loop/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Route Type: Loop
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/difficulty-expedition/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Difficulty: Expedition
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+&lt;/div&gt;
+
+
+
+
+        &lt;/div&gt;
+
+        
+        &lt;div class=&#34;py-1 prose dark:prose-invert&#34;&gt;
+           Hike route: Five Meadows Loop Hike Details Trailhead: UofA Access Road Gate Hike Length: 12.6 km Route Type: Loop Difficulty: Rated 167: Expedition 167&amp;nbsp;/&amp;nbsp;221 
+        &lt;/div&gt;
+        
+      &lt;/div&gt;
+      &lt;div class=&#34;px-6 pt-4 pb-2&#34;&gt;
+
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/a&gt;
+
+            
+        
+            
+                
+
+  &lt;a href=&#34;//localhost:1313/hikes/wat-lake-to-tower-loop/&#34; class=&#34;min-w-full&#34;&gt;
+    
+    &lt;div class=&#34;min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative&#34;&gt;
+        
+        &lt;div class=&#34;w-full thumbnail_card nozoom&#34; style=&#34;background-image:url(/hikes/wat-lake-to-tower-loop/featured-015-Wide-Loop-via-Wat-Lake-Crossroads-Tower_hu17678038178346653271.jpg);&#34;&gt;&lt;/div&gt;
+        
+      
+
+      &lt;div class=&#34;px-6 py-4&#34;&gt;
+
+        
+        &lt;div class=&#34;font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;
+          href=&#34;//localhost:1313/hikes/wat-lake-to-tower-loop/&#34;&gt;Loop Past Wat Lake, the &#34;Throne&#34; and the Ministik Fire Tower&lt;/div&gt;
+        
+
+        &lt;div class=&#34;text-sm text-neutral-500 dark:text-neutral-400&#34;&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
+  
+  
+
+  
+  
+&lt;/div&gt;
+
+
+
+
+
+&lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
+  
+  
+  
+  
+  
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/uofa-access-road-gate/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    UofA Access Road Gate
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/hike-length-more-than-10-km/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Hike Length: More Than 10 Km
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/route-type-loop/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Route Type: Loop
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/difficulty-expedition/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Difficulty: Expedition
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+&lt;/div&gt;
+
+
+
+
+        &lt;/div&gt;
+
+        
+        &lt;div class=&#34;py-1 prose dark:prose-invert&#34;&gt;
+           Hike route: Wat Lake, the &amp;ldquo;Throne&amp;rdquo; and the Ministik Fire Tower Loop Hike Details Trailhead: UofA Access Road Gate Hike Length: 11.7 km Route Type: Loop Difficulty: Rated 193: Expedition 193&amp;nbsp;/&amp;nbsp;221 
+        &lt;/div&gt;
+        
+      &lt;/div&gt;
+      &lt;div class=&#34;px-6 pt-4 pb-2&#34;&gt;
+
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/a&gt;
+
+            
+        
+            
+                
+
+  &lt;a href=&#34;//localhost:1313/hikes/stick-to-the-road/&#34; class=&#34;min-w-full&#34;&gt;
+    
+    &lt;div class=&#34;min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative&#34;&gt;
+        
+        &lt;div class=&#34;w-full thumbnail_card nozoom&#34; style=&#34;background-image:url(/hikes/stick-to-the-road/featured-005-Stick-to-the-Road_hu7062744484720395812.jpg);&#34;&gt;&lt;/div&gt;
+        
+      
+
+      &lt;div class=&#34;px-6 py-4&#34;&gt;
+
+        
+        &lt;div class=&#34;font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;
+          href=&#34;//localhost:1313/hikes/stick-to-the-road/&#34;&gt;Stick to the Field Station Road&lt;/div&gt;
+        
+
+        &lt;div class=&#34;text-sm text-neutral-500 dark:text-neutral-400&#34;&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
+  
+  
+
+  
+  
+&lt;/div&gt;
+
+
+
+
+
+&lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
+  
+  
+  
+  
+  
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/uofa-access-road-gate/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    UofA Access Road Gate
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/hike-length-5-to-7-km/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Hike Length: 5 to 7 Km
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/route-type-out--back/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Route Type: Out &amp;amp; Back
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/difficulty-moderate/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Difficulty: Moderate
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+&lt;/div&gt;
+
+
+
+
+        &lt;/div&gt;
+
+        
+        &lt;div class=&#34;py-1 prose dark:prose-invert&#34;&gt;
+           Hike route: &amp;ldquo;Stick to the Field Station Road&amp;rdquo; Hike Details Trailhead: UofA Access Road Gate Hike Length: 5.6 km Route Type: Out &amp; Back Difficulty: Rated 55: Easy 55&amp;nbsp;/&amp;nbsp;221 
+        &lt;/div&gt;
+        
+      &lt;/div&gt;
+      &lt;div class=&#34;px-6 pt-4 pb-2&#34;&gt;
+
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/a&gt;
+
+            
+        
+            
+                
+
+  &lt;a href=&#34;//localhost:1313/hikes/enchanted-forest-loop/&#34; class=&#34;min-w-full&#34;&gt;
+    
+    &lt;div class=&#34;min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative&#34;&gt;
+        
+        &lt;div class=&#34;w-full thumbnail_card nozoom&#34; style=&#34;background-image:url(/hikes/enchanted-forest-loop/featured-006-Enchanted-Forest-Loop_hu10591041085903193719.jpg);&#34;&gt;&lt;/div&gt;
+        
+      
+
+      &lt;div class=&#34;px-6 py-4&#34;&gt;
+
+        
+        &lt;div class=&#34;font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;
+          href=&#34;//localhost:1313/hikes/enchanted-forest-loop/&#34;&gt;The Enchanted Forest Loop&lt;/div&gt;
+        
+
+        &lt;div class=&#34;text-sm text-neutral-500 dark:text-neutral-400&#34;&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
+  
+  
+
+  
+  
+&lt;/div&gt;
+
+
+
+
+
+&lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
+  
+  
+  
+  
+  
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/uofa-access-road-gate/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    UofA Access Road Gate
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/hike-length-less-than-5-km/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Hike Length: Less Than 5 Km
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/route-type-loop/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Route Type: Loop
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/starter-hike/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Starter Hike
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/difficulty-easy/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Difficulty: Easy
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+&lt;/div&gt;
+
+
+
+
+        &lt;/div&gt;
+
+        
+        &lt;div class=&#34;py-1 prose dark:prose-invert&#34;&gt;
+           Hike route: &amp;ldquo;The Enchanted Forest Loop&amp;rdquo; Hike Details Trailhead: UofA Access Road Gate Hike Length: 4.2 km Route Type: Loop Difficulty: Rated 45: Easy 45&amp;nbsp;/&amp;nbsp;221 
+        &lt;/div&gt;
+        
+      &lt;/div&gt;
+      &lt;div class=&#34;px-6 pt-4 pb-2&#34;&gt;
+
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/a&gt;
+
+            
+        
+            
+                
+
+  &lt;a href=&#34;//localhost:1313/hikes/waskahegan-trail/&#34; class=&#34;min-w-full&#34;&gt;
+    
+    &lt;div class=&#34;min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative&#34;&gt;
+        
+        &lt;div class=&#34;w-full thumbnail_card nozoom&#34; style=&#34;background-image:url(/hikes/waskahegan-trail/featured-011-Gate-to-Fairbrother-Corner-Waskahegan-Trail_hu550481312858676552.jpg);&#34;&gt;&lt;/div&gt;
+        
+      
+
+      &lt;div class=&#34;px-6 py-4&#34;&gt;
+
+        
+        &lt;div class=&#34;font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;
+          href=&#34;//localhost:1313/hikes/waskahegan-trail/&#34;&gt;The Waskahegan Trail&lt;/div&gt;
+        
+
+        &lt;div class=&#34;text-sm text-neutral-500 dark:text-neutral-400&#34;&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
+  
+  
+
+  
+  
+&lt;/div&gt;
+
+
+
+
+
+&lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
+  
+  
+  
+  
+  
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/uofa-access-road-gate/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    UofA Access Road Gate
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/hike-length-more-than-10-km/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Hike Length: More Than 10 Km
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/route-type-2-car/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Route Type: 2 Car
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/difficulty-expedition/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Difficulty: Expedition
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+&lt;/div&gt;
+
+
+
+
+        &lt;/div&gt;
+
+        
+        &lt;div class=&#34;py-1 prose dark:prose-invert&#34;&gt;
+           Hike route: The Waskahegan Trail Hike Details Trailhead: UofA Access Road Gate Hike Length: 12.9 km Route Type: 2 Car Difficulty: Rated 192: Expedition 192&amp;nbsp;/&amp;nbsp;221 
+        &lt;/div&gt;
+        
+      &lt;/div&gt;
+      &lt;div class=&#34;px-6 pt-4 pb-2&#34;&gt;
+
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/a&gt;
+
+            
+        
+            
+                
+
+  &lt;a href=&#34;//localhost:1313/hikes/three-meadows-loop/&#34; class=&#34;min-w-full&#34;&gt;
+    
+    &lt;div class=&#34;min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative&#34;&gt;
+        
+        &lt;div class=&#34;w-full thumbnail_card nozoom&#34; style=&#34;background-image:url(/hikes/three-meadows-loop/featured-010-Three-Meadows-Loop_hu814047349084453095.jpg);&#34;&gt;&lt;/div&gt;
+        
+      
+
+      &lt;div class=&#34;px-6 py-4&#34;&gt;
+
+        
+        &lt;div class=&#34;font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;
+          href=&#34;//localhost:1313/hikes/three-meadows-loop/&#34;&gt;Three Meadows Loop&lt;/div&gt;
+        
+
+        &lt;div class=&#34;text-sm text-neutral-500 dark:text-neutral-400&#34;&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
+  
+  
+
+  
+  
+&lt;/div&gt;
+
+
+
+
+
+&lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
+  
+  
+  
+  
+  
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/uofa-access-road-gate/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    UofA Access Road Gate
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/hike-length-more-than-10-km/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Hike Length: More Than 10 Km
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/route-type-loop/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Route Type: Loop
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/difficulty-expedition/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Difficulty: Expedition
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+&lt;/div&gt;
+
+
+
+
+        &lt;/div&gt;
+
+        
+        &lt;div class=&#34;py-1 prose dark:prose-invert&#34;&gt;
+           Hike route: Three Meadows Loop Hike Details Trailhead: UofA Access Road Gate Hike Length: 12.8 km Route Type: Loop Difficulty: Rated 168: Expedition 168&amp;nbsp;/&amp;nbsp;221 
+        &lt;/div&gt;
+        
+      &lt;/div&gt;
+      &lt;div class=&#34;px-6 pt-4 pb-2&#34;&gt;
+
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/a&gt;
+
+            
+        
+            
+                
+
+  &lt;a href=&#34;//localhost:1313/hikes/uofa-to-fire-tower/&#34; class=&#34;min-w-full&#34;&gt;
+    
+    &lt;div class=&#34;min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative&#34;&gt;
+        
+        &lt;div class=&#34;w-full thumbnail_card nozoom&#34; style=&#34;background-image:url(/hikes/uofa-to-fire-tower/featured-008-Gate-to-Ministik-Fire-Tower_hu16667513163003250765.jpg);&#34;&gt;&lt;/div&gt;
+        
+      
+
+      &lt;div class=&#34;px-6 py-4&#34;&gt;
+
+        
+        &lt;div class=&#34;font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;
+          href=&#34;//localhost:1313/hikes/uofa-to-fire-tower/&#34;&gt;Trek to the Ministik Fire Tower&lt;/div&gt;
+        
+
+        &lt;div class=&#34;text-sm text-neutral-500 dark:text-neutral-400&#34;&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
+  
+  
+
+  
+  
+&lt;/div&gt;
+
+
+
+
+
+&lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
+  
+  
+  
+  
+  
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/uofa-access-road-gate/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    UofA Access Road Gate
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/hike-length-7-to-10-km/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Hike Length: 7 to 10 Km
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/route-type-out--back/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Route Type: Out &amp;amp; Back
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/difficulty-strenuous/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Difficulty: Strenuous
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+&lt;/div&gt;
+
+
+
+
+        &lt;/div&gt;
+
+        
+        &lt;div class=&#34;py-1 prose dark:prose-invert&#34;&gt;
+           Hike route: Trek to the Ministik Fire Tower Hike Details Trailhead: UofA Access Road Gate Hike Length: 9.4 km Route Type: Out &amp; Back Difficulty: Rated 126: Strenuous 126&amp;nbsp;/&amp;nbsp;221 
+        &lt;/div&gt;
+        
+      &lt;/div&gt;
+      &lt;div class=&#34;px-6 pt-4 pb-2&#34;&gt;
+
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/a&gt;
+
+            
+        
+            
+                
+
+  &lt;a href=&#34;//localhost:1313/hikes/uofa-gate-to-mandy-lake/&#34; class=&#34;min-w-full&#34;&gt;
+    
+    &lt;div class=&#34;min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative&#34;&gt;
+        
+        &lt;div class=&#34;w-full thumbnail_card nozoom&#34; style=&#34;background-image:url(/hikes/uofa-gate-to-mandy-lake/featured-012-UofA-Gate-to-Mandy-Lake-PK_hu11695113639634407147.jpg);&#34;&gt;&lt;/div&gt;
+        
+      
+
+      &lt;div class=&#34;px-6 py-4&#34;&gt;
+
+        
+        &lt;div class=&#34;font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;
+          href=&#34;//localhost:1313/hikes/uofa-gate-to-mandy-lake/&#34;&gt;UofA Access Road Gate to Mandy Lake Parking&lt;/div&gt;
+        
+
+        &lt;div class=&#34;text-sm text-neutral-500 dark:text-neutral-400&#34;&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
+  
+  
+
+  
+  
+&lt;/div&gt;
+
+
+
+
+
+&lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
+  
+  
+  
+  
+  
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/uofa-access-road-gate/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    UofA Access Road Gate
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/hike-length-more-than-10-km/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Hike Length: More Than 10 Km
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/route-type-loop/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Route Type: Loop
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/difficulty-expedition/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Difficulty: Expedition
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+&lt;/div&gt;
+
+
+
+
+        &lt;/div&gt;
+
+        
+        &lt;div class=&#34;py-1 prose dark:prose-invert&#34;&gt;
+           Hike route: UofA Access Road Gate to Mandy Lake Parking Hike Details Trailhead: UofA Access Road Gate Hike Length: 10.3 km Route Type: Loop Difficulty: Rated 189: Expedition 189&amp;nbsp;/&amp;nbsp;221 
+        &lt;/div&gt;
+        
+      &lt;/div&gt;
+      &lt;div class=&#34;px-6 pt-4 pb-2&#34;&gt;
+
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/a&gt;
+
+            
+        
+            
+                
+
+  &lt;a href=&#34;//localhost:1313/hikes/uofa-gate-to-penny-lane/&#34; class=&#34;min-w-full&#34;&gt;
+    
+    &lt;div class=&#34;min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative&#34;&gt;
+        
+        &lt;div class=&#34;w-full thumbnail_card nozoom&#34; style=&#34;background-image:url(/hikes/uofa-gate-to-penny-lane/featured-007-Penny-Lane-Loop_hu11418320407442713888.jpg);&#34;&gt;&lt;/div&gt;
+        
+      
+
+      &lt;div class=&#34;px-6 py-4&#34;&gt;
+
+        
+        &lt;div class=&#34;font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;
+          href=&#34;//localhost:1313/hikes/uofa-gate-to-penny-lane/&#34;&gt;UofA Access Road Gate to Penny Lane&lt;/div&gt;
+        
+
+        &lt;div class=&#34;text-sm text-neutral-500 dark:text-neutral-400&#34;&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
+  
+  
+
+  
+  
+&lt;/div&gt;
+
+
+
+
+
+&lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
+  
+  
+  
+  
+  
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/uofa-access-road-gate/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    UofA Access Road Gate
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/hike-length-5-to-7-km/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Hike Length: 5 to 7 Km
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/route-type-loop/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Route Type: Loop
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/difficulty-moderate/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Difficulty: Moderate
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+&lt;/div&gt;
+
+
+
+
+        &lt;/div&gt;
+
+        
+        &lt;div class=&#34;py-1 prose dark:prose-invert&#34;&gt;
+           Hike route: &amp;ldquo;UofA Access Road Gate to Penny Lane&amp;rdquo; Hike Details Trailhead: UofA Access Road Gate Hike Length: 5.6 km Route Type: Loop Difficulty: Rated 71: Moderate 71&amp;nbsp;/&amp;nbsp;221 
+        &lt;/div&gt;
+        
+      &lt;/div&gt;
+      &lt;div class=&#34;px-6 pt-4 pb-2&#34;&gt;
+
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/a&gt;
+
+            
+        
+            
+                
+
+  &lt;a href=&#34;//localhost:1313/hikes/uofa-gate-stove-lake-via-deadfall-alley/&#34; class=&#34;min-w-full&#34;&gt;
+    
+    &lt;div class=&#34;min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative&#34;&gt;
+        
+        &lt;div class=&#34;w-full thumbnail_card nozoom&#34; style=&#34;background-image:url(/hikes/uofa-gate-stove-lake-via-deadfall-alley/featured-014-Gate-Past-Wat-Lake-Crossroads-Stove-Lake_hu13714841396475668698.jpg);&#34;&gt;&lt;/div&gt;
+        
+      
+
+      &lt;div class=&#34;px-6 py-4&#34;&gt;
+
+        
+        &lt;div class=&#34;font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;
+          href=&#34;//localhost:1313/hikes/uofa-gate-stove-lake-via-deadfall-alley/&#34;&gt;UofA Access Road Gate to Stove Lake via Deadfall Alley&lt;/div&gt;
+        
+
+        &lt;div class=&#34;text-sm text-neutral-500 dark:text-neutral-400&#34;&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
+  
+  
+
+  
+  
+&lt;/div&gt;
+
+
+
+
+
+&lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
+  
+  
+  
+  
+  
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/uofa-access-road-gate/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    UofA Access Road Gate
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/hike-length-7-to-10-km/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Hike Length: 7 to 10 Km
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/route-type-2-car/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Route Type: 2 Car
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/difficulty-strenuous/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Difficulty: Strenuous
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+&lt;/div&gt;
+
+
+
+
+        &lt;/div&gt;
+
+        
+        &lt;div class=&#34;py-1 prose dark:prose-invert&#34;&gt;
+           Hike route: UofA Access Road Gate to Stove Lake via Deadfall Alley Hike Details Trailhead: UofA Access Road Gate Hike Length: 7.3 km Route Type: 2 Car Difficulty: Rated 121: Strenuous 121&amp;nbsp;/&amp;nbsp;221 
+        &lt;/div&gt;
+        
+      &lt;/div&gt;
+      &lt;div class=&#34;px-6 pt-4 pb-2&#34;&gt;
+
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/a&gt;
+
+            
+        
+            
+                
+
+  &lt;a href=&#34;//localhost:1313/hikes/uofa-gate-stove-lake-via-tower/&#34; class=&#34;min-w-full&#34;&gt;
+    
+    &lt;div class=&#34;min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative&#34;&gt;
+        
+        &lt;div class=&#34;w-full thumbnail_card nozoom&#34; style=&#34;background-image:url(/hikes/uofa-gate-stove-lake-via-tower/featured-013-UofA-Gate-to-Stove-Lake_hu14375583368889883928.jpg);&#34;&gt;&lt;/div&gt;
+        
+      
+
+      &lt;div class=&#34;px-6 py-4&#34;&gt;
+
+        
+        &lt;div class=&#34;font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;
+          href=&#34;//localhost:1313/hikes/uofa-gate-stove-lake-via-tower/&#34;&gt;UofA Access Road Gate to Stove Lake via Ministik Fire Tower&lt;/div&gt;
+        
+
+        &lt;div class=&#34;text-sm text-neutral-500 dark:text-neutral-400&#34;&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
+  
+  
+
+  
+  
+&lt;/div&gt;
+
+
+
+
+
+&lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
+  
+  
+  
+  
+  
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/uofa-access-road-gate/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    UofA Access Road Gate
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/hike-length-7-to-10-km/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Hike Length: 7 to 10 Km
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/route-type-2-car/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Route Type: 2 Car
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/difficulty-strenuous/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Difficulty: Strenuous
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+&lt;/div&gt;
+
+
+
+
+        &lt;/div&gt;
+
+        
+        &lt;div class=&#34;py-1 prose dark:prose-invert&#34;&gt;
+           Hike route: UofA Access Road Gate to Stove Lake via Ministik Fire Tower Hike Details Trailhead: UofA Access Road Gate Hike Length: 9.6 km Route Type: 2 Car Difficulty: Rated 140: Strenuous 140&amp;nbsp;/&amp;nbsp;221 
+        &lt;/div&gt;
+        
+      &lt;/div&gt;
+      &lt;div class=&#34;px-6 pt-4 pb-2&#34;&gt;
+
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/a&gt;
+
+            
+        
+            
+                
+
+  &lt;a href=&#34;//localhost:1313/hikes/uofa-gate-to-mandy-lake/&#34; class=&#34;min-w-full&#34;&gt;
+    
+    &lt;div class=&#34;min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative&#34;&gt;
+        
+        &lt;div class=&#34;w-full thumbnail_card nozoom&#34; style=&#34;background-image:url(/hikes/uofa-gate-to-mandy-lake/featured-034-Gate-Five-Meadows-to-Mandy-Lake_hu15634035336519875712.jpg);&#34;&gt;&lt;/div&gt;
+        
+      
+
+      &lt;div class=&#34;px-6 py-4&#34;&gt;
+
+        
+        &lt;div class=&#34;font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;
+          href=&#34;//localhost:1313/hikes/uofa-gate-to-mandy-lake/&#34;&gt;UofA Access Road Gate via Five Meadows to Mandy Lake Parking&lt;/div&gt;
+        
+
+        &lt;div class=&#34;text-sm text-neutral-500 dark:text-neutral-400&#34;&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
+  
+  
+
+  
+  
+&lt;/div&gt;
+
+
+
+
+
+&lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
+  
+  
+  
+  
+  
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/uofa-access-road-gate/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    UofA Access Road Gate
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/hike-length-more-than-10-km/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Hike Length: More Than 10 Km
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/route-type-2-car/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Route Type: 2 Car
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/difficulty-expedition/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Difficulty: Expedition
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+&lt;/div&gt;
+
+
+
+
+        &lt;/div&gt;
+
+        
+        &lt;div class=&#34;py-1 prose dark:prose-invert&#34;&gt;
+           Hike route: UofA Access Road Gate via Five Meadows to Mandy Lake Parking Hike Details Trailhead: UofA Access Road Gate Hike Length: 11.1 km Route Type: 2 Car Difficulty: Rated 199: Expedition 199&amp;nbsp;/&amp;nbsp;221 
+        &lt;/div&gt;
+        
+      &lt;/div&gt;
+      &lt;div class=&#34;px-6 pt-4 pb-2&#34;&gt;
+
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/a&gt;
+
+            
+        
+    
+&lt;/section&gt;</description>
       
     </item>
     
@@ -124,7 +4513,457 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/trailheads/wildland-meadows/</guid>
-      <description></description>
+      <description>&lt;div class=&#34;flex flex-col text-surface shadow-secondary-1 dark:bg-surface-dark dark:text-white max-w-max lg:flex-row h-auto sm:pb-10&#34;&gt;
+&lt;div class=&#34;w-full lg:w-1/2&#34; style=&#34;margin-bottom: 20px;&#34;&gt;
+image or iframe
+&lt;/div&gt;
+  &lt;div class=&#34;flex flex-col justify-start pl-5 lg:w-1/2&#34;&gt;
+    &lt;h4 class=&#34;text-xl font-large mt-0&#34;&gt;Trailhead Details&lt;/h4&gt;
+      &lt;table width=100% class=&#34;w-full&#34;&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;100%&#34; class=&#34;mb-2 text-base&#34; colspan=&#34;2&#34;&gt;&lt;b&gt;GPS Location (Opens in Google Maps): &lt;/b&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; colspan=&#34;2&#34; class=&#34;my-4 text-base&#34;&gt;&lt;a href=&#34;https://maps.app.goo.gl/6h673fiPbQmK1jLU9&#34; target=&#34;_blank&#34;&gt;N53 19.389 W113 03.720&lt;/a&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; class=&#34;mb-2 text-base&#34;&gt;&lt;b&gt;Parking:&lt;/b&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; colspan=&#34;2&#34; class=&#34;my-4 text-base&#34;&gt;Blah blah blah about parking. More blah blah blah about parking. More blah blah blah about parking.&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+      &lt;/table&gt;
+    &lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    
+
+    
+
+
+
+
+    
+    
+
+
+
+&lt;h2 class=&#34;mt-20 text-2xl font-extrabold mb-10&#34;&gt;There are 3 Suggested Hikes Starting at the Wildland Meadows Trailhead.&lt;/h2&gt;
+
+
+
+&lt;section class=&#34;w-full grid gap-4 sm:grid-cols-2 md:grid-cols-3&#34;&gt;
+    
+        
+            
+                
+
+  &lt;a href=&#34;//localhost:1313/hikes/wildland-meadows-loop/&#34; class=&#34;min-w-full&#34;&gt;
+    
+    &lt;div class=&#34;min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative&#34;&gt;
+        
+        &lt;div class=&#34;w-full thumbnail_card nozoom&#34; style=&#34;background-image:url(/hikes/wildland-meadows-loop/featured-030-Wildland-Meadows-PK-to-Sled-Trails-Loop_hu9615045161304686899.jpg);&#34;&gt;&lt;/div&gt;
+        
+      
+
+      &lt;div class=&#34;px-6 py-4&#34;&gt;
+
+        
+        &lt;div class=&#34;font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;
+          href=&#34;//localhost:1313/hikes/wildland-meadows-loop/&#34;&gt;Wildland Meadows Loop&lt;/div&gt;
+        
+
+        &lt;div class=&#34;text-sm text-neutral-500 dark:text-neutral-400&#34;&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
+  
+  
+
+  
+  
+&lt;/div&gt;
+
+
+
+
+
+&lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
+  
+  
+  
+  
+  
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/wildland-meadows-trailhead/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Wildland Meadows Trailhead
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/hike-length-less-than-5-km/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Hike Length: Less Than 5 Km
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/route-type-loop/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Route Type: Loop
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/difficulty-moderate/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Difficulty: Moderate
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+&lt;/div&gt;
+
+
+
+
+        &lt;/div&gt;
+
+        
+        &lt;div class=&#34;py-1 prose dark:prose-invert&#34;&gt;
+           Hike route: Wildland Meadows Loop Hike Details Trailhead: Wildland Meadows Trailhead Hike Length: 3.3 km Route Type: Loop Difficulty: Rated 57: Moderate 57&amp;nbsp;/&amp;nbsp;221 
+        &lt;/div&gt;
+        
+      &lt;/div&gt;
+      &lt;div class=&#34;px-6 pt-4 pb-2&#34;&gt;
+
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/a&gt;
+
+            
+        
+            
+                
+
+  &lt;a href=&#34;//localhost:1313/hikes/wildland-meadows-to-the-diner/&#34; class=&#34;min-w-full&#34;&gt;
+    
+    &lt;div class=&#34;min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative&#34;&gt;
+        
+        &lt;div class=&#34;w-full thumbnail_card nozoom&#34; style=&#34;background-image:url(/hikes/wildland-meadows-to-the-diner/featured-031-Wildland-Meadows-PK-to-The-Diner-and-Return_hu16118768885356801497.jpg);&#34;&gt;&lt;/div&gt;
+        
+      
+
+      &lt;div class=&#34;px-6 py-4&#34;&gt;
+
+        
+        &lt;div class=&#34;font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;
+          href=&#34;//localhost:1313/hikes/wildland-meadows-to-the-diner/&#34;&gt;Wildland Meadows to  &#34;the Diner &#34;&lt;/div&gt;
+        
+
+        &lt;div class=&#34;text-sm text-neutral-500 dark:text-neutral-400&#34;&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
+  
+  
+
+  
+  
+&lt;/div&gt;
+
+
+
+
+
+&lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
+  
+  
+  
+  
+  
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/wildland-meadows-trailhead/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Wildland Meadows Trailhead
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/hike-length-more-than-10-km/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Hike Length: More Than 10 Km
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/route-type-out--back/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Route Type: Out &amp;amp; Back
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/difficulty-expedition/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Difficulty: Expedition
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+&lt;/div&gt;
+
+
+
+
+        &lt;/div&gt;
+
+        
+        &lt;div class=&#34;py-1 prose dark:prose-invert&#34;&gt;
+           Hike route: Wildland Meadows to &amp;ldquo;the Diner &amp;quot; Hike Details Trailhead: Wildland Meadows Trailhead Hike Length: 11.5 km Route Type: Out &amp; Back Difficulty: Rated 186: Expedition 186&amp;nbsp;/&amp;nbsp;221 
+        &lt;/div&gt;
+        
+      &lt;/div&gt;
+      &lt;div class=&#34;px-6 pt-4 pb-2&#34;&gt;
+
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/a&gt;
+
+            
+        
+            
+                
+
+  &lt;a href=&#34;//localhost:1313/hikes/wildland-meadows-to-mandy-lake/&#34; class=&#34;min-w-full&#34;&gt;
+    
+    &lt;div class=&#34;min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative&#34;&gt;
+        
+        &lt;div class=&#34;w-full thumbnail_card nozoom&#34; style=&#34;background-image:url(/hikes/wildland-meadows-to-mandy-lake/featured-032-Wildland-Meadows--PK-to-Mandy-Lake-PK_hu5883342491466573663.jpg);&#34;&gt;&lt;/div&gt;
+        
+      
+
+      &lt;div class=&#34;px-6 py-4&#34;&gt;
+
+        
+        &lt;div class=&#34;font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;
+          href=&#34;//localhost:1313/hikes/wildland-meadows-to-mandy-lake/&#34;&gt;Wildland Meadows to Mandy Lake Parking&lt;/div&gt;
+        
+
+        &lt;div class=&#34;text-sm text-neutral-500 dark:text-neutral-400&#34;&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
+  
+  
+
+  
+  
+&lt;/div&gt;
+
+
+
+
+
+&lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
+  
+  
+  
+  
+  
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/wildland-meadows-trailhead/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Wildland Meadows Trailhead
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/hike-length-7-to-10-km/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Hike Length: 7 to 10 Km
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/route-type-2-car/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Route Type: 2 Car
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/categories/difficulty-strenuous/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Difficulty: Strenuous
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+&lt;/div&gt;
+
+
+
+
+        &lt;/div&gt;
+
+        
+        &lt;div class=&#34;py-1 prose dark:prose-invert&#34;&gt;
+           Hike route: Wildland Meadows to Mandy Lake Parking Hike Details Trailhead: Wildland Meadows Trailhead Hike Length: 9.2 km Route Type: 2 Car Difficulty: Rated 135: Strenuous 135&amp;nbsp;/&amp;nbsp;221 
+        &lt;/div&gt;
+        
+      &lt;/div&gt;
+      &lt;div class=&#34;px-6 pt-4 pb-2&#34;&gt;
+
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/a&gt;
+
+            
+        
+    
+&lt;/section&gt;</description>
       
     </item>
     

@@ -14,7 +14,90 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/hikes/five-meadows-loop/</guid>
-      <description></description>
+      <description>&lt;div class=&#34;flex flex-col text-surface shadow-secondary-1 dark:bg-surface-dark dark:text-white max-w-max lg:flex-row h-auto&#34; style=margin-bottom:-100px;&gt;
+
+&lt;figure class=&#34;w-full lg:w-1/2 hikedetailsfigure&#34;&gt;
+        &lt;img
+          class=&#34;my-0 rounded-md&#34;
+          srcset=&#34;
+          /hikes/five-meadows-loop/featured-009-Five-Meadows-Loop_hu8947561511875113051.jpg 330w,
+          /hikes/five-meadows-loop/featured-009-Five-Meadows-Loop_hu13127090777477330028.jpg 660w,
+          /hikes/five-meadows-loop/featured-009-Five-Meadows-Loop_hu5123224441977458651.jpg 1024w,
+          /hikes/five-meadows-loop/featured-009-Five-Meadows-Loop_hu13111520568340403139.jpg 2x&#34;
+          src=&#34;//localhost:1313/hikes/five-meadows-loop/featured-009-Five-Meadows-Loop_hu13127090777477330028.jpg&#34;
+          alt=&#34;Hike route: Five Meadows Loop&#34;
+        /&gt;
+  &lt;figcaption class=&#34;text-center&#34;&gt;Hike route: Five Meadows Loop&lt;/figcaption&gt;
+  
+  &lt;/figure&gt;
+  &lt;div class=&#34;flex flex-col justify-start pl-5 lg:w-1/2 sm:pb-7&#34;&gt;
+    &lt;h4 class=&#34;text-xl font-large mt-4&#34;&gt;Hike Details&lt;/h4&gt;
+      &lt;table width=100% class=&#34;w-full&#34;&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;my-4 text-base&#34;&gt;Trailhead:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;my-4 text-base&#34;&gt;&lt;a href=&#34;//localhost:1313/trailheads/uofa-road/&#34; target=&#34;_blank&#34;&gt;UofA Access Road Gate&lt;/a&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;my-4 text-base&#34;&gt;Hike Length:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;my-4 text-base&#34;&gt;12.6 km&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;mb-2 text-base&#34;&gt;Route Type:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;mb-2 text-base&#34;&gt;Loop&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;mb-2 text-base&#34; rowspan=&#34;2&#34;&gt;Difficulty:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;text-base&#34;&gt;
+
+
+
+
+
+
+
+
+	
+	
+Rated 167: Expedition
+&lt;div class=&#34;progress&#34;&gt;
+  &lt;div class=&#34;progress inner&#34; style=&#34;width:76%;background-color:black!important&#34;&gt;167&amp;nbsp;/&amp;nbsp;221&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;mb-2 text-base&#34;&gt;&lt;sup&gt;&lt;a href=&#34;//localhost:1313/hike-ratings/&#34;&#34; target=&#34;_blank&#34;&gt;&amp;#9432; Ratings Explained&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+      &lt;/table&gt;
+    &lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Description 
+    &lt;div id=&#34;description&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#description&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Interactive Route Map 
+    &lt;div id=&#34;interactive-route-map&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#interactive-route-map&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;To see route waypoints, zoom into the map by pinching open on mobile, scrolling on desktop.&lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/five-meadows-loop/featured-009-Five-Meadows-Loop.jpg" />
     </item>
     
@@ -24,7 +107,63 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/hikes/few-to-fire-tower/</guid>
-      <description></description>
+      <description>&lt;div class=&#34;flex flex-col text-surface shadow-secondary-1 dark:bg-surface-dark dark:text-white max-w-max lg:flex-row h-auto&#34; style=margin-bottom:-100px;&gt;
+
+&lt;figure class=&#34;w-full lg:w-1/2 hikedetailsfigure&#34;&gt;
+        &lt;img
+          class=&#34;my-0 rounded-md&#34;
+          srcset=&#34;
+          /hikes/few-to-fire-tower/featured-002-FEW-to-Waskahegan-Fire-Tower_hu17826067083991019843.jpg 330w,
+          /hikes/few-to-fire-tower/featured-002-FEW-to-Waskahegan-Fire-Tower_hu13952362884578907634.jpg 660w,
+          /hikes/few-to-fire-tower/featured-002-FEW-to-Waskahegan-Fire-Tower_hu12753767073133105537.jpg 1024w,
+          /hikes/few-to-fire-tower/featured-002-FEW-to-Waskahegan-Fire-Tower_hu10996892353617501606.jpg 2x&#34;
+          src=&#34;//localhost:1313/hikes/few-to-fire-tower/featured-002-FEW-to-Waskahegan-Fire-Tower_hu13952362884578907634.jpg&#34;
+          alt=&#34;Hike route: Francis Edward Williams Trailhead to the Ministik Fire Tower&#34;
+        /&gt;
+  &lt;figcaption class=&#34;text-center&#34;&gt;Hike route: &amp;ldquo;Francis Edward Williams Trailhead to the Ministik Fire Tower&amp;rdquo;&lt;/figcaption&gt;
+  
+  &lt;/figure&gt;
+  &lt;div class=&#34;flex flex-col justify-start pl-5 lg:w-1/2 sm:pb-7&#34;&gt;
+    &lt;h4 class=&#34;text-xl font-large mt-4&#34;&gt;Hike Details&lt;/h4&gt;
+      &lt;table width=100% class=&#34;w-full&#34;&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;my-4 text-base&#34;&gt;Trailhead:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;my-4 text-base&#34;&gt;&lt;a href=&#34;//localhost:1313/trailheads/uofa-road/&#34; target=&#34;_blank&#34;&gt;UofA Access Road Gate&lt;/a&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;my-4 text-base&#34;&gt;Hike Length:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;my-4 text-base&#34;&gt;8.3 km&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;mb-2 text-base&#34;&gt;Route Type:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;mb-2 text-base&#34;&gt;Out &amp; Back&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;mb-2 text-base&#34; rowspan=&#34;2&#34;&gt;Difficulty:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;text-base&#34;&gt;
+
+
+
+
+
+
+
+	
+	
+	
+Rated 164: Strenuous
+&lt;div class=&#34;progress&#34;&gt;
+  &lt;div class=&#34;progress inner&#34; style=&#34;width:74%;background-color:blue!important&#34;&gt;164&amp;nbsp;/&amp;nbsp;221&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;mb-2 text-base&#34;&gt;&lt;sup&gt;&lt;a href=&#34;//localhost:1313/hike-ratings/&#34;&#34; target=&#34;_blank&#34;&gt;&amp;#9432; Ratings Explained&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+      &lt;/table&gt;
+    &lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/few-to-fire-tower/featured-002-FEW-to-Waskahegan-Fire-Tower.jpg" />
     </item>
     
@@ -34,7 +173,63 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/hikes/few-to-uofa-gate/</guid>
-      <description></description>
+      <description>&lt;div class=&#34;flex flex-col text-surface shadow-secondary-1 dark:bg-surface-dark dark:text-white max-w-max lg:flex-row h-auto&#34; style=margin-bottom:-100px;&gt;
+
+&lt;figure class=&#34;w-full lg:w-1/2 hikedetailsfigure&#34;&gt;
+        &lt;img
+          class=&#34;my-0 rounded-md&#34;
+          srcset=&#34;
+          /hikes/few-to-uofa-gate/featured-003-FEW-to-UofA-Access-Road-Gate_hu3531866914247031011.jpg 330w,
+          /hikes/few-to-uofa-gate/featured-003-FEW-to-UofA-Access-Road-Gate_hu16733486745086146192.jpg 660w,
+          /hikes/few-to-uofa-gate/featured-003-FEW-to-UofA-Access-Road-Gate_hu18371220014833986731.jpg 1024w,
+          /hikes/few-to-uofa-gate/featured-003-FEW-to-UofA-Access-Road-Gate_hu778919776066435032.jpg 2x&#34;
+          src=&#34;//localhost:1313/hikes/few-to-uofa-gate/featured-003-FEW-to-UofA-Access-Road-Gate_hu16733486745086146192.jpg&#34;
+          alt=&#34;Hike route: Francis Edward Williams Trailhead to the UofA Access Road Gate&#34;
+        /&gt;
+  &lt;figcaption class=&#34;text-center&#34;&gt;Hike route: &amp;ldquo;Francis Edward Williams Trailhead to the UofA Access Road Gate&amp;rdquo;&lt;/figcaption&gt;
+  
+  &lt;/figure&gt;
+  &lt;div class=&#34;flex flex-col justify-start pl-5 lg:w-1/2 sm:pb-7&#34;&gt;
+    &lt;h4 class=&#34;text-xl font-large mt-4&#34;&gt;Hike Details&lt;/h4&gt;
+      &lt;table width=100% class=&#34;w-full&#34;&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;my-4 text-base&#34;&gt;Trailhead:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;my-4 text-base&#34;&gt;&lt;a href=&#34;//localhost:1313/trailheads/uofa-road/&#34; target=&#34;_blank&#34;&gt;UofA Access Road Gate&lt;/a&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;my-4 text-base&#34;&gt;Hike Length:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;my-4 text-base&#34;&gt;4.9 km&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;mb-2 text-base&#34;&gt;Route Type:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;mb-2 text-base&#34;&gt;2 Car&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;mb-2 text-base&#34; rowspan=&#34;2&#34;&gt;Difficulty:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;text-base&#34;&gt;
+
+
+
+
+
+
+
+	 
+	
+	
+Rated 85: Moderate
+&lt;div class=&#34;progress&#34;&gt;
+  &lt;div class=&#34;progress inner&#34; style=&#34;width:38%;background-color:teal!important&#34;&gt;85&amp;nbsp;/&amp;nbsp;221&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;mb-2 text-base&#34;&gt;&lt;sup&gt;&lt;a href=&#34;//localhost:1313/hike-ratings/&#34;&#34; target=&#34;_blank&#34;&gt;&amp;#9432; Ratings Explained&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+      &lt;/table&gt;
+    &lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/few-to-uofa-gate/featured-003-FEW-to-UofA-Access-Road-Gate.jpg" />
     </item>
     
@@ -44,7 +239,63 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/hikes/wat-lake-to-tower-loop/</guid>
-      <description></description>
+      <description>&lt;div class=&#34;flex flex-col text-surface shadow-secondary-1 dark:bg-surface-dark dark:text-white max-w-max lg:flex-row h-auto&#34; style=margin-bottom:-100px;&gt;
+
+&lt;figure class=&#34;w-full lg:w-1/2 hikedetailsfigure&#34;&gt;
+        &lt;img
+          class=&#34;my-0 rounded-md&#34;
+          srcset=&#34;
+          /hikes/wat-lake-to-tower-loop/featured-015-Wide-Loop-via-Wat-Lake-Crossroads-Tower_hu15822385222777273130.jpg 330w,
+          /hikes/wat-lake-to-tower-loop/featured-015-Wide-Loop-via-Wat-Lake-Crossroads-Tower_hu6324920416339423773.jpg 660w,
+          /hikes/wat-lake-to-tower-loop/featured-015-Wide-Loop-via-Wat-Lake-Crossroads-Tower_hu16753813978476456589.jpg 1024w,
+          /hikes/wat-lake-to-tower-loop/featured-015-Wide-Loop-via-Wat-Lake-Crossroads-Tower_hu17650848395575694235.jpg 2x&#34;
+          src=&#34;//localhost:1313/hikes/wat-lake-to-tower-loop/featured-015-Wide-Loop-via-Wat-Lake-Crossroads-Tower_hu6324920416339423773.jpg&#34;
+          alt=&#34;Hike route: Wat Lake, the &amp;#34;Throne&amp;#34; and the Ministik Fire Tower Loop&#34;
+        /&gt;
+  &lt;figcaption class=&#34;text-center&#34;&gt;Hike route: Wat Lake, the &amp;ldquo;Throne&amp;rdquo; and the Ministik Fire Tower Loop&lt;/figcaption&gt;
+  
+  &lt;/figure&gt;
+  &lt;div class=&#34;flex flex-col justify-start pl-5 lg:w-1/2 sm:pb-7&#34;&gt;
+    &lt;h4 class=&#34;text-xl font-large mt-4&#34;&gt;Hike Details&lt;/h4&gt;
+      &lt;table width=100% class=&#34;w-full&#34;&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;my-4 text-base&#34;&gt;Trailhead:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;my-4 text-base&#34;&gt;&lt;a href=&#34;//localhost:1313/trailheads/uofa-road/&#34; target=&#34;_blank&#34;&gt;UofA Access Road Gate&lt;/a&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;my-4 text-base&#34;&gt;Hike Length:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;my-4 text-base&#34;&gt;11.7 km&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;mb-2 text-base&#34;&gt;Route Type:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;mb-2 text-base&#34;&gt;Loop&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;mb-2 text-base&#34; rowspan=&#34;2&#34;&gt;Difficulty:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;text-base&#34;&gt;
+
+
+
+
+
+
+
+
+	
+	
+Rated 193: Expedition
+&lt;div class=&#34;progress&#34;&gt;
+  &lt;div class=&#34;progress inner&#34; style=&#34;width:87%;background-color:black!important&#34;&gt;193&amp;nbsp;/&amp;nbsp;221&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;mb-2 text-base&#34;&gt;&lt;sup&gt;&lt;a href=&#34;//localhost:1313/hike-ratings/&#34;&#34; target=&#34;_blank&#34;&gt;&amp;#9432; Ratings Explained&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+      &lt;/table&gt;
+    &lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/wat-lake-to-tower-loop/featured-015-Wide-Loop-via-Wat-Lake-Crossroads-Tower.jpg" />
     </item>
     
@@ -54,7 +305,63 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/hikes/stick-to-the-road/</guid>
-      <description></description>
+      <description>&lt;div class=&#34;flex flex-col text-surface shadow-secondary-1 dark:bg-surface-dark dark:text-white max-w-max lg:flex-row h-auto&#34; style=margin-bottom:-100px;&gt;
+
+&lt;figure class=&#34;w-full lg:w-1/2 hikedetailsfigure&#34;&gt;
+        &lt;img
+          class=&#34;my-0 rounded-md&#34;
+          srcset=&#34;
+          /hikes/stick-to-the-road/featured-005-Stick-to-the-Road_hu678998609967193679.jpg 330w,
+          /hikes/stick-to-the-road/featured-005-Stick-to-the-Road_hu9050490304281683867.jpg 660w,
+          /hikes/stick-to-the-road/featured-005-Stick-to-the-Road_hu10639707264033661773.jpg 1024w,
+          /hikes/stick-to-the-road/featured-005-Stick-to-the-Road_hu14022500636734984361.jpg 2x&#34;
+          src=&#34;//localhost:1313/hikes/stick-to-the-road/featured-005-Stick-to-the-Road_hu9050490304281683867.jpg&#34;
+          alt=&#34;Hike route: Stick to the Field Station Road&#34;
+        /&gt;
+  &lt;figcaption class=&#34;text-center&#34;&gt;Hike route: &amp;ldquo;Stick to the Field Station Road&amp;rdquo;&lt;/figcaption&gt;
+  
+  &lt;/figure&gt;
+  &lt;div class=&#34;flex flex-col justify-start pl-5 lg:w-1/2 sm:pb-7&#34;&gt;
+    &lt;h4 class=&#34;text-xl font-large mt-4&#34;&gt;Hike Details&lt;/h4&gt;
+      &lt;table width=100% class=&#34;w-full&#34;&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;my-4 text-base&#34;&gt;Trailhead:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;my-4 text-base&#34;&gt;&lt;a href=&#34;//localhost:1313/trailheads/uofa-road/&#34; target=&#34;_blank&#34;&gt;UofA Access Road Gate&lt;/a&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;my-4 text-base&#34;&gt;Hike Length:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;my-4 text-base&#34;&gt;5.6 km&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;mb-2 text-base&#34;&gt;Route Type:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;mb-2 text-base&#34;&gt;Out &amp; Back&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;mb-2 text-base&#34; rowspan=&#34;2&#34;&gt;Difficulty:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;text-base&#34;&gt;
+
+
+
+
+
+
+
+
+	
+	
+Rated 55: Easy
+&lt;div class=&#34;progress&#34;&gt;
+  &lt;div class=&#34;progress inner&#34; style=&#34;width:25%;background-color:green!important&#34;&gt;55&amp;nbsp;/&amp;nbsp;221&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;mb-2 text-base&#34;&gt;&lt;sup&gt;&lt;a href=&#34;//localhost:1313/hike-ratings/&#34;&#34; target=&#34;_blank&#34;&gt;&amp;#9432; Ratings Explained&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+      &lt;/table&gt;
+    &lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/stick-to-the-road/featured-005-Stick-to-the-Road.jpg" />
     </item>
     
@@ -64,7 +371,90 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/hikes/enchanted-forest-loop/</guid>
-      <description></description>
+      <description>&lt;div class=&#34;flex flex-col text-surface shadow-secondary-1 dark:bg-surface-dark dark:text-white max-w-max lg:flex-row h-auto&#34; style=margin-bottom:-100px;&gt;
+
+&lt;figure class=&#34;w-full lg:w-1/2 hikedetailsfigure&#34;&gt;
+        &lt;img
+          class=&#34;my-0 rounded-md&#34;
+          srcset=&#34;
+          /hikes/enchanted-forest-loop/featured-006-Enchanted-Forest-Loop_hu18417687590340401964.jpg 330w,
+          /hikes/enchanted-forest-loop/featured-006-Enchanted-Forest-Loop_hu16335365242457663619.jpg 660w,
+          /hikes/enchanted-forest-loop/featured-006-Enchanted-Forest-Loop_hu9913928194837294125.jpg 1024w,
+          /hikes/enchanted-forest-loop/featured-006-Enchanted-Forest-Loop_hu4340123909949796762.jpg 2x&#34;
+          src=&#34;//localhost:1313/hikes/enchanted-forest-loop/featured-006-Enchanted-Forest-Loop_hu16335365242457663619.jpg&#34;
+          alt=&#34;Hike route: The Enchanted Forest Loop&#34;
+        /&gt;
+  &lt;figcaption class=&#34;text-center&#34;&gt;Hike route: &amp;ldquo;The Enchanted Forest Loop&amp;rdquo;&lt;/figcaption&gt;
+  
+  &lt;/figure&gt;
+  &lt;div class=&#34;flex flex-col justify-start pl-5 lg:w-1/2 sm:pb-7&#34;&gt;
+    &lt;h4 class=&#34;text-xl font-large mt-4&#34;&gt;Hike Details&lt;/h4&gt;
+      &lt;table width=100% class=&#34;w-full&#34;&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;my-4 text-base&#34;&gt;Trailhead:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;my-4 text-base&#34;&gt;&lt;a href=&#34;//localhost:1313/trailheads/uofa-road/&#34; target=&#34;_blank&#34;&gt;UofA Access Road Gate&lt;/a&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;my-4 text-base&#34;&gt;Hike Length:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;my-4 text-base&#34;&gt;4.2 km&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;mb-2 text-base&#34;&gt;Route Type:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;mb-2 text-base&#34;&gt;Loop&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;mb-2 text-base&#34; rowspan=&#34;2&#34;&gt;Difficulty:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;text-base&#34;&gt;
+
+
+
+
+
+
+
+
+	
+	
+Rated 45: Easy
+&lt;div class=&#34;progress&#34;&gt;
+  &lt;div class=&#34;progress inner&#34; style=&#34;width:20%;background-color:green!important&#34;&gt;45&amp;nbsp;/&amp;nbsp;221&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;mb-2 text-base&#34;&gt;&lt;sup&gt;&lt;a href=&#34;//localhost:1313/hike-ratings/&#34;&#34; target=&#34;_blank&#34;&gt;&amp;#9432; Ratings Explained&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+      &lt;/table&gt;
+    &lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Description 
+    &lt;div id=&#34;description&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#description&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Interactive Route Map 
+    &lt;div id=&#34;interactive-route-map&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#interactive-route-map&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;To see route waypoints, zoom into the map by pinching open on mobile, scrolling on desktop.&lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/enchanted-forest-loop/featured-006-Enchanted-Forest-Loop.jpg" />
     </item>
     
@@ -74,7 +464,90 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/hikes/waskahegan-trail/</guid>
-      <description></description>
+      <description>&lt;div class=&#34;flex flex-col text-surface shadow-secondary-1 dark:bg-surface-dark dark:text-white max-w-max lg:flex-row h-auto&#34; style=margin-bottom:-100px;&gt;
+
+&lt;figure class=&#34;w-full lg:w-1/2 hikedetailsfigure&#34;&gt;
+        &lt;img
+          class=&#34;my-0 rounded-md&#34;
+          srcset=&#34;
+          /hikes/waskahegan-trail/featured-011-Gate-to-Fairbrother-Corner-Waskahegan-Trail_hu847862935179773640.jpg 330w,
+          /hikes/waskahegan-trail/featured-011-Gate-to-Fairbrother-Corner-Waskahegan-Trail_hu10708557241378272696.jpg 660w,
+          /hikes/waskahegan-trail/featured-011-Gate-to-Fairbrother-Corner-Waskahegan-Trail_hu17691036993601504923.jpg 1024w,
+          /hikes/waskahegan-trail/featured-011-Gate-to-Fairbrother-Corner-Waskahegan-Trail_hu135301190590490717.jpg 2x&#34;
+          src=&#34;//localhost:1313/hikes/waskahegan-trail/featured-011-Gate-to-Fairbrother-Corner-Waskahegan-Trail_hu10708557241378272696.jpg&#34;
+          alt=&#34;Hike route: The Waskahegan Trail&#34;
+        /&gt;
+  &lt;figcaption class=&#34;text-center&#34;&gt;Hike route: The Waskahegan Trail&lt;/figcaption&gt;
+  
+  &lt;/figure&gt;
+  &lt;div class=&#34;flex flex-col justify-start pl-5 lg:w-1/2 sm:pb-7&#34;&gt;
+    &lt;h4 class=&#34;text-xl font-large mt-4&#34;&gt;Hike Details&lt;/h4&gt;
+      &lt;table width=100% class=&#34;w-full&#34;&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;my-4 text-base&#34;&gt;Trailhead:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;my-4 text-base&#34;&gt;&lt;a href=&#34;//localhost:1313/trailheads/uofa-road/&#34; target=&#34;_blank&#34;&gt;UofA Access Road Gate&lt;/a&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;my-4 text-base&#34;&gt;Hike Length:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;my-4 text-base&#34;&gt;12.9 km&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;mb-2 text-base&#34;&gt;Route Type:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;mb-2 text-base&#34;&gt;2 Car&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;mb-2 text-base&#34; rowspan=&#34;2&#34;&gt;Difficulty:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;text-base&#34;&gt;
+
+
+
+
+
+
+
+
+	
+	
+Rated 192: Expedition
+&lt;div class=&#34;progress&#34;&gt;
+  &lt;div class=&#34;progress inner&#34; style=&#34;width:87%;background-color:black!important&#34;&gt;192&amp;nbsp;/&amp;nbsp;221&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;mb-2 text-base&#34;&gt;&lt;sup&gt;&lt;a href=&#34;//localhost:1313/hike-ratings/&#34;&#34; target=&#34;_blank&#34;&gt;&amp;#9432; Ratings Explained&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+      &lt;/table&gt;
+    &lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Description 
+    &lt;div id=&#34;description&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#description&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Interactive Route Map 
+    &lt;div id=&#34;interactive-route-map&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#interactive-route-map&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;To see route waypoints, zoom into the map by pinching open on mobile, scrolling on desktop.&lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/waskahegan-trail/featured-011-Gate-to-Fairbrother-Corner-Waskahegan-Trail.jpg" />
     </item>
     
@@ -84,7 +557,90 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/hikes/three-meadows-loop/</guid>
-      <description></description>
+      <description>&lt;div class=&#34;flex flex-col text-surface shadow-secondary-1 dark:bg-surface-dark dark:text-white max-w-max lg:flex-row h-auto&#34; style=margin-bottom:-100px;&gt;
+
+&lt;figure class=&#34;w-full lg:w-1/2 hikedetailsfigure&#34;&gt;
+        &lt;img
+          class=&#34;my-0 rounded-md&#34;
+          srcset=&#34;
+          /hikes/three-meadows-loop/featured-010-Three-Meadows-Loop_hu66824668986008313.jpg 330w,
+          /hikes/three-meadows-loop/featured-010-Three-Meadows-Loop_hu2554592844906276602.jpg 660w,
+          /hikes/three-meadows-loop/featured-010-Three-Meadows-Loop_hu10324795667367892408.jpg 1024w,
+          /hikes/three-meadows-loop/featured-010-Three-Meadows-Loop_hu6983865551422214255.jpg 2x&#34;
+          src=&#34;//localhost:1313/hikes/three-meadows-loop/featured-010-Three-Meadows-Loop_hu2554592844906276602.jpg&#34;
+          alt=&#34;Hike route: Three Meadows Loop&#34;
+        /&gt;
+  &lt;figcaption class=&#34;text-center&#34;&gt;Hike route: Three Meadows Loop&lt;/figcaption&gt;
+  
+  &lt;/figure&gt;
+  &lt;div class=&#34;flex flex-col justify-start pl-5 lg:w-1/2 sm:pb-7&#34;&gt;
+    &lt;h4 class=&#34;text-xl font-large mt-4&#34;&gt;Hike Details&lt;/h4&gt;
+      &lt;table width=100% class=&#34;w-full&#34;&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;my-4 text-base&#34;&gt;Trailhead:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;my-4 text-base&#34;&gt;&lt;a href=&#34;//localhost:1313/trailheads/uofa-road/&#34; target=&#34;_blank&#34;&gt;UofA Access Road Gate&lt;/a&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;my-4 text-base&#34;&gt;Hike Length:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;my-4 text-base&#34;&gt;12.8 km&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;mb-2 text-base&#34;&gt;Route Type:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;mb-2 text-base&#34;&gt;Loop&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;mb-2 text-base&#34; rowspan=&#34;2&#34;&gt;Difficulty:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;text-base&#34;&gt;
+
+
+
+
+
+
+
+
+	
+	
+Rated 168: Expedition
+&lt;div class=&#34;progress&#34;&gt;
+  &lt;div class=&#34;progress inner&#34; style=&#34;width:76%;background-color:black!important&#34;&gt;168&amp;nbsp;/&amp;nbsp;221&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;mb-2 text-base&#34;&gt;&lt;sup&gt;&lt;a href=&#34;//localhost:1313/hike-ratings/&#34;&#34; target=&#34;_blank&#34;&gt;&amp;#9432; Ratings Explained&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+      &lt;/table&gt;
+    &lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Description 
+    &lt;div id=&#34;description&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#description&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Interactive Route Map 
+    &lt;div id=&#34;interactive-route-map&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#interactive-route-map&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;To see route waypoints, zoom into the map by pinching open on mobile, scrolling on desktop.&lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/three-meadows-loop/featured-010-Three-Meadows-Loop.jpg" />
     </item>
     
@@ -94,7 +650,63 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/hikes/uofa-to-fire-tower/</guid>
-      <description></description>
+      <description>&lt;div class=&#34;flex flex-col text-surface shadow-secondary-1 dark:bg-surface-dark dark:text-white max-w-max lg:flex-row h-auto&#34; style=margin-bottom:-100px;&gt;
+
+&lt;figure class=&#34;w-full lg:w-1/2 hikedetailsfigure&#34;&gt;
+        &lt;img
+          class=&#34;my-0 rounded-md&#34;
+          srcset=&#34;
+          /hikes/uofa-to-fire-tower/featured-008-Gate-to-Ministik-Fire-Tower_hu3111655876119406800.jpg 330w,
+          /hikes/uofa-to-fire-tower/featured-008-Gate-to-Ministik-Fire-Tower_hu4356561103911711741.jpg 660w,
+          /hikes/uofa-to-fire-tower/featured-008-Gate-to-Ministik-Fire-Tower_hu7175290962986921278.jpg 1024w,
+          /hikes/uofa-to-fire-tower/featured-008-Gate-to-Ministik-Fire-Tower_hu1624392095358154705.jpg 2x&#34;
+          src=&#34;//localhost:1313/hikes/uofa-to-fire-tower/featured-008-Gate-to-Ministik-Fire-Tower_hu4356561103911711741.jpg&#34;
+          alt=&#34;Hike route: Trek to the Ministik Fire Tower&#34;
+        /&gt;
+  &lt;figcaption class=&#34;text-center&#34;&gt;Hike route: Trek to the Ministik Fire Tower&lt;/figcaption&gt;
+  
+  &lt;/figure&gt;
+  &lt;div class=&#34;flex flex-col justify-start pl-5 lg:w-1/2 sm:pb-7&#34;&gt;
+    &lt;h4 class=&#34;text-xl font-large mt-4&#34;&gt;Hike Details&lt;/h4&gt;
+      &lt;table width=100% class=&#34;w-full&#34;&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;my-4 text-base&#34;&gt;Trailhead:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;my-4 text-base&#34;&gt;&lt;a href=&#34;//localhost:1313/trailheads/uofa-road/&#34; target=&#34;_blank&#34;&gt;UofA Access Road Gate&lt;/a&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;my-4 text-base&#34;&gt;Hike Length:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;my-4 text-base&#34;&gt;9.4 km&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;mb-2 text-base&#34;&gt;Route Type:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;mb-2 text-base&#34;&gt;Out &amp; Back&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;mb-2 text-base&#34; rowspan=&#34;2&#34;&gt;Difficulty:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;text-base&#34;&gt;
+
+
+
+
+
+
+
+	
+	
+	
+Rated 126: Strenuous
+&lt;div class=&#34;progress&#34;&gt;
+  &lt;div class=&#34;progress inner&#34; style=&#34;width:57%;background-color:blue!important&#34;&gt;126&amp;nbsp;/&amp;nbsp;221&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;mb-2 text-base&#34;&gt;&lt;sup&gt;&lt;a href=&#34;//localhost:1313/hike-ratings/&#34;&#34; target=&#34;_blank&#34;&gt;&amp;#9432; Ratings Explained&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+      &lt;/table&gt;
+    &lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/uofa-to-fire-tower/featured-008-Gate-to-Ministik-Fire-Tower.jpg" />
     </item>
     
@@ -104,7 +716,63 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/hikes/uofa-gate-to-mandy-lake/</guid>
-      <description></description>
+      <description>&lt;div class=&#34;flex flex-col text-surface shadow-secondary-1 dark:bg-surface-dark dark:text-white max-w-max lg:flex-row h-auto&#34; style=margin-bottom:-100px;&gt;
+
+&lt;figure class=&#34;w-full lg:w-1/2 hikedetailsfigure&#34;&gt;
+        &lt;img
+          class=&#34;my-0 rounded-md&#34;
+          srcset=&#34;
+          /hikes/uofa-gate-to-mandy-lake/featured-012-UofA-Gate-to-Mandy-Lake-PK_hu13405719126692240049.jpg 330w,
+          /hikes/uofa-gate-to-mandy-lake/featured-012-UofA-Gate-to-Mandy-Lake-PK_hu9387141940701865674.jpg 660w,
+          /hikes/uofa-gate-to-mandy-lake/featured-012-UofA-Gate-to-Mandy-Lake-PK_hu1593985828129514984.jpg 1024w,
+          /hikes/uofa-gate-to-mandy-lake/featured-012-UofA-Gate-to-Mandy-Lake-PK_hu8621099333291504712.jpg 2x&#34;
+          src=&#34;//localhost:1313/hikes/uofa-gate-to-mandy-lake/featured-012-UofA-Gate-to-Mandy-Lake-PK_hu9387141940701865674.jpg&#34;
+          alt=&#34;Hike route: UofA Access Road Gate to Mandy Lake Parking&#34;
+        /&gt;
+  &lt;figcaption class=&#34;text-center&#34;&gt;Hike route: UofA Access Road Gate to Mandy Lake Parking&lt;/figcaption&gt;
+  
+  &lt;/figure&gt;
+  &lt;div class=&#34;flex flex-col justify-start pl-5 lg:w-1/2 sm:pb-7&#34;&gt;
+    &lt;h4 class=&#34;text-xl font-large mt-4&#34;&gt;Hike Details&lt;/h4&gt;
+      &lt;table width=100% class=&#34;w-full&#34;&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;my-4 text-base&#34;&gt;Trailhead:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;my-4 text-base&#34;&gt;&lt;a href=&#34;//localhost:1313/trailheads/uofa-road/&#34; target=&#34;_blank&#34;&gt;UofA Access Road Gate&lt;/a&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;my-4 text-base&#34;&gt;Hike Length:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;my-4 text-base&#34;&gt;10.3 km&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;mb-2 text-base&#34;&gt;Route Type:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;mb-2 text-base&#34;&gt;Loop&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;mb-2 text-base&#34; rowspan=&#34;2&#34;&gt;Difficulty:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;text-base&#34;&gt;
+
+
+
+
+
+
+
+
+	
+	
+Rated 189: Expedition
+&lt;div class=&#34;progress&#34;&gt;
+  &lt;div class=&#34;progress inner&#34; style=&#34;width:86%;background-color:black!important&#34;&gt;189&amp;nbsp;/&amp;nbsp;221&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;mb-2 text-base&#34;&gt;&lt;sup&gt;&lt;a href=&#34;//localhost:1313/hike-ratings/&#34;&#34; target=&#34;_blank&#34;&gt;&amp;#9432; Ratings Explained&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+      &lt;/table&gt;
+    &lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/uofa-gate-to-mandy-lake/featured-012-UofA-Gate-to-Mandy-Lake-PK.jpg" />
     </item>
     
@@ -114,7 +782,63 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/hikes/uofa-gate-to-penny-lane/</guid>
-      <description></description>
+      <description>&lt;div class=&#34;flex flex-col text-surface shadow-secondary-1 dark:bg-surface-dark dark:text-white max-w-max lg:flex-row h-auto&#34; style=margin-bottom:-100px;&gt;
+
+&lt;figure class=&#34;w-full lg:w-1/2 hikedetailsfigure&#34;&gt;
+        &lt;img
+          class=&#34;my-0 rounded-md&#34;
+          srcset=&#34;
+          /hikes/uofa-gate-to-penny-lane/featured-007-Penny-Lane-Loop_hu9764027065801425683.jpg 330w,
+          /hikes/uofa-gate-to-penny-lane/featured-007-Penny-Lane-Loop_hu11787727951677745434.jpg 660w,
+          /hikes/uofa-gate-to-penny-lane/featured-007-Penny-Lane-Loop_hu9019300336562127657.jpg 1024w,
+          /hikes/uofa-gate-to-penny-lane/featured-007-Penny-Lane-Loop_hu8653134695530549284.jpg 2x&#34;
+          src=&#34;//localhost:1313/hikes/uofa-gate-to-penny-lane/featured-007-Penny-Lane-Loop_hu11787727951677745434.jpg&#34;
+          alt=&#34;Hike route: UofA Access Road Gate to Penny Lane&#34;
+        /&gt;
+  &lt;figcaption class=&#34;text-center&#34;&gt;Hike route: &amp;ldquo;UofA Access Road Gate to Penny Lane&amp;rdquo;&lt;/figcaption&gt;
+  
+  &lt;/figure&gt;
+  &lt;div class=&#34;flex flex-col justify-start pl-5 lg:w-1/2 sm:pb-7&#34;&gt;
+    &lt;h4 class=&#34;text-xl font-large mt-4&#34;&gt;Hike Details&lt;/h4&gt;
+      &lt;table width=100% class=&#34;w-full&#34;&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;my-4 text-base&#34;&gt;Trailhead:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;my-4 text-base&#34;&gt;&lt;a href=&#34;//localhost:1313/trailheads/uofa-road/&#34; target=&#34;_blank&#34;&gt;UofA Access Road Gate&lt;/a&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;my-4 text-base&#34;&gt;Hike Length:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;my-4 text-base&#34;&gt;5.6 km&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;mb-2 text-base&#34;&gt;Route Type:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;mb-2 text-base&#34;&gt;Loop&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;mb-2 text-base&#34; rowspan=&#34;2&#34;&gt;Difficulty:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;text-base&#34;&gt;
+
+
+
+
+
+
+
+	 
+	
+	
+Rated 71: Moderate
+&lt;div class=&#34;progress&#34;&gt;
+  &lt;div class=&#34;progress inner&#34; style=&#34;width:32%;background-color:teal!important&#34;&gt;71&amp;nbsp;/&amp;nbsp;221&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;mb-2 text-base&#34;&gt;&lt;sup&gt;&lt;a href=&#34;//localhost:1313/hike-ratings/&#34;&#34; target=&#34;_blank&#34;&gt;&amp;#9432; Ratings Explained&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+      &lt;/table&gt;
+    &lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/uofa-gate-to-penny-lane/featured-007-Penny-Lane-Loop.jpg" />
     </item>
     
@@ -124,7 +848,63 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/hikes/uofa-gate-stove-lake-via-deadfall-alley/</guid>
-      <description></description>
+      <description>&lt;div class=&#34;flex flex-col text-surface shadow-secondary-1 dark:bg-surface-dark dark:text-white max-w-max lg:flex-row h-auto&#34; style=margin-bottom:-100px;&gt;
+
+&lt;figure class=&#34;w-full lg:w-1/2 hikedetailsfigure&#34;&gt;
+        &lt;img
+          class=&#34;my-0 rounded-md&#34;
+          srcset=&#34;
+          /hikes/uofa-gate-stove-lake-via-deadfall-alley/featured-014-Gate-Past-Wat-Lake-Crossroads-Stove-Lake_hu17094371750153408774.jpg 330w,
+          /hikes/uofa-gate-stove-lake-via-deadfall-alley/featured-014-Gate-Past-Wat-Lake-Crossroads-Stove-Lake_hu13371262370769547110.jpg 660w,
+          /hikes/uofa-gate-stove-lake-via-deadfall-alley/featured-014-Gate-Past-Wat-Lake-Crossroads-Stove-Lake_hu6366925161703890219.jpg 1024w,
+          /hikes/uofa-gate-stove-lake-via-deadfall-alley/featured-014-Gate-Past-Wat-Lake-Crossroads-Stove-Lake_hu4237919989018726728.jpg 2x&#34;
+          src=&#34;//localhost:1313/hikes/uofa-gate-stove-lake-via-deadfall-alley/featured-014-Gate-Past-Wat-Lake-Crossroads-Stove-Lake_hu13371262370769547110.jpg&#34;
+          alt=&#34;Hike route: UofA Access Road Gate to Stove Lake via Deadfall Alley&#34;
+        /&gt;
+  &lt;figcaption class=&#34;text-center&#34;&gt;Hike route: UofA Access Road Gate to Stove Lake via Deadfall Alley&lt;/figcaption&gt;
+  
+  &lt;/figure&gt;
+  &lt;div class=&#34;flex flex-col justify-start pl-5 lg:w-1/2 sm:pb-7&#34;&gt;
+    &lt;h4 class=&#34;text-xl font-large mt-4&#34;&gt;Hike Details&lt;/h4&gt;
+      &lt;table width=100% class=&#34;w-full&#34;&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;my-4 text-base&#34;&gt;Trailhead:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;my-4 text-base&#34;&gt;&lt;a href=&#34;//localhost:1313/trailheads/uofa-road/&#34; target=&#34;_blank&#34;&gt;UofA Access Road Gate&lt;/a&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;my-4 text-base&#34;&gt;Hike Length:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;my-4 text-base&#34;&gt;7.3 km&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;mb-2 text-base&#34;&gt;Route Type:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;mb-2 text-base&#34;&gt;2 Car&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;mb-2 text-base&#34; rowspan=&#34;2&#34;&gt;Difficulty:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;text-base&#34;&gt;
+
+
+
+
+
+
+
+	
+	
+	
+Rated 121: Strenuous
+&lt;div class=&#34;progress&#34;&gt;
+  &lt;div class=&#34;progress inner&#34; style=&#34;width:55%;background-color:blue!important&#34;&gt;121&amp;nbsp;/&amp;nbsp;221&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;mb-2 text-base&#34;&gt;&lt;sup&gt;&lt;a href=&#34;//localhost:1313/hike-ratings/&#34;&#34; target=&#34;_blank&#34;&gt;&amp;#9432; Ratings Explained&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+      &lt;/table&gt;
+    &lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/uofa-gate-stove-lake-via-deadfall-alley/featured-014-Gate-Past-Wat-Lake-Crossroads-Stove-Lake.jpg" />
     </item>
     
@@ -134,7 +914,63 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/hikes/uofa-gate-stove-lake-via-tower/</guid>
-      <description></description>
+      <description>&lt;div class=&#34;flex flex-col text-surface shadow-secondary-1 dark:bg-surface-dark dark:text-white max-w-max lg:flex-row h-auto&#34; style=margin-bottom:-100px;&gt;
+
+&lt;figure class=&#34;w-full lg:w-1/2 hikedetailsfigure&#34;&gt;
+        &lt;img
+          class=&#34;my-0 rounded-md&#34;
+          srcset=&#34;
+          /hikes/uofa-gate-stove-lake-via-tower/featured-013-UofA-Gate-to-Stove-Lake_hu5345810219866248543.jpg 330w,
+          /hikes/uofa-gate-stove-lake-via-tower/featured-013-UofA-Gate-to-Stove-Lake_hu2029113716104331296.jpg 660w,
+          /hikes/uofa-gate-stove-lake-via-tower/featured-013-UofA-Gate-to-Stove-Lake_hu18188641973981306293.jpg 1024w,
+          /hikes/uofa-gate-stove-lake-via-tower/featured-013-UofA-Gate-to-Stove-Lake_hu17099620430632424605.jpg 2x&#34;
+          src=&#34;//localhost:1313/hikes/uofa-gate-stove-lake-via-tower/featured-013-UofA-Gate-to-Stove-Lake_hu2029113716104331296.jpg&#34;
+          alt=&#34;Hike route: UofA Access Road Gate to Stove Lake via Ministik Fire Tower&#34;
+        /&gt;
+  &lt;figcaption class=&#34;text-center&#34;&gt;Hike route: UofA Access Road Gate to Stove Lake via Ministik Fire Tower&lt;/figcaption&gt;
+  
+  &lt;/figure&gt;
+  &lt;div class=&#34;flex flex-col justify-start pl-5 lg:w-1/2 sm:pb-7&#34;&gt;
+    &lt;h4 class=&#34;text-xl font-large mt-4&#34;&gt;Hike Details&lt;/h4&gt;
+      &lt;table width=100% class=&#34;w-full&#34;&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;my-4 text-base&#34;&gt;Trailhead:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;my-4 text-base&#34;&gt;&lt;a href=&#34;//localhost:1313/trailheads/uofa-road/&#34; target=&#34;_blank&#34;&gt;UofA Access Road Gate&lt;/a&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;my-4 text-base&#34;&gt;Hike Length:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;my-4 text-base&#34;&gt;9.6 km&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;mb-2 text-base&#34;&gt;Route Type:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;mb-2 text-base&#34;&gt;2 Car&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;mb-2 text-base&#34; rowspan=&#34;2&#34;&gt;Difficulty:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;text-base&#34;&gt;
+
+
+
+
+
+
+
+	
+	
+	
+Rated 140: Strenuous
+&lt;div class=&#34;progress&#34;&gt;
+  &lt;div class=&#34;progress inner&#34; style=&#34;width:63%;background-color:blue!important&#34;&gt;140&amp;nbsp;/&amp;nbsp;221&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;mb-2 text-base&#34;&gt;&lt;sup&gt;&lt;a href=&#34;//localhost:1313/hike-ratings/&#34;&#34; target=&#34;_blank&#34;&gt;&amp;#9432; Ratings Explained&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+      &lt;/table&gt;
+    &lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/uofa-gate-stove-lake-via-tower/featured-013-UofA-Gate-to-Stove-Lake.jpg" />
     </item>
     
@@ -144,7 +980,63 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/hikes/uofa-gate-to-mandy-lake/</guid>
-      <description></description>
+      <description>&lt;div class=&#34;flex flex-col text-surface shadow-secondary-1 dark:bg-surface-dark dark:text-white max-w-max lg:flex-row h-auto&#34; style=margin-bottom:-100px;&gt;
+
+&lt;figure class=&#34;w-full lg:w-1/2 hikedetailsfigure&#34;&gt;
+        &lt;img
+          class=&#34;my-0 rounded-md&#34;
+          srcset=&#34;
+          /hikes/uofa-gate-to-mandy-lake/featured-034-Gate-Five-Meadows-to-Mandy-Lake_hu5962685595784235748.jpg 330w,
+          /hikes/uofa-gate-to-mandy-lake/featured-034-Gate-Five-Meadows-to-Mandy-Lake_hu15350022327496990191.jpg 660w,
+          /hikes/uofa-gate-to-mandy-lake/featured-034-Gate-Five-Meadows-to-Mandy-Lake_hu3905438425093778425.jpg 1024w,
+          /hikes/uofa-gate-to-mandy-lake/featured-034-Gate-Five-Meadows-to-Mandy-Lake_hu17011885540175419229.jpg 2x&#34;
+          src=&#34;//localhost:1313/hikes/uofa-gate-to-mandy-lake/featured-034-Gate-Five-Meadows-to-Mandy-Lake_hu15350022327496990191.jpg&#34;
+          alt=&#34;Hike route: UofA Access Road Gate via Five Meadows to Mandy Lake Parking&#34;
+        /&gt;
+  &lt;figcaption class=&#34;text-center&#34;&gt;Hike route: UofA Access Road Gate via Five Meadows to Mandy Lake Parking&lt;/figcaption&gt;
+  
+  &lt;/figure&gt;
+  &lt;div class=&#34;flex flex-col justify-start pl-5 lg:w-1/2 sm:pb-7&#34;&gt;
+    &lt;h4 class=&#34;text-xl font-large mt-4&#34;&gt;Hike Details&lt;/h4&gt;
+      &lt;table width=100% class=&#34;w-full&#34;&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;my-4 text-base&#34;&gt;Trailhead:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;my-4 text-base&#34;&gt;&lt;a href=&#34;//localhost:1313/trailheads/uofa-road/&#34; target=&#34;_blank&#34;&gt;UofA Access Road Gate&lt;/a&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;my-4 text-base&#34;&gt;Hike Length:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;my-4 text-base&#34;&gt;11.1 km&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;mb-2 text-base&#34;&gt;Route Type:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;mb-2 text-base&#34;&gt;2 Car&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;mb-2 text-base&#34; rowspan=&#34;2&#34;&gt;Difficulty:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;text-base&#34;&gt;
+
+
+
+
+
+
+
+
+	
+	
+Rated 199: Expedition
+&lt;div class=&#34;progress&#34;&gt;
+  &lt;div class=&#34;progress inner&#34; style=&#34;width:90%;background-color:black!important&#34;&gt;199&amp;nbsp;/&amp;nbsp;221&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;mb-2 text-base&#34;&gt;&lt;sup&gt;&lt;a href=&#34;//localhost:1313/hike-ratings/&#34;&#34; target=&#34;_blank&#34;&gt;&amp;#9432; Ratings Explained&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+      &lt;/table&gt;
+    &lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/uofa-gate-to-mandy-lake/featured-012-UofA-Gate-to-Mandy-Lake-PK.jpg" />
     </item>
     

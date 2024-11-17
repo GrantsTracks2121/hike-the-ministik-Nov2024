@@ -15,7 +15,7 @@ heroStyle: "background"
 showSummary: true
 summary: ""
 ---
-
+{{< imgCenter "incontent/IMG_1795.jpg" "75" "the caption" "the caption" >}}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis auctor feugiat diam, ac sodales nisl fringilla in. Interdum et malesuada fames ac ante ipsum primis in faucibus. Phasellus ante turpis, porta et ipsum sit amet, lobortis semper nulla. Phasellus dapibus nibh enim, a ultricies orci bibendum at. Ut sit amet tellus dolor. Morbi gravida luctus turpis quis ornare. Sed quis lorem suscipit, hendrerit urna vel, sagittis ex. Nam euismod velit ac metus facilisis, nec convallis felis mattis. Nulla facilisi. Here's the paragraph BREAK.
 

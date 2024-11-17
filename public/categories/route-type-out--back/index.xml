@@ -14,7 +14,63 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/hikes/few-to-fire-tower/</guid>
-      <description></description>
+      <description>&lt;div class=&#34;flex flex-col text-surface shadow-secondary-1 dark:bg-surface-dark dark:text-white max-w-max lg:flex-row h-auto&#34; style=margin-bottom:-100px;&gt;
+
+&lt;figure class=&#34;w-full lg:w-1/2 hikedetailsfigure&#34;&gt;
+        &lt;img
+          class=&#34;my-0 rounded-md&#34;
+          srcset=&#34;
+          /hikes/few-to-fire-tower/featured-002-FEW-to-Waskahegan-Fire-Tower_hu17826067083991019843.jpg 330w,
+          /hikes/few-to-fire-tower/featured-002-FEW-to-Waskahegan-Fire-Tower_hu13952362884578907634.jpg 660w,
+          /hikes/few-to-fire-tower/featured-002-FEW-to-Waskahegan-Fire-Tower_hu12753767073133105537.jpg 1024w,
+          /hikes/few-to-fire-tower/featured-002-FEW-to-Waskahegan-Fire-Tower_hu10996892353617501606.jpg 2x&#34;
+          src=&#34;//localhost:1313/hikes/few-to-fire-tower/featured-002-FEW-to-Waskahegan-Fire-Tower_hu13952362884578907634.jpg&#34;
+          alt=&#34;Hike route: Francis Edward Williams Trailhead to the Ministik Fire Tower&#34;
+        /&gt;
+  &lt;figcaption class=&#34;text-center&#34;&gt;Hike route: &amp;ldquo;Francis Edward Williams Trailhead to the Ministik Fire Tower&amp;rdquo;&lt;/figcaption&gt;
+  
+  &lt;/figure&gt;
+  &lt;div class=&#34;flex flex-col justify-start pl-5 lg:w-1/2 sm:pb-7&#34;&gt;
+    &lt;h4 class=&#34;text-xl font-large mt-4&#34;&gt;Hike Details&lt;/h4&gt;
+      &lt;table width=100% class=&#34;w-full&#34;&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;my-4 text-base&#34;&gt;Trailhead:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;my-4 text-base&#34;&gt;&lt;a href=&#34;//localhost:1313/trailheads/uofa-road/&#34; target=&#34;_blank&#34;&gt;UofA Access Road Gate&lt;/a&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;my-4 text-base&#34;&gt;Hike Length:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;my-4 text-base&#34;&gt;8.3 km&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;mb-2 text-base&#34;&gt;Route Type:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;mb-2 text-base&#34;&gt;Out &amp; Back&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;mb-2 text-base&#34; rowspan=&#34;2&#34;&gt;Difficulty:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;text-base&#34;&gt;
+
+
+
+
+
+
+
+	
+	
+	
+Rated 164: Strenuous
+&lt;div class=&#34;progress&#34;&gt;
+  &lt;div class=&#34;progress inner&#34; style=&#34;width:74%;background-color:blue!important&#34;&gt;164&amp;nbsp;/&amp;nbsp;221&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;mb-2 text-base&#34;&gt;&lt;sup&gt;&lt;a href=&#34;//localhost:1313/hike-ratings/&#34;&#34; target=&#34;_blank&#34;&gt;&amp;#9432; Ratings Explained&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+      &lt;/table&gt;
+    &lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/few-to-fire-tower/featured-002-FEW-to-Waskahegan-Fire-Tower.jpg" />
     </item>
     
@@ -24,7 +80,27 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/hikes/few-to-fireplace-test/</guid>
-      <description></description>
+      <description>&lt;figure class=&#34;box-center&#34; max-width=&#34;75%&#34;&gt;
+    &lt;picture&gt;
+      &lt;source type=&#34;image/avif&#34; srcset=&#34;incontent/IMG_1795-small.avif 330w,incontent/IMG_1795-medium.avif 660w,incontent/IMG_1795-large.avif 1024w,incontent/IMG_1795-fullsize.avif 2x&#34; 
+      /&gt;
+     &lt;img 
+     srcset=&#34;
+      incontent/IMG_1795.jpg 330w, 
+      incontent/IMG_1795.jpg 660w, 
+      incontent/IMG_1795.jpg 1024w, 
+      incontent/IMG_1795.jpg 2x&#34; 
+      src=&#34;incontent/IMG_1795.jpg&#34;
+      loading=&#34;lazy&#34; decoding=&#34;async&#34; alt=&#34;the caption&#34; /&gt;
+    &lt;/picture&gt;
+    &lt;div class=&#34;img-center-caption&#34;&gt;
+      &lt;figcaption&gt;the caption&lt;/figcaption&gt;
+    &lt;/div&gt;
+  &lt;/figure&gt;
+  
+
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis auctor feugiat diam, ac sodales nisl fringilla in. Interdum et malesuada fames ac ante ipsum primis in faucibus. Phasellus ante turpis, porta et ipsum sit amet, lobortis semper nulla. Phasellus dapibus nibh enim, a ultricies orci bibendum at. Ut sit amet tellus dolor. Morbi gravida luctus turpis quis ornare. Sed quis lorem suscipit, hendrerit urna vel, sagittis ex. Nam euismod velit ac metus facilisis, nec convallis felis mattis. Nulla facilisi. Here&amp;rsquo;s the paragraph BREAK.&lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/few-to-fireplace-test/featured-001-FEW-to-Fireplace.jpg" />
     </item>
     
@@ -34,7 +110,63 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/hikes/few-to-fireplace/</guid>
-      <description></description>
+      <description>&lt;div class=&#34;flex flex-col text-surface shadow-secondary-1 dark:bg-surface-dark dark:text-white max-w-max lg:flex-row h-auto&#34; style=margin-bottom:-100px;&gt;
+
+&lt;figure class=&#34;w-full lg:w-1/2 hikedetailsfigure&#34;&gt;
+        &lt;img
+          class=&#34;my-0 rounded-md&#34;
+          srcset=&#34;
+          /hikes/few-to-fireplace/featured-001-FEW-to-Fireplace_hu4633255654479261351.jpg 330w,
+          /hikes/few-to-fireplace/featured-001-FEW-to-Fireplace_hu17022467483748980768.jpg 660w,
+          /hikes/few-to-fireplace/featured-001-FEW-to-Fireplace_hu4764442713365542946.jpg 1024w,
+          /hikes/few-to-fireplace/featured-001-FEW-to-Fireplace_hu17281929872122153019.jpg 2x&#34;
+          src=&#34;//localhost:1313/hikes/few-to-fireplace/featured-001-FEW-to-Fireplace_hu17022467483748980768.jpg&#34;
+          alt=&#34;Hike route: Francis Edward Williams Trailhead to the Ministik Fireplace&#34;
+        /&gt;
+  &lt;figcaption class=&#34;text-center&#34;&gt;Hike route: &amp;ldquo;Francis Edward Williams Trailhead to the Ministik Fireplace&amp;rdquo;&lt;/figcaption&gt;
+  
+  &lt;/figure&gt;
+  &lt;div class=&#34;flex flex-col justify-start pl-5 lg:w-1/2 sm:pb-7&#34;&gt;
+    &lt;h4 class=&#34;text-xl font-large mt-4&#34;&gt;Hike Details&lt;/h4&gt;
+      &lt;table width=100% class=&#34;w-full&#34;&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;my-4 text-base&#34;&gt;Trailhead:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;my-4 text-base&#34;&gt;&lt;a href=&#34;//localhost:1313/trailheads/few/&#34; target=&#34;_blank&#34;&gt;Francis Edward Williams Trailhead&lt;/a&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;my-4 text-base&#34;&gt;Hike Length:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;my-4 text-base&#34;&gt;2.1 km&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;mb-2 text-base&#34;&gt;Route Type:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;mb-2 text-base&#34;&gt;Out &amp; Back&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;mb-2 text-base&#34; rowspan=&#34;2&#34;&gt;Difficulty:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;text-base&#34;&gt;
+
+
+
+
+
+
+
+
+	
+	
+Rated 52: Easy
+&lt;div class=&#34;progress&#34;&gt;
+  &lt;div class=&#34;progress inner&#34; style=&#34;width:24%;background-color:green!important&#34;&gt;52&amp;nbsp;/&amp;nbsp;221&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;mb-2 text-base&#34;&gt;&lt;sup&gt;&lt;a href=&#34;//localhost:1313/hike-ratings/&#34;&#34; target=&#34;_blank&#34;&gt;&amp;#9432; Ratings Explained&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+      &lt;/table&gt;
+    &lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/few-to-fireplace/featured-001-FEW-to-Fireplace.jpg" />
     </item>
     
@@ -44,7 +176,63 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/hikes/mandy-lake-to-shelter/</guid>
-      <description></description>
+      <description>&lt;div class=&#34;flex flex-col text-surface shadow-secondary-1 dark:bg-surface-dark dark:text-white max-w-max lg:flex-row h-auto&#34; style=margin-bottom:-100px;&gt;
+
+&lt;figure class=&#34;w-full lg:w-1/2 hikedetailsfigure&#34;&gt;
+        &lt;img
+          class=&#34;my-0 rounded-md&#34;
+          srcset=&#34;
+          /hikes/mandy-lake-to-shelter/featured-027-Mandy-Lake-Road-to-Old-Shelter_hu4760707586361921002.jpg 330w,
+          /hikes/mandy-lake-to-shelter/featured-027-Mandy-Lake-Road-to-Old-Shelter_hu17423258571611310654.jpg 660w,
+          /hikes/mandy-lake-to-shelter/featured-027-Mandy-Lake-Road-to-Old-Shelter_hu2368328681499925363.jpg 1024w,
+          /hikes/mandy-lake-to-shelter/featured-027-Mandy-Lake-Road-to-Old-Shelter_hu13025641569725105260.jpg 2x&#34;
+          src=&#34;//localhost:1313/hikes/mandy-lake-to-shelter/featured-027-Mandy-Lake-Road-to-Old-Shelter_hu17423258571611310654.jpg&#34;
+          alt=&#34;Hike route: Mandy Lake Parking to Old Shelter&#34;
+        /&gt;
+  &lt;figcaption class=&#34;text-center&#34;&gt;Hike route: Mandy Lake Parking to Old Shelter&lt;/figcaption&gt;
+  
+  &lt;/figure&gt;
+  &lt;div class=&#34;flex flex-col justify-start pl-5 lg:w-1/2 sm:pb-7&#34;&gt;
+    &lt;h4 class=&#34;text-xl font-large mt-4&#34;&gt;Hike Details&lt;/h4&gt;
+      &lt;table width=100% class=&#34;w-full&#34;&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;my-4 text-base&#34;&gt;Trailhead:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;my-4 text-base&#34;&gt;&lt;a href=&#34;//localhost:1313/trailheads/mandy-lake-road/&#34; target=&#34;_blank&#34;&gt;Mandy Lake Road Gate&lt;/a&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;my-4 text-base&#34;&gt;Hike Length:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;my-4 text-base&#34;&gt;4 km&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;mb-2 text-base&#34;&gt;Route Type:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;mb-2 text-base&#34;&gt;Out &amp; Back&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;mb-2 text-base&#34; rowspan=&#34;2&#34;&gt;Difficulty:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;text-base&#34;&gt;
+
+
+
+
+
+
+
+
+	
+	
+Rated 40: Easy
+&lt;div class=&#34;progress&#34;&gt;
+  &lt;div class=&#34;progress inner&#34; style=&#34;width:18%;background-color:green!important&#34;&gt;40&amp;nbsp;/&amp;nbsp;221&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;mb-2 text-base&#34;&gt;&lt;sup&gt;&lt;a href=&#34;//localhost:1313/hike-ratings/&#34;&#34; target=&#34;_blank&#34;&gt;&amp;#9432; Ratings Explained&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+      &lt;/table&gt;
+    &lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/mandy-lake-to-shelter/featured-027-Mandy-Lake-Road-to-Old-Shelter.jpg" />
     </item>
     
@@ -54,7 +242,63 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/hikes/mandy-lake-tr-to-oliver-lake/</guid>
-      <description></description>
+      <description>&lt;div class=&#34;flex flex-col text-surface shadow-secondary-1 dark:bg-surface-dark dark:text-white max-w-max lg:flex-row h-auto&#34; style=margin-bottom:-100px;&gt;
+
+&lt;figure class=&#34;w-full lg:w-1/2 hikedetailsfigure&#34;&gt;
+        &lt;img
+          class=&#34;my-0 rounded-md&#34;
+          srcset=&#34;
+          /hikes/mandy-lake-tr-to-oliver-lake/featured-028-Mandy-Lake-PK-to-Oliver-Lake-East_hu12666325018217920395.jpg 330w,
+          /hikes/mandy-lake-tr-to-oliver-lake/featured-028-Mandy-Lake-PK-to-Oliver-Lake-East_hu14148080722519982686.jpg 660w,
+          /hikes/mandy-lake-tr-to-oliver-lake/featured-028-Mandy-Lake-PK-to-Oliver-Lake-East_hu5640460428060666375.jpg 1024w,
+          /hikes/mandy-lake-tr-to-oliver-lake/featured-028-Mandy-Lake-PK-to-Oliver-Lake-East_hu356246208058728564.jpg 2x&#34;
+          src=&#34;//localhost:1313/hikes/mandy-lake-tr-to-oliver-lake/featured-028-Mandy-Lake-PK-to-Oliver-Lake-East_hu14148080722519982686.jpg&#34;
+          alt=&#34;Hike route: Mandy Lake Parking to Oliver Lake East&#34;
+        /&gt;
+  &lt;figcaption class=&#34;text-center&#34;&gt;Hike route: Mandy Lake Parking to Oliver Lake East&lt;/figcaption&gt;
+  
+  &lt;/figure&gt;
+  &lt;div class=&#34;flex flex-col justify-start pl-5 lg:w-1/2 sm:pb-7&#34;&gt;
+    &lt;h4 class=&#34;text-xl font-large mt-4&#34;&gt;Hike Details&lt;/h4&gt;
+      &lt;table width=100% class=&#34;w-full&#34;&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;my-4 text-base&#34;&gt;Trailhead:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;my-4 text-base&#34;&gt;&lt;a href=&#34;//localhost:1313/trailheads/mandy-lake-road/&#34; target=&#34;_blank&#34;&gt;Mandy Lake Road Gate&lt;/a&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;my-4 text-base&#34;&gt;Hike Length:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;my-4 text-base&#34;&gt;5.4 km&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;mb-2 text-base&#34;&gt;Route Type:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;mb-2 text-base&#34;&gt;Out &amp; Back&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;mb-2 text-base&#34; rowspan=&#34;2&#34;&gt;Difficulty:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;text-base&#34;&gt;
+
+
+
+
+
+
+
+	 
+	
+	
+Rated 88: Moderate
+&lt;div class=&#34;progress&#34;&gt;
+  &lt;div class=&#34;progress inner&#34; style=&#34;width:40%;background-color:teal!important&#34;&gt;88&amp;nbsp;/&amp;nbsp;221&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;mb-2 text-base&#34;&gt;&lt;sup&gt;&lt;a href=&#34;//localhost:1313/hike-ratings/&#34;&#34; target=&#34;_blank&#34;&gt;&amp;#9432; Ratings Explained&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+      &lt;/table&gt;
+    &lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/mandy-lake-tr-to-oliver-lake/featured-028-Mandy-Lake-PK-to-Oliver-Lake-East.jpg" />
     </item>
     
@@ -64,7 +308,90 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/hikes/misasin-trail/</guid>
-      <description></description>
+      <description>&lt;div class=&#34;flex flex-col text-surface shadow-secondary-1 dark:bg-surface-dark dark:text-white max-w-max lg:flex-row h-auto&#34; style=margin-bottom:-100px;&gt;
+
+&lt;figure class=&#34;w-full lg:w-1/2 hikedetailsfigure&#34;&gt;
+        &lt;img
+          class=&#34;my-0 rounded-md&#34;
+          srcset=&#34;
+          /hikes/misasin-trail/featured-017-NE-Boundary-Trailhead-to-End-of-Trail-Misasin-Trail_hu6524468354275263330.jpg 330w,
+          /hikes/misasin-trail/featured-017-NE-Boundary-Trailhead-to-End-of-Trail-Misasin-Trail_hu8195785250214806088.jpg 660w,
+          /hikes/misasin-trail/featured-017-NE-Boundary-Trailhead-to-End-of-Trail-Misasin-Trail_hu6875112875196587508.jpg 1024w,
+          /hikes/misasin-trail/featured-017-NE-Boundary-Trailhead-to-End-of-Trail-Misasin-Trail_hu9817611133852833710.jpg 2x&#34;
+          src=&#34;//localhost:1313/hikes/misasin-trail/featured-017-NE-Boundary-Trailhead-to-End-of-Trail-Misasin-Trail_hu8195785250214806088.jpg&#34;
+          alt=&#34;Hike route: Misasin Trail&#34;
+        /&gt;
+  &lt;figcaption class=&#34;text-center&#34;&gt;Hike route: Misasin Trail&lt;/figcaption&gt;
+  
+  &lt;/figure&gt;
+  &lt;div class=&#34;flex flex-col justify-start pl-5 lg:w-1/2 sm:pb-7&#34;&gt;
+    &lt;h4 class=&#34;text-xl font-large mt-4&#34;&gt;Hike Details&lt;/h4&gt;
+      &lt;table width=100% class=&#34;w-full&#34;&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;my-4 text-base&#34;&gt;Trailhead:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;my-4 text-base&#34;&gt;&lt;a href=&#34;//localhost:1313/trailheads/misasin/&#34; target=&#34;_blank&#34;&gt;Misasin Trailhead&lt;/a&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;my-4 text-base&#34;&gt;Hike Length:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;my-4 text-base&#34;&gt;2.4 km&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;mb-2 text-base&#34;&gt;Route Type:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;mb-2 text-base&#34;&gt;Loop&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;mb-2 text-base&#34; rowspan=&#34;2&#34;&gt;Difficulty:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;text-base&#34;&gt;
+
+
+
+
+
+
+
+
+	
+	
+Rated 36: Easy
+&lt;div class=&#34;progress&#34;&gt;
+  &lt;div class=&#34;progress inner&#34; style=&#34;width:16%;background-color:green!important&#34;&gt;36&amp;nbsp;/&amp;nbsp;221&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;mb-2 text-base&#34;&gt;&lt;sup&gt;&lt;a href=&#34;//localhost:1313/hike-ratings/&#34;&#34; target=&#34;_blank&#34;&gt;&amp;#9432; Ratings Explained&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+      &lt;/table&gt;
+    &lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Description 
+    &lt;div id=&#34;description&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#description&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Interactive Route Map 
+    &lt;div id=&#34;interactive-route-map&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#interactive-route-map&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;To see route waypoints, zoom into the map by pinching open on mobile, scrolling on desktop.&lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/misasin-trail/featured-017-NE-Boundary-Trailhead-to-End-of-Trail-Misasin-Trail.jpg" />
     </item>
     
@@ -74,7 +401,81 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/hikes/site2-to-wildland-meadows/</guid>
-      <description></description>
+      <description>&lt;div class=&#34;flex flex-col text-surface shadow-secondary-1 dark:bg-surface-dark dark:text-white max-w-max lg:flex-row h-auto&#34; style=margin-bottom:-100px;&gt;
+
+&lt;figure class=&#34;w-full lg:w-1/2 hikedetailsfigure&#34;&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; src=&#34;featured%20-039_Site_2_to_Wildland_Meadows_Loop.jpg&#34; alt=&#34;Hike route: Site 2 to Wildland Meadows Loop&#34; /&gt;
+  &lt;figcaption class=&#34;text-center&#34;&gt;Hike route: Site 2 to Wildland Meadows Loop&lt;/figcaption&gt;
+  
+  &lt;/figure&gt;
+  &lt;div class=&#34;flex flex-col justify-start pl-5 lg:w-1/2 sm:pb-7&#34;&gt;
+    &lt;h4 class=&#34;text-xl font-large mt-4&#34;&gt;Hike Details&lt;/h4&gt;
+      &lt;table width=100% class=&#34;w-full&#34;&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;my-4 text-base&#34;&gt;Trailhead:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;my-4 text-base&#34;&gt;&lt;a href=&#34;//localhost:1313/trailheads/site-2/&#34; target=&#34;_blank&#34;&gt;Site 2 Parking Lot&lt;/a&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;my-4 text-base&#34;&gt;Hike Length:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;my-4 text-base&#34;&gt;5.7 km&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;mb-2 text-base&#34;&gt;Route Type:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;mb-2 text-base&#34;&gt;Out &amp; Back&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;mb-2 text-base&#34; rowspan=&#34;2&#34;&gt;Difficulty:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;text-base&#34;&gt;
+
+
+
+
+
+
+
+	
+	
+	
+Rated 151: Strenuous
+&lt;div class=&#34;progress&#34;&gt;
+  &lt;div class=&#34;progress inner&#34; style=&#34;width:68%;background-color:blue!important&#34;&gt;151&amp;nbsp;/&amp;nbsp;221&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;mb-2 text-base&#34;&gt;&lt;sup&gt;&lt;a href=&#34;//localhost:1313/hike-ratings/&#34;&#34; target=&#34;_blank&#34;&gt;&amp;#9432; Ratings Explained&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+      &lt;/table&gt;
+    &lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Description 
+    &lt;div id=&#34;description&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#description&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Interactive Route Map 
+    &lt;div id=&#34;interactive-route-map&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#interactive-route-map&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;To see route waypoints, zoom into the map by pinching open on mobile, scrolling on desktop.&lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/site2-to-wildland-meadows/featured%20-039_Site_2_to_Wildland_Meadows_Loop.jpg" />
     </item>
     
@@ -84,7 +485,63 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/hikes/stick-to-the-road/</guid>
-      <description></description>
+      <description>&lt;div class=&#34;flex flex-col text-surface shadow-secondary-1 dark:bg-surface-dark dark:text-white max-w-max lg:flex-row h-auto&#34; style=margin-bottom:-100px;&gt;
+
+&lt;figure class=&#34;w-full lg:w-1/2 hikedetailsfigure&#34;&gt;
+        &lt;img
+          class=&#34;my-0 rounded-md&#34;
+          srcset=&#34;
+          /hikes/stick-to-the-road/featured-005-Stick-to-the-Road_hu678998609967193679.jpg 330w,
+          /hikes/stick-to-the-road/featured-005-Stick-to-the-Road_hu9050490304281683867.jpg 660w,
+          /hikes/stick-to-the-road/featured-005-Stick-to-the-Road_hu10639707264033661773.jpg 1024w,
+          /hikes/stick-to-the-road/featured-005-Stick-to-the-Road_hu14022500636734984361.jpg 2x&#34;
+          src=&#34;//localhost:1313/hikes/stick-to-the-road/featured-005-Stick-to-the-Road_hu9050490304281683867.jpg&#34;
+          alt=&#34;Hike route: Stick to the Field Station Road&#34;
+        /&gt;
+  &lt;figcaption class=&#34;text-center&#34;&gt;Hike route: &amp;ldquo;Stick to the Field Station Road&amp;rdquo;&lt;/figcaption&gt;
+  
+  &lt;/figure&gt;
+  &lt;div class=&#34;flex flex-col justify-start pl-5 lg:w-1/2 sm:pb-7&#34;&gt;
+    &lt;h4 class=&#34;text-xl font-large mt-4&#34;&gt;Hike Details&lt;/h4&gt;
+      &lt;table width=100% class=&#34;w-full&#34;&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;my-4 text-base&#34;&gt;Trailhead:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;my-4 text-base&#34;&gt;&lt;a href=&#34;//localhost:1313/trailheads/uofa-road/&#34; target=&#34;_blank&#34;&gt;UofA Access Road Gate&lt;/a&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;my-4 text-base&#34;&gt;Hike Length:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;my-4 text-base&#34;&gt;5.6 km&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;mb-2 text-base&#34;&gt;Route Type:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;mb-2 text-base&#34;&gt;Out &amp; Back&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;mb-2 text-base&#34; rowspan=&#34;2&#34;&gt;Difficulty:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;text-base&#34;&gt;
+
+
+
+
+
+
+
+
+	
+	
+Rated 55: Easy
+&lt;div class=&#34;progress&#34;&gt;
+  &lt;div class=&#34;progress inner&#34; style=&#34;width:25%;background-color:green!important&#34;&gt;55&amp;nbsp;/&amp;nbsp;221&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;mb-2 text-base&#34;&gt;&lt;sup&gt;&lt;a href=&#34;//localhost:1313/hike-ratings/&#34;&#34; target=&#34;_blank&#34;&gt;&amp;#9432; Ratings Explained&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+      &lt;/table&gt;
+    &lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/stick-to-the-road/featured-005-Stick-to-the-Road.jpg" />
     </item>
     
@@ -94,7 +551,63 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/hikes/stove-lake-to-crossroads/</guid>
-      <description></description>
+      <description>&lt;div class=&#34;flex flex-col text-surface shadow-secondary-1 dark:bg-surface-dark dark:text-white max-w-max lg:flex-row h-auto&#34; style=margin-bottom:-100px;&gt;
+
+&lt;figure class=&#34;w-full lg:w-1/2 hikedetailsfigure&#34;&gt;
+        &lt;img
+          class=&#34;my-0 rounded-md&#34;
+          srcset=&#34;
+          /hikes/stove-lake-to-crossroads/featured-018-Stove-Lake-to-Crossroads_hu4873422139543477186.jpg 330w,
+          /hikes/stove-lake-to-crossroads/featured-018-Stove-Lake-to-Crossroads_hu11528341220436844462.jpg 660w,
+          /hikes/stove-lake-to-crossroads/featured-018-Stove-Lake-to-Crossroads_hu14136457936788933126.jpg 1024w,
+          /hikes/stove-lake-to-crossroads/featured-018-Stove-Lake-to-Crossroads_hu17576309099698366930.jpg 2x&#34;
+          src=&#34;//localhost:1313/hikes/stove-lake-to-crossroads/featured-018-Stove-Lake-to-Crossroads_hu11528341220436844462.jpg&#34;
+          alt=&#34;Hike route: Stove Lake to Trail Crossroads&#34;
+        /&gt;
+  &lt;figcaption class=&#34;text-center&#34;&gt;Hike route: Stove Lake to Trail Crossroads&lt;/figcaption&gt;
+  
+  &lt;/figure&gt;
+  &lt;div class=&#34;flex flex-col justify-start pl-5 lg:w-1/2 sm:pb-7&#34;&gt;
+    &lt;h4 class=&#34;text-xl font-large mt-4&#34;&gt;Hike Details&lt;/h4&gt;
+      &lt;table width=100% class=&#34;w-full&#34;&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;my-4 text-base&#34;&gt;Trailhead:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;my-4 text-base&#34;&gt;&lt;a href=&#34;//localhost:1313/trailheads/stove-lake/&#34; target=&#34;_blank&#34;&gt;Stove Lake Trailhead Gate&lt;/a&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;my-4 text-base&#34;&gt;Hike Length:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;my-4 text-base&#34;&gt;5.2 km&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;mb-2 text-base&#34;&gt;Route Type:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;mb-2 text-base&#34;&gt;Out &amp; Back&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;mb-2 text-base&#34; rowspan=&#34;2&#34;&gt;Difficulty:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;text-base&#34;&gt;
+
+
+
+
+
+
+
+	 
+	
+	
+Rated 78: Moderate
+&lt;div class=&#34;progress&#34;&gt;
+  &lt;div class=&#34;progress inner&#34; style=&#34;width:35%;background-color:teal!important&#34;&gt;78&amp;nbsp;/&amp;nbsp;221&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;mb-2 text-base&#34;&gt;&lt;sup&gt;&lt;a href=&#34;//localhost:1313/hike-ratings/&#34;&#34; target=&#34;_blank&#34;&gt;&amp;#9432; Ratings Explained&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+      &lt;/table&gt;
+    &lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/stove-lake-to-crossroads/featured-018-Stove-Lake-to-Crossroads.jpg" />
     </item>
     
@@ -104,7 +617,63 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/hikes/uofa-to-fire-tower/</guid>
-      <description></description>
+      <description>&lt;div class=&#34;flex flex-col text-surface shadow-secondary-1 dark:bg-surface-dark dark:text-white max-w-max lg:flex-row h-auto&#34; style=margin-bottom:-100px;&gt;
+
+&lt;figure class=&#34;w-full lg:w-1/2 hikedetailsfigure&#34;&gt;
+        &lt;img
+          class=&#34;my-0 rounded-md&#34;
+          srcset=&#34;
+          /hikes/uofa-to-fire-tower/featured-008-Gate-to-Ministik-Fire-Tower_hu3111655876119406800.jpg 330w,
+          /hikes/uofa-to-fire-tower/featured-008-Gate-to-Ministik-Fire-Tower_hu4356561103911711741.jpg 660w,
+          /hikes/uofa-to-fire-tower/featured-008-Gate-to-Ministik-Fire-Tower_hu7175290962986921278.jpg 1024w,
+          /hikes/uofa-to-fire-tower/featured-008-Gate-to-Ministik-Fire-Tower_hu1624392095358154705.jpg 2x&#34;
+          src=&#34;//localhost:1313/hikes/uofa-to-fire-tower/featured-008-Gate-to-Ministik-Fire-Tower_hu4356561103911711741.jpg&#34;
+          alt=&#34;Hike route: Trek to the Ministik Fire Tower&#34;
+        /&gt;
+  &lt;figcaption class=&#34;text-center&#34;&gt;Hike route: Trek to the Ministik Fire Tower&lt;/figcaption&gt;
+  
+  &lt;/figure&gt;
+  &lt;div class=&#34;flex flex-col justify-start pl-5 lg:w-1/2 sm:pb-7&#34;&gt;
+    &lt;h4 class=&#34;text-xl font-large mt-4&#34;&gt;Hike Details&lt;/h4&gt;
+      &lt;table width=100% class=&#34;w-full&#34;&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;my-4 text-base&#34;&gt;Trailhead:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;my-4 text-base&#34;&gt;&lt;a href=&#34;//localhost:1313/trailheads/uofa-road/&#34; target=&#34;_blank&#34;&gt;UofA Access Road Gate&lt;/a&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;my-4 text-base&#34;&gt;Hike Length:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;my-4 text-base&#34;&gt;9.4 km&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;mb-2 text-base&#34;&gt;Route Type:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;mb-2 text-base&#34;&gt;Out &amp; Back&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;mb-2 text-base&#34; rowspan=&#34;2&#34;&gt;Difficulty:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;text-base&#34;&gt;
+
+
+
+
+
+
+
+	
+	
+	
+Rated 126: Strenuous
+&lt;div class=&#34;progress&#34;&gt;
+  &lt;div class=&#34;progress inner&#34; style=&#34;width:57%;background-color:blue!important&#34;&gt;126&amp;nbsp;/&amp;nbsp;221&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;mb-2 text-base&#34;&gt;&lt;sup&gt;&lt;a href=&#34;//localhost:1313/hike-ratings/&#34;&#34; target=&#34;_blank&#34;&gt;&amp;#9432; Ratings Explained&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+      &lt;/table&gt;
+    &lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/uofa-to-fire-tower/featured-008-Gate-to-Ministik-Fire-Tower.jpg" />
     </item>
     
@@ -114,7 +683,63 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/hikes/berg-section-out-and-back/</guid>
-      <description></description>
+      <description>&lt;div class=&#34;flex flex-col text-surface shadow-secondary-1 dark:bg-surface-dark dark:text-white max-w-max lg:flex-row h-auto&#34; style=margin-bottom:-100px;&gt;
+
+&lt;figure class=&#34;w-full lg:w-1/2 hikedetailsfigure&#34;&gt;
+        &lt;img
+          class=&#34;my-0 rounded-md&#34;
+          srcset=&#34;
+          /hikes/berg-section-out-and-back/featured-004-Waskahegan-Berg-Section_hu12395592921583004525.jpg 330w,
+          /hikes/berg-section-out-and-back/featured-004-Waskahegan-Berg-Section_hu1638399010042675878.jpg 660w,
+          /hikes/berg-section-out-and-back/featured-004-Waskahegan-Berg-Section_hu18295856866675612040.jpg 1024w,
+          /hikes/berg-section-out-and-back/featured-004-Waskahegan-Berg-Section_hu18178565511301110412.jpg 2x&#34;
+          src=&#34;//localhost:1313/hikes/berg-section-out-and-back/featured-004-Waskahegan-Berg-Section_hu1638399010042675878.jpg&#34;
+          alt=&#34;Hike route: Waskahegan Berg Section   Out &amp;amp; Back&#34;
+        /&gt;
+  &lt;figcaption class=&#34;text-center&#34;&gt;Hike route: &amp;ldquo;Waskahegan Berg Section   Out &amp;amp; Back&amp;rdquo;&lt;/figcaption&gt;
+  
+  &lt;/figure&gt;
+  &lt;div class=&#34;flex flex-col justify-start pl-5 lg:w-1/2 sm:pb-7&#34;&gt;
+    &lt;h4 class=&#34;text-xl font-large mt-4&#34;&gt;Hike Details&lt;/h4&gt;
+      &lt;table width=100% class=&#34;w-full&#34;&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;my-4 text-base&#34;&gt;Trailhead:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;my-4 text-base&#34;&gt;&lt;a href=&#34;//localhost:1313/trailheads/berg-south/&#34; target=&#34;_blank&#34;&gt;Waskahegan Berg Section South Trailhead&lt;/a&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;my-4 text-base&#34;&gt;Hike Length:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;my-4 text-base&#34;&gt;7.4 km&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;mb-2 text-base&#34;&gt;Route Type:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;mb-2 text-base&#34;&gt;Out &amp; Back&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;mb-2 text-base&#34; rowspan=&#34;2&#34;&gt;Difficulty:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;text-base&#34;&gt;
+
+
+
+
+
+
+
+	
+	
+	
+Rated 111: Strenuous
+&lt;div class=&#34;progress&#34;&gt;
+  &lt;div class=&#34;progress inner&#34; style=&#34;width:50%;background-color:blue!important&#34;&gt;111&amp;nbsp;/&amp;nbsp;221&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;mb-2 text-base&#34;&gt;&lt;sup&gt;&lt;a href=&#34;//localhost:1313/hike-ratings/&#34;&#34; target=&#34;_blank&#34;&gt;&amp;#9432; Ratings Explained&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+      &lt;/table&gt;
+    &lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/berg-section-out-and-back/featured-004-Waskahegan-Berg-Section.jpg" />
     </item>
     
@@ -124,7 +749,63 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/hikes/wildland-meadows-to-the-diner/</guid>
-      <description></description>
+      <description>&lt;div class=&#34;flex flex-col text-surface shadow-secondary-1 dark:bg-surface-dark dark:text-white max-w-max lg:flex-row h-auto&#34; style=margin-bottom:-100px;&gt;
+
+&lt;figure class=&#34;w-full lg:w-1/2 hikedetailsfigure&#34;&gt;
+        &lt;img
+          class=&#34;my-0 rounded-md&#34;
+          srcset=&#34;
+          /hikes/wildland-meadows-to-the-diner/featured-031-Wildland-Meadows-PK-to-The-Diner-and-Return_hu12751087108839010551.jpg 330w,
+          /hikes/wildland-meadows-to-the-diner/featured-031-Wildland-Meadows-PK-to-The-Diner-and-Return_hu4743730633805455868.jpg 660w,
+          /hikes/wildland-meadows-to-the-diner/featured-031-Wildland-Meadows-PK-to-The-Diner-and-Return_hu9109019607688222799.jpg 1024w,
+          /hikes/wildland-meadows-to-the-diner/featured-031-Wildland-Meadows-PK-to-The-Diner-and-Return_hu9339245939388431322.jpg 2x&#34;
+          src=&#34;//localhost:1313/hikes/wildland-meadows-to-the-diner/featured-031-Wildland-Meadows-PK-to-The-Diner-and-Return_hu4743730633805455868.jpg&#34;
+          alt=&#34;Hike route: Wildland Meadows to  &amp;#34;the Diner &amp;#34;&#34;
+        /&gt;
+  &lt;figcaption class=&#34;text-center&#34;&gt;Hike route: Wildland Meadows to  &amp;ldquo;the Diner &amp;quot;&lt;/figcaption&gt;
+  
+  &lt;/figure&gt;
+  &lt;div class=&#34;flex flex-col justify-start pl-5 lg:w-1/2 sm:pb-7&#34;&gt;
+    &lt;h4 class=&#34;text-xl font-large mt-4&#34;&gt;Hike Details&lt;/h4&gt;
+      &lt;table width=100% class=&#34;w-full&#34;&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;my-4 text-base&#34;&gt;Trailhead:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;my-4 text-base&#34;&gt;&lt;a href=&#34;//localhost:1313/trailheads/wildland-meadows&#34; target=&#34;_blank&#34;&gt;Wildland Meadows Trailhead&lt;/a&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;my-4 text-base&#34;&gt;Hike Length:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;my-4 text-base&#34;&gt;11.5 km&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;mb-2 text-base&#34;&gt;Route Type:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;mb-2 text-base&#34;&gt;Out &amp; Back&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;mb-2 text-base&#34; rowspan=&#34;2&#34;&gt;Difficulty:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;text-base&#34;&gt;
+
+
+
+
+
+
+
+
+	
+	
+Rated 186: Expedition
+&lt;div class=&#34;progress&#34;&gt;
+  &lt;div class=&#34;progress inner&#34; style=&#34;width:84%;background-color:black!important&#34;&gt;186&amp;nbsp;/&amp;nbsp;221&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;mb-2 text-base&#34;&gt;&lt;sup&gt;&lt;a href=&#34;//localhost:1313/hike-ratings/&#34;&#34; target=&#34;_blank&#34;&gt;&amp;#9432; Ratings Explained&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+      &lt;/table&gt;
+    &lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/wildland-meadows-to-the-diner/featured-031-Wildland-Meadows-PK-to-The-Diner-and-Return.jpg" />
     </item>
     

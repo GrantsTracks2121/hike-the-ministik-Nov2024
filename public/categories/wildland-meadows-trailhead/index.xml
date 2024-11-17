@@ -14,7 +14,90 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/hikes/wildland-meadows-loop/</guid>
-      <description></description>
+      <description>&lt;div class=&#34;flex flex-col text-surface shadow-secondary-1 dark:bg-surface-dark dark:text-white max-w-max lg:flex-row h-auto&#34; style=margin-bottom:-100px;&gt;
+
+&lt;figure class=&#34;w-full lg:w-1/2 hikedetailsfigure&#34;&gt;
+        &lt;img
+          class=&#34;my-0 rounded-md&#34;
+          srcset=&#34;
+          /hikes/wildland-meadows-loop/featured-030-Wildland-Meadows-PK-to-Sled-Trails-Loop_hu5216254474224512357.jpg 330w,
+          /hikes/wildland-meadows-loop/featured-030-Wildland-Meadows-PK-to-Sled-Trails-Loop_hu11910950501243029932.jpg 660w,
+          /hikes/wildland-meadows-loop/featured-030-Wildland-Meadows-PK-to-Sled-Trails-Loop_hu11495224450534500481.jpg 1024w,
+          /hikes/wildland-meadows-loop/featured-030-Wildland-Meadows-PK-to-Sled-Trails-Loop_hu10886105352103571237.jpg 2x&#34;
+          src=&#34;//localhost:1313/hikes/wildland-meadows-loop/featured-030-Wildland-Meadows-PK-to-Sled-Trails-Loop_hu11910950501243029932.jpg&#34;
+          alt=&#34;Hike route: Wildland Meadows Loop&#34;
+        /&gt;
+  &lt;figcaption class=&#34;text-center&#34;&gt;Hike route: Wildland Meadows Loop&lt;/figcaption&gt;
+  
+  &lt;/figure&gt;
+  &lt;div class=&#34;flex flex-col justify-start pl-5 lg:w-1/2 sm:pb-7&#34;&gt;
+    &lt;h4 class=&#34;text-xl font-large mt-4&#34;&gt;Hike Details&lt;/h4&gt;
+      &lt;table width=100% class=&#34;w-full&#34;&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;my-4 text-base&#34;&gt;Trailhead:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;my-4 text-base&#34;&gt;&lt;a href=&#34;//localhost:1313/trailheads/wildland-meadows&#34; target=&#34;_blank&#34;&gt;Wildland Meadows Trailhead&lt;/a&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;my-4 text-base&#34;&gt;Hike Length:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;my-4 text-base&#34;&gt;3.3 km&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;mb-2 text-base&#34;&gt;Route Type:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;mb-2 text-base&#34;&gt;Loop&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;mb-2 text-base&#34; rowspan=&#34;2&#34;&gt;Difficulty:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;text-base&#34;&gt;
+
+
+
+
+
+
+
+	 
+	
+	
+Rated 57: Moderate
+&lt;div class=&#34;progress&#34;&gt;
+  &lt;div class=&#34;progress inner&#34; style=&#34;width:26%;background-color:teal!important&#34;&gt;57&amp;nbsp;/&amp;nbsp;221&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;mb-2 text-base&#34;&gt;&lt;sup&gt;&lt;a href=&#34;//localhost:1313/hike-ratings/&#34;&#34; target=&#34;_blank&#34;&gt;&amp;#9432; Ratings Explained&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+      &lt;/table&gt;
+    &lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Description 
+    &lt;div id=&#34;description&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#description&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Interactive Route Map 
+    &lt;div id=&#34;interactive-route-map&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#interactive-route-map&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;To see route waypoints, zoom into the map by pinching open on mobile, scrolling on desktop.&lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/wildland-meadows-loop/featured-030-Wildland-Meadows-PK-to-Sled-Trails-Loop.jpg" />
     </item>
     
@@ -24,7 +107,63 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/hikes/wildland-meadows-to-the-diner/</guid>
-      <description></description>
+      <description>&lt;div class=&#34;flex flex-col text-surface shadow-secondary-1 dark:bg-surface-dark dark:text-white max-w-max lg:flex-row h-auto&#34; style=margin-bottom:-100px;&gt;
+
+&lt;figure class=&#34;w-full lg:w-1/2 hikedetailsfigure&#34;&gt;
+        &lt;img
+          class=&#34;my-0 rounded-md&#34;
+          srcset=&#34;
+          /hikes/wildland-meadows-to-the-diner/featured-031-Wildland-Meadows-PK-to-The-Diner-and-Return_hu12751087108839010551.jpg 330w,
+          /hikes/wildland-meadows-to-the-diner/featured-031-Wildland-Meadows-PK-to-The-Diner-and-Return_hu4743730633805455868.jpg 660w,
+          /hikes/wildland-meadows-to-the-diner/featured-031-Wildland-Meadows-PK-to-The-Diner-and-Return_hu9109019607688222799.jpg 1024w,
+          /hikes/wildland-meadows-to-the-diner/featured-031-Wildland-Meadows-PK-to-The-Diner-and-Return_hu9339245939388431322.jpg 2x&#34;
+          src=&#34;//localhost:1313/hikes/wildland-meadows-to-the-diner/featured-031-Wildland-Meadows-PK-to-The-Diner-and-Return_hu4743730633805455868.jpg&#34;
+          alt=&#34;Hike route: Wildland Meadows to  &amp;#34;the Diner &amp;#34;&#34;
+        /&gt;
+  &lt;figcaption class=&#34;text-center&#34;&gt;Hike route: Wildland Meadows to  &amp;ldquo;the Diner &amp;quot;&lt;/figcaption&gt;
+  
+  &lt;/figure&gt;
+  &lt;div class=&#34;flex flex-col justify-start pl-5 lg:w-1/2 sm:pb-7&#34;&gt;
+    &lt;h4 class=&#34;text-xl font-large mt-4&#34;&gt;Hike Details&lt;/h4&gt;
+      &lt;table width=100% class=&#34;w-full&#34;&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;my-4 text-base&#34;&gt;Trailhead:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;my-4 text-base&#34;&gt;&lt;a href=&#34;//localhost:1313/trailheads/wildland-meadows&#34; target=&#34;_blank&#34;&gt;Wildland Meadows Trailhead&lt;/a&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;my-4 text-base&#34;&gt;Hike Length:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;my-4 text-base&#34;&gt;11.5 km&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;mb-2 text-base&#34;&gt;Route Type:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;mb-2 text-base&#34;&gt;Out &amp; Back&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;mb-2 text-base&#34; rowspan=&#34;2&#34;&gt;Difficulty:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;text-base&#34;&gt;
+
+
+
+
+
+
+
+
+	
+	
+Rated 186: Expedition
+&lt;div class=&#34;progress&#34;&gt;
+  &lt;div class=&#34;progress inner&#34; style=&#34;width:84%;background-color:black!important&#34;&gt;186&amp;nbsp;/&amp;nbsp;221&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;mb-2 text-base&#34;&gt;&lt;sup&gt;&lt;a href=&#34;//localhost:1313/hike-ratings/&#34;&#34; target=&#34;_blank&#34;&gt;&amp;#9432; Ratings Explained&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+      &lt;/table&gt;
+    &lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/wildland-meadows-to-the-diner/featured-031-Wildland-Meadows-PK-to-The-Diner-and-Return.jpg" />
     </item>
     
@@ -34,7 +173,63 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/hikes/wildland-meadows-to-mandy-lake/</guid>
-      <description></description>
+      <description>&lt;div class=&#34;flex flex-col text-surface shadow-secondary-1 dark:bg-surface-dark dark:text-white max-w-max lg:flex-row h-auto&#34; style=margin-bottom:-100px;&gt;
+
+&lt;figure class=&#34;w-full lg:w-1/2 hikedetailsfigure&#34;&gt;
+        &lt;img
+          class=&#34;my-0 rounded-md&#34;
+          srcset=&#34;
+          /hikes/wildland-meadows-to-mandy-lake/featured-032-Wildland-Meadows--PK-to-Mandy-Lake-PK_hu3999594287379550349.jpg 330w,
+          /hikes/wildland-meadows-to-mandy-lake/featured-032-Wildland-Meadows--PK-to-Mandy-Lake-PK_hu2149206127320923229.jpg 660w,
+          /hikes/wildland-meadows-to-mandy-lake/featured-032-Wildland-Meadows--PK-to-Mandy-Lake-PK_hu9483354825619742851.jpg 1024w,
+          /hikes/wildland-meadows-to-mandy-lake/featured-032-Wildland-Meadows--PK-to-Mandy-Lake-PK_hu6399495020312014773.jpg 2x&#34;
+          src=&#34;//localhost:1313/hikes/wildland-meadows-to-mandy-lake/featured-032-Wildland-Meadows--PK-to-Mandy-Lake-PK_hu2149206127320923229.jpg&#34;
+          alt=&#34;Hike route: Wildland Meadows to Mandy Lake Parking&#34;
+        /&gt;
+  &lt;figcaption class=&#34;text-center&#34;&gt;Hike route: Wildland Meadows to Mandy Lake Parking&lt;/figcaption&gt;
+  
+  &lt;/figure&gt;
+  &lt;div class=&#34;flex flex-col justify-start pl-5 lg:w-1/2 sm:pb-7&#34;&gt;
+    &lt;h4 class=&#34;text-xl font-large mt-4&#34;&gt;Hike Details&lt;/h4&gt;
+      &lt;table width=100% class=&#34;w-full&#34;&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;my-4 text-base&#34;&gt;Trailhead:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;my-4 text-base&#34;&gt;&lt;a href=&#34;//localhost:1313/trailheads/wildland-meadows&#34; target=&#34;_blank&#34;&gt;Wildland Meadows Trailhead&lt;/a&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;my-4 text-base&#34;&gt;Hike Length:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;my-4 text-base&#34;&gt;9.2 km&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;mb-2 text-base&#34;&gt;Route Type:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;mb-2 text-base&#34;&gt;2 Car&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;mb-2 text-base&#34; rowspan=&#34;2&#34;&gt;Difficulty:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;text-base&#34;&gt;
+
+
+
+
+
+
+
+	
+	
+	
+Rated 135: Strenuous
+&lt;div class=&#34;progress&#34;&gt;
+  &lt;div class=&#34;progress inner&#34; style=&#34;width:61%;background-color:blue!important&#34;&gt;135&amp;nbsp;/&amp;nbsp;221&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;mb-2 text-base&#34;&gt;&lt;sup&gt;&lt;a href=&#34;//localhost:1313/hike-ratings/&#34;&#34; target=&#34;_blank&#34;&gt;&amp;#9432; Ratings Explained&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+      &lt;/table&gt;
+    &lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/wildland-meadows-to-mandy-lake/featured-032-Wildland-Meadows--PK-to-Mandy-Lake-PK.jpg" />
     </item>
     

@@ -66,7 +66,8 @@
   <meta property="og:url" content="//localhost:1313/guides/grassy-fields-guide/">
   <meta property="og:site_name" content="Hike the Ministik!">
   <meta property="og:title" content="Grassy Fields Guide">
-  <meta property="og:description" content="I&#39;m Grant Wilson from Edmonton, Alberta, Canada. I&#39;m not a world traveller, but I do love to explore and no matter where I’ve been, there is always been a strong urge to record my experience. This site is simply a way of doing just that.">
+  <meta property="og:description" content="Here are the icons you can use The built-in icons aren’t very helpful to me. So here’s more about how to start setting your own:
+Additionally, custom icons are also fully supported. Simply provide your own SVG icon assets by placing them in the assets/icons/ directory in the root of your project. Any icons in the icons directory will then be available to use throughout the theme. In order achieve automatic color filling every SVG path needs fill=“currentColor” XML attribute.">
   <meta property="og:locale" content="en">
   <meta property="og:type" content="article">
     <meta property="article:section" content="guides">
@@ -74,7 +75,8 @@
   
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="Grassy Fields Guide">
-  <meta name="twitter:description" content="I&#39;m Grant Wilson from Edmonton, Alberta, Canada. I&#39;m not a world traveller, but I do love to explore and no matter where I’ve been, there is always been a strong urge to record my experience. This site is simply a way of doing just that.">
+  <meta name="twitter:description" content="Here are the icons you can use The built-in icons aren’t very helpful to me. So here’s more about how to start setting your own:
+Additionally, custom icons are also fully supported. Simply provide your own SVG icon assets by placing them in the assets/icons/ directory in the root of your project. Any icons in the icons directory will then be available to use throughout the theme. In order achieve automatic color filling every SVG path needs fill=“currentColor” XML attribute.">
 
   
   <script type="application/ld+json">
@@ -85,7 +87,7 @@
     "name": "Grassy Fields Guide",
     "headline": "Grassy Fields Guide",
     
-    
+    "abstract": "\u003ciframe width=\u0022100%\u0022 height=\u0022576\u0022 src=\u0022https:\/\/maphub.net\/embed_h\/rLZ6kQntzMt34k3U?panel=1\u0026panel_closed=1\u0026geolocation=1\u0026directions=1\u0026autoplay=1\u0022 frameborder=\u00220\u0022 allow=\u0022geolocation\u0022\u003e\u003c\/iframe\u003e\n\u003cp\u003e\u003ca href=\u0022https:\/\/blowfish.page\/samples\/icons\/\u0022title=\u0022icons\u0022 target=\u0022_blank\u0022\u003eHere are the icons you can use \u003csup\u003e\u003ci class=\u0022fa fa-external-link\u0022 style=\u0022font-size:14px\u0022\u003e\u003c\/i\u003e\u003c\/sup\u003e \n\u003c\/a\u003e\u003c\/p\u003e\n\u003cp\u003eThe built-in icons aren\u0026rsquo;t very helpful to me. So here\u0026rsquo;s more about how to start setting your own:\u003c\/p\u003e\n\u003cblockquote\u003e\n\u003cp\u003eAdditionally, custom icons are also fully supported. Simply provide your own SVG icon assets by placing them in the assets\/icons\/ directory in the root of your project. Any icons in the icons directory will then be available to use throughout the theme. In order achieve automatic color filling every SVG path needs fill=“currentColor” XML attribute.\u003c\/p\u003e",
     "inLanguage": "en",
     "url" : "\/\/localhost:1313\/guides\/grassy-fields-guide\/",
     "author" : {
@@ -191,34 +193,67 @@
             
             
             
-  <a href="/categories/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
+  <a href="/get-started/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
     
     <p class="text-base font-medium" title="">
-        Browse by Category
+        Start Here
     </p>
 </a>
 
 
 
             
-            
-  <a href=""  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
+             
+  <div>
+  <div class="cursor-pointer flex items-center nested-menu">
     
-    <p class="text-base font-medium" title="">
-        Blog
-    </p>
-</a>
+    <a  class="text-base font-medium text-gray-500 hover:text-primary-600 dark:hover:text-primary-400" title="">
+      Browse Hikes
+    </a>
+    <span>
+      
+
+  <span class="relative block icon">
+    <svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 20 20"
+  fill="currentColor"
+  aria-hidden="true"
+>
+  <path
+    fill-rule="evenodd"
+    d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z"
+    clip-rule="evenodd"
+  />
+</svg>
+
+  </span>
 
 
-
-            
-            
-  <a href=""  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
-    
-    <p class="text-base font-medium" title="">
-        About
-    </p>
-</a>
+    </span>
+  </div>
+  <div class="absolute menuhide">
+    <div class="pt-2 p-5 mt-2 rounded-xl backdrop-blur shadow-2xl">
+      <div class="flex flex-col space-y-3">
+        
+        <a href="/trailheads/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
+          
+          <p class="text-sm font-sm" title="">
+            By Trailhead
+          </p>
+        </a>
+        
+        <a href="/hikes-by-length/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
+          
+          <p class="text-sm font-sm" title="">
+            By Hike Length
+          </p>
+        </a>
+        
+      </div>
+    </div>
+  </div>
+</div>
 
 
 
@@ -358,10 +393,10 @@
 
                     
   <li class="mt-1">
-    <a href="/categories/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
+    <a href="/get-started/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
         
         <p class="text-bg font-bg" title="">
-            Browse by Category
+            Start Here
         </p>
     </a>
 </li>
@@ -371,30 +406,56 @@
 
                     
 
-                    
+                     
   <li class="mt-1">
-    <a href=""  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
+    <a href="" class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
         
         <p class="text-bg font-bg" title="">
-            Blog
+            Browse Hikes
+        </p>
+        <span>
+            
+
+  <span class="relative block icon">
+    <svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 20 20"
+  fill="currentColor"
+  aria-hidden="true"
+>
+  <path
+    fill-rule="evenodd"
+    d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z"
+    clip-rule="evenodd"
+  />
+</svg>
+
+  </span>
+
+
+        </span>
+    </a>
+</li>
+
+<li class="mt-1">
+    <a href="/trailheads/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
+        
+        <p class="text-sm font-small" title="">
+            By Trailhead
         </p>
     </a>
 </li>
 
-
-
-
-                    
-
-                    
-  <li class="mt-1">
-    <a href=""  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
+<li class="mt-1">
+    <a href="/hikes-by-length/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
         
-        <p class="text-bg font-bg" title="">
-            About
+        <p class="text-sm font-small" title="">
+            By Hike Length
         </p>
     </a>
 </li>
+
+<li class="mb-2"></li>
 
 
 

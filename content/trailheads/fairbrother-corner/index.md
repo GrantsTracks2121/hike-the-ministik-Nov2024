@@ -6,7 +6,7 @@ layout: "simple"
 weight: "70"
 slug: "fairbrother-corner"
 showSummary: true
-summary: ""
+summary: "This is the the summary. Now is this reasonable?"
 ---
 <div class="flex flex-col text-surface shadow-secondary-1 dark:bg-surface-dark dark:text-white max-w-max lg:flex-row h-auto sm:pb-10">
 <div class="w-full lg:w-1/2" style="margin-bottom: 20px;">

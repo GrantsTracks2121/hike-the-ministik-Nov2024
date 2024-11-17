@@ -14,7 +14,63 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/hikes/mandy-lake-to-shelter/</guid>
-      <description></description>
+      <description>&lt;div class=&#34;flex flex-col text-surface shadow-secondary-1 dark:bg-surface-dark dark:text-white max-w-max lg:flex-row h-auto&#34; style=margin-bottom:-100px;&gt;
+
+&lt;figure class=&#34;w-full lg:w-1/2 hikedetailsfigure&#34;&gt;
+        &lt;img
+          class=&#34;my-0 rounded-md&#34;
+          srcset=&#34;
+          /hikes/mandy-lake-to-shelter/featured-027-Mandy-Lake-Road-to-Old-Shelter_hu4760707586361921002.jpg 330w,
+          /hikes/mandy-lake-to-shelter/featured-027-Mandy-Lake-Road-to-Old-Shelter_hu17423258571611310654.jpg 660w,
+          /hikes/mandy-lake-to-shelter/featured-027-Mandy-Lake-Road-to-Old-Shelter_hu2368328681499925363.jpg 1024w,
+          /hikes/mandy-lake-to-shelter/featured-027-Mandy-Lake-Road-to-Old-Shelter_hu13025641569725105260.jpg 2x&#34;
+          src=&#34;//localhost:1313/hikes/mandy-lake-to-shelter/featured-027-Mandy-Lake-Road-to-Old-Shelter_hu17423258571611310654.jpg&#34;
+          alt=&#34;Hike route: Mandy Lake Parking to Old Shelter&#34;
+        /&gt;
+  &lt;figcaption class=&#34;text-center&#34;&gt;Hike route: Mandy Lake Parking to Old Shelter&lt;/figcaption&gt;
+  
+  &lt;/figure&gt;
+  &lt;div class=&#34;flex flex-col justify-start pl-5 lg:w-1/2 sm:pb-7&#34;&gt;
+    &lt;h4 class=&#34;text-xl font-large mt-4&#34;&gt;Hike Details&lt;/h4&gt;
+      &lt;table width=100% class=&#34;w-full&#34;&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;my-4 text-base&#34;&gt;Trailhead:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;my-4 text-base&#34;&gt;&lt;a href=&#34;//localhost:1313/trailheads/mandy-lake-road/&#34; target=&#34;_blank&#34;&gt;Mandy Lake Road Gate&lt;/a&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;my-4 text-base&#34;&gt;Hike Length:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;my-4 text-base&#34;&gt;4 km&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;mb-2 text-base&#34;&gt;Route Type:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;mb-2 text-base&#34;&gt;Out &amp; Back&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;mb-2 text-base&#34; rowspan=&#34;2&#34;&gt;Difficulty:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;text-base&#34;&gt;
+
+
+
+
+
+
+
+
+	
+	
+Rated 40: Easy
+&lt;div class=&#34;progress&#34;&gt;
+  &lt;div class=&#34;progress inner&#34; style=&#34;width:18%;background-color:green!important&#34;&gt;40&amp;nbsp;/&amp;nbsp;221&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;mb-2 text-base&#34;&gt;&lt;sup&gt;&lt;a href=&#34;//localhost:1313/hike-ratings/&#34;&#34; target=&#34;_blank&#34;&gt;&amp;#9432; Ratings Explained&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+      &lt;/table&gt;
+    &lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/mandy-lake-to-shelter/featured-027-Mandy-Lake-Road-to-Old-Shelter.jpg" />
     </item>
     
@@ -24,7 +80,63 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/hikes/mandy-lake-tr-to-oliver-lake/</guid>
-      <description></description>
+      <description>&lt;div class=&#34;flex flex-col text-surface shadow-secondary-1 dark:bg-surface-dark dark:text-white max-w-max lg:flex-row h-auto&#34; style=margin-bottom:-100px;&gt;
+
+&lt;figure class=&#34;w-full lg:w-1/2 hikedetailsfigure&#34;&gt;
+        &lt;img
+          class=&#34;my-0 rounded-md&#34;
+          srcset=&#34;
+          /hikes/mandy-lake-tr-to-oliver-lake/featured-028-Mandy-Lake-PK-to-Oliver-Lake-East_hu12666325018217920395.jpg 330w,
+          /hikes/mandy-lake-tr-to-oliver-lake/featured-028-Mandy-Lake-PK-to-Oliver-Lake-East_hu14148080722519982686.jpg 660w,
+          /hikes/mandy-lake-tr-to-oliver-lake/featured-028-Mandy-Lake-PK-to-Oliver-Lake-East_hu5640460428060666375.jpg 1024w,
+          /hikes/mandy-lake-tr-to-oliver-lake/featured-028-Mandy-Lake-PK-to-Oliver-Lake-East_hu356246208058728564.jpg 2x&#34;
+          src=&#34;//localhost:1313/hikes/mandy-lake-tr-to-oliver-lake/featured-028-Mandy-Lake-PK-to-Oliver-Lake-East_hu14148080722519982686.jpg&#34;
+          alt=&#34;Hike route: Mandy Lake Parking to Oliver Lake East&#34;
+        /&gt;
+  &lt;figcaption class=&#34;text-center&#34;&gt;Hike route: Mandy Lake Parking to Oliver Lake East&lt;/figcaption&gt;
+  
+  &lt;/figure&gt;
+  &lt;div class=&#34;flex flex-col justify-start pl-5 lg:w-1/2 sm:pb-7&#34;&gt;
+    &lt;h4 class=&#34;text-xl font-large mt-4&#34;&gt;Hike Details&lt;/h4&gt;
+      &lt;table width=100% class=&#34;w-full&#34;&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;my-4 text-base&#34;&gt;Trailhead:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;my-4 text-base&#34;&gt;&lt;a href=&#34;//localhost:1313/trailheads/mandy-lake-road/&#34; target=&#34;_blank&#34;&gt;Mandy Lake Road Gate&lt;/a&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;my-4 text-base&#34;&gt;Hike Length:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;my-4 text-base&#34;&gt;5.4 km&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;mb-2 text-base&#34;&gt;Route Type:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;mb-2 text-base&#34;&gt;Out &amp; Back&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;mb-2 text-base&#34; rowspan=&#34;2&#34;&gt;Difficulty:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;text-base&#34;&gt;
+
+
+
+
+
+
+
+	 
+	
+	
+Rated 88: Moderate
+&lt;div class=&#34;progress&#34;&gt;
+  &lt;div class=&#34;progress inner&#34; style=&#34;width:40%;background-color:teal!important&#34;&gt;88&amp;nbsp;/&amp;nbsp;221&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;mb-2 text-base&#34;&gt;&lt;sup&gt;&lt;a href=&#34;//localhost:1313/hike-ratings/&#34;&#34; target=&#34;_blank&#34;&gt;&amp;#9432; Ratings Explained&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+      &lt;/table&gt;
+    &lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/mandy-lake-tr-to-oliver-lake/featured-028-Mandy-Lake-PK-to-Oliver-Lake-East.jpg" />
     </item>
     
@@ -34,7 +146,63 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/hikes/mandy-lake-to-waskahegan/</guid>
-      <description></description>
+      <description>&lt;div class=&#34;flex flex-col text-surface shadow-secondary-1 dark:bg-surface-dark dark:text-white max-w-max lg:flex-row h-auto&#34; style=margin-bottom:-100px;&gt;
+
+&lt;figure class=&#34;w-full lg:w-1/2 hikedetailsfigure&#34;&gt;
+        &lt;img
+          class=&#34;my-0 rounded-md&#34;
+          srcset=&#34;
+          /hikes/mandy-lake-to-waskahegan/featured-029-Mandy-Lake-PK-to-Waskahegan-Loop_hu7113103920070820690.jpg 330w,
+          /hikes/mandy-lake-to-waskahegan/featured-029-Mandy-Lake-PK-to-Waskahegan-Loop_hu11229719647133196463.jpg 660w,
+          /hikes/mandy-lake-to-waskahegan/featured-029-Mandy-Lake-PK-to-Waskahegan-Loop_hu13394373707940629011.jpg 1024w,
+          /hikes/mandy-lake-to-waskahegan/featured-029-Mandy-Lake-PK-to-Waskahegan-Loop_hu9657573925811115838.jpg 2x&#34;
+          src=&#34;//localhost:1313/hikes/mandy-lake-to-waskahegan/featured-029-Mandy-Lake-PK-to-Waskahegan-Loop_hu11229719647133196463.jpg&#34;
+          alt=&#34;Hike route: Mandy Lake Parking to Waskahegan Trail Loop&#34;
+        /&gt;
+  &lt;figcaption class=&#34;text-center&#34;&gt;Hike route: Mandy Lake Parking to Waskahegan Trail Loop&lt;/figcaption&gt;
+  
+  &lt;/figure&gt;
+  &lt;div class=&#34;flex flex-col justify-start pl-5 lg:w-1/2 sm:pb-7&#34;&gt;
+    &lt;h4 class=&#34;text-xl font-large mt-4&#34;&gt;Hike Details&lt;/h4&gt;
+      &lt;table width=100% class=&#34;w-full&#34;&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;my-4 text-base&#34;&gt;Trailhead:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;my-4 text-base&#34;&gt;&lt;a href=&#34;//localhost:1313/trailheads/mandy-lake-road/&#34; target=&#34;_blank&#34;&gt;Mandy Lake Road Gate&lt;/a&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;my-4 text-base&#34;&gt;Hike Length:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;my-4 text-base&#34;&gt;8.1 km&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;mb-2 text-base&#34;&gt;Route Type:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;mb-2 text-base&#34;&gt;Loop&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;mb-2 text-base&#34; rowspan=&#34;2&#34;&gt;Difficulty:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;text-base&#34;&gt;
+
+
+
+
+
+
+
+	
+	
+	
+Rated 152: Strenuous
+&lt;div class=&#34;progress&#34;&gt;
+  &lt;div class=&#34;progress inner&#34; style=&#34;width:69%;background-color:blue!important&#34;&gt;152&amp;nbsp;/&amp;nbsp;221&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;mb-2 text-base&#34;&gt;&lt;sup&gt;&lt;a href=&#34;//localhost:1313/hike-ratings/&#34;&#34; target=&#34;_blank&#34;&gt;&amp;#9432; Ratings Explained&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+      &lt;/table&gt;
+    &lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/mandy-lake-to-waskahegan/featured-029-Mandy-Lake-PK-to-Waskahegan-Loop.jpg" />
     </item>
     
@@ -44,7 +212,63 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/hikes/north-of-502/</guid>
-      <description></description>
+      <description>&lt;div class=&#34;flex flex-col text-surface shadow-secondary-1 dark:bg-surface-dark dark:text-white max-w-max lg:flex-row h-auto&#34; style=margin-bottom:-100px;&gt;
+
+&lt;figure class=&#34;w-full lg:w-1/2 hikedetailsfigure&#34;&gt;
+        &lt;img
+          class=&#34;my-0 rounded-md&#34;
+          srcset=&#34;
+          /hikes/north-of-502/featured-036-North-of-Township-Road-502-Loop_hu99215114272196142.jpg 330w,
+          /hikes/north-of-502/featured-036-North-of-Township-Road-502-Loop_hu15124793028861128725.jpg 660w,
+          /hikes/north-of-502/featured-036-North-of-Township-Road-502-Loop_hu4956163923563114680.jpg 1024w,
+          /hikes/north-of-502/featured-036-North-of-Township-Road-502-Loop_hu17198974779446071358.jpg 2x&#34;
+          src=&#34;//localhost:1313/hikes/north-of-502/featured-036-North-of-Township-Road-502-Loop_hu15124793028861128725.jpg&#34;
+          alt=&#34;Hike route: North of Township Road 502 Loop&#34;
+        /&gt;
+  &lt;figcaption class=&#34;text-center&#34;&gt;Hike route: North of Township Road 502 Loop&lt;/figcaption&gt;
+  
+  &lt;/figure&gt;
+  &lt;div class=&#34;flex flex-col justify-start pl-5 lg:w-1/2 sm:pb-7&#34;&gt;
+    &lt;h4 class=&#34;text-xl font-large mt-4&#34;&gt;Hike Details&lt;/h4&gt;
+      &lt;table width=100% class=&#34;w-full&#34;&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;my-4 text-base&#34;&gt;Trailhead:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;my-4 text-base&#34;&gt;&lt;a href=&#34;//localhost:1313/trailheads/mandy-lake-road/&#34; target=&#34;_blank&#34;&gt;Mandy Lake Road Gate&lt;/a&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;my-4 text-base&#34;&gt;Hike Length:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;my-4 text-base&#34;&gt;5.1 km&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;mb-2 text-base&#34;&gt;Route Type:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;mb-2 text-base&#34;&gt;Loop&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;mb-2 text-base&#34; rowspan=&#34;2&#34;&gt;Difficulty:&lt;/td&gt;
+          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;text-base&#34;&gt;
+
+
+
+
+
+
+
+	 
+	
+	
+Rated 83: Moderate
+&lt;div class=&#34;progress&#34;&gt;
+  &lt;div class=&#34;progress inner&#34; style=&#34;width:38%;background-color:teal!important&#34;&gt;83&amp;nbsp;/&amp;nbsp;221&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;mb-2 text-base&#34;&gt;&lt;sup&gt;&lt;a href=&#34;//localhost:1313/hike-ratings/&#34;&#34; target=&#34;_blank&#34;&gt;&amp;#9432; Ratings Explained&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+      &lt;/table&gt;
+    &lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/north-of-502/featured-036-North-of-Township-Road-502-Loop.jpg" />
     </item>
     
