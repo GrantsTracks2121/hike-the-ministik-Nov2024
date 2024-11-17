@@ -1,0 +1,21 @@
+
+<div class="grid grid-cols-12 md:items-center w-full max-w-screen-sm md:max-w-screen-md mx-auto px-4">
+    <div class="col-span-12 md:col-span-auto md:col-start-1 md:col-end-9 md:row-start-1 md:row-end-1 bg-red-500">
+
+            <picture class="relative block w-full h-0 pb bg-gray-300 overflow-hidden shadow-lg" style="padding-top: 100%;">
+                <img class="absolute inset-0 w-full h-full object-cover" src="Ministik-fullMap.png" alt="Ministik">
+            </picture>
+
+    </div>
+    <div class="col-span-12 md:col-span-auto md:col-start-7 md:col-end-13 md:row-start-1 md:row-end-1 -mt-8 md:mt-0 relative z-10 px-4 md:px-0">
+        <div class="p-8 md:p-8 shadow-lg" style="background: rgba(3, 162, 96, 0.7);">
+            <p class="px-2.5 mb-2 text-2xl font-medium rounded-2xl" style="background: rgba(209, 236, 225, 0.7);">
+                <span >The Ministik Lake Game Bird Sanctuary</span>
+            </p>
+            <p class="mb-2 text-sm text-gray-700">Want to take a walk on the wild side? </p>
+                <p class="mb-2 text-sm text-gray-700">The "Ministik" (for short) is a largely unmaintained area of public land about 24 km east from Edmonton, Alberta. Choose from short, liesurely hikes along a road to day-long excursions that may test your stamina and route-finding abilities. You'll find all the options here.</p>
+                <p class="mb-2 text-sm text-gray-700">If you're new to the Minisik, click on the <i>Start Here</i> link below to learn more about the area and for suggested starter hikes.</p>
+
+        </div>
+    </div>
+</div>

@@ -1,0 +1,18 @@
+{{ $img := $.Page.Resources.GetMatch (.Get 0) }}
+{{ $imgproz := (.Get 1) }}
+{{ $imgalt := (.Get 2) }}
+{{ $imgcaption := (.Get 3) }}
+{{ with $img }}
+  {{ with $imgcaption }}
+  <figure class="box-right-{{ $imgproz }}"> 
+    <img src="{{- $img.RelPermalink -}}" class="img-right-{{ $imgproz }}" loading="lazy" alt="{{- $imgalt -}}">
+    <div class="img-right-{{ $imgproz }}-caption">
+      <figcaption>
+        {{- $imgcaption -}}
+      </figcaption>
+    </div>
+  </figure>
+  {{ else }}
+    <img src="{{- $img.RelPermalink -}}" class="image-right-{{ $imgproz }}" alt="{{- $imgalt -}}">
+  {{ end }}
+{{ end }}

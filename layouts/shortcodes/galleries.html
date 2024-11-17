@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1, maximum-scale=1">
+   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/nanogallery2@3.0.5/dist/css/nanogallery2.min.css">
+   <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/nanogallery2@3.0.5/dist/jquery.nanogallery2.min.js"></script>
+</head>
+</head>
+<body>
+   <div data-nanogallery2='{
+      "thumbnailDisplayTransition":          "none",
+       "thumbnailDisplayTransitionDuration":  500,
+       "thumbnailDisplayInterval":            30,
+       "galleryDisplayTransition":            "none",
+       "galleryDisplayTransitionDuration":    500,
+       "galleryDisplayMode": "fullContent",
+       "thumbnailDisplayOutsideScreen": "false",
+       "eventsDebounceDelay": 10,
+       "thumbnailL1BorderHorizontal": 0,
+       "thumbnailL1BorderVertical": 0,
+       "thumbnailAlignment": "fillWidth",
+       "thumbnailGutterWidth": 10,
+       "thumbnailGutterHeight": 10,
+       "thumbnailWidth": "300",
+       "thumbnailHeight": "300",
+       "thumbnailLabel": { "position": "overImageOnBottom", "titleMultiLine": true },
+       "thumbnailAlignment": "center",
+       "thumbnailOpenImage": true,
+       "gallerySorting": "titleDesc",
+       "thumbnailHoverEffect2": "image_scale_1.00_1.10|label_backgroundColor_rgba(0,0,0,0)_rgba(255,255,255,0)",
+       "galleryTheme": {
+          "thumbnail": {
+              "borderRadius": "5px"
+          }
+       },
+       "viewerToolbar":   {
+         "display":    true,
+         "standard":   "label"
+       },
+    "viewerTools":     {
+         "topLeft":    "pageCounter, playPauseButton",
+         "topRight":   "shareButton, zoomButton, fullscreenButton, closeButton"
+       },
+       "viewerGalleryTWidth": 60,
+       "viewerGalleryTHeight": 60
+  }'>
+      {{ .Inner }}
+  </div>
+  </body>
+  </html>

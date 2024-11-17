@@ -1,0 +1,30 @@
+What did I do to change the font of the site title?
+
+in assets/css/custom.css
+
+Added downloading of Rocksalt font
+made "RockSalted" class
+
+edited /layouts/partials/header/basic.html
+basic.html seems to be called by the other header options, so changing once here affects the rest - I THINK.
+
+to in style the site title
+
+            {{ if not .Site.Params.disableTextInHeader | default true }}
+            <a href="{{ "" | relLangURL }}" class="text-base font-medium text-gray-500 hover:text-gray-900 RockSalted">{{
+                .Site.Title | markdownify
+                }}</a>
+            {{ end }}
+
+This works for the desktop version but not mobile
+
+Okay I think I'm on to something - 
+
+https://blowfish.page/docs/advanced-customisation/#using-additional-fonts
+
+Says you put the ttf file in your site
+You put the ttf file (for me RockSalt-Regular.ttf) in static/fonts
+create the fonts folder if you have to.
+
+I've done that - and see I was already calling the font from that folder and the RockSalted class worked anyway. HOW is that?
+

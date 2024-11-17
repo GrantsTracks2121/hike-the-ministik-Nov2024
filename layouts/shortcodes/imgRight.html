@@ -1,0 +1,49 @@
+{{/*  GSW: source of the base code: https://tekki-tipps.de/en/hugo-page-bundles-images/ */}}
+{{/*  GSW: help from: https://web.dev/articles/codelab-serve-images-webp */}}
+{{/*  GSW: got split image idea from: https://martijnvanvreeden.nl/hugo-shortcode-to-serve-images-in-next-gen-formats/ */}}
+{{/*  GSW: The images in the content of the post will be housed in the "incontent" folder - both webp and jpg formats  */}}
+{{/*  GSW: The original code used $img.RelPermalink but that had the extension attached in the srcset lines  */}}
+{{/*  GSW: in Nov, 2024 I added AVIF to the options. */}}
+{{/*  GSW: class nozoom in image img tag relates to clicking and seeing a larger version of pic in blowfish theme - this turns it off because it wasn't working for webp pictures, nor, I found later, with the AVIF images. This has to be Blowfish deficiency, not the browser. */}}
+{{/*  GSW: the original version had an "imgproz" which corresponded to one of the css classes I have set up in custom.css. IT's not here because tailwind css is doing the job. */}}
+
+
+{{ $img := $.Page.Resources.GetMatch (.Get 0) }}
+{{ $imgalt := (.Get 1) }}
+{{ $imgcaption := (.Get 2) }}
+{{ $type_arr := split $img "." }}
+{{ $srcbase := index $type_arr 0 }}
+{{ with $srcbase }}
+  {{ with $imgcaption }}
+  <div class="flex-auto mt-10 sm:-mb-6">
+    <div class="sm:w-full lg:w-1/2 lg:float-right rounded-lg -mt-4 lg:ml-8 sm:mb-10">
+    <figure class="my-0 rounded-md nozoom h-full w-full">
+      <picture>
+        <source type="image/avif" srcset="
+        {{- $srcbase -}}-small.avif 330w, 
+        {{- $srcbase -}}-medium.avif 660w, 
+        {{- $srcbase -}}-large.avif 1024w, 
+        {{- $srcbase -}}-fullsize.avif 2x" 
+        />
+       <img 
+       srcset="
+        {{ ($img.Resize "330x") }} 330w, 
+        {{ ($img.Resize "660x") }} 660w, 
+        {{ ($img.Resize "1024x") }} 1024w, 
+        {{ ($img.Resize "1366x") }} 2x" 
+        src="{{ ($img.Resize "660x") }}"
+              alt="{{- $imgcaption -}}"
+              loading="lazy" decoding="async" alt="{{- $imgcaption -}}" />
+      </picture>
+          <div>
+            <figcaption>
+              {{- $imgcaption -}}
+            </figcaption>
+          </div>
+  </figure>
+  {{ else }}
+    <img src="{{- $img.RelPermalink -}}" style="display: block; float: right; margin: 0.3rem 0 0 1.2rem; margin-bottom: 2px;width: 50%; border-radius: 10px;" class="nozoom" loading="lazy" decoding="async" alt="{{- $imgalt -}}">
+  {{ end }}
+{{ end }}
+  </div>
+</div>

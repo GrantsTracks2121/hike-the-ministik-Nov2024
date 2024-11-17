@@ -1,0 +1,42 @@
+{{- $min := .Get "min" | default 0.0 | float -}}
+{{- $cur := .Get "cur" | default 0.0 | float -}}
+
+{{/* GSW EDIT: the color should be set by the "if then else" statement below */}}
+{{/* GSW EDIT: if the color isn't set, it will be hotpink, meaning something is wrong */}}
+
+{{- $color := .Get "color" | default "hotpink" -}}
+
+{{/* GSW EDIT: Change the highest diff rated hike number in params.toml in the "gswparams" section. */}}
+{{/* This code is reading that value. */}}
+{{- $max := .Site.Params.gswparams.HikeMaxRating | float -}}
+
+{{/* GSW EDIT: Determine the difficulty label to insert in bar graph */}}
+{{ $diffLabel := "No Label" }}
+
+{{/* GSW EDIT: the difficulty ratings are divided into quarters */}}
+{{/* GSW EDIT: Determine which quarter the current rating is and set both the label and color of the progress bar */}}
+
+{{ if (lt $cur ( mul $max 0.25 )) }}
+	{{ $diffLabel = "Easy"}}
+	{{ $color = "green"}}
+{{ else if and (ge $cur (mul $max 0.25)) (lt $cur (mul $max 0.5)) }}	 
+	{{ $diffLabel = "Moderate"}}
+	{{ $color = "teal"}}
+{{ else if and (ge $cur (mul $max 0.5)) (lt $cur (mul $max 0.75)) }}	
+	{{ $diffLabel = "Strenuous"}}
+	{{ $color = "blue"}}
+{{ else }}
+	{{ $diffLabel = "Expedition"}}
+	{{ $color = "black"}}
+{{ end }}
+
+{{- /* Mode: slash or percent */ -}}
+{{- $mode := .Get "mode" | default "slash" -}}
+
+{{- $percent := math.Round (mul (div (add $min $cur) (add $min $max)) 100) -}}
+Rated {{ $cur }}: {{ $diffLabel }}
+<div class="progress">
+  <div class="progress inner" style="width:{{ $percent }}%;background-color:{{ $color }}!important">
+    {{- if eq $mode "slash" -}}{{ $cur }}&nbsp;/&nbsp;{{ $max }}{{ else }}{{ $percent }}&nbsp;%{{- end -}}
+  </div>
+</div>

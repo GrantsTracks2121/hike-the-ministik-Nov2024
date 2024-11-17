@@ -1,0 +1,19 @@
+Article
+#
+Article will embed a single article into a markdown file. The link to the file should be the .RelPermalink of the file to be embedded. Note that the shortcode will not display anything if it’s referencing it’s parent. Note: if you are running your website in a subfolder like Blowfish (i.e. /blowfish/) please include that path in the link.
+
+example
+{{< article link="/docs/welcome/" >}}
+
+
+YouTube
+For this URL 
+https://www.youtube.com/watch?v=0RKpf3rK57I
+
+The shorcode uses only the ID
+
+{{< youtube 0RKpf3rK57I >}}
+
+There are many parameters you can add
+
+https://gohugo.io/content-management/shortcodes/

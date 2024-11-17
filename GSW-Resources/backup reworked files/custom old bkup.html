@@ -1,0 +1,102 @@
+
+
+<link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">
+
+<!--The three boxes widths are set to be different sizes at different screen sizes the first two from the left are "sm:w-2/3 md:w-2/3 lg:w-1/4" and third one is "sm:w-2/3 md:w-2/3 lg:w-1/3" the different being it is 1/3 of the container size when at a large screen size. Otherwise they wrap into two rows-->
+<div class="flex flex-wrap justify-center items-stretch">
+  <div class="m-4 w-full sm:w-2/3 md:w-2/3 lg:w-1/4 shadow-lg rounded-lg border-2 h-full">
+    <div class="rounded shadow p-4">
+    <div>
+      <h3 class="text-center border-b-2 border-neutral-100 mt-2 mb-2 font-bold text-2xl RockSalted">Start Here</h3>
+      <p class="mt-2 mb-4 text-center">
+        New to the Ministik Bird Sanctuary?</b> Learn more before you hit the trails.
+      </p>
+    
+    </div>
+
+  </div>
+  <div class="text-center !rounded-md bg-primary-600 px-4 py-2 !text-neutral !no-underline hover:!bg-primary-500 dark:bg-primary-800 dark:hover:!bg-primary-700">
+    <a href="/about" target="_self" role="button">
+    Learn More →
+    </a>
+  </div>
+  </div>
+  <div class="m-4 w-full sm:w-2/3 md:w-2/3 lg:w-1/4 shadow-lg rounded-lg border-2 h-full">
+    <div class="rounded shadow p-4">
+      <h3 class="text-center border-b-2 border-neutral-100 mt-2 mb-2 font-bold text-2xl RockSalted">Hikes by Trailhead</h3>
+      <p class="mt-2 mb-4 text-center">
+        See what hikes start from each of the ten Ministik trailheads.
+      </p>
+
+    </div>
+    <div class="text-center !rounded-md bg-primary-600 px-4 py-2 !text-neutral !no-underline hover:!bg-primary-500 dark:bg-primary-800 dark:hover:!bg-primary-700">
+      <a href="/trailheads" target="_self" role="button">Browse by Trailhead →</a>
+    </div>
+  </div>
+  <div class="m-4 w-full sm:w-2/3 md:w-2/3 lg:w-1/3 shadow-lg rounded-lg border-2 h-full">
+    <div class="rounded shadow p-4">
+      <h3 class="text-center border-b-2 border-neutral-100 mt-2 mb-2 font-bold text-2xl RockSalted">Hikes by Length</h3>
+      <p class="mt-2 mb-4 text-center">
+        With your energy level and your urge for exploration in mind, browse hikes by length.
+      </p>
+    </div>
+    <div class="text-center !rounded-md bg-primary-600 px-4 py-2 !text-neutral !no-underline hover:!bg-primary-500 dark:bg-primary-800 dark:hover:!bg-primary-700">
+      <a href="/hikes-by-length" target="_self" role="button">
+        Browse by Hike Length →
+        </a>
+    </div>
+  </div>
+</div>
+
+{{/* GSW: This code below to the end is a copy of background.html */}}
+{{ $disableImageOptimization := .Site.Params.disableImageOptimization | default false }}
+
+    <div class="relative">
+        <div class="absolute inset-x-0 bottom-0 h-1/2 bg-gray-100"></div>
+        <div class="mx-auto max-w-7xl p-0">
+            <div class="relative sm:overflow-hidden">
+                <div class="fixed inset-x-0 top-0" style="z-index:-10">
+                    {{ $homepageImage := "" }}
+                    {{ with .Site.Params.defaultBackgroundImage }}
+                        {{ if or (strings.HasPrefix . "http:") (strings.HasPrefix . "https:") }}
+                            {{ $homepageImage = resources.GetRemote . }}
+                        {{ else }}
+                            {{ $homepageImage = resources.Get . }}
+                        {{ end }}
+                    {{ end }}
+                    {{ with .Site.Params.homepage.homepageImage }}
+                        {{ if or (strings.HasPrefix . "http:") (strings.HasPrefix . "https:") }}
+                            {{ $homepageImage = resources.GetRemote . }}
+                        {{ else }}
+                            {{ $homepageImage = resources.Get . }}
+                        {{ end }}
+                    {{ end }}
+                    {{ if $homepageImage }}
+                    <img class="w-full h-[1000px] object-cover m-0 nozoom" src="{{ $homepageImage.RelPermalink }}" role="presentation">
+                    <div
+                        class="absolute inset-0 h-[1000px] bg-gradient-to-t from-neutral dark:from-neutral-800 to-transparent mix-blend-normal">
+                    </div>
+                    <div
+                        class="opacity-60 absolute inset-0 h-[1000px] bg-gradient-to-t from-neutral dark:from-neutral-800 to-neutral-100 dark:to-neutral-800 mix-blend-normal">
+                    </div>
+                    {{ end }}
+                </div>
+                
+                </div>
+            </div>
+        </div>
+    </div>
+</article>
+
+{{ if .Site.Params.homepage.layoutBackgroundBlur | default false }}
+<div id="background-blur" class="fixed opacity-0 inset-x-0 top-0 h-full single_hero_background nozoom backdrop-blur-2xl"></div>
+<script>
+    window.addEventListener('scroll', function (e) {
+        var scroll = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop || 0;
+        var background_blur = document.getElementById('background-blur');
+        background_blur.style.opacity = (scroll / 300)
+    });
+</script>
+{{ end }}
+
+

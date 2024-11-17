@@ -1,0 +1,20 @@
+---
+title: ""
+date: "year-month-day"
+categories: 
+  - "Alberta"
+  - "Geocaching"
+  - "Ministik"
+  - "Walking"
+showSummary: true
+summary: ""
+---
+
+### My Track Today
+
+
+
+
+### Image Gallery
+
+{{< gallery match="images/*" loadJQuery=true sortOrder="asc" rowHeight="200" margins="10" thumbnailResizeOptions="600x600 q90 Lanczos" previewType="blur" embedPreview=true thumbnailHoverEffect=enlarge lastRow=justify showExif=true >}}

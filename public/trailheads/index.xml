@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hike the Ministik!</title>
+    <link>//localhost:1313/trailheads/</link>
+    <description>Recent content on Hike the Ministik!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 </copyright>
+    <atom:link href="//localhost:1313/trailheads/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fairbrother Corner Trailhead</title>
+      <link>//localhost:1313/trailheads/fairbrother-corner/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/trailheads/fairbrother-corner/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Misasin Trailhead</title>
+      <link>//localhost:1313/trailheads/misasin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/trailheads/misasin/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>North Miquelon Road Trailhead</title>
+      <link>//localhost:1313/trailheads/north-miquelon-road/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/trailheads/north-miquelon-road/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Site 2 Parking Lot / Trailhead</title>
+      <link>//localhost:1313/trailheads/site-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/trailheads/site-2/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Site 33 Trailhead</title>
+      <link>//localhost:1313/trailheads/site-33/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/trailheads/site-33/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Waskahegan Berg Section - South Trailhead</title>
+      <link>//localhost:1313/trailheads/berg-south/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/trailheads/berg-south/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Stove Lake Trailhead</title>
+      <link>//localhost:1313/trailheads/stove-lake-trailhead/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/trailheads/stove-lake-trailhead/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Francis Edward Williams Trailhead</title>
+      <link>//localhost:1313/trailheads/few/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/trailheads/few/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Mandy Lake Road Trailhead</title>
+      <link>//localhost:1313/trailheads/mandy-lake-road/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/trailheads/mandy-lake-road/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Joseph Lake Trailhead</title>
+      <link>//localhost:1313/trailheads/joseph-lake/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/trailheads/joseph-lake/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>U of A Field Station Access Road Gate</title>
+      <link>//localhost:1313/trailheads/uofa-road/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/trailheads/uofa-road/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Wildland Meadows Trailhead</title>
+      <link>//localhost:1313/trailheads/wildland-meadows/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/trailheads/wildland-meadows/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

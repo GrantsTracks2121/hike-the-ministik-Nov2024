@@ -1,0 +1,120 @@
+{{/* Determine the correct context and scope */}}
+{{/* This allows for different logic depending on where the partial is called */}}
+{{ $context := . }}
+{{ $scope := default nil }}
+
+{{ if (reflect.IsMap . ) }}
+  {{ $context = .context }}
+  {{ $scope = cond (not .scope) nil .scope }}
+{{ end }}
+
+{{ with $context }}
+{{ $meta := newScratch }}
+
+{{/* Gather partials for this context */}}
+{{ if .Params.showDate | default (.Site.Params.article.showDate | default true) }}
+  {{ $meta.Add "partials" (slice (partial "meta/date.html" .Date)) }}
+{{else if and (eq $scope "single") (.Params.showDateOnlyInArticle | default (.Site.Params.article.showDateOnlyInArticle | default false)) }}
+  {{ $meta.Add "partials" (slice (partial "meta/date.html" .Date)) }}
+{{ end }}
+
+{{ if and (.Params.showDateUpdated | default (.Site.Params.article.showDateUpdated | default false)) (ne (partial
+"functions/date.html" .Date) (partial "functions/date.html" .Lastmod)) }}
+  {{ $meta.Add "partials" (slice (partial "meta/date-updated.html" .Lastmod)) }}
+{{ end }}
+
+{{ if and (.Params.showWordCount | default (.Site.Params.article.showWordCount | default false)) (ne .WordCount 0) }}
+  {{ $meta.Add "partials" (slice (partial "meta/word-count.html" .)) }}
+{{ end }}
+
+{{ if and (.Params.showReadingTime | default (.Site.Params.article.showReadingTime | default true)) (ne .ReadingTime 0)
+}}
+  {{ $meta.Add "partials" (slice (partial "meta/reading-time.html" .)) }}
+{{ end }}
+
+{{ if and (not .Params.externalURL) (.Params.showViews | default (.Site.Params.article.showViews | default false)) }}
+  {{ $meta.Add "partials" (slice (partial "meta/views.html" .)) }}
+{{ end }}
+
+{{ if and (not .Params.externalURL) (.Params.showLikes | default (.Site.Params.article.showLikes | default false)) }}
+  {{ $meta.Add "partials" (slice (partial "meta/likes.html" .)) }}
+{{ end }}
+
+{{ if and (eq $scope "single") (not .Params.externalURL) (.Params.showLikes | default (.Site.Params.article.showLikes | default false)) }}
+  {{ $meta.Add "partials" (slice (partial "meta/likes_button.html" .)) }}
+{{ end }}
+
+{{ if and (eq $scope "single") (.Params.showEdit | default (.Site.Params.article.showEdit | default false)) }}
+  {{ $meta.Add "partials" (slice (partial "meta/edit.html" .)) }}
+{{ end }}
+
+{{ if and (eq $scope "single") (.Params.showZenMode | default (.Site.Params.article.showZenMode | default false)) }}
+  {{ $meta.Add "partials" (slice (partial "meta/zen-mode.html" .)) }}
+{{ end }}
+
+
+<div class="flex flex-row flex-wrap items-center">
+  {{/* Output partials */}}
+  {{ with ($meta.Get "partials") }}
+  {{ delimit . "<span class=\"px-2 text-primary-500\">&middot;</span>" | safeHTML }}
+  {{ end }}
+
+  {{/* Output draft label */}}
+  {{ if and (eq $scope "single") (and .Draft .Site.Params.article.showDraftLabel) }}
+  <span class="pl-2">{{ partial "badge.html" (i18n "article.draft" | emojify) }}</span>
+  {{ end }}
+</div>
+
+{{ if .Params.showAuthorsBadges | default (.Site.Params.article.showAuthorsBadges | default false) }}
+<div class="flex flex-row flex-wrap items-center">
+  {{ range $taxonomy, $terms := .Site.Taxonomies }}
+  {{ if (eq $taxonomy "authors")}}
+  {{ if (gt (len ($context.GetTerms $taxonomy)) 0) }}
+  {{ range $i, $a := $context.GetTerms $taxonomy }}
+    {{ if not (eq $i 0) }} ,&nbsp; {{ end }} <div style="cursor: pointer;" onclick="window.open({{ $a.RelPermalink }},'_self')">{{ $a.LinkTitle }}</div>
+  {{ end }}
+  {{ end }}
+  {{ end }}
+  {{ end }}
+</div>
+{{ end }}
+
+{{/* Added by GSW to display call to action bubble to press badge button for more lists of similar hikes */}}
+  {{/* This code is from the "keywords partial" with the svg icon hard coded in. */}}
+  <div class="flex mt-2 mb-2">
+    <span
+      class="rounded-full bg-primary-500 dark:bg-primary-400 text-neutral-50 dark:text-neutral-800 px-1.5 py-[1px] text-xs font-normal"
+    >
+      <span class="flex flex-row items-center">
+        <span class="mr-1">
+          <span class="relative block icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M256 0C114.6 0 0 114.6 0 256s114.6 256 256 256s256-114.6 256-256S397.4 0 256 0zM256 128c17.67 0 32 14.33 32 32c0 17.67-14.33 32-32 32S224 177.7 224 160C224 142.3 238.3 128 256 128zM296 384h-80C202.8 384 192 373.3 192 360s10.75-24 24-24h16v-64H224c-13.25 0-24-10.75-24-24S210.8 224 224 224h32c13.25 0 24 10.75 24 24v88h16c13.25 0 24 10.75 24 24S309.3 384 296 384z"/></svg>
+          </span>
+      </span>
+        <span>Select a category to see similar hikes.</span>
+      </span>
+    </span>
+    </div>
+
+  {{/* End of GSW addition. */}}
+
+
+{{/* Output taxonomies */}}
+{{ if .Params.showTaxonomies | default (.Site.Params.article.showTaxonomies | default false) }}
+<div class="flex flex-row flex-wrap">
+  {{ range $taxonomy, $terms := .Site.Taxonomies }}
+  {{ if and (not (eq $taxonomy "authors")) (not (eq $taxonomy "series"))}}
+  {{ if (gt (len ($context.GetTerms $taxonomy)) 0) }}
+  {{/* GSW added margin-right style and took away original tailwind mr-2 class */}}
+  {{ range $context.GetTerms $taxonomy }}
+  <span style="margin-top:0.5rem; margin-right: 1.5rem;" onclick="window.open({{ .RelPermalink }},'_self');">
+    {{ partial "largebadge.html" .LinkTitle }}
+  </span>
+  {{ end }}
+  {{ end }}
+  {{ end }}
+  {{ end }}
+</div>
+{{ end }}
+
+{{ end }}

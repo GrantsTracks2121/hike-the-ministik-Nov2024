@@ -1,0 +1,113 @@
+{{ $img1 := (.Get "image1") }}
+{{ $img1folder := (.Get "image1folder") }}
+{{ $image1_and_ext := split $img1 "." }}
+{{ $img1basename := index $image1_and_ext 0 }}
+{{ $img1ext := index $image1_and_ext 1 }}
+{{ $img1caption := (.Get "image1caption") }}
+
+{{ $img2 := (.Get "image2") }}
+{{ $img2folder := (.Get "image2folder") }}
+{{ $image2_and_ext := split $img2 "." }}
+{{ $img2basename := index $image2_and_ext 0 }}
+{{ $img2ext := index $image2_and_ext 1 }}
+{{ $img2caption := (.Get "image2caption") }}
+
+{{ $img3 := (.Get "image3") }}
+{{ $img3folder := (.Get "image3folder") }}
+{{ $image3_and_ext := split $img3 "." }}
+{{ $img3basename := index $image3_and_ext 0 }}
+{{ $img3ext := index $image3_and_ext 1 }}
+{{ $img3caption := (.Get "image3caption") }}
+
+<div class="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-3 gap-4">
+<!-- Image 1 Block -->
+  <div class="flex flex-col overflow-hidden sm:-mb-8"> 
+    <figure>
+      <picture>
+        <source type="image/avif" srcset="
+        {{ $img1folder }}/{{- $img1basename -}}-small.avif 330w,
+        {{ $img1folder }}/{{- $img1basename -}}-medium.avif 660w,
+        {{ $img1folder }}/{{- $img1basename -}}-large.avif 1024w,
+        {{ $img1folder }}/{{- $img1basename -}}-fullsize.avif 2x" 
+        />
+       <img 
+       srcset="
+       {{ $img1folder }}/{{- $img1basename -}}-small.jpg 330w,
+       {{ $img1folder }}/{{- $img1basename -}}-medium.jpg 660w,
+       {{ $img1folder }}/{{- $img1basename -}}-large.jpg 1024w,
+       {{ $img1folder }}/{{- $img1basename -}}-fullsize.jpg 2x"
+        src="{{ $img1folder }}/{{- $img1basename -}}-medium.jpg"
+        loading="lazy" 
+        decoding="async" 
+        alt="{{- $img1caption -}}"
+        class="w-full h-auto nozoom" />
+      </picture>
+          <div>
+            <figcaption class="text-base" style="margin-left:10px;">
+              {{- $img1caption -}}
+            </figcaption>
+          </div>
+  </figure>
+  </div>
+{{/* Image 2 block */}}
+<!-- Image 2 Block -->
+<div class="flex flex-col overflow-hidden sm:-mb-8"> 
+<figure>
+      <picture>
+        <source type="image/avif" srcset="
+        {{ $img2folder }}/{{- $img2basename -}}-small.avif 330w,
+        {{ $img2folder }}/{{- $img2basename -}}-medium.avif 660w,
+        {{ $img2folder }}/{{- $img2basename -}}-large.avif 1024w,
+        {{ $img2folder }}/{{- $img2basename -}}-fullsize.avif 2x" 
+        />
+       <img 
+       srcset="
+       {{ $img2folder }}/{{- $img2basename -}}-small.jpg 330w,
+       {{ $img2folder }}/{{- $img2basename -}}-medium.jpg 660w,
+       {{ $img2folder }}/{{- $img2basename -}}-large.jpg 1024w,
+       {{ $img2folder }}/{{- $img2basename -}}-fullsize.jpg 2x"
+        src="{{ $img2folder }}/{{- $img2basename -}}-medium.jpg"
+        loading="lazy" 
+        decoding="async" 
+        alt="{{- $img2caption -}}"
+        class="w-full h-auto nozoom" />
+      </picture>
+          <div>
+            <figcaption class="text-base" style="margin-left:10px;">
+              {{- $img2caption -}}
+            </figcaption>
+          </div>
+  </figure>
+  </div>
+
+{{/* Image 3 block */}}
+<!-- Image 3 Block -->
+<div class="flex flex-col overflow-hidden sm:-mb-8"> 
+<figure>
+      <picture>
+        <source type="image/avif" srcset="
+        {{ $img3folder }}/{{- $img3basename -}}-small.avif 330w,
+        {{ $img3folder }}/{{- $img3basename -}}-medium.avif 660w,
+        {{ $img3folder }}/{{- $img3basename -}}-large.avif 1024w,
+        {{ $img3folder }}/{{- $img3basename -}}-fullsize.avif 2x" 
+        />
+       <img 
+       srcset="
+       {{ $img3folder }}/{{- $img3basename -}}-small.jpg 330w,
+       {{ $img3folder }}/{{- $img3basename -}}-medium.jpg 660w,
+       {{ $img3folder }}/{{- $img3basename -}}-large.jpg 1024w,
+       {{ $img3folder }}/{{- $img3basename -}}-fullsize.jpg 2x"
+        src="{{ $img3folder }}/{{- $img3basename -}}-medium.jpg"
+        loading="lazy" 
+        decoding="async" 
+        alt="{{- $img3caption -}}"
+        class="w-full h-auto nozoom" />
+      </picture>
+          <div>
+            <figcaption class="text-base" style="margin-left:10px;">
+              {{- $img3caption -}}
+            </figcaption>
+          </div>
+  </figure>
+  </div>
+</div><!-- closing container div -->

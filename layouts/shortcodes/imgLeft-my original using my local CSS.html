@@ -1,0 +1,36 @@
+{{/*  GSW:  source of the base code: https://tekki-tipps.de/en/hugo-page-bundles-images/ */}}
+{{/*  GSW:  help from: https://web.dev/articles/codelab-serve-images-webp */}}
+{{/*  GSW:  got split image idea from: https://martijnvanvreeden.nl/hugo-shortcode-to-serve-images-in-next-gen-formats/ */}}
+{{/*  GSW: The images in the content of the post will be housed in the "incontent" folder - both webp and jpg formats  */}}
+{{/*  GSW: The original code used $img.RelPermalink but that had the extension attached in the srcset lines  */}}
+{{/*  GSW: so I added the strings.TrimSuffix to cut that off - took some doing but it seems to work! EDIT - but now I can't find it here. Must have gotten rid of it?? */}}
+{{/*  GSW: I added AVIF to the options in case I decide to adopt in the future. EDIT - I must have taken this out again? */}}
+{{/*  GSW: class nozoom in image img tag relates to clicking and seeing a larger version of pic in blowfish theme - this turns it off because it wasn't working for webp pictures  */}}
+{{/*  GSW: the "imgproz" number needs to correspond to one of the css class I have set up in custom.css. I have 50 which works well with the "single.html" layout and 30 which works well with the "simple.html" layout. */}}
+
+
+{{ $img := $.Page.Resources.GetMatch (.Get 0) }}
+{{ $imgproz := (.Get 1) }}
+{{ $imgalt := (.Get 2) }}
+{{ $imgcaption := (.Get 3) }}
+{{ $type_arr := split $img "." }}
+{{ $srcbase := index $type_arr 0 }}
+{{ with $srcbase }}
+  {{ with $imgcaption }}
+  <figure class="box-left-{{ $imgproz }}">
+    <picture>
+      <source type="image/webp" srcset="{{- $srcbase -}}.avif">
+      <source type="image/webp" srcset="{{- $srcbase -}}.webp">
+      <source type="image/jpeg" srcset="{{- $srcbase -}}.jpg">
+          <img src="{{- $srcbase -}}" class="nozoom" loading="lazy" decoding="async" alt="{{- $imgalt -}}">
+    </picture>
+          <div class="img-left-{{ $imgproz }}-caption">
+            <figcaption>
+              {{- $imgcaption -}}
+            </figcaption>
+          </div>
+  </figure>
+  {{ else }}
+    <img src="{{- $img.RelPermalink -}}" style="display: block; float: left; margin: 0.3rem 1.2rem 0 0; margin-bottom: 2px;width: 50%; border-radius: 10px;" class="nozoom" loading="lazy" decoding="async" alt="{{- $imgalt -}}">
+  {{ end }}
+{{ end }}

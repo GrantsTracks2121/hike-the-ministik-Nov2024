@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fairbrother Corner Trailhead Gate on Hike the Ministik!</title>
+    <link>//localhost:1313/categories/fairbrother-corner-trailhead-gate/</link>
+    <description>Recent content in Fairbrother Corner Trailhead Gate on Hike the Ministik!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 </copyright>
+    <atom:link href="//localhost:1313/categories/fairbrother-corner-trailhead-gate/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fairbrother Corner to Mandy Lake Parking   South Option</title>
+      <link>//localhost:1313/hikes/fairbrother-to-mandy-lake-south-option/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/hikes/fairbrother-to-mandy-lake-south-option/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/fairbrother-to-mandy-lake-south-option/featured-023-Fairbrother-Corner-to-Mandy-Lake-PK-South-Option.jpg" />
+    </item>
+    
+    <item>
+      <title>Fairbrother Corner to Mandy Lake Parking (Direct Option)</title>
+      <link>//localhost:1313/hikes/fairbrother-to-mandy-lake-direct/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/hikes/fairbrother-to-mandy-lake-direct/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/fairbrother-to-mandy-lake-direct/featured-038-Fairbrother-Corner-to-Mandy-Lake-PK-Direct-Option.jpg" />
+    </item>
+    
+    <item>
+      <title>Mitchell Half Loop</title>
+      <link>//localhost:1313/hikes/mitchell-half-loop/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/hikes/mitchell-half-loop/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/mitchell-half-loop/featured-035-Mitchell-Half-Loop.jpg" />
+    </item>
+    
+    <item>
+      <title>Mitchell Loop</title>
+      <link>//localhost:1313/hikes/mitchell-loop/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/hikes/mitchell-loop/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/mitchell-loop/featured-022-Mitchell-Loop.jpg" />
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,170 @@
+@font-face {
+    font-family: RockSalt-Regular;
+    src: url('/fonts/RockSalt-Regular.ttf');
+}
+
+.RockSalted {
+    font-family: RockSalt-Regular;
+    font-size: 1.5rem;
+
+}
+
+
+/*  from https://tekki-tipps.de/en/hugo-page-bundles-images/#example-shortcode-img100width */
+
+/*  CSS to support shortcode imgRight ----- */
+.box-right-30,
+.box-right-50 {
+  display: block;
+  float: right;
+  margin: 0.3rem 0 0 1.2rem;
+  margin-bottom: 2px;
+  // border: 2px solid lightgrey;
+
+  img {
+    width: 100%;
+    border-radius: 15px;
+    margin-bottom: -10px;
+  }
+  .img-right-30-caption,
+  .img-right-50-caption {
+    font-style: italic;
+    font-weight: 600;
+    font-size: .9rem;
+
+  }
+}
+.box-right-30 {
+  width: 30%;
+}
+.box-right-50 {
+  width: 50%;
+}
+// Responsive
+@media (max-width: 575.8px) {
+  .img-right-30-caption,
+  .img-right-50-caption {
+    display: none;
+  }
+}
+@media (max-width: 375.8px) {
+  .box-right-30,
+  .box-right-50 {
+    float: unset;
+    width: 100%;
+    margin: 1.0rem 0 1.0rem;
+  }
+} 
+// End - Shortcode imgRight -----
+
+.imgCenter {
+    float: center;
+    margin-left: 15px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    max-width: 90%;
+    position: relative;
+}
+
+/*  Shortcode imgCenter ----- */
+.box-center {
+  display: block;
+  float: center;
+  max-width: 90%;
+  margin: 0.3rem 0 0 1.2rem;
+
+  img {
+    width: 100%;
+    border-radius: 20px;
+  }
+  .img-center-caption, {
+    max-width: 50%;
+    font-style: italic;
+    font-size: 1rem;
+  }
+}
+
+/*  This is the indent of the caption for images called by imgCenter shortcode */
+.img-center-caption figcaption {
+     padding-left: 10px;
+     padding-bottom: 20px;
+     margin-top: 5px;
+     font-style: italic;
+     font-weight: 400;
+     font-size: .9rem;
+	}
+.box-center,  {
+  width: 90%;
+}
+
+// Responsive
+@media (max-width: 575.8px) {
+  .img-center-caption, {
+    display: none;
+  }
+}
+@media (max-width: 375.8px) {
+  .box-center {
+    float: unset;
+    width: 100%;
+    margin: 1.0rem 0 1.0rem;
+  }
+} 
+// End - Shortcode imgCenter -----
+
+/*  Previous attempts - saved just in case */
+
+/* When I center images, the caption doesn't center along with it, so I'm indenting the "figcaption" attribute */
+/* This isn't working so commenting out for now
+.figcaption {
+	padding-left: 5%;
+}
+*/
+
+/* GSW - aligning and sizing images */
+/* Captions don't follow the edge of the images, so if you center, the caption is still left-aligned. 
+.imgCenter {
+    float: center;
+    margin-left: 15px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    max-width: 90%;
+    position: relative;
+}
+
+.imgRight30 {
+    float: right;
+    margin-left: 15px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    max-width: 30%;
+    position: relative;
+}
+
+.imgLeft30 {
+    float: left;
+    margin-right: 15px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    max-width: 30%;
+    position: relative;
+}
+
+.imgRight50 {
+    float: right;
+    margin-left: 15px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    max-width: 50%;
+    position: relative;
+}
+
+.imgLeft50 {
+    float: left;
+    margin-right: 15px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    max-width: 50%;
+    position: relative;
+}
+*/

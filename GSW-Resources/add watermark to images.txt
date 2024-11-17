@@ -1,0 +1,22 @@
+try
+
+create a new directory to hold the results -- the input names will be used for the output
+
+change directory to the directory holding the input
+
+move the watermark to another directory
+CODE: SELECT ALL
+
+magick mogrify  -path path_to/new_directory -draw "image over 0,0 0,0 'path_to/water.png'" *.png
+supply your actual path to the output directory and the path to the water.png image.
+
+I am not sure you can use -tile in magick mogrify or even in magick. So you may need to tile out the water.png image as desired first and then use magick or magick composite in a script loop for each image you want to watermark.
+
+See
+
+https://imagemagick.org/Usage/compose/#compose
+https://imagemagick.org/Usage/layers/#composite
+https://imagemagick.org/Usage/layers/#convert
+https://imagemagick.org/Usage/canvas/#tile
+
+If you post links to your input and water.png images, we can show you examples.

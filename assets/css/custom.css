@@ -1,0 +1,774 @@
+
+/*  These calls use the font file from static/fonts -- */
+@font-face {
+  font-family: Kalam;
+  src: url('/fonts/Kalam-Regular.ttf');
+}
+
+.RockSalted {
+  font-family: Kalam;
+  font-size: 2.5rem;
+  margin-top: 25px;
+  line-height: 1.00;
+}
+
+h1 {
+  font-family: Kalam;
+  font-size: 2.5rem;
+}
+
+h2 {
+  font-family: Kalam;
+}
+
+.RockSaltedSmall {
+  font-family: Kalam;
+  font-size: 1.75rem;
+  padding-bottom: 5px;
+}
+/*  to change border color as per https://github.com/tailwindlabs/tailwindcss/discussions/12757 ----- */
+html {
+  --border-color: #d4d4d4; /* neutral.300 */
+
+  &.dark {
+    --border-color: #282828; /* neutral.800 */
+  }
+}
+
+/*  CSS to support make the captions in the figure tag look like my shortcode ImgRight captions----- */
+
+figure {
+  padding-left: 10px;
+  padding-bottom: 20px;
+  margin-top: 5px;
+  font-style: italic;
+  font-weight: 600;
+  font-size: medium;
+}
+
+.hikedetailsfigure {
+  padding-left: 10px;
+  margin-right: 10px;
+  margin-top: 15px;
+  font-style: italic;
+  font-weight: 600;
+  font-size: medium;
+}
+
+/*  this figure tag is specifically for images inserted left or right in a tabpanel----- */
+/*  the class is called by eithe imgLeftinPanel.html or imgRightinPanel.html----- */
+/*  the only change is the   padding-top: 1rem; to match the tabpanel padding----- */
+figure-in-panel {
+  padding-top: 1rem;
+  font-style: italic;
+  font-weight: 600;
+  font-size: medium;
+}
+
+table caption {
+  font-style: italic;
+  font-weight: 400;
+  font-size: x-large;
+  margin-bottom: 10px;
+
+}
+/*  This id is applied the the sidebyside table*/
+
+#sidebyside {
+margin-bottom: -30px;
+width: 90%;
+}
+/*  from https://tekki-tipps.de/en/hugo-page-bundles-images/#example-shortcode-img100width */
+
+/*  CSS to support shortcode imgRight ----- */
+/*  Aug-24 changed all  box-right-30 to box-right-40 which will look better in full-width layouts ----- */
+img {
+width: 100%;
+border-radius: 15px;
+margin-bottom: -10px;
+}
+
+.box-right-50 {
+width: 50%;
+}
+.box-right-40 {
+width: 40%;
+}
+.box-right-30 {
+width: 30%;
+}
+
+.box-right-40,
+.box-right-30,
+.box-right-50 {
+display: block;
+float: right;
+margin: 0.3rem 0 0 1.2rem;
+margin-bottom: 2px;
+/* border: 2px solid lightgrey; */
+}
+
+.img-right-40-caption,
+.img-right-30-caption,
+.img-right-50-caption {
+  padding-left: 10px;
+  padding-bottom: 20px;
+  margin-top: 5px;
+  font-style: italic;
+  font-weight: 400;
+  font-size: 1rem;
+}
+
+/*  Responsive */
+@media (max-width: 575.8px) {
+.img-right-40-caption,
+.img-right-30-caption,
+.img-right-50-caption {
+  display: none;
+}
+}
+@media (max-width: 375.8px) {
+.box-right-40,
+.box-right-30,
+.box-right-50 {
+  float: unset;
+  width: 100%;
+  margin: 1.0rem 0 1.0rem;
+}
+}
+/* End - Shortcode imgRight shortcode ----- */
+
+/* Css to support imgLeft shortcode ----- */
+.box-left-50 {
+width: 50%;
+display: block;
+float: left;
+margin: 0.3rem 1.2rem 0 0;
+margin-bottom: 2px;
+/* border: 2px solid lightgrey; */
+}
+.box-left-40 {
+width: 40%;
+display: block;
+float: left;
+margin: 0.3rem 1.2rem 0 0;
+margin-bottom: 2px;
+/* border: 2px solid lightgrey; */
+}
+.box-left-30 {
+width: 30%;
+display: block;
+float: left;
+margin: 0.3rem 1.2rem 0 0;
+margin-bottom: 2px;
+/* border: 2px solid lightgrey; */
+}
+
+.img-left-50-caption,
+.img-left-40-caption,
+.img-left-30-caption {
+  padding-left: 10px;
+  padding-bottom: 20px;
+  margin-top: 5px;
+  font-style: italic;
+  font-weight: 400;
+  font-size: 1rem;
+}
+
+/*  Responsive */
+@media (max-width: 575.8px) {
+.img-left-50-caption,
+.img-left-40-caption,
+.img-left-30-caption {
+  display: none;
+}
+}
+@media (max-width: 375.8px) {
+.box-left-50,
+.box-left-40,
+.box-left-30 {
+  float: unset;
+  width: 100%;
+  margin: 1.0rem 0 1.0rem;
+}
+}
+
+/*  this is called only with imgLeftinPanel.html or imgRightinPanel.html are used. */
+.box-left-50.figure-in-panel,
+.box-left-40.figure-in-panel,
+.box-left-30.figure-in-panel {
+  padding-top: 1rem;
+}
+
+.box-right-50.figure-in-panel,
+.box-right-40.figure-in-panel,
+.box-right-30.figure-in-panel {
+  padding-top: 1rem;
+}
+/*  End - Shortcode imgLeft shortcode ----- */
+
+
+/* Css to support imgCenter shortcode  ----- */
+
+.imgCenter {
+  float: none;
+  display: block;   
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: auto;
+  border-radius: 10px;
+  max-width: 70%;
+  position: relative;
+}
+
+/*  For shortcode imgCenter ----- */
+.box-center {
+/*  margins on auto was the ANSWER to centering ----- */
+max-width: 85%;
+margin-left: auto;
+margin-right: auto;
+margin-bottom: -25px;
+/*   margin: 0.3rem 3rem 3rem 1.2rem; */
+}
+img {
+  width: 100%;
+  border-radius: 20px;
+}
+.img-center-caption {
+  font-style: italic;
+  font-size: 1rem;
+}
+
+
+/*  This is the indent of the caption for images called by imgCenter shortcode */
+.img-center-caption figcaption {
+   padding-left: 10px;
+   padding-bottom: 20px;
+   margin-top: 5px;
+   font-style: italic;
+   font-weight: 400;
+   font-size: .9rem;
+}
+
+/*  Responsive */
+@media (max-width: 575.8px) {
+.img-center-caption {
+  display: none;
+ }
+}
+@media (max-width: 375.8px) {
+.box-center {
+  float: unset;
+  width: 100%;
+  margin: 1.0rem 0 1.0rem;
+ }
+}
+
+/* End - Shortcode imgCenter ----- */
+
+/*  Previous attempts - saved just in case */
+
+/* When I center images, the caption doesn't center along with it, so I'm indenting the "figcaption" attribute */
+
+/* This isn't working so commenting out for now
+.figcaption {
+padding-left: 5%;
+}
+*/
+
+/* GSW - aligning and sizing images */
+
+/* EVERYTHING BELOW HERE IS COMMENTED OUT - Captions don't follow the edge of the images, so if you center, the caption is still left-aligned.
+.imgCenter {
+  float: center;
+  margin-left: 15px;
+  margin-bottom: 15px;
+  border-radius: 10px;
+  max-width: 90%;
+  position: relative;
+}
+
+.imgRight30 {
+  float: right;
+  margin-left: 15px;
+  margin-bottom: 15px;
+  border-radius: 10px;
+  max-width: 30%;
+  position: relative;
+}
+
+.imgLeft30 {
+  float: left;
+  margin-right: 15px;
+  margin-bottom: 15px;
+  border-radius: 10px;
+  max-width: 30%;
+  position: relative;
+}
+
+.imgRight50 {
+  float: right;
+  margin-left: 15px;
+  margin-bottom: 15px;
+  border-radius: 10px;
+  max-width: 50%;
+  position: relative;
+}
+
+.imgLeft50 {
+  float: left;
+  margin-right: 15px;
+  margin-bottom: 15px;
+  border-radius: 10px;
+  max-width: 50%;
+  position: relative;
+}
+*/
+
+
+/************************************
+timeline
+************************************/
+
+/* The actual timeline (the vertical ruler) */
+.timeline {
+  position: relative;
+  margin: 0 auto;
+}
+
+/* The actual timeline (the vertical ruler) */
+.timeline::after {
+  content: "";
+  position: absolute;
+  width: 6px;
+  background-color: #444;
+  top: 0;
+  bottom: 0;
+  left: 10%;
+  margin-left: -3px;
+}
+
+/* Container around content */
+.timeline .container {
+  padding: 10px 10px 10px 40px;
+  margin-top: 10px;
+  position: relative;
+  /* background-color: gray; */
+  width: 90%;
+  left: 10%;
+}
+/* The circles on the timeline */
+.timeline .container::after {
+  content: "";
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  left: -12px;
+  background-color: rgb(106, 215, 229);
+  border: 4px solid #444;
+  top: 0px;
+  border-radius: 50%;
+  z-index: 1;
+}
+/* date display */
+.timeline .container .date {
+  position: absolute;
+  top: 22px;
+  z-index: 1;
+  left: -10%;
+  font-size: large;
+}
+
+/* Add arrows to the right container (pointing left) */
+.timeline .container::before {
+  content: " ";
+  height: 0;
+  position: absolute;
+  top: 30px;
+  width: 0;
+  z-index: 1;
+  left: 26px;
+  border: medium solid #6ad7e5;
+  border-width: 13px 13px 13px 0px;
+  border-color: #6ad7e5 #6ad7e5 transparent transparent;
+}
+/* The actual content */
+.timeline .content {
+  box-shadow: 0 0 3px 3px #6ad7e5;
+  background-color: white;
+  position: relative;
+  border-radius: 6px;
+  transition: box-shadow 0.3s;
+}
+
+/* small shadow change on hover*/
+.timeline .content:hover {
+  box-shadow: 0 0 3px 4px #6ad7e5;
+}
+
+/* card title format */
+.timeline .content .title {
+  padding: 5px 30px;
+  font-weight: bold;
+  display: inline-block;
+}
+
+/* time moment format*/
+.timeline .content .moment {
+  color: #c41a16;
+  text-align: right;
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 5px;
+}
+
+/* body size */
+.timeline .content .body {
+  padding: 5px 30px;
+}
+
+/* responsive for small devices*/
+@media screen and (max-width: 600px) {
+  .timeline .container {
+    padding: 10px 10px 0px 40px;
+    left: 5%;
+    width: 95%;
+  }
+  .timeline .container .date {
+    font-size: small;
+    transform: rotate(-90deg);
+    left: -5%;
+    top: 30px;
+  }
+  .timeline .container::after {
+    left: 3px;
+  }
+  .timeline .content .body {
+    padding: 5px 5px;
+  }
+  .timeline .content .moment {
+    position: relative;
+  }
+}
+
+/* css for attachments shortcode*/
+
+section.attachments {
+  margin: 1.5rem 0;
+  position: relative;
+
+  label {
+    font-weight: 300;
+    margin: 0;
+  }
+
+  .attachments-files {
+    display: block;
+    font-size: 1rem;
+    margin: 0;
+
+    ul {
+      margin-top: 0;
+    }
+
+    .attachment-size {
+      display: inline-block;
+      color: var(--font-color-muted);
+    }
+  }
+
+  .new-tab {
+    padding-left: 0.1em;
+    padding-right: 0.1em;
+  }
+}
+
+
+
+/* Testing Tab Pane code */
+
+
+.tabpane {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 1rem;
+}
+.tabpane__input {
+  position: absolute;
+  opacity: 0;
+}
+.tabpane__label {
+  position: relative;
+  flex-shrink: 1;
+  padding: 0.5rem 1rem;
+  color: blanchedalmond;
+/* Unselected background color of the tab */
+/* This color matches the "Forest" color scheme */
+/* GSW: Changed background color to cadetblue to match teal Selected color */
+  background-color: cadetblue;
+  border: solid 2px #eee;
+  border-left-width: 1px;
+  border-right-width: 1px;
+  border-bottom: none;
+  cursor: pointer;
+  z-index: 999;
+
+  &:first-of-type {
+    border-top-left-radius: 0.5rem;
+    border-left-width: 2px;
+  }
+  &:last-of-type {
+    border-top-right-radius: 0.5rem;
+    border-right-width: 2px;
+  }
+}
+.tabpane__panel {
+  order: 999;
+  display: none;
+  width: 100%;
+  margin-top: -2px;
+  padding: 1rem;
+  border: solid 2px #eee;
+}
+.tabpane__input:checked + .tabpane__label {
+/* SELECTED background color of the tab */
+/* This color matches the "Forest" color scheme */
+/* GSW: changed background color to teal - and added font-weight */
+  background-color: teal;
+  font-weight: bolder;
+}
+.tabpane__input:checked + .tabpane__label + .tabpane__panel {
+  display: block;
+}
+
+/* Code for external link icon called in render-links.html */
+.fa {
+  font-family: var(--fa-style-family, "Font Awesome 6 Free");
+  font-weight: var(--fa-style, 900); }
+.fa {
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    display: var(--fa-display, inline-block);
+    font-style: normal;
+    font-variant: normal;
+    line-height: 1;
+    text-rendering: auto; }
+
+.fa-external-link::before {
+    content: "\f08e"; }
+
+/* BIRD animation 
+ .bird{
+      background-image: url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/174479/bird-cells-new.svg');
+      filter: invert(34%) sepia(55%) saturate(427%) hue-rotate(141deg) brightness(93%) contrast(91%);
+      background-size: auto 100%;
+      width: 88px;
+      height: 125px;
+      will-change: background-position;
+  
+      animation-name: fly-cycle;
+      animation-timing-function: steps(10);
+      animation-iteration-count: infinite;
+  }
+  
+  .bird-one{
+      animation-duration: 1s;
+      animation-delay: -0.5s;
+  
+  }
+  .bird-two{
+      animation-duration: 0.9;
+      animation-delay: -0.75.s;
+  
+  }
+  .bird-three{
+      animation-duration:1.25s;
+      animation-delay: -0.25s
+  
+  }
+  .bird-four{
+      animation-duration: 1.1s;
+      animation-delay: -0.5s;
+  }
+  
+.bird-container {
+    position: absolute;
+    top: 10%;
+    left: -3%;
+    transform: scale(0) translateX(-10vw);
+    will-change: transform;
+    
+    animation-name: fly-right-one;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+  }
+    
+  .bird-container-one{
+    animation-duration: 15s;
+    animation-delay: 0;
+  }
+    
+  .bird-container-two{
+    animation-duration: 16s;
+    animation-delay: 1s;
+  }
+    
+  .bird-container-three{
+    animation-duration: 14.6s;
+    animation-delay: 9.5s;
+  }
+    
+  .bird-container-four {
+      animation-duration: 16s;
+      animation-delay: 10.25s;
+  }
+ @keyframes fly-cycle {
+      100%{
+          background-position: -3600px 0;
+      }
+  } 
+  @keyframes fly-cycle {
+    
+    100% {
+      background-position: -900px 0;
+    }
+    
+  }
+  
+@keyframes fly-right-one {
+    
+    0% {
+      transform: scale(0.3) translateX(-10vw);
+    }
+    
+    10% {
+      transform: translateY(2vh) translateX(10vw) scale(0.4);
+    }
+    
+    20% {
+      transform: translateY(0vh) translateX(30vw) scale(0.5);
+    }
+    
+    30% {
+      transform: translateY(4vh) translateX(50vw) scale(0.6);
+    }
+    
+    40% {
+      transform: translateY(2vh) translateX(70vw) scale(0.6);
+    }
+    
+    50% {
+      transform: translateY(0vh) translateX(90vw) scale(0.6);
+    }
+    
+    60% {
+      transform: translateY(0vh) translateX(110vw) scale(0.6);
+    }
+    
+    100% {
+      transform: translateY(0vh) translateX(110vw) scale(0.6);
+    }
+    
+  }
+  
+@keyframes fly-right-two {
+    
+    0% {
+      transform: translateY(-2vh) translateX(-10vw) scale(0.5);
+    }
+    
+    10% {
+      transform: translateY(0vh) translateX(10vw) scale(0.4);
+    }
+    
+    20% {
+      transform: translateY(-4vh) translateX(30vw) scale(0.6);
+    }
+    
+    30% {
+      transform: translateY(1vh) translateX(50vw) scale(0.45);
+    }
+    
+    40% {
+      transform: translateY(-2.5vh) translateX(70vw) scale(0.5);
+    }
+    
+    50% {
+      transform: translateY(0vh) translateX(90vw) scale(0.45);
+    }
+    
+    51% {
+      transform: translateY(0vh) translateX(110vw) scale(0.45);
+    }
+    
+    100% {
+      transform: translateY(0vh) translateX(110vw) scale(0.45);
+    }
+    
+  }
+*/
+
+  /* css for progress shortcode */
+.progress {
+  color:#000!important;
+  background-color:#f1f1f1!important;
+  border-radius:10px;
+
+  .inner {
+    color:white!important;
+    text-align:center!important;
+  }
+}
+
+
+/* These four classes are for the map lengend boxes */
+/* The classes that control the expandable box itself are in the details.html shortcode */
+
+.Maplegendbrown {
+  border: 2px solid white;
+  min-width: 100%;
+  border-radius: 5px;
+  background-color:  SaddleBrown;
+  color: white;
+  padding: 5px;
+  text-decoration: none;
+  font-size: 1rem;
+  text-align: left;
+}
+
+.Maplegendgreen {
+  border: 2px solid white;
+  min-width: 100%;
+  border-radius: 5px;
+  background-color:  green;
+  color: white;
+  padding: 5px;
+  text-decoration: none;
+  font-size: 1rem;
+  text-align: left;
+}
+
+.Maplegendblue {
+  border: 2px solid white;
+  min-width: 100%;
+  border-radius: 5px;
+  background-color:  blue;
+  color: white;
+  padding: 5px;
+  text-decoration: none;
+  font-size: 1rem;
+  text-align: left;
+}
+
+.Maplegendblack {
+  border: 2px solid white;
+  min-width: 95%;
+  border-radius: 5px;
+  background-color: black;
+  color: white;
+  padding: 5px;
+  text-decoration: none;
+  font-size: 1rem;
+  text-align: left;
+}

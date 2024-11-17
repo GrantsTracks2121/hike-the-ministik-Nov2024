@@ -1,0 +1,104 @@
+How to Code for Blowfish Theme
+
+https://blowfish.page/docs/shortcodes/
+
+
+Figure
+
+Blowfish includes a figure shortcode for adding images to content. The shortcode replaces the base Hugo functionality in order to provide additional performance benefits.
+
+When a provided image is a page resource, it will be optimised using Hugo Pipes and scaled in order to provide images appropriate to different device resolutions. If a static asset or URL to an external image is provided, it will be included as-is without any image processing by Hugo.
+
+The figure shortcode accepts six parameters:
+
+Parameter	Description
+src	Required. The local path/filename or URL of the image. When providing a path and filename, the theme will attempt to locate the image using the following lookup order: Firstly, as a page resource bundled with the page; then an asset in the assets/ directory; then finally, a static image in the static/ directory.
+alt	Alternative text description for the image.
+caption	Markdown for the image caption, which will be displayed below the image.
+class	Additional CSS classes to apply to the image.
+href	URL that the image should be linked to.
+target	The target attribute for the href URL.
+nozoom	nozoom=true disables the image “zoom” functionality. This is most useful in combination with a href link.
+default	Special parameter to revert to default Hugo figure behaviour. Simply provide default=true and then use normal Hugo shortcode syntax.
+Blowfish also supports automatic conversion of images included using standard Markdown syntax. Simply use the following format and the theme will handle the rest:
+
+![Alt text](image.jpg "Image caption")
+Example:
+
+{{< figure
+    src="abstract.jpg"
+    alt="Abstract purple artwork"
+    caption="Photo by [Jr Korpa](https://unsplash.com/@jrkorpa) on [Unsplash](https://unsplash.com/)"
+    >}}
+
+<!-- OR -->
+
+![Abstract purple artwork](abstract.jpg "Photo by [Jr Korpa](https://unsplash.com/@jrkorpa) on [Unsplash](https://unsplash.com/)")
+
+
+
+Article links
+
+Article will embed a single article into a markdown file. The link to the file should be the .RelPermalink of the file to be embedded. Note that the shortcode will not display anything if it’s referencing it’s parent. Note: if you are running your website in a subfolder like Blowfish (i.e. /blowfish/) please include that path in the link.
+
+{{< article link="/docs/welcome/" >}}
+
+
+{{< article link="/posts/crooked-trees/" >}} <-follow this format put spaces above and below
+
+
+Button
+
+button outputs a styled button component which can be used to highlight a primary action. It has two optional variables href and target which can be used to specify the URL and target of the link.
+
+Example:
+
+Copy
+{{< button href="#button" target="_self" >}}
+Call to action
+{{< /button >}}
+
+
+
+
+
+
+
+Keyword
+#
+The keyword component can be used to visually highlight certain important words or phrases, e.g. professional skills etc. The keywordList shortcode can be used to group together multiple keyword items. Each item can have the following properties.
+
+Parameter	Description
+icon	Optional icon to be used in the keyword
+The input is written in Markdown so you can format it however you please.
+
+Example1 :
+
+{{< keyword >}} *Super* skill {{< /keyword >}}
+
+
+
+Lead
+#
+lead is used to bring emphasis to the start of an article. It can be used to style an introduction, or to call out an important piece of information. Simply wrap any Markdown content in the lead shortcode.
+
+Example:
+
+{{< lead >}}
+When life gives you lemons, make lemonade.
+{{< /lead >}}
+When life gives you lemons, make lemonade.
+
+Simple Div rounded "box"
+
+I finally chose background-color:#DCDCDC; -it's still not wonderful
+
+Use this code for rounded div boxes
+<div style="font-family:verdana,arial,sans-serif;border:3px solid
+#8A9A5B;border-radius:20px;padding:0px;font-size:18px;margin-top:15px;box-shadow:5px
+5px 7px rgba(0, 0, 0, 0.5);">
+<div style="padding:20px;">Here's some text I want to highlight.</br> or a link to another article:</br>{{< article link="/posts/crooked-trees/" >}} </div>
+</div>
+
+
+

@@ -1,0 +1,119 @@
+@font-face {
+    font-family: RockSalt-Regular;
+    src: url('/fonts/RockSalt-Regular.ttf');
+}
+
+.RockSalted {
+    font-family: RockSalt-Regular;
+    font-size: 1.8rem;
+
+}
+/* When I center images, the caption doesn't center along with it, so I'm indenting the "figcaption" attribute */
+/* This isn't working so commenting out for now
+.figcaption {
+	padding-left: 5%;
+}
+*/
+
+/* GSW - aligning and sizing images */
+/* Captions don't follow the edge of the images, so if you center, the caption is still left-aligned. */
+
+/* this centering css is from https://discourse.gohugo.io/t/add-a-class-to-images/6724/24 and this works*/
+img[src$='#center'] {
+  display: block;
+  margin: 1.0rem auto;
+  max-width: 90%;
+  height: auto;
+}
+
+
+img[src$='#right30'] {
+    float: right;
+    margin-left: 15px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    max-width: 30%;
+    position: relative;
+}
+
+img[src$='#left30'] {
+    float: left;
+    margin-right: 15px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    max-width: 30%;
+    position: relative;
+}
+
+img[src$='#right50'] {
+    float: right;
+    margin-left: 15px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    max-width: 50%;
+    position: relative;
+}
+
+img[src$='#left50'] {
+    float: left;
+    margin-right: 15px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    max-width: 50%;
+    position: relative;
+}
+
+
+.right50 {
+    float: right;
+    margin-left: 15px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    max-width: 50%;
+    position: relative;
+}
+
+/*  from https://tekki-tipps.de/en/hugo-page-bundles-images/#example-shortcode-img100width */
+
+/*  Shortcode imgRight ----- 
+.box-right-25,
+.box-right-40 {
+  display: block;
+  float: right;
+  margin: 0.3rem 0 0 1.6rem;
+  border: 1px solid lightgrey;
+
+  img {
+    width: 100%;
+  }
+  .img-right-25-caption,
+  .img-right-40-caption {
+    padding: 0.7rem;
+    font-size: 0.8rem;
+    border-top: 1px solid lightgrey;
+    color: var(--wk-color-2);
+    background-color: ghostwhite;
+  }
+}
+.box-right-25 {
+  width: 25%;
+}
+.box-right-40 {
+  width: 40%;
+}
+// Responsive
+@media (max-width: 575.8px) {
+  .img-right-25-caption,
+  .img-right-40-caption {
+    display: none;
+  }
+}
+@media (max-width: 375.8px) {
+  .box-right-25,
+  .box-right-40 {
+    float: unset;
+    width: 100%;
+    margin: 1.0rem 0 1.0rem;
+  }
+} */
+// End - Shortcode imgRight -----

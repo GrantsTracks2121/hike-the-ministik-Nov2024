@@ -1,0 +1,28 @@
+GPX track on a Leaflet map
+
+This "module" is VERY simple: it only shows a track on a map. But...it works!!
+
+https://github.com/martinschneider/hugo-gpx-shortcode
+
+I didn't add as a module: downloaded and just copied to themes folder.
+
+Add this repo as a submodule: git submodule add git@github.com:martinschneider/hugo-gpx-shortcode.git themes/gpx-shortcode.
+
+
+Add gpx-shortcode as a theme to your config: e.g. theme = ["bare", "gpx-shortcode"]
+
+syntax:
+
+{{< gpx "/gpx/Blackfoot Islet Lake Kayak Paddle - Aug 17-2022.gpx" >}}
+
+
+You can add this the ... (I had to escape out the double quotes for the URL in the attribution to make it work)
+
+He says adding these bit of code is optional and I can't see how it affects anything. 
+
+[params.gpx]
+  leafletJS = "https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.8.0/leaflet-src.min.js"
+  leafletGpxJS = "https://cdnjs.cloudflare.com/ajax/libs/leaflet-gpx/1.7.0/gpx.min.js"
+  leafletCSS = "https://unpkg.com/leaflet@1.8.0/dist/leaflet.css"
+  trackColors = ["blue", "darkblue", "purple"]
+  layers = [ { url = "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", attribution = "(c) <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors" } ]

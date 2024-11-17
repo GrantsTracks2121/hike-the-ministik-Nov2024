@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hike Length: 7 to 10 Km on Hike the Ministik!</title>
+    <link>//localhost:1313/categories/hike-length-7-to-10-km/</link>
+    <description>Recent content in Hike Length: 7 to 10 Km on Hike the Ministik!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 </copyright>
+    <atom:link href="//localhost:1313/categories/hike-length-7-to-10-km/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Francis Edward Williams Trailhead to the Ministik Fire Tower</title>
+      <link>//localhost:1313/hikes/few-to-fire-tower/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/hikes/few-to-fire-tower/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/few-to-fire-tower/featured-002-FEW-to-Waskahegan-Fire-Tower.jpg" />
+    </item>
+    
+    <item>
+      <title>Mandy Lake Parking to Waskahegan Trail Loop</title>
+      <link>//localhost:1313/hikes/mandy-lake-to-waskahegan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/hikes/mandy-lake-to-waskahegan/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/mandy-lake-to-waskahegan/featured-029-Mandy-Lake-PK-to-Waskahegan-Loop.jpg" />
+    </item>
+    
+    <item>
+      <title>Stove Lake to Mandy Lake Parking</title>
+      <link>//localhost:1313/hikes/stove-lake-to-mandy-lake/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/hikes/stove-lake-to-mandy-lake/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/stove-lake-to-mandy-lake/featured-019-Stove-Lake-to-Mandy-Lake-PK.jpg" />
+    </item>
+    
+    <item>
+      <title>Trek to the Ministik Fire Tower</title>
+      <link>//localhost:1313/hikes/uofa-to-fire-tower/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/hikes/uofa-to-fire-tower/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/uofa-to-fire-tower/featured-008-Gate-to-Ministik-Fire-Tower.jpg" />
+    </item>
+    
+    <item>
+      <title>UofA Access Road Gate to Stove Lake via Deadfall Alley</title>
+      <link>//localhost:1313/hikes/uofa-gate-stove-lake-via-deadfall-alley/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/hikes/uofa-gate-stove-lake-via-deadfall-alley/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/uofa-gate-stove-lake-via-deadfall-alley/featured-014-Gate-Past-Wat-Lake-Crossroads-Stove-Lake.jpg" />
+    </item>
+    
+    <item>
+      <title>UofA Access Road Gate to Stove Lake via Ministik Fire Tower</title>
+      <link>//localhost:1313/hikes/uofa-gate-stove-lake-via-tower/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/hikes/uofa-gate-stove-lake-via-tower/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/uofa-gate-stove-lake-via-tower/featured-013-UofA-Gate-to-Stove-Lake.jpg" />
+    </item>
+    
+    <item>
+      <title>Waskahegan Berg Section - Out &amp; Back</title>
+      <link>//localhost:1313/hikes/berg-section-out-and-back/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/hikes/berg-section-out-and-back/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/berg-section-out-and-back/featured-004-Waskahegan-Berg-Section.jpg" />
+    </item>
+    
+    <item>
+      <title>Wildland Meadows to Mandy Lake Parking</title>
+      <link>//localhost:1313/hikes/wildland-meadows-to-mandy-lake/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/hikes/wildland-meadows-to-mandy-lake/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/wildland-meadows-to-mandy-lake/featured-032-Wildland-Meadows--PK-to-Mandy-Lake-PK.jpg" />
+    </item>
+    
+  </channel>
+</rss>

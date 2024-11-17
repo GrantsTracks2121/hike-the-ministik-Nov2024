@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guides on Hike the Ministik!</title>
+    <link>//localhost:1313/guides/</link>
+    <description>Recent content in Guides on Hike the Ministik!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 </copyright>
+    <atom:link href="//localhost:1313/guides/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Grassy Fields Guide</title>
+      <link>//localhost:1313/guides/grassy-fields-guide/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/guides/grassy-fields-guide/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

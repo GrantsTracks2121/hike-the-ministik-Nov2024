@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mandy Lake Road Gate on Hike the Ministik!</title>
+    <link>//localhost:1313/categories/mandy-lake-road-gate/</link>
+    <description>Recent content in Mandy Lake Road Gate on Hike the Ministik!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 </copyright>
+    <atom:link href="//localhost:1313/categories/mandy-lake-road-gate/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mandy Lake Parking to Old Shelter</title>
+      <link>//localhost:1313/hikes/mandy-lake-to-shelter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/hikes/mandy-lake-to-shelter/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/mandy-lake-to-shelter/featured-027-Mandy-Lake-Road-to-Old-Shelter.jpg" />
+    </item>
+    
+    <item>
+      <title>Mandy Lake Parking to Oliver Lake East</title>
+      <link>//localhost:1313/hikes/mandy-lake-tr-to-oliver-lake/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/hikes/mandy-lake-tr-to-oliver-lake/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/mandy-lake-tr-to-oliver-lake/featured-028-Mandy-Lake-PK-to-Oliver-Lake-East.jpg" />
+    </item>
+    
+    <item>
+      <title>Mandy Lake Parking to Waskahegan Trail Loop</title>
+      <link>//localhost:1313/hikes/mandy-lake-to-waskahegan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/hikes/mandy-lake-to-waskahegan/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/mandy-lake-to-waskahegan/featured-029-Mandy-Lake-PK-to-Waskahegan-Loop.jpg" />
+    </item>
+    
+    <item>
+      <title>North of Township Road 502 Loop</title>
+      <link>//localhost:1313/hikes/north-of-502/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/hikes/north-of-502/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/north-of-502/featured-036-North-of-Township-Road-502-Loop.jpg" />
+    </item>
+    
+  </channel>
+</rss>

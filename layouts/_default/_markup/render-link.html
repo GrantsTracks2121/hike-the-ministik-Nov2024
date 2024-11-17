@@ -1,0 +1,8 @@
+<a href="{{ .Destination | safeURL }}"
+    {{- with .Title -}}
+    title="{{ . }}"
+    {{- end }}
+    {{- if or (strings.HasPrefix .Destination "http:") (strings.HasPrefix .Destination "https:") }} target="_blank"{{ end }}>
+    {{- .Text | safeHTML -}}
+    {{- if or (strings.HasPrefix .Destination "http:") (strings.HasPrefix .Destination "https:") }} <sup><i class="fa fa-external-link" style="font-size:14px"></i></sup> {{ end }}
+</a>

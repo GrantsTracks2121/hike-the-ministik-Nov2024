@@ -1,0 +1,85 @@
+convert all jpg images to webp
+
+find ./ -type f -name '*.jpg' -exec sh -c 'cwebp $1 -o "${1%.jpg}.webp"' _ {} \;
+
+
+Create a webp version of all "featured-" images:
+find ./ -type f -name 'featured-*.jpg' -exec sh -c 'cwebp $1 -o "${1%.jpg}.webp"' _ {} \;
+
+Convert all jpg to webp - recursive
+find ./ -type f -name '*.jpg' -exec sh -c 'cwebp $1 -o "${1%.jpg}.webp"' _ {} \;
+
+Convert directly with cwebp
+for file in *.jpg; do if [ -f "$file" ]; then cwebp -q 80 $file -o "${file%.*}.webp"; fi; done
+for file in *.jpeg; do if [ -f "$file" ]; then cwebp -q 80 $file -o "${file%.*}.webp" -quiet ; fi; done
+
+
+Convert all png to webp - recursive
+find ./ -type f -name '*.png' -exec sh -c 'cwebp $1 -o "${1%.png}.webp"' _ {} \;
+
+for file in images/*; do cwebp -q 50 "$file" -o "${file%.*}.webp"; done`
+
+RESIZING
+
+Resize images with imagemagick - this one to a specific dimension
+
+find /path/to/dir -name '*.jpg' -exec mogrify -resize 1200x1200\> {} \;
+
+RENAMING 
+
+
+THIS WORKS:
+for file in *.jpeg; do if [ -f "$file" ]; then mv "$file" "${file%.jpeg}.jpg"; fi; done
+
+resize all jpg's in current dir to 1200 long edge
+
+find . -name '*.jpg' -exec mogrify -resize 1200x1200\> {} \;
+
+for file in *.jpg; do if [ -f "$file" ]; then /usr/local/bin/mogrify -resize 1200x1200\> {} \; fi; done
+
+THIS WORKS:
+/usr/local/bin/mogrify -resize 1200x1200 *.jpg
+
+
+REPLACE SPACES WITH UNDERSCORES:
+for i in *;do mv "$i" "${i// /_}";done
+
+OPEN IMAGEOPTIM to work on full directory
+open -a ImageOptim .
+
+find . -name '*.webp' -exec mogrify -resize 1200x1200\> {} \;
+
+THE COMMANDS TO USE IN ORDER
+RENAME JPEG to JPG
+for file in *.jpeg; do if [ -f "$file" ]; then mv "$file" "${file%.jpeg}.jpg"; fi; done
+REPLACES SPACES WITH UNDERSCORES
+for i in *;do mv "$i" "${i// /_}";done
+RESIZE IMAGES TO 1200
+/usr/local/bin/mogrify -resize 1200x1200 *.jpg
+INVOKE IMAGEOPTIM
+open -a ImageOptim .
+
+CREATE WEBP Images
+
+
+~~~~~~~~~~~~
+A guy's shortcode for serving webp and jpg:
+
+{{/*  Picture  */}}
+{{ $_src := .Get "src" }}
+{{ $_title := .Get "title" }}
+<figure class="py-4">
+    <picture>
+        <source
+            srcset="{{ $_src  | absURL }}.webp"
+            type="image/webp">
+        <source
+            srcset="{{ $_src  | absURL }}.jpf"
+            type="image/jp2">
+        <img
+            class="img-fluid"
+            src="{{ $_src | absURL }}.jpg"
+            alt="{{ $_title }}">
+        </picture>
+    <figcaption>{{ $_title }}</figcaption>
+</figure>
