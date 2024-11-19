@@ -13,14 +13,13 @@ categories:
 showHero: true
 heroStyle: "background"
 showSummary: true
-summary: ""
+summary: "This is the summary for the few-to-fireplace-test page."
 ---
-{{< imgCenter "incontent/IMG_1795.jpg" "75" "the caption" "the caption" >}}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis auctor feugiat diam, ac sodales nisl fringilla in. Interdum et malesuada fames ac ante ipsum primis in faucibus. Phasellus ante turpis, porta et ipsum sit amet, lobortis semper nulla. Phasellus dapibus nibh enim, a ultricies orci bibendum at. Ut sit amet tellus dolor. Morbi gravida luctus turpis quis ornare. Sed quis lorem suscipit, hendrerit urna vel, sagittis ex. Nam euismod velit ac metus facilisis, nec convallis felis mattis. Nulla facilisi. Here's the paragraph BREAK.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis auctor feugiat diam, ac sodales nisl fringilla in. Interdum et malesuada fames ac ante ipsum primis in faucibus. Phasellus ante turpis, porta et ipsum sit amet, lobortis semper nulla. {{< imgRight "images/IMG_1754-scaled.jpg" "Test Caption" "Test Caption" >}}Phasellus dapibus nibh enim, a ultricies orci bibendum at. Ut sit amet tellus dolor. Morbi gravida luctus turpis quis ornare. Sed quis lorem suscipit, hendrerit urna vel, sagittis ex. Nam euismod velit ac metus facilisis, nec convallis felis mattis. Nulla facilisi. Here's the paragraph BREAK.
 
 
-{{< imgRight "incontent/IMG_3199.jpg" "test" "test" >}}This is the paragraph it should lined up with, consectetur adipiscing elit. Duis auctor feugiat diam, ac sodales nisl fringilla in. Interdum et malesuada fames ac ante ipsum primis in faucibus. Phasellus ante turpis, porta et ipsum sit amet, lobortis semper nulla. Phasellus dapibus nibh enim, a ultricies orci bibendum at. Ut sit amet tellus dolor. Morbi gravida luctus turpis quis ornare. Sed quis lorem suscipit, hendrerit urna vel, sagittis ex. Nam euismod velit ac metus facilisis, nec convallis felis mattis. Nulla facilisi. Cras fermentum efficitur dolor a accumsan. In vel hendrerit tellus. Aenean hendrerit accumsan orci, quis molestie quam bibendum et. Integer aliquam felis consectetur, convallis velit vitae, tincidunt eros. Etiam semper lacinia semper. Sed in ante euismod, finibus tellus ac, finibus ligula.
+This is the paragraph it should lined up with, consectetur adipiscing elit. Duis auctor feugiat diam, ac sodales nisl fringilla in. Interdum et malesuada fames ac ante ipsum primis in faucibus. Phasellus ante turpis, porta et ipsum sit amet, lobortis semper nulla. Phasellus dapibus nibh enim, a ultricies orci bibendum at. Ut sit amet tellus dolor. Morbi gravida luctus turpis quis ornare. Sed quis lorem suscipit, hendrerit urna vel, sagittis ex. Nam euismod velit ac metus facilisis, nec convallis felis mattis. Nulla facilisi. Cras fermentum efficitur dolor a accumsan. In vel hendrerit tellus. Aenean hendrerit accumsan orci, quis molestie quam bibendum et. Integer aliquam felis consectetur, convallis velit vitae, tincidunt eros. Etiam semper lacinia semper. Sed in ante euismod, finibus tellus ac, finibus ligula.
 
 ***
 These are calls to the OSMand app from: ( https://github.com/osmandapp/OsmAnd-ios/issues/447 )

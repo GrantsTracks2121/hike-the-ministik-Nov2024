@@ -80,27 +80,7 @@ Rated 221: Expedition
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/hikes/few-to-fireplace-test/</guid>
-      <description>&lt;figure class=&#34;box-center&#34; max-width=&#34;75%&#34;&gt;
-    &lt;picture&gt;
-      &lt;source type=&#34;image/avif&#34; srcset=&#34;incontent/IMG_1795-small.avif 330w,incontent/IMG_1795-medium.avif 660w,incontent/IMG_1795-large.avif 1024w,incontent/IMG_1795-fullsize.avif 2x&#34; 
-      /&gt;
-     &lt;img 
-     srcset=&#34;
-      incontent/IMG_1795.jpg 330w, 
-      incontent/IMG_1795.jpg 660w, 
-      incontent/IMG_1795.jpg 1024w, 
-      incontent/IMG_1795.jpg 2x&#34; 
-      src=&#34;incontent/IMG_1795.jpg&#34;
-      loading=&#34;lazy&#34; decoding=&#34;async&#34; alt=&#34;the caption&#34; /&gt;
-    &lt;/picture&gt;
-    &lt;div class=&#34;img-center-caption&#34;&gt;
-      &lt;figcaption&gt;the caption&lt;/figcaption&gt;
-    &lt;/div&gt;
-  &lt;/figure&gt;
-  
-
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis auctor feugiat diam, ac sodales nisl fringilla in. Interdum et malesuada fames ac ante ipsum primis in faucibus. Phasellus ante turpis, porta et ipsum sit amet, lobortis semper nulla. Phasellus dapibus nibh enim, a ultricies orci bibendum at. Ut sit amet tellus dolor. Morbi gravida luctus turpis quis ornare. Sed quis lorem suscipit, hendrerit urna vel, sagittis ex. Nam euismod velit ac metus facilisis, nec convallis felis mattis. Nulla facilisi. Here&amp;rsquo;s the paragraph BREAK.&lt;/p&gt;</description>
+      <description>This is the summary for the few-to-fireplace-test page.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/few-to-fireplace-test/featured-001-FEW-to-Fireplace.jpg" />
     </item>
     
