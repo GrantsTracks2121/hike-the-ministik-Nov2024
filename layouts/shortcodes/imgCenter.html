@@ -4,12 +4,15 @@
 {{/*  GSW: The images in the content of the post will be housed in the "incontent" folder - both webp and jpg formats  */}}
 {{/*  GSW: The original code used $img.RelPermalink but that had the extension attached in the srcset lines  */}}
 {{/*  GSW: so I added the strings.TrimSuffix to cut that off - took some doing but it seems to work!  */}}
+
 {{ $img := $.Page.Resources.GetMatch (.Get 0) }}
-{{ $type_arr := split $img "." }}
-{{ $srcbase := index $type_arr 0 }}
 {{ $imgproz := (.Get 1) }}
 {{ $imgalt := (.Get 2) }}
 {{ $imgcaption := (.Get 3) }}
+
+{{ $type_arr := split $img "." }}
+{{ $srcbase := index $type_arr 0 }}
+
 {{ with $srcbase }}
   {{ with $imgcaption }}
   <figure class="box-center" max-width="{{ $imgproz }}%">
@@ -18,16 +21,14 @@
       {{- $srcbase -}}-small.avif 330w, 
       {{- $srcbase -}}-medium.avif 660w, 
       {{- $srcbase -}}-large.avif 1024w, 
-      {{- $srcbase -}}-fullsize.avif 2x" 
-      />
-     <img 
-     srcset="
+      {{- $srcbase -}}-fullsize.avif 2x" />
+     <img srcset="
       {{ ($img.Resize "330x") }} 330w, 
       {{ ($img.Resize "660x") }} 660w, 
       {{ ($img.Resize "1024x") }} 1024w, 
       {{ ($img.Resize "1366x") }} 2x" 
       src="{{ ($img.Resize "660x") }}"
-      loading="lazy" decoding="async" alt="{{- $imgcaption -}}" />
+      loading="lazy" decoding="async" alt="{{- $imgalt -}}" />
     </picture>
     <div class="img-center-caption">
       <figcaption>
@@ -35,7 +36,5 @@
       </figcaption>
     </div>
   </figure>
-  {{ else }}
-    <img src="{{- $img.RelPermalink -}}" style="float: center; margin-left: 15px; margin-bottom: 15px; border-radius: 10px; max-width: 95%; position: relative;" class="nozoom" loading="lazy" decoding="async" alt="{{- $imgalt -}}">
   {{ end }}
 {{ end }}

@@ -132,7 +132,7 @@ highlightCurrentMenuArea = true
   showLikes = false
   showTableOfContents = false
   groupByYear = false
-  cardView = false
+  cardView = true
   cardViewScreenWidth = false
 
 
