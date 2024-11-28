@@ -16,10 +16,15 @@ showSummary: true
 summary: "This is the summary for the few-to-fireplace-test page."
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis auctor feugiat diam, ac sodales nisl fringilla in. Interdum et malesuada fames ac ante ipsum primis in faucibus. Phasellus ante turpis, porta et ipsum sit amet, lobortis semper nulla. Phasellus dapibus nibh enim, a ultricies orci bibendum at. Ut sit amet tellus dolor. Morbi gravida luctus turpis quis ornare. Sed quis lorem suscipit, hendrerit urna vel, sagittis ex. Nam euismod velit ac metus facilisis, nec convallis felis mattis. Nulla facilisi. Here's the paragraph BREAK.
 
 
-{{< imgRight "incontent/IMG_3199.jpg" "3199" "3199" >}}This is the paragraph it should lined up with, consectetur adipiscing elit. Duis auctor feugiat diam, ac sodales nisl fringilla in. Interdum et malesuada fames ac ante ipsum primis in faucibus. Phasellus ante turpis, porta et ipsum sit amet, lobortis semper nulla. Phasellus dapibus nibh enim, a ultricies orci bibendum at. Ut sit amet tellus dolor. Morbi gravida luctus turpis quis ornare. Sed quis lorem suscipit, hendrerit urna vel, sagittis ex. Nam euismod velit ac metus facilisis, nec convallis felis mattis. Nulla facilisi. Cras fermentum efficitur dolor a accumsan. In vel hendrerit tellus. Aenean hendrerit accumsan orci, quis molestie quam bibendum et. Integer aliquam felis consectetur, convallis velit vitae, tincidunt eros. Etiam semper lacinia semper. Sed in ante euismod, finibus tellus ac, finibus ligula.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis auctor feugiat diam, ac sodales nisl fringilla in. Interdum et malesuada fames ac ante ipsum primis in faucibus. Phasellus ante turpis, porta et ipsum sit amet, lobortis semper nulla. Phasellus dapibus nibh enim, a ultricies orci bibendum at. Ut sit amet tellus dolor. 
+
+{{< imgCenter "images/IMG_1754-scaled.jpg" "75" "try this" "try this" >}}
+Morbi gravida luctus turpis quis ornare. Sed quis lorem suscipit, hendrerit urna vel, sagittis ex. Nam euismod velit ac metus facilisis, nec convallis felis mattis. Nulla facilisi. Here's the paragraph BREAK.
+
+
+{{< imgRight "incontent/IMG_1795.jpg" "snow" "snow" >}}This is the paragraph it should lined up with, consectetur adipiscing elit. Duis auctor feugiat diam, ac sodales nisl fringilla in. Interdum et malesuada fames ac ante ipsum primis in faucibus. Phasellus ante turpis, porta et ipsum sit amet, lobortis semper nulla. Phasellus dapibus nibh enim, a ultricies orci bibendum at. Ut sit amet tellus dolor. Morbi gravida luctus turpis quis ornare. Sed quis lorem suscipit, hendrerit urna vel, sagittis ex. Nam euismod velit ac metus facilisis, nec convallis felis mattis. Nulla facilisi. Cras fermentum efficitur dolor a accumsan. In vel hendrerit tellus. Aenean hendrerit accumsan orci, quis molestie quam bibendum et. Integer aliquam felis consectetur, convallis velit vitae, tincidunt eros. Etiam semper lacinia semper. Sed in ante euismod, finibus tellus ac, finibus ligula.
 
 ***
 These are calls to the OSMand app from: ( https://github.com/osmandapp/OsmAnd-ios/issues/447 )
