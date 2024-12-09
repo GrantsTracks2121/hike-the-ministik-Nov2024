@@ -1,11 +1,11 @@
 {{/*  GSW: source of the base code: https://tekki-tipps.de/en/hugo-page-bundles-images/ */}}
 {{/*  GSW: help from: https://web.dev/articles/codelab-serve-images-webp */}}
 {{/*  GSW: got split image idea from: https://martijnvanvreeden.nl/hugo-shortcode-to-serve-images-in-next-gen-formats/ */}}
-{{/*  GSW: The images in the content of the post will be housed in the "incontent" folder - both webp and jpg formats  */}}
+{{/*  GSW: The images in the content of a grantstracks post will be housed in the "incontent" folder - both webp and jpg formats  */}}
 {{/*  GSW: The original code used $img.RelPermalink but that had the extension attached in the srcset lines  */}}
-{{/*  GSW: in Nov, 2024 I added AVIF to the options. */}}
+{{/*  GSW: in Nov, 2024 I added AVIF to the options instead of webp. */}}
 {{/*  GSW: class nozoom in image img tag relates to clicking and seeing a larger version of pic in blowfish theme - this turns it off because it wasn't working for webp pictures, nor, I found later, with the AVIF images. This has to be Blowfish deficiency, not the browser. */}}
-{{/*  GSW: the original version had an "imgproz" which corresponded to one of the css classes I have set up in custom.css. IT's not here because tailwind css is doing the job. */}}
+{{/*  GSW: the original version had an "imgproz" which corresponded to one of the css classes I have set up in custom.css. It's not here because tailwind css is doing the job. */}}
 
 
 {{ $img := $.Page.Resources.GetMatch (.Get 0) }}
