@@ -11,6 +11,7 @@
 # Avocado has a light green base - not too bad for spring
 # Fire looks a lot like autumn - even more orange to my eye
 # The rest are either bad or just too color neutral for my taste
+# the original colorScheme was blowfish
 colorScheme = "blowfish"
 defaultAppearance = "dark" # valid options: light or dark
 autoSwitchAppearance = true
@@ -32,13 +33,13 @@ defaultBackgroundImage = "img/dingdongTree.jpg" # used as default for background
 highlightCurrentMenuArea = true
 # smartTOC = true
 # smartTOCHideUnfocusedChildren = true
-  
+
 # GSW - this is the highest rating difficulty of a hike on the site.
 # It's used in the calculation in the "getdiffrating" shortcode to determine
 # the label and color of the display beside "Difficulty" in each hike's "Hike Details" section.
 
 [gswparams]
-  HikeMaxRating = "221"
+  HikeMaxRating = "223"
 
 [header]
   layout = "fixed-gradient" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
@@ -155,10 +156,10 @@ highlightCurrentMenuArea = true
   # domain = "llama.yoursite.com"
 
 [buymeacoffee]
-  # identifier = ""
+  # identifier = "hiketheministik"
   # globalWidget = true
   # globalWidgetMessage = "Hello"
-  # globalWidgetColor = "#FFDD00"
+  # globalWidgetColor = "#45B185"
   # globalWidgetPosition = "Right"
 
 [verification]

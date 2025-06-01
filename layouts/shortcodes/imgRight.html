@@ -19,13 +19,8 @@
   <div class="sm:w-full lg:w-1/2 lg:float-right rounded-lg -mt-4 lg:ml-8 sm:mb-10">
     <figure class="my-0 rounded-md nozoom h-full w-full">
       <picture>
-        <source type="image/avif" 
-        srcset="
-         {{- $srcbase -}}-330.avif 330w, 
-         {{- $srcbase -}}-660.avif 660w, 
-         {{- $srcbase -}}-1024.avif 1024w, 
-         {{- $srcbase -}}-1366.avif 2x"/>
-       <img srcset="
+        <source type="image/jpeg" 
+       srcset="
         {{ ($img.Resize "330x") }} 330w, 
         {{ ($img.Resize "660x") }} 660w, 
         {{ ($img.Resize "1024x") }} 1024w, 

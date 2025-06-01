@@ -6,148 +6,16 @@
     <description>Recent content in Francis Edward Williams Trailhead on Hike the Ministik!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2024 </copyright>
+    <copyright>© 2025 </copyright>
     <atom:link href="//localhost:1313/categories/francis-edward-williams-trailhead/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Francis Edward Williams to Five Meadows Loop</title>
-      <link>//localhost:1313/hikes/few-to-five-meadows-loop/</link>
+      <link>//localhost:1313/hikes/037-few-to-five-meadows-loop/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/hikes/few-to-five-meadows-loop/</guid>
-      <description>&lt;div class=&#34;flex flex-col text-surface shadow-secondary-1 dark:bg-surface-dark dark:text-white max-w-max lg:flex-row h-auto&#34; style=margin-bottom:-100px;&gt;
-
-&lt;figure class=&#34;w-full lg:w-1/2 hikedetailsfigure&#34;&gt;
-        &lt;img
-          class=&#34;my-0 rounded-md&#34;
-          srcset=&#34;
-          /hikes/few-to-five-meadows-loop/featured-037-FEW-to-Five-Meadows-Hike-Fire-Tower-Loop_hu16865867044927953262.jpg 330w,
-          /hikes/few-to-five-meadows-loop/featured-037-FEW-to-Five-Meadows-Hike-Fire-Tower-Loop_hu13258201839480241291.jpg 660w,
-          /hikes/few-to-five-meadows-loop/featured-037-FEW-to-Five-Meadows-Hike-Fire-Tower-Loop_hu14551183779487722288.jpg 1024w,
-          /hikes/few-to-five-meadows-loop/featured-037-FEW-to-Five-Meadows-Hike-Fire-Tower-Loop_hu16603928821010941060.jpg 2x&#34;
-          src=&#34;//localhost:1313/hikes/few-to-five-meadows-loop/featured-037-FEW-to-Five-Meadows-Hike-Fire-Tower-Loop_hu13258201839480241291.jpg&#34;
-          alt=&#34;Hike route: Francis Edward Williams to Five Meadows Loop&#34;
-        /&gt;
-  &lt;figcaption class=&#34;text-center&#34;&gt;Hike route: Francis Edward Williams to Five Meadows Loop&lt;/figcaption&gt;
-  
-  &lt;/figure&gt;
-  &lt;div class=&#34;flex flex-col justify-start pl-5 lg:w-1/2 sm:pb-7&#34;&gt;
-    &lt;h4 class=&#34;text-xl font-large mt-4&#34;&gt;Hike Details&lt;/h4&gt;
-      &lt;table width=100% class=&#34;w-full&#34;&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;my-4 text-base&#34;&gt;Trailhead:&lt;/td&gt;
-          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;my-4 text-base&#34;&gt;&lt;a href=&#34;//localhost:1313/trailheads/few/&#34; target=&#34;_blank&#34;&gt;Francis Edward Williams Trailhead&lt;/a&gt;&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;my-4 text-base&#34;&gt;Hike Length:&lt;/td&gt;
-          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;my-4 text-base&#34;&gt;11.4 km&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;mb-2 text-base&#34;&gt;Route Type:&lt;/td&gt;
-          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;mb-2 text-base&#34;&gt;Loop&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;mb-2 text-base&#34; rowspan=&#34;2&#34;&gt;Difficulty:&lt;/td&gt;
-          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;text-base&#34;&gt;
-
-
-
-
-
-
-
-
-	
-	
-Rated 221: Expedition
-&lt;div class=&#34;progress&#34;&gt;
-  &lt;div class=&#34;progress inner&#34; style=&#34;width:100%;background-color:black!important&#34;&gt;221&amp;nbsp;/&amp;nbsp;221&lt;/div&gt;
-&lt;/div&gt;
-&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-        &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;mb-2 text-base&#34;&gt;&lt;sup&gt;&lt;a href=&#34;//localhost:1313/hike-ratings/&#34;&#34; target=&#34;_blank&#34;&gt;&amp;#9432; Ratings Explained&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-      &lt;/table&gt;
-    &lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/few-to-five-meadows-loop/featured-037-FEW-to-Five-Meadows-Hike-Fire-Tower-Loop.jpg" />
-    </item>
-    
-    <item>
-      <title>Francis Edward Williams Trailhead to the Ministik Fireplace</title>
-      <link>//localhost:1313/hikes/few-to-fireplace-test/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>//localhost:1313/hikes/few-to-fireplace-test/</guid>
-      <description>This is the summary for the few-to-fireplace-test page.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/few-to-fireplace-test/featured-001-FEW-to-Fireplace.jpg" />
-    </item>
-    
-    <item>
-      <title>Francis Edward Williams Trailhead to the Ministik Fireplace</title>
-      <link>//localhost:1313/hikes/few-to-fireplace/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>//localhost:1313/hikes/few-to-fireplace/</guid>
-      <description>&lt;div class=&#34;flex flex-col text-surface shadow-secondary-1 dark:bg-surface-dark dark:text-white max-w-max lg:flex-row h-auto&#34; style=margin-bottom:-100px;&gt;
-
-&lt;figure class=&#34;w-full lg:w-1/2 hikedetailsfigure&#34;&gt;
-        &lt;img
-          class=&#34;my-0 rounded-md&#34;
-          srcset=&#34;
-          /hikes/few-to-fireplace/featured-001-FEW-to-Fireplace_hu4633255654479261351.jpg 330w,
-          /hikes/few-to-fireplace/featured-001-FEW-to-Fireplace_hu17022467483748980768.jpg 660w,
-          /hikes/few-to-fireplace/featured-001-FEW-to-Fireplace_hu4764442713365542946.jpg 1024w,
-          /hikes/few-to-fireplace/featured-001-FEW-to-Fireplace_hu17281929872122153019.jpg 2x&#34;
-          src=&#34;//localhost:1313/hikes/few-to-fireplace/featured-001-FEW-to-Fireplace_hu17022467483748980768.jpg&#34;
-          alt=&#34;Hike route: Francis Edward Williams Trailhead to the Ministik Fireplace&#34;
-        /&gt;
-  &lt;figcaption class=&#34;text-center&#34;&gt;Hike route: &amp;ldquo;Francis Edward Williams Trailhead to the Ministik Fireplace&amp;rdquo;&lt;/figcaption&gt;
-  
-  &lt;/figure&gt;
-  &lt;div class=&#34;flex flex-col justify-start pl-5 lg:w-1/2 sm:pb-7&#34;&gt;
-    &lt;h4 class=&#34;text-xl font-large mt-4&#34;&gt;Hike Details&lt;/h4&gt;
-      &lt;table width=100% class=&#34;w-full&#34;&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;my-4 text-base&#34;&gt;Trailhead:&lt;/td&gt;
-          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;my-4 text-base&#34;&gt;&lt;a href=&#34;//localhost:1313/trailheads/few/&#34; target=&#34;_blank&#34;&gt;Francis Edward Williams Trailhead&lt;/a&gt;&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;my-4 text-base&#34;&gt;Hike Length:&lt;/td&gt;
-          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;my-4 text-base&#34;&gt;2.1 km&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;mb-2 text-base&#34;&gt;Route Type:&lt;/td&gt;
-          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;mb-2 text-base&#34;&gt;Out &amp; Back&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td valign=&#34;top&#34; width=&#34;40%&#34; class=&#34;mb-2 text-base&#34; rowspan=&#34;2&#34;&gt;Difficulty:&lt;/td&gt;
-          &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;text-base&#34;&gt;
-
-
-
-
-
-
-
-
-	
-	
-Rated 52: Easy
-&lt;div class=&#34;progress&#34;&gt;
-  &lt;div class=&#34;progress inner&#34; style=&#34;width:24%;background-color:green!important&#34;&gt;52&amp;nbsp;/&amp;nbsp;221&lt;/div&gt;
-&lt;/div&gt;
-&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-        &lt;td valign=&#34;top&#34; style=&#34;padding-left: 10px;&#34; class=&#34;mb-2 text-base&#34;&gt;&lt;sup&gt;&lt;a href=&#34;//localhost:1313/hike-ratings/&#34;&#34; target=&#34;_blank&#34;&gt;&amp;#9432; Ratings Explained&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-      &lt;/table&gt;
-    &lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/few-to-fireplace/featured-001-FEW-to-Fireplace.jpg" />
+      <guid>//localhost:1313/hikes/037-few-to-five-meadows-loop/</guid>
+      <description>Starting from the Francis Edward Williams trailhead, this hike traverses sections of the established Waskahegan Trail as well as a series of five &amp;ldquo;off-trail&amp;rdquo; hay meadows on a wide loop that takes you into the inner depths of the Ministik, eventually passing the Ministik Firetower.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/037-few-to-five-meadows-loop/featured-037-FEW-to-Five-Meadows-Hike-Fire-Tower-Loop.jpg" />
     </item>
     
   </channel>

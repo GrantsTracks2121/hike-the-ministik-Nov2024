@@ -17,14 +17,14 @@
 {{/* GSW: Change the text depending on singular or plural */}}
 {{ if eq $numberofhikes 1 }}
     {{ $numberofhikestext = "There is" }}
-    {{ $hikestext = "Hike" }}
+    {{ $hikestext = "hike" }}
 {{ else }}
     {{ $numberofhikestext = "There are" }}
-    {{ $hikestext = "Hikes" }}
+    {{ $hikestext = "hikes" }}
 {{end}}
 
 {{/* Original code starts here  GSW added the altered title */}}
-<h2 class="mt-20 text-2xl font-extrabold mb-10">{{ $numberofhikestext }} {{ $numberofhikes }} Suggested {{ $hikestext }} Starting at the {{ $title }}.</h2>
+<h2 class="text-2xl font-extrabold mb-10">{{ $numberofhikestext }} {{ $numberofhikes }} suggested {{ $hikestext }} starting at the {{ $title }}.</h2>
 
 {{ if $cardView | default false }}
 
@@ -46,7 +46,7 @@
 
 {{ else }}
 
-<section class="space-y-10 w-full mt-10 mb-10">
+<section class="space-y-10 w-full mb-10">
     {{ if $where }}
         {{ range ( where .Site.RegularPages $where $value | first $limit ) }}
             {{ if not (eq .RelPermalink $parent) }}

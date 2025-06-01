@@ -3,7 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>//localhost:1313/trailheads/fairbrother-corner/</loc>
+    <loc>//localhost:1313/hikes-by-length/less-than-5-km/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/hikes-by-length/5-7km/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/hikes-by-length/7-10km/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -13,32 +23,17 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>//localhost:1313/trailheads/fairbrother-corner/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>//localhost:1313/trailheads/misasin/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/trailheads/north-miquelon-road/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:1313/trailheads/site-2/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:1313/trailheads/site-33/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>//localhost:1313/trailheads/berg-south/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:1313/hikes-by-length/7-10km/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -53,32 +48,12 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/hikes-by-length/5-7km/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>//localhost:1313/trailheads/mandy-lake-road/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/hikes-by-length/less-than-5-km/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:1313/trailheads/joseph-lake/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>//localhost:1313/trailheads/uofa-road/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:1313/trailheads/wildland-meadows/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -93,57 +68,22 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/hikes/fairbrother-to-mandy-lake-south-option/</loc>
+    <loc>//localhost:1313/hikes/009-five-meadows-loop/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/hikes/fairbrother-to-mandy-lake-direct/</loc>
+    <loc>//localhost:1313/hikes/037-few-to-five-meadows-loop/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/hikes/five-meadows-loop/</loc>
+    <loc>//localhost:1313/hikes/002-few-to-fire-tower/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/hikes/few-to-five-meadows-loop/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:1313/hikes/few-to-fire-tower/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:1313/hikes/few-to-fireplace-test/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:1313/hikes/few-to-fireplace/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:1313/hikes/few-to-uofa-gate/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:1313/guides/grassy-fields-guide/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:1313/guides/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:1313/hike-ratings/</loc>
+    <loc>//localhost:1313/hikes/003-few-to-uofa-gate/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -168,52 +108,32 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/hikes/joseph-lake-loop/</loc>
+    <loc>//localhost:1313/hikes/027-mandy-lake-to-shelter/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/hikes/wat-lake-to-tower-loop/</loc>
+    <loc>//localhost:1313/hikes/028-mandy-lake-tr-to-oliver-lake/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/hikes/mandy-lake-to-shelter/</loc>
+    <loc>//localhost:1313/hikes/017-misasin-trail/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/hikes/mandy-lake-tr-to-oliver-lake/</loc>
+    <loc>//localhost:1313/hikes/022-mitchell-loop/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/hikes/mandy-lake-to-waskahegan/</loc>
+    <loc>//localhost:1313/hikes/036-north-of-502/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/hikes/misasin-trail/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:1313/hikes/mitchell-half-loop/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:1313/hikes/mitchell-loop/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:1313/hikes/north-of-502/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:1313/hikes/site2-to-wildland-meadows/</loc>
+    <loc>//localhost:1313/changelog/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -223,92 +143,87 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/hikes/stick-to-the-road/</loc>
+    <loc>//localhost:1313/hikes/005-stick-to-the-road/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/hikes/stove-lake-to-fairbrother-corner/</loc>
+    <loc>//localhost:1313/hikes/020-stove-lake-to-fairbrother-corner/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/hikes/stove-lake-to-mandy-lake/</loc>
+    <loc>//localhost:1313/hikes/019-stove-lake-to-mandy-lake/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/hikes/stove-lake-to-crossroads/</loc>
+    <loc>//localhost:1313/hikes/018-stove-lake-to-crossroads/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/hikes/enchanted-forest-loop/</loc>
+    <loc>//localhost:1313/hikes/006-enchanted-forest-loop/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/hikes/waskahegan-trail/</loc>
+    <loc>//localhost:1313/get-started/ministik-hiking-trails/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/hikes/three-meadows-loop/</loc>
+    <loc>//localhost:1313/hikes/011-waskahegan-trail/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/hikes/uofa-to-fire-tower/</loc>
+    <loc>//localhost:1313/trail-rating-system/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/hikes/uofa-gate-to-mandy-lake/</loc>
+    <loc>//localhost:1313/hikes/010-three-meadows-loop/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/hikes/uofa-gate-to-penny-lane/</loc>
+    <loc>//localhost:1313/hikes/008-uofa-to-fire-tower/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/hikes/uofa-gate-stove-lake-via-deadfall-alley/</loc>
+    <loc>//localhost:1313/hikes/012-uofa-gate-to-mandy-lake/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/hikes/uofa-gate-stove-lake-via-tower/</loc>
+    <loc>//localhost:1313/hikes/007-penny-lane-loop/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/hikes/uofa-gate-to-mandy-lake/</loc>
+    <loc>//localhost:1313/hikes/014-uofa-gate-stove-lake-via-deadfall-alley/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/hikes/berg-section-2-car/</loc>
+    <loc>//localhost:1313/hikes/013-uofa-gate-stove-lake-via-tower/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/hikes/berg-section-out-and-back/</loc>
+    <loc>//localhost:1313/hikes/034-uofa-gate-to-mandy-lake/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/hikes/wildland-meadows-loop/</loc>
+    <loc>//localhost:1313/hikes/004-berg-section-2-car/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/hikes/wildland-meadows-to-the-diner/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:1313/hikes/wildland-meadows-to-mandy-lake/</loc>
+    <loc>//localhost:1313/hikes/040-berg-section-out-and-back/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

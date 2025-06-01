@@ -1,0 +1,36 @@
+{{ $type := .Get "type" | lower }}
+{{ $text := .Get "text" }}
+{{ $class := "changelog-badge" }}
+
+{{ if eq $type "new" }}
+  {{ $class = "changelog-badge badge-new" }}
+{{ else if eq $type "improvement" }}
+  {{ $class = "changelog-badge badge-improvement" }}
+{{ else if eq $type "fix" }}
+  {{ $class = "changelog-badge badge-fix" }}
+{{ else if eq $type "removed" }}
+  {{ $class = "changelog-badge badge-removed" }}
+{{ else if .IsNamedParams }}
+    {{ $class = printf "changelog-badge %s" (.Get "class") }}
+{{ end }}
+
+<span class="{{ $class }}">
+  {{ $text | default (replace $type "-" " " | title) }}
+</span>
+
+
+<style>
+  .changelog-badge {
+    padding: 0.2em 0.6em;
+    margin: 0 0.2em;
+    font-size: 0.85em;
+    font-weight: bold;
+    border-radius: 3px;
+    display: inline-block;
+    color: white;
+  }
+  .badge-new { background-color: #28a745; } /* Green */
+  .badge-improvement { background-color: #17a2b8; } /* Blue */
+  .badge-fix { background-color: #ffc107; color: #212529;} /* Yellow */
+  .badge-removed { background-color: #dc3545; } /* Red */
+</style>
