@@ -6,11 +6,15 @@ type: 'trailhead'
 weight: "80"
 description: "This is the Stove Lake Trailhead"
 showSummary: true
+showHero: true
+heroStyle: "background"
 summary: "The Stove Lake Trailhead, named after a now completely dried up lake nearby, has best parking space among Ministik trailheads. Situated on a sharp curve the wide, sloped ditch between the road and the trailhead gate allows room for multiple vehicles. Even in winter there’s room along the road itself to park multiple vehicles safely."
 ---
 <div class="flex flex-col text-surface shadow-secondary-1 dark:bg-surface-dark dark:text-white max-w-max lg:flex-row h-auto sm:pb-10">
 <div class="w-full lg:w-1/2" style="margin-bottom: 20px;">
-image or iframe
+
+![Stove Lake Trailhead](featured-stoveLake.jpg "Stove Lake Trailhead")
+
 </div>
   <div class="flex flex-col justify-start pl-5 lg:w-1/2">
     <h4 class="text-xl font-large mt-0">Trailhead Details</h4>
@@ -35,7 +39,6 @@ image or iframe
         </tr>
       </tbody>
       </table>
-    </p>
   </div>
 </div>
 {{< hikelist title="Stove Lake Trailhead" cardView=true limit=10 where="Params.trailhead" value="stovelake" >}}

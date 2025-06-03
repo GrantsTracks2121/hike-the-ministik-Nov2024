@@ -11,11 +11,9 @@ showHero: true
 {{< figure-right-justified
     src="/get-started/images/EnchantedForest.jpg"
     alt="A section of the Waskahegan Trail through \"The Enchanted Forest\""
-    caption="A section of the Waskahegan Trail through \"The Enchanted Forest\"" >}}Hiking in the Ministik is unique when compared to other destinations in the area because trails here are largely **unmaintained**. That means that throughout the seasons of a year, and the years of a decade nature does what it does: it slowly alters the character of trails, often obsuring them with overgrowth in the short run and completely reclaiming them in the long run. 
+    caption="A section of the Waskahegan Trail through \"The Enchanted Forest\"" >}}Hiking in the Ministik is unique when compared to other hiking destinations in the area because trails here are largely **unmaintained**. In the Ministik, nature is almost completely left alone to its "naturing". Growth and decay slowly alter the character of trails, often obsuring them with overgrowth in the short run and completely reclaiming them in the long run. 
 
-This means that in the Ministik, nature almost completely left alone to its "naturing". This gives the place a "wild" character because human interaction with the any hiking trails is at a minimum. 
-
-Since the trails in the Ministik are unmaintained, that means they can be unpredictable. That may be a reason for many people to avoid the area especially if the goal is an easy, leisurely stroll without having to pay heed to navigating a hiking route. 
+ This lack of trail maintenance gives the place a "wild" character, which means it can be unpredictable. That may be a reason for many people to avoid the area, especially if the goal is an easy, leisurely stroll without having to pay heed to navigating a hiking route. 
 
 This same unpredictability may also be the very reason for others to be keen to hike the area because with it brings a real sense of exploration, discovery and a feeling of experiencing nature that has not been molded to any large extent by humans.
 

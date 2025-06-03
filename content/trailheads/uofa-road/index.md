@@ -12,7 +12,9 @@ summary: "It’s fair to say that the U of A Access Road Gate is the “front do
 ---
 <div class="flex flex-col text-surface shadow-secondary-1 dark:bg-surface-dark dark:text-white max-w-max lg:flex-row h-auto sm:pb-10" style=margin-bottom:-100px;>
 <div class="w-full lg:w-1/2" style="margin-bottom: 20px;">
-image or iframe
+
+![U of A Field Station Access Road Gate](featured-ufaAccessRoadGate.jpg "U of A Field Station Access Road Gate")
+
 </div>
   <div class="flex flex-col justify-start pl-5 lg:w-1/2">
     <h4 class="text-xl font-large mt-0">Trailhead Details</h4>

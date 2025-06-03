@@ -6,16 +6,16 @@ type: 'trailhead'
 weight: "90"
 description: "Mandy Lake Road Trailhead."
 showSummary: true
+showHero: true
+heroStyle: "background"
 summary: "The Mandy Lake Road trailhead is well-used in all seasons. Although it is at the end of Township Rd 502, past any local farmyards, it gets maintenance attention in all seasons. There is ample parking along the small pond side of the road. Please don't block the gate even though it is seldom, if ever, used."
 ---
 
 <div class="flex flex-col text-surface shadow-secondary-1 dark:bg-surface-dark dark:text-white max-w-max lg:flex-row h-auto">
 <div class="w-full lg:w-1/2">
-{{< figure
-    src="featured-mandy-lake-road.jpg"
-    alt="Mandy Lake Road Trailhead"
-    caption="Mandy Lake Road Trailhead"
-    >}}
+
+![Mandy Lake Road Trailhead](featured-mandy-lake-road.jpg "Mandy Lake Road Trailhead")
+
 </div>
   <div class="flex flex-col justify-start pl-5 lg:w-1/2">
     <h4 class="text-xl font-large mt-0">Trailhead Details</h4>

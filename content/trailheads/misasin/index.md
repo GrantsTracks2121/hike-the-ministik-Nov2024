@@ -6,11 +6,15 @@ type: 'trailhead'
 description: "Misasin Trailhead."
 weight: "70"
 showSummary: true
+showHero: true
+heroStyle: "background"
 summary: "Like the trail, this trailhead seems seldom used, but because it is situated along a quiet road, it offers plenty of parking space in any season. In season, you can pull off the road into the very shallow ditch or simply park as far off the road as possible if snow is factor."
 ---
 <div class="flex flex-col text-surface shadow-secondary-1 dark:bg-surface-dark dark:text-white max-w-max lg:flex-row"> 
   <div class="w-full lg:w-1/2" style="margin-bottom: 20px;">
-    image or iframe
+
+![Misasin Trailhead](featured-misasin.jpg "Misasin Trailhead")
+
   </div>
   <div class="flex flex-col justify-start pl-5 lg:w-1/2">
     <h4 class="text-xl font-large mt-0">Trailhead Details</h4>

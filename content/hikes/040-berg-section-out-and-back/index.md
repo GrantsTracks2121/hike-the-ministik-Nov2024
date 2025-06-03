@@ -60,9 +60,11 @@ The hike is "out and back" so the idea is walk the length of trail and then doub
 
 
 
+
 {{< notice tip >}}
 There are sections of this hike where scratchy bushes beside the trail grow over the trail. Long sleeves and long pants are highly recommended for this hike.
 {{< /notice >}}
+
 
 
 

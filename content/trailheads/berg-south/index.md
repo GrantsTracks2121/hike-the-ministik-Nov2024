@@ -6,11 +6,16 @@ description: "Waskahegan Berg Section - South Trailhead."
 weight: "70"
 slug: "berg-south"
 showSummary: true
-summary: "The Waskahegan Berg Section - South Trailhead is bit different from other Ministik trailheads in that there is no safe parking at the trailhead itself. But parking is very close nearby at the U of A Access Gate. Once parked near the gate, walk about 5-minutes west down the road, cross the road and access the trailhead to start your hike."
+showHero: true
+heroStyle: "background"
+summary: "The Waskahegan Berg Section - South Trailhead is bit different from other Ministik trailheads in that there is no safe parking at the trailhead itself. But parking is very close nearby at the U of A Access Gate. Once parked near the gate, walk for about 3 minutes west, cross the road and ditch and access the trailhead to start your hike."
 ---
 <div class="flex flex-col text-surface shadow-secondary-1 dark:bg-surface-dark dark:text-white max-w-max lg:flex-row h-auto sm:pb-10">
 <div class="w-full lg:w-1/2">
-image or iframe
+
+![Waskahegan Berg Section - South Trailhead](featured-waskaheganBergSouth.jpg "Waskahegan Berg Section - South Trailhead")
+
+
 </div>
   <div class="flex flex-col justify-start pl-5 lg:w-1/2">
     <h4 class="text-xl font-large mt-0">Trailhead Details</h4>
@@ -31,8 +36,8 @@ image or iframe
           <p><a href="w3w://show?threewords=liberally.bouts.unworn">///liberally.bouts.unworn</a> (Opens in what3words - mobile only)</p></td>
         </tr>
         <tr>
-          <td valign="top" colspan="2" class="my-4 text-base"><ul><li>The Waskahegan Berg Section - South Trailhead is bit different from other Ministik trailheads in that there is no safe parking at the trailhead itself. But parking is very close nearby at the U of A Access Gate.</li>
-          <li>Once parked near the gate, walk about 5-minutes west down the road, cross the road and access the trailhead to start your hike.</li></ul></td>
+          <td valign="top" colspan="2" class="my-4 text-base"><ul><li>The Waskahegan Berg Section - South Trailhead is a bit different from other Ministik trailheads in that there is no safe parking at the trailhead itself. But parking is very close nearby at the U of A Access Gate.</li>
+          <li>Once parked near the gate, walk for about 3 minutes west, cross the road and ditch and access the trailhead to start your hike.</li></ul></td>
         </tr>
       </tbody>
       </table>
