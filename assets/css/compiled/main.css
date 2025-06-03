@@ -1203,13 +1203,8 @@ select {
   --tw-prose-invert-lead:rgba(var(--color-neutral-500), 1);
   --tw-prose-invert-links:rgba(var(--color-primary-400), 1);
   --tw-prose-invert-bold:rgba(var(--color-neutral), 1);
- /*
- Original was: 
- --tw-prose-invert-counters:rgba(var(--color-neutral-400), 1);
+  --tw-prose-invert-counters:rgba(var(--color-neutral-400), 1);
   --tw-prose-invert-bullets:rgba(var(--color-neutral-600), 1);
-*/
-  --tw-prose-invert-counters:rgba(var(--color-neutral-200), 1);
-  --tw-prose-invert-bullets:rgba(var(--color-neutral-200), 1);
   --tw-prose-invert-hr:rgba(var(--color-neutral-500), 1);
   --tw-prose-invert-quotes:rgba(var(--color-neutral-200), 1);
   --tw-prose-invert-quote-borders:rgba(var(--color-primary-900), 1);
@@ -1902,6 +1897,10 @@ select {
   width:1px !important
 }
 
+.w-1 {
+  width:0.25rem
+}
+
 .w-12 {
   width:3rem
 }
@@ -2129,6 +2128,14 @@ select {
   justify-content:space-between
 }
 
+.gap-0 {
+  gap:0px
+}
+
+.gap-2 {
+  gap:0.5rem
+}
+
 .gap-3 {
   gap:0.75rem
 }
@@ -2268,6 +2275,11 @@ select {
 .rounded-b-lg {
   border-bottom-right-radius:0.5rem;
   border-bottom-left-radius:0.5rem
+}
+
+.rounded-t-lg {
+  border-top-left-radius:0.5rem;
+  border-top-right-radius:0.5rem
 }
 
 .\!border-0 {
@@ -2600,6 +2612,10 @@ select {
   padding-bottom:1rem
 }
 
+.pb-7 {
+  padding-bottom:1.75rem
+}
+
 .pl-2 {
   padding-left:0.5rem
 }
@@ -2667,6 +2683,11 @@ select {
 .text-2xl {
   font-size:1.5rem;
   line-height:2rem
+}
+
+.text-3xl {
+  font-size:1.875rem;
+  line-height:2.25rem
 }
 
 .text-4xl {
@@ -5078,6 +5099,10 @@ pre {
 
   .sm\:flex-row {
     flex-direction:row
+  }
+
+  .sm\:gap-2 {
+    gap:0.5rem
   }
 
   .sm\:overflow-hidden {

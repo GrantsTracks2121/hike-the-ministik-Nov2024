@@ -41,9 +41,14 @@ summary: "It’s fair to say that the U of A Access Road Gate is the “front do
 
 <li>Occasionally vehicles do have to access the road, so please don't block the gate when you park.</li> </ul>
 
+
+
 {{< notice warning >}}
 Note that you should park well off the road here. Parking with two vehicle wheels just off the road at the top of the hill west of the gate may get you a ticket. Parking this way is unsafe because of the poor visibility for oncoming cars in either direction.
 {{< /notice >}}
+
+
+
 
 </td>
         </tr>

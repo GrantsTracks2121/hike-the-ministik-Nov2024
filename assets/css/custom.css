@@ -828,4 +828,10 @@ Ai changed from Tailwind css to regular css - that's why all the comments. */
   padding-left: 1px;
 }
 
-/* Trailhead Details - line up list items so first line is not indented */
+/* Control the size of googleplay and app store images */
+.appStoreImage {
+    width: 200px;
+    height: auto; /* Maintain aspect ratio */
+    margin-left: 15px;
+    margin-top: -30px;
+}
