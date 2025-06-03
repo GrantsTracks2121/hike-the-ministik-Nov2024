@@ -4,6 +4,7 @@ slug: "few"
 layout: "simple"
 type: 'trailhead'
 weight: "90"
+trailhead: true
 description: "Francis Edward Williams Trailhead."
 showHero: true
 heroStyle: "background"

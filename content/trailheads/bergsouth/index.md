@@ -5,6 +5,7 @@ layout: "simple"
 description: "Waskahegan Berg Section - South Trailhead."
 weight: "70"
 slug: "berg-south"
+trailhead: true
 showSummary: true
 showHero: true
 heroStyle: "background"

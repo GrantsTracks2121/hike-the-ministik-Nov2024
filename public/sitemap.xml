@@ -53,12 +53,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/trailheads/uofa-road/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:1313/trailheads/</loc>
+    <loc>//localhost:1313/trailheads/uofaroad/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -114,6 +109,11 @@
   </url>
   <url>
     <loc>//localhost:1313/hikes/028-mandy-lake-tr-to-oliver-lake/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/trailheads/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

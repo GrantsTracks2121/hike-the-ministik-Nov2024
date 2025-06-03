@@ -12,7 +12,7 @@ title = "Hike the Ministik!" # The title of the website. This will be displayed 
   # the secondaryLogo displays when the user chooses light mode
   secondaryLogo = "img/mhg-logo-outlines-black-200.png"
   description = "The Ministik Lake Game Bird Sanctuary (Ministik for short) is a largely unmaintained area of public land about 24 km east of Edmonton, Alberta. Choose from short, liesurely hikes on roads to day-long excursions that may test your stamina and route-finding abilities. You'll find all the options here." # This will be used in the site metadata.
-  copyright = "© Hike The Ministik!"
+  copyright = "© {{< currentYear >}} Hike The Ministik!"
 
 [author]
 name = "Hike the Ministik!"

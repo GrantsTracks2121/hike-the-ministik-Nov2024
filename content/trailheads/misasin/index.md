@@ -3,9 +3,10 @@ title: "Misasin Trailhead"
 slug: "misasin"
 layout: "simple"
 type: 'trailhead'
-description: "Misasin Trailhead."
+description: "Misasin Trailhead"
 weight: "70"
 showSummary: true
+trailhead: true
 showHero: true
 heroStyle: "background"
 summary: "Like the trail, this trailhead seems seldom used, but because it is situated along a quiet road, it offers plenty of parking space in any season. In season, you can pull off the road into the very shallow ditch or simply park as far off the road as possible if snow is factor."

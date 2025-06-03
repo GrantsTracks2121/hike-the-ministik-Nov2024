@@ -5,6 +5,7 @@ description: "Fairbrother Corner Trailhead"
 layout: "simple"
 weight: "70"
 slug: "fairbrother-corner"
+trailhead: true
 showSummary: true
 showHero: true
 heroStyle: "background"

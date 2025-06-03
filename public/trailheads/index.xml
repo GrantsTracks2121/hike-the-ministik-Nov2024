@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hike the Ministik!</title>
+    <title>Ministik Trailheads on Hike the Ministik!</title>
     <link>//localhost:1313/trailheads/</link>
-    <description>Recent content on Hike the Ministik!</description>
+    <description>Recent content in Ministik Trailheads on Hike the Ministik!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© Hike The Ministik!</copyright>
+    <copyright>© {{&lt; currentYear &gt;}} Hike The Ministik!</copyright>
     <atom:link href="//localhost:1313/trailheads/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fairbrother Corner Trailhead</title>
@@ -70,12 +70,12 @@
     
     <item>
       <title>U of A Field Station Access Road Gate</title>
-      <link>//localhost:1313/trailheads/uofa-road/</link>
+      <link>//localhost:1313/trailheads/uofaroad/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/trailheads/uofa-road/</guid>
+      <guid>//localhost:1313/trailheads/uofaroad/</guid>
       <description>It’s fair to say that the U of A Access Road Gate is the “front door” of the Ministik. The gated road leads to a former  U of A Research Station and although the facility seems to have been shuttered from many years, the road itself is periodically cleared of deadfall and other obstacles.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/trailheads/uofa-road/featured-ufaAccessRoadGate.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/trailheads/uofaroad/featured-ufaAccessRoadGate.jpg" />
     </item>
     
   </channel>

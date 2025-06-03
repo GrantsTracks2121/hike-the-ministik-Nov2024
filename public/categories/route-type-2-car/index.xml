@@ -6,7 +6,7 @@
     <description>Recent content in Route Type: 2 Car on Hike the Ministik!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© Hike The Ministik!</copyright>
+    <copyright>© {{&lt; currentYear &gt;}} Hike The Ministik!</copyright>
     <atom:link href="//localhost:1313/categories/route-type-2-car/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Francis Edward Williams Trailhead to the UofA Access Road Gate</title>

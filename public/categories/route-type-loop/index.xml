@@ -6,7 +6,7 @@
     <description>Recent content in Route Type: Loop on Hike the Ministik!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© Hike The Ministik!</copyright>
+    <copyright>© {{&lt; currentYear &gt;}} Hike The Ministik!</copyright>
     <atom:link href="//localhost:1313/categories/route-type-loop/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Five Meadows Loop</title>

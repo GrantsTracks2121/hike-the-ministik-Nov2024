@@ -1,0 +1,81 @@
+{{ $limit := .Get "limit" | default 9999 }}
+{{ $title := .Get "title" | default (i18n "shortcode.trailheads_by_hikes" | emojify) }}
+{{ $parent := .Page.RelPermalink }}
+{{ $cardView := .Get "cardView" }}
+{{ $where := .Get "where" }}
+{{ $value := .Get "value" }}
+
+<h2 class="mt-20 text-2xl font-extrabold mb-10">{{ $title }}</h2>
+
+{{ $trailheadCounts := dict }}
+{{ $trailheadPages := dict }}
+
+{{ range .Site.RegularPages }}
+    {{ if and (eq .Type "hikes") (.Params.trailhead) }}
+        {{ $trailheadName := .Params.trailhead }}
+
+        {{/* --- DEBUGGING START --- */}}
+        {{/* Normalize the trailhead name for consistency - IMPORTANT for matching keys */}}
+        {{ $trailheadName = lower (trim $trailheadName " ") }}
+        {{/* --- DEBUGGING END --- */}}
+
+        {{ $currentCount := default 0 (index $trailheadCounts $trailheadName) }}
+        {{ $trailheadCounts = merge $trailheadCounts (dict $trailheadName (add $currentCount 1)) }}
+
+        {{ errorf "Processing hike: %s, Trailhead (normalized): %s, Count after this hike: %d" .RelPermalink $trailheadName (add $currentCount 1) }}
+
+        {{ if not (index $trailheadPages $trailheadName) }}
+            {{ $trailheadPage := .Site.GetPage "trailheads" $trailheadName }}
+            {{ if $trailheadPage }}
+                {{ $trailheadPages = merge $trailheadPages (dict $trailheadName $trailheadPage) }}
+            {{ else }}
+                {{ errorf "TRAILHEAD PAGE NOT FOUND for: %s (Hike path: %s)" $trailheadName .RelPermalink }}
+            {{ end }}
+        {{ end }}
+    {{ end }}
+{{ end }}
+
+{{ errorf "--- RAW TRAILHEAD COUNTS BEFORE SORTING ---" }}
+{{ range $name, $count := $trailheadCounts }}
+    {{ errorf "Trailhead: %s, Count: %d" $name $count }}
+{{ end }}
+{{ errorf "-----------------------------------------" }}
+
+{{ $sortedTrailheads := slice }}
+{{ range $name, $count := $trailheadCounts }}
+    {{ $sortedTrailheads = $sortedTrailheads | append (dict "name" $name "count" $count "page" (index $trailheadPages $name)) }}
+{{ end }}
+
+{{ $sortedTrailheads = sort $sortedTrailheads "count" "desc" "name" "asc" }}
+
+
+{{ errorf "--- SORTED TRAILHEADS ---" }}
+{{ range $i, $th := $sortedTrailheads }}
+    {{ errorf "Rank %d: Name: %s, Count: %d, Page Path: %s" (add $i 1) $th.name $th.count (default "N/A" $th.page.RelPermalink) }}
+{{ end }}
+{{ errorf "-------------------------" }}
+
+
+{{ if $cardView | default false}}
+<section class="w-full grid gap-4 sm:grid-cols-2 md:grid-cols-3">
+    {{ range first $limit $sortedTrailheads }}
+        {{ $trailheadPage := .page }}
+        {{ if $trailheadPage }}
+            {{ if not (eq $trailheadPage.RelPermalink $parent) }}
+                {{ partial "article-link/card.html" $trailheadPage }}
+            {{ end }}
+        {{ end }}
+    {{ end }}
+</section>
+{{ else }}
+<section class="space-y-10 w-full mt-10 mb-10">
+    {{ range first $limit $sortedTrailheads }}
+        {{ $trailheadPage := .page }}
+        {{ if $trailheadPage }}
+            {{ if not (eq $trailheadPage.RelPermalink $parent) }}
+                {{ partial "article-link/simple.html" $trailheadPage }}
+            {{ end }}
+        {{ end }}
+    {{ end }}
+</section>
+{{ end }}

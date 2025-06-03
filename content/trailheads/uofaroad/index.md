@@ -6,6 +6,7 @@ description: "This is the U of A Field Station Access Road Gate"
 weight: "100"
 starter: true
 showHero: true
+trailhead: true
 heroStyle: "background"
 showSummary: true
 summary: "It’s fair to say that the U of A Access Road Gate is the “front door” of the Ministik. The gated road leads to a former  U of A Research Station and although the facility seems to have been shuttered from many years, the road itself is periodically cleared of deadfall and other obstacles."
