@@ -111,7 +111,7 @@ The majority of this hike is along the U of A Field Station Access Road, but ins
         <td class="px-6 py-4 text-base font-bold text-gray-700 text-center">2.288 km</td>
         <td class="px-6 py-4 text-base text-gray-700" style="padding-left: 1em;">
           <ul class="tight-list">
-            <li>Walk straight across the meadow to the U of A Access Road and turn left, and follow the road all the way back to the Access Road Gate where you parked.</li>
+            <li>Walk straight across the meadow to the U of A Access Road.</li>
           </ul>
         </td>
       </tr>
@@ -175,7 +175,7 @@ The majority of this hike is along the U of A Field Station Access Road, but ins
       <p class="text-center text-base font-bold text-gray-700">Accumulated Distance: 2.288 km</p>
       <h4 class="text-base font-semibold">Description</h4>
       <ul class="text-base text-gray-700 tight-list">
-        <li>Walk straight across the meadow to the U of A Access Road and turn left, and follow the road all the way back to the Access Road Gate where you parked.</li>
+        <li>Walk straight across the meadow to the U of A Access Road.</li>
       </ul>
     </div>
   </div>
@@ -210,5 +210,5 @@ View interactive map full screen
 ## {{< icon-heading "download" >}} Download Hike Route 
 
 This file contains both the hike route and important waypoint along the way. Use it with an app on your mobile device. <a href="{{< ref "/gpx-how-to" >}}" target="_blank">Learn more about how to do that here.</a>
-{{< attachments folder="downloads" pattern=".*(gpx|html)" caption="Hike Route and Waypoints" >}}
+{{< attachments folder="downloads" pattern=".*(gpx|html)" caption="Hike Route (.gpx) and Hike Description for Mobile Devices (.html)" >}}
 

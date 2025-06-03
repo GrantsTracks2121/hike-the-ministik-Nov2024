@@ -31,7 +31,7 @@ summary: "This hike rates as \"Expedition\" for a reason: it's just about 13 km 
           <td valign="top" style="padding-left: 10px;" class="my-4 text-base"><a href="/trailheads/stove-lake/" target="_blank">Stove Lake Trailhead</a></td>
         </tr>
         <tr>
-          <td valign="top" width="40%" class="my-4 text-base">&nbsp:</td>
+          <td valign="top" width="40%" class="my-4 text-base">&nbsp;</td>
           <td valign="top" style="padding-left: 10px;" class="my-4 text-base"><a href="/trailheads/fairbrother-corner/" target="_blank">Fairbrother Corner Trailhead</a></td>
         </tr>
         <tr>
@@ -203,5 +203,5 @@ View interactive map full screen
 ## {{< icon-heading "download" >}} Download Hike Route 
 
 This file contains both the hike route and important waypoint along the way. Use it with an app on your mobile device. <a href="{{< ref "/gpx-how-to" >}}" target="_blank">Learn more about how to do that here.</a>
-{{< attachments folder="downloads" pattern=".*(gpx|html)" caption="Hike Route and Waypoints" >}}
+{{< attachments folder="downloads" pattern=".*(gpx|html)" caption="Hike Route (.gpx) and Hike Description for Mobile Devices (.html)" >}}
 
