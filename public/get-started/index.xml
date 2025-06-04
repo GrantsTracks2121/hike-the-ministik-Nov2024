@@ -9,17 +9,6 @@
     <copyright>© {{&lt; currentYear &gt;}} Hike The Ministik!</copyright>
     <atom:link href="//localhost:1313/get-started/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Suggested Mobile Apps</title>
-      <link>//localhost:1313/get-started/suggested-apps/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>//localhost:1313/get-started/suggested-apps/</guid>
-      <description>&lt;p&gt;Here is a list of suggested mobile apps that can load and display the &amp;ldquo;GPX&amp;rdquo; routes and waypoints available for each hike on the site.&lt;/p&gt;
-&lt;p&gt;When choosing a map to load and display, Openstreetmap (OSM) maps are &lt;strong&gt;highly recommended&lt;/strong&gt; because most, if not all, the hiking trails in the Ministik are displayed in Openstreetmap maps. This is very important in a wild area in which it can be easy to lose the trail and get lost.&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
       <title>The Nature of Ministik Hiking Trails</title>
       <link>//localhost:1313/get-started/ministik-hiking-trails/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

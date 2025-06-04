@@ -163,7 +163,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/get-started/suggested-apps/</loc>
+    <loc>//localhost:1313/suggested-apps/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
