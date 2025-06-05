@@ -1849,6 +1849,10 @@ select {
   height:3px
 }
 
+.h-\[400px\] {
+  height:400px
+}
+
 .h-\[800px\] {
   height:800px
 }
@@ -5091,6 +5095,10 @@ pre {
 
   .sm\:mt-6 {
     margin-top:1.5rem
+  }
+
+  .sm\:h-\[50px\] {
+    height:50px
   }
 
   .sm\:w-1\/2 {

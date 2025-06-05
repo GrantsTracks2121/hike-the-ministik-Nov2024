@@ -328,8 +328,12 @@ View interactive map full screen
 {{< /button >}}</p></div>
 {{< routecolordetails "Click to view route leg color key">}}
 
-## {{< icon-heading "download" >}} Download Hike Route 
+## {{< icon-heading "download" >}} Download Hike Route and Description
+### Hike Route and Waypoints File
+The ".gpx" file contains both the hike route and important waypoints referred to in the hike description. See the <a href="{{< ref "/suggestedmobileapps" >}}" target="_blank">suggestions for mobile apps</a> and open the ".gpx" file in one of those apps on your mobile device. 
 
-This file contains both the hike route and important waypoint along the way. Use it with an app on your mobile device. <a href="{{< ref "/gpx-how-to" >}}" target="_blank">Learn more about how to do that here.</a>
-{{< attachments folder="downloads" pattern=".*(gpx|html)" caption="Hike Route (.gpx) and Hike Description for Mobile Devices (.html)" >}}
+### Mobile (Offline) Hike Route Description
+Cell service can go from spotty to non-existent in the Ministik. The leg-by-leg route directions you see on this page are duplicated in a web page (".html") you can download here to read in a web browser on your mobile device while offline.
+
+{{< attachments folder="downloads" pattern=".*(gpx|html)" caption="Hike Route and Waypoints File (.gpx) and Mobile (Offline) Hike Route Description (.html)" >}}
 
