@@ -1,0 +1,6 @@
+{{/* this is called by "hikebasic.html" and produces a large version badge for each category it finds */}}
+<span class="flex" style="cursor: pointer;">
+  <span class="rounded-md border border-primary-400 px-1 py-[1px] text-lg font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+    {{ . }}
+  </span>
+</span>
