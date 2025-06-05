@@ -19,7 +19,7 @@
     <div class="flex flex-1 items-center justify-between">
         <nav class="flex space-x-3">
             {{ if not .Site.Params.disableTextInHeader | default true }}
-            <a href="{{ "" | relLangURL }}" class="font-medium text-gray-500 hover:text-gray-900 RockSalted text-4xl md:text-5xl">{{
+            <a href="{{ "" | relLangURL }}" class="font-medium text-gray-500 hover:text-gray-900 RockSalted text-3xl md:text-5xl">{{
                 .Site.Title | markdownify
                 }}</a>
             {{ end }}
