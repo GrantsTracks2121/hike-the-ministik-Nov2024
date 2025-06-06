@@ -1,5 +1,5 @@
 ---
-title: "Stove Lake to Trail Crossroads"
+title: "Stove Lake to Crossroads"
 slug: "018-stove-lake-to-crossroads"
 myhikeid: "018"
 layout: "hikesimple"
@@ -19,8 +19,8 @@ summary: "While this hike isn't listed among the \"Starter Hikes\" on the site, 
 <div class="flex flex-col text-surface shadow-secondary-1 dark:bg-surface-dark dark:text-white max-w-max lg:flex-row h-auto" style=margin-bottom:-100px;>
 {{< hikedetailsfigure 
     src="featured-018-Stove-Lake-to-Crossroads.jpg"
-    alt="Hike route: Stove Lake to Trail Crossroads"
-    caption="Hike route: Stove Lake to Trail Crossroads"
+    alt="Hike route: Stove Lake to Crossroads"
+    caption="Hike route: Stove Lake to Crossroads"
 >}}
   <div class="flex flex-col justify-start pl-5 lg:w-1/2 sm:pb-7">
     <h4 class="text-xl font-large mt-4">Hike Details</h4>

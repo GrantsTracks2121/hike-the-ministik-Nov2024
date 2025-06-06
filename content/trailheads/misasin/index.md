@@ -9,7 +9,7 @@ showSummary: true
 trailhead: true
 showHero: true
 heroStyle: "background"
-summary: "Like the trail, this trailhead seems seldom used, but because it is situated along a quiet road, it offers plenty of parking space in any season. In season, you can pull off the road into the very shallow ditch or simply park as far off the road as possible if snow is factor."
+summary: "Like the trail, this trailhead seems seldom used, but because it is situated along a quiet road, it offers plenty of parking space in any season. In season, you can pull off the road into the very shallow ditch or simply park as far off the road as possible if snow is a factor."
 ---
 <div class="flex flex-col text-surface shadow-secondary-1 dark:bg-surface-dark dark:text-white max-w-max lg:flex-row"> 
   <div class="w-full lg:w-1/2" style="margin-bottom: 20px;">

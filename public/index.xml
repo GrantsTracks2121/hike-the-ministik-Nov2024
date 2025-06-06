@@ -64,7 +64,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/trailheads/misasin/</guid>
-      <description>Like the trail, this trailhead seems seldom used, but because it is situated along a quiet road, it offers plenty of parking space in any season. In season, you can pull off the road into the very shallow ditch or simply park as far off the road as possible if snow is factor.</description>
+      <description>Like the trail, this trailhead seems seldom used, but because it is situated along a quiet road, it offers plenty of parking space in any season. In season, you can pull off the road into the very shallow ditch or simply park as far off the road as possible if snow is a factor.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/trailheads/misasin/featured-misasin.jpg" />
     </item>
     
@@ -249,6 +249,16 @@
     </item>
     
     <item>
+      <title>Stove Lake to Crossroads</title>
+      <link>//localhost:1313/hikes/018-stove-lake-to-crossroads/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/hikes/018-stove-lake-to-crossroads/</guid>
+      <description>While this hike isn&amp;rsquo;t listed among the &amp;ldquo;Starter Hikes&amp;rdquo; on the site, it is the next best thing. Rather than roads, there is a trail to follow, but the trail is always clear and easy to navigate. It&amp;rsquo;s a nice little jaunt to an intersection of trails in what will feel like the middle of nowhere.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/018-stove-lake-to-crossroads/featured-018-Stove-Lake-to-Crossroads.jpg" />
+    </item>
+    
+    <item>
       <title>Stove Lake to Fairbrother Corner</title>
       <link>//localhost:1313/hikes/020-stove-lake-to-fairbrother-corner/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -266,16 +276,6 @@
       <guid>//localhost:1313/hikes/019-stove-lake-to-mandy-lake/</guid>
       <description>This hike takes you through the heart of the Ministik, on all kinds of trails: some usually clear, some usually dodgy. After traversing a cutline, you’ll take part of the Waskahegan Trail, then make your way to the Nesbit Trail on your way to the Mandy Lake Parking spot</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/019-stove-lake-to-mandy-lake/featured-019-Stove-Lake-to-Mandy-Lake-PK.jpg" />
-    </item>
-    
-    <item>
-      <title>Stove Lake to Trail Crossroads</title>
-      <link>//localhost:1313/hikes/018-stove-lake-to-crossroads/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>//localhost:1313/hikes/018-stove-lake-to-crossroads/</guid>
-      <description>While this hike isn&amp;rsquo;t listed among the &amp;ldquo;Starter Hikes&amp;rdquo; on the site, it is the next best thing. Rather than roads, there is a trail to follow, but the trail is always clear and easy to navigate. It&amp;rsquo;s a nice little jaunt to an intersection of trails in what will feel like the middle of nowhere.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/018-stove-lake-to-crossroads/featured-018-Stove-Lake-to-Crossroads.jpg" />
     </item>
     
     <item>

@@ -148,17 +148,17 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>//localhost:1313/hikes/018-stove-lake-to-crossroads/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>//localhost:1313/hikes/020-stove-lake-to-fairbrother-corner/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>//localhost:1313/hikes/019-stove-lake-to-mandy-lake/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:1313/hikes/018-stove-lake-to-crossroads/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
