@@ -6,12 +6,10 @@
     <div>
         <a href="{{ "" | relLangURL }}" class="flex">
             <span class="sr-only">{{ .Site.Title | markdownify }}</span>
-
 <img src="{{ $logo.RelPermalink }}"
     class="logo object-scale-down object-left nozoom
            max-h-12 max-w-12  md:max-h-[5rem] md:max-w-[5rem]"
     alt="{{ .Site.Title }}" />
-
         </a>
     </div>
     {{ end }}

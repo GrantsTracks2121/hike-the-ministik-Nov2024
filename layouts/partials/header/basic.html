@@ -3,7 +3,25 @@
     {{ if .Site.Params.Logo }}
     {{ $logo := resources.Get .Site.Params.Logo }}
     {{ if $logo }}
-    <div>
+    
+    
+<div>
+    <a href="{{ "" | relLangURL }}" class="flex">
+        <span class="sr-only">{{ .Site.Title | markdownify }}</span>
+
+        <img src="{{ $logo.RelPermalink }}"
+            class="logo object-scale-down object-left nozoom
+                   w-16 h-16         /* Default size for mobile (e.g., 64px) */
+                   sm:w-20 sm:h-20   /* Slightly larger for small screens (e.g., 80px) */
+                   md:w-24 md:h-24   /* Larger for medium screens */
+                   lg:w-24 lg:h-24"  /* Even larger for large screens */
+            alt="{{ .Site.Title }}" />
+
+    </a>
+</div>
+
+    
+    <!-- <div>
         <a href="{{ "" | relLangURL }}" class="flex">
             <span class="sr-only">{{ .Site.Title | markdownify }}</span>
 
@@ -17,7 +35,7 @@
             {{ end }}
 
         </a>
-    </div>
+    </div> -->
     {{ end }}
     {{- end }}
     <div class="flex flex-1 items-center justify-between">
