@@ -5,6 +5,8 @@ layout: "simple"
 weight: "30"
 slug: "7-10km"
 showSummary: true
+showHero: true
+heroStyle: "background"
 summary: "Hikes between 7 and 10 km will test your stamina and maybe your wayfinding abilities. Oh, and bring a lunch!."
 ---
 

@@ -5,6 +5,8 @@ layout: "simple"
 weight: "40"
 slug: "gt-10km"
 showSummary: true
+showHero: true
+heroStyle: "background"
 summary: "Hikes more than 10 km are generally day-long excursions - some bordering on epic."
 ---
 
