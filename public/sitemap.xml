@@ -58,6 +58,31 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/hikes/006-enchanted-forest-loop/downloads/the-enchanted-forest-loop/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/hikes/018-stove-lake-to-crossroads/downloads/stove-lake-to-trail-crossroads/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/hikes/019-stove-lake-to-mandy-lake/downloads/stove-lake-to-mandy-lake-parking/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/hikes/020-stove-lake-to-fairbrother-corner/downloads/stove-lake-to-fairbrother-corner/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/hikes/028-mandy-lake-tr-to-oliver-lake/downloads/mandy-lake-parking-to-oliver-lake-east/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/about-the-ministik/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

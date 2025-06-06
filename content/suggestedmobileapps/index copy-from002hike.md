@@ -56,8 +56,8 @@ summary: "This route offers an \"alternative\" starting point to one of the \"mu
 
 This route offers an "alternative" starting point to one of the "must-do" Ministik hikes: a trek to the Ministik Firetower. The route is more "direct," but it is decidedly "rustic," taking you through long stretches of hay fields until you reach the Waskahegan Trail leading to the tower.  
 
-{{< routecolordetails "Click to view route leg color key">}}
-
+{{< routecolordetails "Click to view route colour key">}}
+</br>
 <!-- TABLE: visible on md+ screens -->
 <div class="overflow-x-auto hidden lg:block not-prose">
   <table class="min-w-full divide-y divide-gray-200">
@@ -264,14 +264,14 @@ This route offers an "alternative" starting point to one of the "must-do" Minist
 </div>
 
 ## Interactive Route Map
-To see route waypoints, zoom into the map by pinching open on mobile, scrolling on desktop.
+To see all route waypoints, zoom into the map by pinching open on mobile, scrolling on desktop.
 
 <iframe width="100%" height="700px" frameborder="0" src="//umap.openstreetmap.fr/en/map/002-few-to-waskahegan-fire-tower_1128467#14/53.3546/-113.0124?scaleControl=true&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=false&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=false"></iframe>
 <div class="flex justify-center items-center"><p>
 {{< button href="https://umap.openstreetmap.fr/en/map/002-few-to-waskahegan-fire-tower_1128467#14/53.3546/-113.0124?scaleControl=true&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=false&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=false" target="_blank" >}}
 View interactive map full screen 
 {{< /button >}}</p></div>
-{{< routecolordetails "Click to view route leg color key">}}
+{{< routecolordetails "Click to view route colour key">}}
 
 ## {{< icon-heading "download" >}} Download Hike Route 
 

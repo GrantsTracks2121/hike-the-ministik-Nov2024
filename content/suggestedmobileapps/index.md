@@ -8,7 +8,12 @@ showHero: true
 
 Here is a list of suggested mobile apps that can load and display the "GPX" routes and waypoints available for each hike on the site.
 
-When choosing a map to load and display, Openstreetmap (OSM) maps are **highly recommended** because most, if not all, the hiking trails in the Ministik are displayed in Openstreetmap maps. This is very important in a wild area in which it can be easy to lose the trail and get lost.
+When choosing a map to load and display, Openstreetmap (OSM) maps are **highly recommended** because most, if not all, the hiking trails in the Ministik are displayed in Openstreetmap maps. This is an important safety feature in a wild area like the Ministik where it can be all too easy to lose the trail and get lost.
+
+**All of the options listed below:**
+- have free versions and most have paid versions with added features
+- have both Android and iOS versions, and
+- can be used in offline mode, that is, without a cell signal.
 
 This site has no association with the developers of any of apps listed here. Apps are listed in alphabetical order.
 
@@ -16,7 +21,7 @@ This site has no association with the developers of any of apps listed here. App
 <div class="w-full">
 <ul>
   <li>Locus Map offers comprehensive offline maps and navigation.</li>
-  <li>It includes a variety ofdetailed offline maps, such as OSM-based LoMaps, satellite imagery, and region-specific choices.</li>
+  <li>It includes a variety of detailed offline maps, such as OSM-based LoMaps, satellite imagery, and region-specific choices.</li>
   <li>These features provide robust offline navigation capabilities, making it perfect for outdoor activities where an internet connection isn't available.</li>
   <li>Note that the iOS version, "Locus Map Lite", is a relatively new product. The developers say they plan to add additional features in the future.</li>
 </ul>

@@ -58,8 +58,8 @@ summary: "Starting from the Francis Edward Williams trailhead, this hike travers
 
 Starting from the Francis Edward Williams trailhead, this hike traverses sections of the established Waskahegan Trail as well as a series of five "off-trail" hay meadows on a wide loop that takes you into the inner depths of the Ministik, eventually passing the Ministik Firetower.  
 
-{{< routecolordetails "Click to view route leg color key">}}
-
+{{< routecolordetails "Click to view route colour key">}}
+</br>
 <!-- TABLE: visible on md+ screens -->
 <div class="overflow-x-auto hidden lg:block not-prose">
   <table class="min-w-full divide-y divide-gray-200">
@@ -115,7 +115,7 @@ Starting from the Francis Edward Williams trailhead, this hike traverses section
         <td class="px-6 py-4 text-base font-bold text-gray-700 text-center">1.935 km</td>
         <td class="px-6 py-4 text-base text-gray-700" style="padding-left: 1em;">
           <ul class="tight-list">
-            <li>Now you walk through tall grass, what is left of a former water channel.</li>
+            <li>Now you walk through tall grass, what is left of a former water channel. Sometimes this channel can be wet, so detour around that as best you can.</li>
             <li>Fun fact: as you cross this area, you leave Strathcona County and enter Beaver County. Do you feel any different? 😃</li>
           </ul>
         </td>
@@ -153,7 +153,7 @@ Starting from the Francis Edward Williams trailhead, this hike traverses section
         <td class="px-6 py-4 text-base text-gray-700" style="padding-left: 1em;">
           <ul class="tight-list">
             <li>Follow the wide trail to the right, up the hill</li>
-            <li>When you reach the bottom of the small hill at "Waskahegan Trail meets road to meadow", veer right to follow the road (which actually looks like a wide trail).</li>
+            <li>When you reach the bottom of the small hill at "Waskahegan Trail meets road to meadow", bear right to follow the road (which actually looks like a wide trail).</li>
             <li>We're leaving the Waskahegan Trail at this point, but this hike plan has us looping around back to this place via the Waskahegan from the south.</li>
             <li>Use the "Road meets meadow 1 (N)" waypoint to get you started</li>
           </ul>
@@ -414,7 +414,7 @@ Starting from the Francis Edward Williams trailhead, this hike traverses section
       <p class="text-center text-base font-bold text-gray-700">Accumulated Distance: 1.935 km</p>
       <h4 class="text-base font-semibold">Description</h4>
       <ul class="text-base text-gray-700 tight-list">
-        <li>Now you walk through tall grass, what is left of a former water channel.</li>
+        <li>Now you walk through tall grass, what is left of a former water channel. Sometimes this channel can be wet, so detour around that as best you can.</li>
         <li>Fun fact: as you cross this area, you leave Strathcona County and enter Beaver County. Do you feel any different? 😃</li>
       </ul>
     </div>
@@ -458,7 +458,7 @@ Starting from the Francis Edward Williams trailhead, this hike traverses section
       <h4 class="text-base font-semibold">Description</h4>
       <ul class="text-base text-gray-700 tight-list">
             <li>Follow the wide trail to the right, up the hill</li>
-            <li>When you reach the bottom of the small hill at "Waskahegan Trail meets road to meadow", veer right to follow the road (which actually looks like a wide trail).</li>
+            <li>When you reach the bottom of the small hill at "Waskahegan Trail meets road to meadow", bear right to follow the road (which actually looks like a wide trail).</li>
             <li>We're leaving the Waskahegan Trail at this point, but this hike plan has us looping around back to this place via the Waskahegan from the south.</li>
             <li>Use the "Road meets meadow 1 (N)" waypoint to get you started</li>
       </ul>
@@ -701,20 +701,19 @@ Starting from the Francis Edward Williams trailhead, this hike traverses section
 
 
 ## Interactive Route Map
-To see route waypoints, zoom into the map by pinching open on mobile, scrolling on desktop.
+To see all route waypoints, zoom into the map by pinching open on mobile, scrolling on desktop.
 
 <iframe width="100%" height="700px" frameborder="0" src="//umap.openstreetmap.fr/en/map/037-few-to-five-meadows-hike-fire-tower-loop_1128516#14/53.3501/-112.9957?scaleControl=true&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=false&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=false"></iframe>
 <div class="flex justify-center items-center"><p>
 {{< button href="https://umap.openstreetmap.fr/en/map/037-few-to-five-meadows-hike-fire-tower-loop_1128516#14/53.3501/-112.9957?scaleControl=true&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=false&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=false" target="_blank" >}}
 View interactive map full screen 
 {{< /button >}}</p></div>
-{{< routecolordetails "Click to view route leg color key">}}
+{{< routecolordetails "Click to view route colour key">}}
 
-## {{< icon-heading "download" >}} Download Hike Route and Description
+## {{< icon-heading "download" >}}  Download Hike Route and Description
 ### Hike Route and Waypoints File
 The ".gpx" file contains both the hike route and important waypoints referred to in the hike description. See the <a href="{{< ref "/suggestedmobileapps" >}}" target="_blank">suggestions for mobile apps</a> and open the ".gpx" file in one of those apps on your mobile device. 
 
-### Mobile (Offline) Hike Route Description
-Cell service can go from spotty to non-existent in the Ministik. The leg-by-leg route directions you see on this page are duplicated in a web page (".html") you can download here to read in a web browser on your mobile device while offline.
 
-{{< attachments folder="downloads" pattern=".*(gpx|html)" caption="Hike Route and Waypoints File (.gpx) and Mobile (Offline) Hike Route Description (.html)" >}}
+
+{{< attachments folder="downloads" pattern=".*(gpx|pdf)" caption="Hike Route and Waypoints File (.gpx)" >}}

@@ -61,8 +61,8 @@ Like the "Five Meadows Loop", this hike route takes you from the Waskahegan Trai
 Long sleeves and long pants are highly recommended for this hike.
 {{< /notice >}}
 
-{{< routecolordetails "Click to view route leg color key">}}
-
+{{< routecolordetails "Click to view route colour key">}}
+</br>
 <!-- TABLE: visible on md+ screens -->
 <div class="overflow-x-auto hidden lg:block not-prose">
   <table class="min-w-full divide-y divide-gray-200">
@@ -95,7 +95,7 @@ Long sleeves and long pants are highly recommended for this hike.
         <td class="px-6 py-4 text-base font-bold text-gray-700 text-center">2.6 km</td>
         <td class="px-6 py-4 text-base text-gray-700" style="padding-left: 1em;">
           <ul class="tight-list">
-            <li>At the "U of A Access Road / Waskahegan Trail Intersection" waypoint, veer right off the road onto the well-worn single-track trail through "The Enchanted Forest".</li>
+            <li>At the "U of A Access Road / Waskahegan Trail Intersection" waypoint, bear right off the road onto the well-worn single-track trail through "The Enchanted Forest".</li>
             <li>Make your way to the "Turn onto farmer's road" waypoint and turn right, following the road.</li>
             <li>At the "Intersection of Farmer's Road (N) / Waskahegan Trail" waypoint veer left to the shaded, spruce-lined trail.</li>
             <li>Continue until you reach "Trail meets Shinjuku Meadow (NE)"</li>
@@ -121,7 +121,7 @@ Long sleeves and long pants are highly recommended for this hike.
         <td class="px-6 py-4 text-base text-gray-700" style="padding-left: 1em;">
           <ul class="tight-list">
             <li>Follow the wide trail to the right, up the hill</li>
-            <li>When you reach the bottom of the small hill, veer right to follow the wide trail / road.</li>
+            <li>When you reach the bottom of the small hill, bear right to follow the wide trail / road.</li>
             <li>We're leaving the Waskahegan trail at this point, but this hike plan has us looping around back to this place via the Waskahegan from the south.</li>
             <li>Use the "Road meets meadow 1 (N)" waypoint to get you started</li>
           </ul>
@@ -291,7 +291,7 @@ Long sleeves and long pants are highly recommended for this hike.
       <p class="text-center text-base font-bold text-gray-700">Accumulated Distance: 2.6 km</p>
       <h4 class="text-base font-semibold">Description</h4>
       <ul class="text-base text-gray-700 tight-list">
-        <li>At the "U of A Access Road / Waskahegan Trail Intersection" waypoint, veer right off the road onto the well-worn single-track trail through "The Enchanted Forest".</li>
+        <li>At the "U of A Access Road / Waskahegan Trail Intersection" waypoint, bear right off the road onto the well-worn single-track trail through "The Enchanted Forest".</li>
         <li>Make your way to the "Turn onto farmer's road" waypoint and turn right, following the road.</li>
         <li>At the "Intersection of Farmer's Road (N) / Waskahegan Trail" waypoint veer left to the shaded, spruce-lined trail.</li>
         <li>Continue until you reach "Trail meets Shinjuku Meadow (NE)"</li>
@@ -321,7 +321,7 @@ Long sleeves and long pants are highly recommended for this hike.
       <h4 class="text-base font-semibold">Description</h4>
       <ul class="text-base text-gray-700 tight-list">
         <li>Follow the wide trail to the right, up the hill</li>
-        <li>When you reach the bottom of the small hill, veer right to follow the wide trail / road.</li>
+        <li>When you reach the bottom of the small hill, bear right to follow the wide trail / road.</li>
         <li>We're leaving the Waskahegan trail at this point, but this hike plan has us looping around back to this place via the Waskahegan from the south.</li>
         <li>Use the "Road meets meadow 1 (N)" waypoint to get you started</li>
       </ul>
@@ -488,14 +488,14 @@ Long sleeves and long pants are highly recommended for this hike.
 
 
 ## Interactive Route Map
-To see route waypoints, zoom into the map by pinching open on mobile, scrolling on desktop.
+To see all route waypoints, zoom into the map by pinching open on mobile, scrolling on desktop.
 
 <iframe width="100%" height="700px" frameborder="0" src="//umap.openstreetmap.fr/en/map/010-three-meadows-loop_1128522#14/53.3532/-112.9825?scaleControl=true&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=false&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=false"></iframe>
 <div class="flex justify-center items-center"><p>
 {{< button href="https://umap.openstreetmap.fr/en/map/010-three-meadows-loop_1128522#14/53.3532/-112.9825?scaleControl=true&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=false&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=false" target="_blank" >}}
 View interactive map full screen 
 {{< /button >}}</p></div>
-{{< routecolordetails "Click to view route leg color key">}}
+{{< routecolordetails "Click to view route colour key">}}
 
 ## {{< icon-heading "download" >}} Download Hike Route 
 

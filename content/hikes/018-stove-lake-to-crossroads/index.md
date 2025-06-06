@@ -58,8 +58,8 @@ summary: "While this hike isn't listed among the \"Starter Hikes\" on the site, 
 
 While this hike isn't listed among the "Starter Hikes" on the site, it is the next best thing. Rather than roads, there is a trail to follow, but the trail is always clear and easy to navigate. It's a nice little jaunt to an intersection of trails in what will feel like the middle of nowhere.  
 
-{{< routecolordetails "Click to view route leg color key">}}
-
+{{< routecolordetails "Click to view route colour key">}}
+</br>
 <!-- TABLE: visible on md+ screens -->
 <div class="overflow-x-auto hidden lg:block not-prose">
   <table class="min-w-full divide-y divide-gray-200">
@@ -80,10 +80,10 @@ While this hike isn't listed among the "Starter Hikes" on the site, it is the ne
           <ul class="tight-list">
             <li>Make your way past the gate and follow the short first leg due north.</li>
             <li>The trail turns sharply to the left (east) and continues to the "Open Gate" waypoint where you cross to the other side of the fence line you've been following.</li>
-            <li>Make sure you veer right at "Trail Fork".</li>
+            <li>Make sure you bear right at "Trail Fork".</li>
             <li>At "Old Gate", walk through the fence opening onto the single-track trail.</li>
             <li>Following the trail to the "'Crossroads' intersection" should be quite straightforward.</li>
-            <li>If a game trail intersects with the trail you're on, and you're ever in doubt, veer right. That will always be the correct choice.</li>
+            <li>If a game trail intersects with the trail you're on, and you're ever in doubt, bear right. That will always be the correct choice.</li>
             <li>Take a break when you reach the "'Crossroads' intersection".</li>
             <li>Now all there is to do is return to the parking spot at "Stove Lake Trailhead", using the waypoints provided if you need them.</li>
             <li>Congratulations on completing the hike!</li>
@@ -106,10 +106,10 @@ While this hike isn't listed among the "Starter Hikes" on the site, it is the ne
       <ul class="text-base text-gray-700 tight-list">
         <li>Make your way past the gate and follow the short first leg due north.</li>
         <li>The trail turns sharply to the left (east) and continues to the "Open Gate" waypoint where you cross to the other side of the fence line you've been following.</li>
-        <li>Make sure you veer right at "Trail Fork".</li>
+        <li>Make sure you bear right at "Trail Fork".</li>
         <li>At "Old Gate", walk through the fence opening onto the single-track trail.</li>
         <li>Following the trail to the"'Crossroads' intersection" should be quite straightforward.</li>
-        <li>If a game trail intersects with the trail you're on, and you're ever in doubt, veer right. That will always be the correct choice.</li>
+        <li>If a game trail intersects with the trail you're on, and you're ever in doubt, bear right. That will always be the correct choice.</li>
         <li>Take a break when you reach the "'Crossroads' intersection".</li>
         <li>Now all there is to do is return to the parking spot at "Stove Lake Trailhead", using the waypoints provided if you need them.</li>
         <li>Congratulations on completing the hike!</li>
@@ -120,21 +120,20 @@ While this hike isn't listed among the "Starter Hikes" on the site, it is the ne
 
 
 ## Interactive Route Map
-To see route waypoints, zoom into the map by pinching open on mobile, scrolling on desktop.
+To see all route waypoints, zoom into the map by pinching open on mobile, scrolling on desktop.
 
 <iframe width="100%" height="700px" frameborder="0" src="//umap.openstreetmap.fr/en/map/018-stove-lake-to-crossroads_1128533#15/53.3364/-112.9423?scaleControl=true&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=false&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=false"></iframe>
 <div class="flex justify-center items-center"><p>
 {{< button href="https://umap.openstreetmap.fr/en/map/018-stove-lake-to-crossroads_1128533#15/53.3364/-112.9423?scaleControl=true&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=false&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=false" target="_blank" >}}
 View interactive map full screen 
 {{< /button >}}</p></div>
-{{< routecolordetails "Click to view route leg color key">}}
+{{< routecolordetails "Click to view route colour key">}}
 
-## {{< icon-heading "download" >}} Download Hike Route and Description
+## {{< icon-heading "download" >}}  Download Hike Route and Description
 ### Hike Route and Waypoints File
 The ".gpx" file contains both the hike route and important waypoints referred to in the hike description. See the <a href="{{< ref "/suggestedmobileapps" >}}" target="_blank">suggestions for mobile apps</a> and open the ".gpx" file in one of those apps on your mobile device. 
 
-### Mobile (Offline) Hike Route Description
-Cell service can go from spotty to non-existent in the Ministik. The leg-by-leg route directions you see on this page are duplicated in a web page (".html") you can download here to read in a web browser on your mobile device while offline.
 
-{{< attachments folder="downloads" pattern=".*(gpx|html)" caption="Hike Route and Waypoints File (.gpx) and Mobile (Offline) Hike Route Description (.html)" >}}
+
+{{< attachments folder="downloads" pattern=".*(gpx|pdf)" caption="Hike Route and Waypoints File (.gpx)" >}}
 

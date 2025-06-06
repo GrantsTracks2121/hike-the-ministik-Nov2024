@@ -56,8 +56,8 @@ summary: "This route offers an \"alternative\" starting point for one of the \"m
 
 This route offers an "alternative" starting point for one of the "must-do" Ministik hikes: a trek to the Ministik Firetower. The route is more "direct," but it is decidedly "rustic," taking you through long stretches of hay fields until you reach the Waskahegan Trail leading to the tower. 
 
-{{< routecolordetails "Click to view route leg color key">}}
-
+{{< routecolordetails "Click to view route colour key">}}
+</br>
 <!-- TABLE: visible on md+ screens -->
 <div class="overflow-x-auto hidden lg:block not-prose">
   <table class="min-w-full divide-y divide-gray-200">
@@ -266,20 +266,19 @@ This route offers an "alternative" starting point for one of the "must-do" Minis
 </div>
 
 ## Interactive Route Map
-To see route waypoints, zoom into the map by pinching open on mobile, scrolling on desktop.
+To see all route waypoints, zoom into the map by pinching open on mobile, scrolling on desktop.
 
 <iframe width="100%" height="700px" frameborder="0" src="//umap.openstreetmap.fr/en/map/002-few-to-waskahegan-fire-tower_1128467#14/53.3546/-113.0124?scaleControl=true&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=false&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=false"></iframe>
 <div class="flex justify-center items-center"><p>
 {{< button href="https://umap.openstreetmap.fr/en/map/002-few-to-waskahegan-fire-tower_1128467#14/53.3546/-113.0124?scaleControl=true&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=false&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=false" target="_blank" >}}
 View interactive map full screen 
 {{< /button >}}</p></div>
-{{< routecolordetails "Click to view route leg color key">}}
+{{< routecolordetails "Click to view route colour key">}}
 
-## {{< icon-heading "download" >}} Download Hike Route and Description
+## {{< icon-heading "download" >}}  Download Hike Route and Description
 ### Hike Route and Waypoints File
 The ".gpx" file contains both the hike route and important waypoints referred to in the hike description. See the <a href="{{< ref "/suggestedmobileapps" >}}" target="_blank">suggestions for mobile apps</a> and open the ".gpx" file in one of those apps on your mobile device. 
 
-### Mobile (Offline) Hike Route Description
-Cell service can go from spotty to non-existent in the Ministik. The leg-by-leg route directions you see on this page are duplicated in a web page (".html") you can download here to read in a web browser on your mobile device while offline.
 
-{{< attachments folder="downloads" pattern=".*(gpx|html)" caption="Hike Route and Waypoints File (.gpx) and Mobile (Offline) Hike Route Description (.html)" >}}
+
+{{< attachments folder="downloads" pattern=".*(gpx|pdf)" caption="Hike Route and Waypoints File (.gpx)" >}}

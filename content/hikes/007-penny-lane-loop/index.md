@@ -57,8 +57,8 @@ summary: "If the suggested \"Starter\" hikes look a little too tame for you, thi
 
 If the suggested "Starter" hikes look a little too tame for you, this hike takes you one step further by guiding you off-road, along the Waskahegan Trail, and then looping back through a hay field on your return to a road.  
 
-{{< routecolordetails "Click to view route leg color key">}}
-
+{{< routecolordetails "Click to view route colour key">}}
+</br>
 <!-- TABLE: visible on md+ screens -->
 <div class="overflow-x-auto hidden lg:block not-prose">
   <table class="min-w-full divide-y divide-gray-200">
@@ -93,7 +93,7 @@ If the suggested "Starter" hikes look a little too tame for you, this hike takes
         <td class="px-6 py-4 text-base font-bold text-gray-700 text-center">2.112 km</td>
         <td class="px-6 py-4 text-base text-gray-700" style="padding-left: 1em;">
           <ul class="tight-list">
-            <li>At the "U of A Access Road / Waskahegan Trail Intersection" waypoint, veer right off the road onto the well-worn single-track trail.</li>
+            <li>At the "U of A Access Road / Waskahegan Trail Intersection" waypoint, bear right off the road onto the well-worn single-track trail.</li>
             <li>Now you wind your way through a somewhat sparse, yet nicely shaded forest of poplar, spruce and birch. The sparseness of the trees often allows the sun to filter through branches to the ground, providing the experience the Japanese call "komorebi". Although the term literally translates to "sunlight filtering through trees" it expresses that feeling of each moment being transient, part of the flow of things and the aesthetically beautiful.</li>
             <li>That's why it's "The Enchanted Forest". 😃</li>
             <li>Follow the trail until you reach the "Turn onto farmer's road" waypoint.</li>
@@ -183,7 +183,7 @@ If the suggested "Starter" hikes look a little too tame for you, this hike takes
       <p class="text-center text-base font-bold text-gray-700">Accumulated Distance: 2.112 km</p>
       <h4 class="text-base font-semibold">Description</h4>
       <ul class="text-base text-gray-700 tight-list">
-        <li>At the "U of A Access Road / Waskahegan Trail Intersection" waypoint, veer right off the road onto the well-worn single-track trail.</li>
+        <li>At the "U of A Access Road / Waskahegan Trail Intersection" waypoint, bear right off the road onto the well-worn single-track trail.</li>
         <li>Now you wind your way through a somewhat sparse, yet nicely shaded forest of poplar, spruce and birch. The sparseness of the trees often allows the sun to filter through branches to the ground, providing the experience the Japanese call "komorebi". Although the term literally translates to "sunlight filtering through trees" it expresses that feeling of each moment being transient, part of the flow of things and the aesthetically beautiful.</li>
         <li>That's why it's "The Enchanted Forest". 😃</li>
         <li>Follow the trail until you reach the "Turn onto farmer's road" waypoint.</li>
@@ -254,23 +254,22 @@ If the suggested "Starter" hikes look a little too tame for you, this hike takes
 
 
 ## Interactive Route Map
-To see route waypoints, zoom into the map by pinching open on mobile, scrolling on desktop.
+To see all route waypoints, zoom into the map by pinching open on mobile, scrolling on desktop.
 
 <iframe width="100%" height="700px" frameborder="0" src="//umap.openstreetmap.fr/en/map/007-penny-lane-loop_1128517#15/53.3598/-112.9766?scaleControl=true&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=false&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=false"></iframe>
 <div class="flex justify-center items-center"><p>
 {{< button href="https://umap.openstreetmap.fr/en/map/007-penny-lane-loop_1128517#15/53.3598/-112.9766?scaleControl=true&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=false&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=false" target="_blank" >}}
 View interactive map full screen 
 {{< /button >}}</p></div>
-{{< routecolordetails "Click to view route leg color key">}}
+{{< routecolordetails "Click to view route colour key">}}
 
-## {{< icon-heading "download" >}} Download Hike Route and Description
+## {{< icon-heading "download" >}}  Download Hike Route and Description
 ### Hike Route and Waypoints File
 The ".gpx" file contains both the hike route and important waypoints referred to in the hike description. See the <a href="{{< ref "/suggestedmobileapps" >}}" target="_blank">suggestions for mobile apps</a> and open the ".gpx" file in one of those apps on your mobile device. 
 
-### Mobile (Offline) Hike Route Description
-Cell service can go from spotty to non-existent in the Ministik. The leg-by-leg route directions you see on this page are duplicated in a web page (".html") you can download here to read in a web browser on your mobile device while offline.
 
-{{< attachments folder="downloads" pattern=".*(gpx|html)" caption="Hike Route and Waypoints File (.gpx) and Mobile (Offline) Hike Route Description (.html)" >}}
+
+{{< attachments folder="downloads" pattern=".*(gpx|pdf)" caption="Hike Route and Waypoints File (.gpx)" >}}
 
 
 

@@ -62,8 +62,8 @@ This "2-Car" epic hike starts out at the U of A Access Road gate, and traverses 
 Long sleeves and long pants are highly recommended for this hike.
 {{< /notice >}}
 
-{{< routecolordetails "Click to view route leg color key">}}
-
+{{< routecolordetails "Click to view route colour key">}}
+</br>
 <!-- TABLE: visible on md+ screens -->
 <div class="overflow-x-auto hidden lg:block not-prose">
   <table class="min-w-full divide-y divide-gray-200">
@@ -97,7 +97,7 @@ Long sleeves and long pants are highly recommended for this hike.
         <td class="px-6 py-4 text-base font-bold text-gray-700 text-center">2.6 km</td>
         <td class="px-6 py-4 text-base text-gray-700" style="padding-left: 1em;">
           <ul class="tight-list">
-            <li>At the "U of A Access Road / Waskahegan Trail Intersection" waypoint, veer right off the road onto the well-worn single-track trail.</li>
+            <li>At the "U of A Access Road / Waskahegan Trail Intersection" waypoint, bear right off the road onto the well-worn single-track trail.</li>
             <li>Now you wind your way through a somewhat sparse, yet nicely shaded forest of poplar, spruce and birch. The sparseness of the trees often allows the sun to filter through branches to the ground, providing the experience the Japanese call "komorebi". Although the term literally translates to "sunlight filtering through trees" or "dappled light", it expresses that feeling of the beauty of each moment being transient, part of the flow of things.</li>
             <li>That's why it's "The Enchanted Forest".</li>
             <li>Follow the trail to the "Turn onto farmer's road" waypoint.</li>
@@ -126,7 +126,7 @@ Long sleeves and long pants are highly recommended for this hike.
         <td class="px-6 py-4 text-base text-gray-700" style="padding-left: 1em;">
           <ul class="tight-list">
             <li>This leg of the hike is entirely on the Waskahegan Trail so you can count on the trail being visible and marked with yellow diamonds the entire way.</li>
-            <li>Veer right up the hill towards the "Waskahegan Trail meets road to meadow" waypoint.</li>
+            <li>Bear right up the hill towards the "Waskahegan Trail meets road to meadow" waypoint.</li>
             <li>Follow the trail into the woods (not the road to the right).</li>
             <li>Continue past the "Ministik Firetower".</li>
             <li>The final waypoint of this leg is "Trail meets old beaver dam".</li>
@@ -176,7 +176,7 @@ Long sleeves and long pants are highly recommended for this hike.
         <td class="px-6 py-4 text-base font-bold text-gray-700 text-center">8.288 km</td>
         <td class="px-6 py-4 text-base text-gray-700" style="padding-left: 1em;">
           <ul class="tight-list">
-            <li>There is no trail in this section which takes you over an old beaver dam and then over open meadows to the "Nesbit Trail". Use the provided waypoints to make your way through:</li>
+            <li>There is no trail in this section which eventually takes you over an old beaver dam and then through open, grassy (sometimes water-logged) meadows to the "Nesbit Trail". Use the provided waypoints to make your way through.</li>
             <li>Once over the old beaver dam, head towards "Meadow meets portal trail"</li>
             <li>Make your way to "Portal trail meets meadow" through an overgrown connector trail.</li>
             <li>Use "Meadow meets Nesbit Trail" as your next waypoint. You won't be able to see it when you start from "Portal trail meets meadow"; it's around the corner to the right from that waypoint.</li>
@@ -249,7 +249,7 @@ Long sleeves and long pants are highly recommended for this hike.
       <p class="text-center text-base font-bold text-gray-700">Accumulated Distance: 2.6 km</p>
       <h4 class="text-base font-semibold">Description</h4>
       <ul class="text-base text-gray-700 tight-list">
-        <li>At the "U of A Access Road / Waskahegan Trail Intersection" waypoint, veer right off the road onto the well-worn single-track trail.</li>
+        <li>At the "U of A Access Road / Waskahegan Trail Intersection" waypoint, bear right off the road onto the well-worn single-track trail.</li>
         <li>Now you wind your way through a somewhat sparse, yet nicely shaded forest of poplar, spruce and birch. The sparseness of the trees often allows the sun to filter through branches to the ground, providing the experience the Japanese call "komorebi". Although the term literally translates to "sunlight filtering through trees" or "dappled light", it expresses that feeling of the beauty of each moment being transient, part of the flow of things.</li>
         <li>That's why it's "The Enchanted Forest".</li>
         <li>Follow the trail to the "Turn onto farmer's road" waypoint.</li>
@@ -282,7 +282,7 @@ Long sleeves and long pants are highly recommended for this hike.
       <h4 class="text-base font-semibold">Description</h4>
       <ul class="text-base text-gray-700 tight-list">
         <li>This leg of the hike is entirely on the Waskahegan Trail so you can count on the trail being visible and marked with yellow diamonds the entire way.</li>
-        <li>Veer right up the hill towards the "Waskahegan Trail meets road to meadow" waypoint.</li>
+        <li>Bear right up the hill towards the "Waskahegan Trail meets road to meadow" waypoint.</li>
         <li>Follow the trail into the woods (not the road to the right).</li>
         <li>Continue past the "Ministik Firetower".</li>
         <li>The final waypoint of this leg is "Trail meets old beaver dam".</li>
@@ -340,7 +340,7 @@ Long sleeves and long pants are highly recommended for this hike.
       <p class="text-center text-base font-bold text-gray-700">Accumulated Distance: 8.288 km</p>
       <h4 class="text-base font-semibold">Description</h4>
       <ul class="text-base text-gray-700 tight-list">
-        <li>There is no trail in this section which takes you over an old beaver dam and then over open meadows to the "Nesbit Trail". Use the provided waypoints to make your way through:</li>
+        <li>There is no trail in this section which eventually takes you over an old beaver dam and then through open, grassy (sometimes water-logged) meadows to the "Nesbit Trail". Use the provided waypoints to make your way through.</li>
         <li>Once over the old beaver dam, head towards "Meadow meets portal trail"</li>
         <li>Make your way to "Portal trail meets meadow" through an overgrown connector trail.</li>
         <li>Use "Meadow meets Nesbit Trail" as your next waypoint. You won't be able to see it when you start from "Portal trail meets meadow"; it's around the corner to the right from that waypoint.</li>
@@ -393,21 +393,20 @@ Long sleeves and long pants are highly recommended for this hike.
 
 
 ## Interactive Route Map
-To see route waypoints, zoom into the map by pinching open on mobile, scrolling on desktop.
+To see all route waypoints, zoom into the map by pinching open on mobile, scrolling on desktop.
 
 <iframe width="100%" height="700px" frameborder="0" src="//umap.openstreetmap.fr/en/map/012-uofa-gate-to-mandy-lake-pk_1128527#13/53.3379/-112.9831?scaleControl=true&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=false&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=false"></iframe>
 <div class="flex justify-center items-center"><p>
 {{< button href="https://umap.openstreetmap.fr/en/map/012-uofa-gate-to-mandy-lake-pk_1128527#13/53.3379/-112.9831?scaleControl=true&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=false&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=false" target="_blank" >}}
 View interactive map full screen 
 {{< /button >}}</p></div>
-{{< routecolordetails "Click to view route leg color key">}}
+{{< routecolordetails "Click to view route colour key">}}
 
-## {{< icon-heading "download" >}} Download Hike Route and Description
+## {{< icon-heading "download" >}}  Download Hike Route and Description
 ### Hike Route and Waypoints File
 The ".gpx" file contains both the hike route and important waypoints referred to in the hike description. See the <a href="{{< ref "/suggestedmobileapps" >}}" target="_blank">suggestions for mobile apps</a> and open the ".gpx" file in one of those apps on your mobile device. 
 
-### Mobile (Offline) Hike Route Description
-Cell service can go from spotty to non-existent in the Ministik. The leg-by-leg route directions you see on this page are duplicated in a web page (".html") you can download here to read in a web browser on your mobile device while offline.
 
-{{< attachments folder="downloads" pattern=".*(gpx|html)" caption="Hike Route and Waypoints File (.gpx) and Mobile (Offline) Hike Route Description (.html)" >}}
+
+{{< attachments folder="downloads" pattern=".*(gpx|pdf)" caption="Hike Route and Waypoints File (.gpx)" >}}
 

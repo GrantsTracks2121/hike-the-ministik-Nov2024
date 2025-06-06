@@ -60,8 +60,8 @@ summary: "The majority of this hike is along the U of A Field Station Access Roa
 
 The majority of this hike is along the U of A Field Station Access Road, but instead of remaining on the road the entire time, it takes you on a short section of the Waskahegan Trail, loops through a small forested area, and returns to the road. This is a nice introduction to the quiet, understated beauty of this area.  
 
-{{< routecolordetails "Click to view route leg color key">}}
-
+{{< routecolordetails "Click to view route colour key">}}
+</br>
 <!-- TABLE: visible on md+ screens -->
 <div class="overflow-x-auto hidden lg:block not-prose">
   <table class="min-w-full divide-y divide-gray-200">
@@ -95,10 +95,10 @@ The majority of this hike is along the U of A Field Station Access Road, but ins
         <td class="px-6 py-4 text-base font-bold text-gray-700 text-center">2.234 km</td>
         <td class="px-6 py-4 text-base text-gray-700" style="padding-left: 1em;">
           <ul class="tight-list">
-            <li>At the "Road / Waskahegan Trail Intersection" waypoint, veer right off the road onto the well-worn single-track trail.</li>
+            <li>At the "Road / Waskahegan Trail Intersection" waypoint, bear right off the road onto the well-worn single-track trail.</li>
             <li>Now you wind your way through a somewhat sparse, yet nicely shaded forest of poplar, spruce and birch. The sparseness of the trees often allows the sun to filter through branches to the ground, providing the experience the Japanese call "komorebi". Although the term literally translates to "sunlight filtering through trees" it expresses that feeling of each moment being transient, part of the flow of things and the aesthetically beautiful.</li>
             <li>That's why it's "The Enchanted Forest". 😃</li>
-            <li>Follow the trail until reach an open area to your right. The trail gets harder to make out for a few meters here but look for the yellow Waskahegan Trail markers to guide you a farmer's road.</li>
+            <li>Follow the trail until reach an open area to your right. The trail gets harder to make out for a few meters here but look for the yellow Waskahegan Trail markers to guide you to a farmer's road.</li>
             <li>Turning right at this point will take you further into the Ministik, but the route today takes us back towards the parking spot.</li>
             <li>Turn left and follow the makeshift, overgrown road until you reach the edge of "Big Fish Meadow". From the ground, the name makes no sense; but look at the area on the map and you'll soon understand.</li>
           </ul>
@@ -157,10 +157,10 @@ The majority of this hike is along the U of A Field Station Access Road, but ins
       <p class="text-center text-base font-bold text-gray-700">Accumulated Distance: 2.234 km</p>
       <h4 class="text-base font-semibold">Description</h4>
       <ul class="text-base text-gray-700 tight-list">
-        <li>At the "Road / Waskahegan Trail Intersection" waypoint, veer right off the road onto the well-worn single-track trail.</li>
+        <li>At the "Road / Waskahegan Trail Intersection" waypoint, bear right off the road onto the well-worn single-track trail.</li>
         <li>Now you wind your way through a somewhat sparse, yet nicely shaded forest of poplar, spruce and birch. The sparseness of the trees often allows the sun to filter through branches to the ground, providing the experience the Japanese call "komorebi". Although the term literally translates to "sunlight filtering through trees" it expresses that feeling of each moment being transient, part of the flow of things and the aesthetically beautiful.</li>
         <li>That's why it's "The Enchanted Forest".</li>
-        <li>Follow the trail until reach an open area to your right. The trail gets harder to make out for a few meters here but look for the yellow Waskahegan Trail markers to guide you a farmer's road.</li>
+        <li>Follow the trail until reach an open area to your right. The trail gets harder to make out for a few meters here but look for the yellow Waskahegan Trail markers to guide you to a farmer's road.</li>
         <li>Turning right at this point will take you further into the Ministik, but the route today takes us back towards the parking spot.</li>
         <li>Turn left and follow the makeshift, overgrown road until you reach the edge of "Big Fish Meadow". From the ground, the name makes no sense; but look at the area on the map and you'll soon understand.</li>
       </ul>
@@ -198,21 +198,20 @@ The majority of this hike is along the U of A Field Station Access Road, but ins
 
 
 ## Interactive Route Map
-To see route waypoints, zoom into the map by pinching open on mobile, scrolling on desktop.
+To see all route waypoints, zoom into the map by pinching open on mobile, scrolling on desktop.
 
 <iframe width="100%" height="700px" frameborder="0" src="//umap.openstreetmap.fr/en/map/006-enchanted-forest-loop_1128515#15/53.3614/-112.9726?scaleControl=true&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=false&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=false"></iframe>
 <div class="flex justify-center items-center"><p>
 {{< button href="https://umap.openstreetmap.fr/en/map/006-enchanted-forest-loop_1128515#15/53.3614/-112.9726?scaleControl=true&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=false&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=false" target="_blank" >}}
 View interactive map full screen 
 {{< /button >}}</p></div>
-{{< routecolordetails "Click to view route leg color key">}}
+{{< routecolordetails "Click to view route colour key">}}
 
 
-## {{< icon-heading "download" >}} Download Hike Route and Description
+## {{< icon-heading "download" >}}  Download Hike Route and Description
 ### Hike Route and Waypoints File
 The ".gpx" file contains both the hike route and important waypoints referred to in the hike description. See the <a href="{{< ref "/suggestedmobileapps" >}}" target="_blank">suggestions for mobile apps</a> and open the ".gpx" file in one of those apps on your mobile device. 
 
-### Mobile (Offline) Hike Route Description
-Cell service can go from spotty to non-existent in the Ministik. The leg-by-leg route directions you see on this page are duplicated in a web page (".html") you can download here to read in a web browser on your mobile device while offline.
 
-{{< attachments folder="downloads" pattern=".*(gpx|html)" caption="Hike Route and Waypoints File (.gpx) and Mobile (Offline) Hike Route Description (.html)" >}}
+
+{{< attachments folder="downloads" pattern=".*(gpx|pdf)" caption="Hike Route and Waypoints File (.gpx)" >}}

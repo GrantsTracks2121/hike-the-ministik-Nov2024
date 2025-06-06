@@ -64,8 +64,8 @@ This hike rates as "Expedition" for a reason: it's just about 13 km and covers a
 
 The directions for this "2-Car" hike assume you'll start at Stove Lake Trailhead and walk to the Fairbrother Corner Trailhead. Of course you could do the hike in reverse; your choice. 
 
-{{< routecolordetails "Click to view route leg color key">}}
-
+{{< routecolordetails "Click to view route colour key">}}
+</br>
 <!-- TABLE: visible on md+ screens -->
 <div class="overflow-x-auto hidden lg:block not-prose">
   <table class="min-w-full divide-y divide-gray-200">
@@ -87,13 +87,13 @@ The directions for this "2-Car" hike assume you'll start at Stove Lake Trailhead
         <td class="px-6 py-4 text-base text-gray-700" style="padding-left: 1em;">
           <ul class="tight-list">
             <li>Make your way past the gate and follow the short first leg due north.</li>
-            <li>The trail turns sharply to the left (east) and continues to the "Open Gate" waypoint where you cross to the other side of the fence line you've been following.</li>
-            <li>Make sure to veer right at "Trail Fork".</li>
+            <li>The trail turns sharply to the left (west) and continues to the "Open Gate" waypoint where you cross to the other side of the fence line you've been following.</li>
+            <li>Make sure to bear right at "Trail Fork".</li>
             <li>At "Old Gate" walk through the fence opening onto the single-track trail.</li>
             <li>Following the trail to "Ministik Crossroads" should be quite straightforward.</li>
-            <li>If a game trail intersects with the trail you're on, and you're ever in doubt, veer right. That will always be the correct choice.</li>
+            <li>If a game trail intersects with the trail you're on, and you're ever in doubt, bear right. That will always be the correct choice.</li>
             <li>You might want to take a break when you reach "'Crossroads' intersection".</li>
-            <li>Turn left (east) at the intersection and make your way along this former cutline. The way should be quite clear along the way, but if in doubt use the "Three Trails intersection" waypoint to guide you.</li>
+            <li>Turn left (west) at the intersection and make your way along this former cutline. The way should be quite clear along the way, but if in doubt use the "Three Trails intersection" waypoint to guide you.</li>
             <li>Turn left (south) at the "Three Trails intersection" and continue to "Trail meets old beaver dam" waypoint.</li>
           </ul>
         </td>
@@ -144,10 +144,10 @@ The directions for this "2-Car" hike assume you'll start at Stove Lake Trailhead
       <ul class="text-base text-gray-700 tight-list">
         <li>Make your way past the gate and follow the short first leg due north.</li>
         <li>The trail turns sharply to the left (east) and continues to the "Open Gate" waypoint where you cross to the other side of the fence line you've been following.</li>
-        <li>Make sure to veer right at "Trail Fork".</li>
+        <li>Make sure to bear right at "Trail Fork".</li>
         <li>At "Old Gate" walk through the fence opening onto the single-track trail.</li>
         <li>Following the trail to "Ministik Crossroads" should be quite straightforward.</li>
-        <li>If a game trail intersects with the trail you're on, and you're ever in doubt, veer right. That will always be the correct choice.</li>
+        <li>If a game trail intersects with the trail you're on, and you're ever in doubt, bear right. That will always be the correct choice.</li>
         <li>You might want to take a break when you reach "'Crossroads' intersection".</li>
         <li>Turn left (east) at the intersection and make your way along this former cutline. The way should be quite clear along the way, but if in doubt use the "Three Trails intersection" waypoint to guide you.</li>
         <li>Turn left (south) at the "Three Trails intersection" and continue to "Trail meets old beaver dam" waypoint.</li>
@@ -191,20 +191,19 @@ The directions for this "2-Car" hike assume you'll start at Stove Lake Trailhead
 
 
 ## Interactive Route Map
-To see route waypoints, zoom into the map by pinching open on mobile, scrolling on desktop.
+To see all route waypoints, zoom into the map by pinching open on mobile, scrolling on desktop.
 
 <iframe width="100%" height="700px" frameborder="0" src="//umap.openstreetmap.fr/en/map/020-stove-lake-to-fairbrother-corner_1128535#14/53.3237/-112.9586?scaleControl=true&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=false&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=false"></iframe>
 <div class="flex justify-center items-center"><p>
 {{< button href="https://umap.openstreetmap.fr/en/map/020-stove-lake-to-fairbrother-corner_1128535#14/53.3237/-112.9586?scaleControl=true&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=false&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=false" target="_blank" >}}
 View interactive map full screen 
 {{< /button >}}</p></div>
-{{< routecolordetails "Click to view route leg color key">}}
+{{< routecolordetails "Click to view route colour key">}}
 
-## {{< icon-heading "download" >}} Download Hike Route and Description
+## {{< icon-heading "download" >}}  Download Hike Route and Description
 ### Hike Route and Waypoints File
 The ".gpx" file contains both the hike route and important waypoints referred to in the hike description. See the <a href="{{< ref "/suggestedmobileapps" >}}" target="_blank">suggestions for mobile apps</a> and open the ".gpx" file in one of those apps on your mobile device. 
 
-### Mobile (Offline) Hike Route Description
-Cell service can go from spotty to non-existent in the Ministik. The leg-by-leg route directions you see on this page are duplicated in a web page (".html") you can download here to read in a web browser on your mobile device while offline.
 
-{{< attachments folder="downloads" pattern=".*(gpx|html)" caption="Hike Route and Waypoints File (.gpx) and Mobile (Offline) Hike Route Description (.html)" >}}
+
+{{< attachments folder="downloads" pattern=".*(gpx|pdf)" caption="Hike Route and Waypoints File (.gpx)" >}}

@@ -58,8 +58,8 @@ summary: "This hike is a combination of wide, easy trails punctuated with short 
 
 This hike is a combination of wide, easy trails punctuated with short crossings of trailless meadows in a seldom-travelled corner of the Ministik. Take a short detour to visit one of the few historical structures in the Ministik: the Mitchell Cabin.  
 
-{{< routecolordetails "Click to view route leg color key">}}
-
+{{< routecolordetails "Click to view route colour key">}}
+</br>
 <!-- TABLE: visible on md+ screens -->
 <div class="overflow-x-auto hidden lg:block not-prose">
   <table class="min-w-full divide-y divide-gray-200">
@@ -82,7 +82,7 @@ This hike is a combination of wide, easy trails punctuated with short crossings 
           <ul class="tight-list">
             <li>Assuming a counter-clockwise loop, we start out along the wide, well-travelled Waskahegan Trail</li>
             <li>At the "Turn South from Waskahegan" waypoint, turn left (south)</li>
-            <li>After a short walk south, turn right (east) "Turn east onto old road"</li>
+            <li>After a short walk south, turn right (west) "Turn east onto old road"</li>
             <li>The trail is wide and usually very clear of obstacles.</li>
             <li>Depending on the season at "Wet Spot (N)" you'll encounter an area you might have to make your way around, or if it's dry, walk right over it.</li>
             <li>Use "Trail meets large meadow (N)" to guide you if you need it.</li>
@@ -272,7 +272,7 @@ This hike is a combination of wide, easy trails punctuated with short crossings 
       <ul class="text-base text-gray-700 tight-list">
         <li>Assuming a counter-clockwise loop, we start out along the wide, well-travelled Waskahegan Trail</li>
         <li>At the "Turn South from Waskahegan" waypoint, turn left (south)</li>
-        <li>After a short walk south, turn right (east) "Turn east onto old road"</li>
+        <li>After a short walk south, turn right (west) "Turn east onto old road"</li>
         <li>The trail is wide and usually very clear of obstacles.</li>
         <li>Depending on the season at "Wet Spot" you'll encounter an area you might have to make your way around, or if it's dry, walk right over it.</li>
         <li>Use "Trail meets large meadow (N)" to guide you if you need it.</li>
@@ -479,21 +479,20 @@ This hike is a combination of wide, easy trails punctuated with short crossings 
 
 
 ## Interactive Route Map
-To see route waypoints, zoom into the map by pinching open on mobile, scrolling on desktop.
+To see all route waypoints, zoom into the map by pinching open on mobile, scrolling on desktop.
 
 <iframe width="100%" height="700px" frameborder="0" src="//umap.openstreetmap.fr/en/map/022-mitchell-loop_1223850#15/53.2990/-112.9368?scaleControl=true&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=false&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=false"></iframe>
 <div class="flex justify-center items-center"><p>
 {{< button href="https://umap.openstreetmap.fr/en/map/022-mitchell-loop_1223850#15/53.2990/-112.9368?scaleControl=true&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=false&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=false" target="_blank" >}}
 View interactive map full screen 
 {{< /button >}}</p></div>
-{{< routecolordetails "Click to view route leg color key">}}
+{{< routecolordetails "Click to view route colour key">}}
 
-## {{< icon-heading "download" >}} Download Hike Route and Description
+## {{< icon-heading "download" >}}  Download Hike Route and Description
 ### Hike Route and Waypoints File
 The ".gpx" file contains both the hike route and important waypoints referred to in the hike description. See the <a href="{{< ref "/suggestedmobileapps" >}}" target="_blank">suggestions for mobile apps</a> and open the ".gpx" file in one of those apps on your mobile device. 
 
-### Mobile (Offline) Hike Route Description
-Cell service can go from spotty to non-existent in the Ministik. The leg-by-leg route directions you see on this page are duplicated in a web page (".html") you can download here to read in a web browser on your mobile device while offline.
 
-{{< attachments folder="downloads" pattern=".*(gpx|html)" caption="Hike Route and Waypoints File (.gpx) and Mobile (Offline) Hike Route Description (.html)" >}}
+
+{{< attachments folder="downloads" pattern=".*(gpx|pdf)" caption="Hike Route and Waypoints File (.gpx)" >}}
 
