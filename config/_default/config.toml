@@ -4,7 +4,7 @@
 
 # theme = "blowfish"
 theme = ["hugo-notice", "blowfish", "hugo-shortcode-gallery", "gpx-shortcode", "osm"]
-# baseURL = "https://hiketheministik.ca"
+baseURL = "https://hiketheministik.ca"
 defaultContentLanguage = "en"
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles

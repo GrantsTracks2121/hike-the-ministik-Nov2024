@@ -2,50 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hikes by Length on Hike the Ministik!</title>
-    <link>//localhost:1313/hikes-by-length/</link>
+    <link>http://localhost:1313/hikes-by-length/</link>
     <description>Recent content in Hikes by Length on Hike the Ministik!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© {{&lt; currentYear &gt;}} Hike The Ministik!</copyright>
-    <atom:link href="//localhost:1313/hikes-by-length/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/hikes-by-length/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hikes Less Than 5 km</title>
-      <link>//localhost:1313/hikes-by-length/less-than-5-km/</link>
+      <link>http://localhost:1313/hikes-by-length/less-than-5-km/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/hikes-by-length/less-than-5-km/</guid>
+      <guid>http://localhost:1313/hikes-by-length/less-than-5-km/</guid>
       <description>Hikes less than 5 km make great starter hikes if you&amp;rsquo;re new to the Ministik.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes-by-length/less-than-5-km/featured-less-than-5-km.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/hikes-by-length/less-than-5-km/featured-less-than-5-km.jpg" />
     </item>
     
     <item>
       <title>Hikes Between 5 and 7 km</title>
-      <link>//localhost:1313/hikes-by-length/5-7km/</link>
+      <link>http://localhost:1313/hikes-by-length/5-7km/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/hikes-by-length/5-7km/</guid>
+      <guid>http://localhost:1313/hikes-by-length/5-7km/</guid>
       <description>Hikes between 5 and 7 km will allow you to venture deeper into the Ministik.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes-by-length/5-7km/featured-between-5-and-7-km.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/hikes-by-length/5-7km/featured-between-5-and-7-km.jpg" />
     </item>
     
     <item>
       <title>Hikes Between 7 and 10 km</title>
-      <link>//localhost:1313/hikes-by-length/7-10km/</link>
+      <link>http://localhost:1313/hikes-by-length/7-10km/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/hikes-by-length/7-10km/</guid>
+      <guid>http://localhost:1313/hikes-by-length/7-10km/</guid>
       <description>Hikes between 7 and 10 km will test your stamina and maybe your wayfinding abilities. Oh, and bring a lunch!.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes-by-length/7-10km/featured-between-7-and-10-km.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/hikes-by-length/7-10km/featured-between-7-and-10-km.jpg" />
     </item>
     
     <item>
       <title>Hikes More Than 10 km</title>
-      <link>//localhost:1313/hikes-by-length/gt-10km/</link>
+      <link>http://localhost:1313/hikes-by-length/gt-10km/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/hikes-by-length/gt-10km/</guid>
+      <guid>http://localhost:1313/hikes-by-length/gt-10km/</guid>
       <description>Hikes more than 10 km are generally day-long excursions - some bordering on epic.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes-by-length/gt-10km/featured-more-than-10-km.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/hikes-by-length/gt-10km/featured-more-than-10-km.jpg" />
     </item>
     
   </channel>

@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Misasin Trailhead on Hike the Ministik!</title>
-    <link>//localhost:1313/categories/misasin-trailhead/</link>
+    <link>http://localhost:1313/categories/misasin-trailhead/</link>
     <description>Recent content in Misasin Trailhead on Hike the Ministik!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© {{&lt; currentYear &gt;}} Hike The Ministik!</copyright>
-    <atom:link href="//localhost:1313/categories/misasin-trailhead/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/misasin-trailhead/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Misasin Trail</title>
-      <link>//localhost:1313/hikes/017-misasin-trail/</link>
+      <link>http://localhost:1313/hikes/017-misasin-trail/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/hikes/017-misasin-trail/</guid>
+      <guid>http://localhost:1313/hikes/017-misasin-trail/</guid>
       <description>The trail name &amp;ldquo;Misasin&amp;rdquo; was coined by local geocachers. In Plains Cree, it means &amp;ldquo;rather large, but not overly large.&amp;rdquo; Consider this &amp;ldquo;out-and-back&amp;rdquo; style hike an exploratory trek rather than a leisurely stroll along a well-defined trail. There is only one long &amp;ldquo;leg&amp;rdquo; to this trail plan because the trail as marked is usually quite easy to follow; what lies beyond, not so much. The trail is seldom travelled and can get quite overgrown, especially during the summer months.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/017-misasin-trail/featured-017-NE-Boundary-Trailhead-to-End-of-Trail-Misasin-Trail.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/hikes/017-misasin-trail/featured-017-NE-Boundary-Trailhead-to-End-of-Trail-Misasin-Trail.jpg" />
     </item>
     
   </channel>

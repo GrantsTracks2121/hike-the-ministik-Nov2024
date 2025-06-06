@@ -8,7 +8,7 @@ Ministik Trailheads are sorted here by the number of hikes starting from the tra
 
 <p>&nbsp;</p>
 {{< alert icon="circle-info" cardColor="#008080" iconColor="#f1faee" textColor="#f1faee" >}}
-This list doesn't yet include *all* Ministik trailheads. Future additions are planned..
+This list doesn't yet include *all* Ministik trailheads. Future additions are planned.
 {{< /alert >}}
 
 

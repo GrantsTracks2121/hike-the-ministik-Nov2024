@@ -2,90 +2,90 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Route Type: Out &amp; Back on Hike the Ministik!</title>
-    <link>//localhost:1313/categories/route-type-out--back/</link>
+    <link>http://localhost:1313/categories/route-type-out--back/</link>
     <description>Recent content in Route Type: Out &amp; Back on Hike the Ministik!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© {{&lt; currentYear &gt;}} Hike The Ministik!</copyright>
-    <atom:link href="//localhost:1313/categories/route-type-out--back/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/route-type-out--back/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Francis Edward Williams Trailhead to the Ministik Fire Tower</title>
-      <link>//localhost:1313/hikes/002-few-to-fire-tower/</link>
+      <link>http://localhost:1313/hikes/002-few-to-fire-tower/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/hikes/002-few-to-fire-tower/</guid>
+      <guid>http://localhost:1313/hikes/002-few-to-fire-tower/</guid>
       <description>This route offers an &amp;ldquo;alternative&amp;rdquo; starting point for one of the &amp;ldquo;must-do&amp;rdquo; Ministik hikes: a trek to the Ministik Firetower. The route is more &amp;ldquo;direct,&amp;rdquo; but it is decidedly &amp;ldquo;rustic,&amp;rdquo; taking you through long stretches of hay fields until you reach the Waskahegan Trail leading to the tower.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/002-few-to-fire-tower/featured-002-FEW-to-Waskahegan-Fire-Tower.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/hikes/002-few-to-fire-tower/featured-002-FEW-to-Waskahegan-Fire-Tower.jpg" />
     </item>
     
     <item>
       <title>Mandy Lake Parking to Old Shelter</title>
-      <link>//localhost:1313/hikes/027-mandy-lake-to-shelter/</link>
+      <link>http://localhost:1313/hikes/027-mandy-lake-to-shelter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/hikes/027-mandy-lake-to-shelter/</guid>
-      <description>This hike takes you along a former road, a rare thing in the Ministik. The going is easy, the navigation simple, which makes this a perfect choice for a starter hike. The final destination is a shelter that has seen better days, but still provides a roof and perhaps a place to rest for a while.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/027-mandy-lake-to-shelter/featured-027-Mandy-Lake-Road-to-Old-Shelter.jpg" />
+      <guid>http://localhost:1313/hikes/027-mandy-lake-to-shelter/</guid>
+      <description>This hike takes you along a former road, a rare thing in the Ministik. The going is easy, the navigation simple, which makes this a perfect choice for a starter hike. The final destination is a shelter that has seen better days, but still provides a roof and a place to rest for a while.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/hikes/027-mandy-lake-to-shelter/featured-027-Mandy-Lake-Road-to-Old-Shelter.jpg" />
     </item>
     
     <item>
       <title>Mandy Lake Parking to Oliver Lake East</title>
-      <link>//localhost:1313/hikes/028-mandy-lake-tr-to-oliver-lake/</link>
+      <link>http://localhost:1313/hikes/028-mandy-lake-tr-to-oliver-lake/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/hikes/028-mandy-lake-tr-to-oliver-lake/</guid>
+      <guid>http://localhost:1313/hikes/028-mandy-lake-tr-to-oliver-lake/</guid>
       <description>This hike has all sorts of types of terrain to navigate: it starts out on a road, transitions to a fairly good trail, and ends in a meadow that you’ll need to navigate without the help of a trail. But the end goal will take you to the shoreline of a quiet lake decidedly away from civilization.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/028-mandy-lake-tr-to-oliver-lake/featured-028-Mandy-Lake-PK-to-Oliver-Lake-East.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/hikes/028-mandy-lake-tr-to-oliver-lake/featured-028-Mandy-Lake-PK-to-Oliver-Lake-East.jpg" />
     </item>
     
     <item>
       <title>Misasin Trail</title>
-      <link>//localhost:1313/hikes/017-misasin-trail/</link>
+      <link>http://localhost:1313/hikes/017-misasin-trail/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/hikes/017-misasin-trail/</guid>
+      <guid>http://localhost:1313/hikes/017-misasin-trail/</guid>
       <description>The trail name &amp;ldquo;Misasin&amp;rdquo; was coined by local geocachers. In Plains Cree, it means &amp;ldquo;rather large, but not overly large.&amp;rdquo; Consider this &amp;ldquo;out-and-back&amp;rdquo; style hike an exploratory trek rather than a leisurely stroll along a well-defined trail. There is only one long &amp;ldquo;leg&amp;rdquo; to this trail plan because the trail as marked is usually quite easy to follow; what lies beyond, not so much. The trail is seldom travelled and can get quite overgrown, especially during the summer months.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/017-misasin-trail/featured-017-NE-Boundary-Trailhead-to-End-of-Trail-Misasin-Trail.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/hikes/017-misasin-trail/featured-017-NE-Boundary-Trailhead-to-End-of-Trail-Misasin-Trail.jpg" />
     </item>
     
     <item>
       <title>Stick to the Field Station Road</title>
-      <link>//localhost:1313/hikes/005-stick-to-the-road/</link>
+      <link>http://localhost:1313/hikes/005-stick-to-the-road/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/hikes/005-stick-to-the-road/</guid>
+      <guid>http://localhost:1313/hikes/005-stick-to-the-road/</guid>
       <description>This hike is all about easy navigation: you follow a road for the entire hike—a rare thing in the Ministik. If this is your first time hiking in the area, this is a perfect introductory hike.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/005-stick-to-the-road/featured-005-Stick-to-the-Road.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/hikes/005-stick-to-the-road/featured-005-Stick-to-the-Road.jpg" />
     </item>
     
     <item>
       <title>Stove Lake to Crossroads</title>
-      <link>//localhost:1313/hikes/018-stove-lake-to-crossroads/</link>
+      <link>http://localhost:1313/hikes/018-stove-lake-to-crossroads/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/hikes/018-stove-lake-to-crossroads/</guid>
+      <guid>http://localhost:1313/hikes/018-stove-lake-to-crossroads/</guid>
       <description>While this hike isn&amp;rsquo;t listed among the &amp;ldquo;Starter Hikes&amp;rdquo; on the site, it is the next best thing. Rather than roads, there is a trail to follow, but the trail is always clear and easy to navigate. It&amp;rsquo;s a nice little jaunt to an intersection of trails in what will feel like the middle of nowhere.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/018-stove-lake-to-crossroads/featured-018-Stove-Lake-to-Crossroads.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/hikes/018-stove-lake-to-crossroads/featured-018-Stove-Lake-to-Crossroads.jpg" />
     </item>
     
     <item>
       <title>Trek to the Ministik Fire Tower</title>
-      <link>//localhost:1313/hikes/008-uofa-to-fire-tower/</link>
+      <link>http://localhost:1313/hikes/008-uofa-to-fire-tower/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/hikes/008-uofa-to-fire-tower/</guid>
+      <guid>http://localhost:1313/hikes/008-uofa-to-fire-tower/</guid>
       <description>Starting out on the U of A Access Road, and after transitioning to the Waskahegan Trail, this hike takes you to one of the few historical landmarks in the area: the Ministik Firetower. This is a &amp;ldquo;must-do&amp;rdquo; hike for someone with some Ministik hiking experience under their belt.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/008-uofa-to-fire-tower/featured-008-Gate-to-Ministik-Fire-Tower.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/hikes/008-uofa-to-fire-tower/featured-008-Gate-to-Ministik-Fire-Tower.jpg" />
     </item>
     
     <item>
       <title>Waskahegan Berg Section - Out &amp; Back</title>
-      <link>//localhost:1313/hikes/040-berg-section-out-and-back/</link>
+      <link>http://localhost:1313/hikes/040-berg-section-out-and-back/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/hikes/040-berg-section-out-and-back/</guid>
+      <guid>http://localhost:1313/hikes/040-berg-section-out-and-back/</guid>
       <description>This hike is a perfect starter hike on a somewhat secluded trail that is usually in good shape. The route is rated as &amp;ldquo;Moderate&amp;rdquo; because it&amp;rsquo;s a little longer than other starter hikes. This is a part of the Waskahegan Trail and, as such, is periodically maintained and marked. It features the opportunity to visit &amp;ldquo;Berg Stopover&amp;rdquo;, a quaint little hut built on private land that welcomes passing hikers. The hike is &amp;ldquo;out and back&amp;rdquo; so the idea is walk the length of trail and then double back to the parking spot where you started.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/040-berg-section-out-and-back/featured-040-Waskahegan-Berg-Section.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/hikes/040-berg-section-out-and-back/featured-040-Waskahegan-Berg-Section.jpg" />
     </item>
     
   </channel>

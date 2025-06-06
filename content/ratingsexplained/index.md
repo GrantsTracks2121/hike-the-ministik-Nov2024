@@ -50,7 +50,7 @@ It's easy to see these descriptors are subjective: one person's "***Strenuous***
 ## A Disclaimer About Trail Ratings
 As just mentioned about the descriptors, the rating system as a whole is **HIGHLY** subjective. How highly subjective? Well, put your hand over your head and get on your tippy toes: ***that*** highly subjective. 😃
 
-Have you noticed that when nature is left alone it hasa way of changing the landscape any way it sees fit? Likewise, nature is constantly changing the trail conditions in the Ministik, both throughout the seasons in one year and over multiple years. That makes the ratings on this site only "best guesses" based on the experience of having walked the trails in the past. And of course the ratings only have meaning when compared to the ratings of other hikes on the site.
+Have you noticed that when nature is left alone it has a way of changing the landscape any way it sees fit? Likewise, nature is constantly changing the trail conditions in the Ministik, both throughout the seasons in one year and over multiple years. That makes the ratings on this site only "best guesses" based on the experience of having walked the trails in the past. And of course the ratings only have meaning when compared to the ratings of other hikes on the site.
 
 All that said, if you are unfamiliar with the area, the trail difficulty rating of does serve as an indicator (however fuzzy it might be) based on experiences of hiking the actual trails.
 

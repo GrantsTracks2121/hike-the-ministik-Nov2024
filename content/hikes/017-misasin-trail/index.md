@@ -59,6 +59,8 @@ summary: "The trail name \"Misasin\" was coined by local geocachers. In Plains C
 The trail name "Misasin" was coined by local geocachers. In Plains Cree, it means "rather large, but not overly large." Consider this "out-and-back" style hike an exploratory trek rather than a leisurely stroll along a well-defined trail. There is only one long "leg" to this trail plan because the trail as marked is usually quite easy to follow; what lies beyond, not so much. The trail is seldom travelled and can get quite overgrown, especially during the summer months.  
 
 
+
+
 {{< notice tip >}}
 Long sleeves and long pants are highly recommended for this hike.
 {{< /notice >}}

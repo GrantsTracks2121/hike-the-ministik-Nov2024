@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Waskahegan Berg Section South Trailhead on Hike the Ministik!</title>
-    <link>//localhost:1313/categories/waskahegan-berg-section-south-trailhead/</link>
+    <link>http://localhost:1313/categories/waskahegan-berg-section-south-trailhead/</link>
     <description>Recent content in Waskahegan Berg Section South Trailhead on Hike the Ministik!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© {{&lt; currentYear &gt;}} Hike The Ministik!</copyright>
-    <atom:link href="//localhost:1313/categories/waskahegan-berg-section-south-trailhead/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/waskahegan-berg-section-south-trailhead/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Waskahegan Berg Section - 2 Car</title>
-      <link>//localhost:1313/hikes/004-berg-section-2-car/</link>
+      <link>http://localhost:1313/hikes/004-berg-section-2-car/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/hikes/004-berg-section-2-car/</guid>
+      <guid>http://localhost:1313/hikes/004-berg-section-2-car/</guid>
       <description>This hike is a perfect starter for many &amp;ldquo;2-Car&amp;rdquo; hikes listed on this site. This relatively short hike is part of the Waskahegan Trail and, as such, is usually fairly easy to follow. It features the opportunity to visit &amp;ldquo;Berg Stopover,&amp;rdquo; a quaint little hut built on private land that welcomes passing hikers.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/004-berg-section-2-car/featured-004-Waskahegan-Berg-Section.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/hikes/004-berg-section-2-car/featured-004-Waskahegan-Berg-Section.jpg" />
     </item>
     
     <item>
       <title>Waskahegan Berg Section - Out &amp; Back</title>
-      <link>//localhost:1313/hikes/040-berg-section-out-and-back/</link>
+      <link>http://localhost:1313/hikes/040-berg-section-out-and-back/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/hikes/040-berg-section-out-and-back/</guid>
+      <guid>http://localhost:1313/hikes/040-berg-section-out-and-back/</guid>
       <description>This hike is a perfect starter hike on a somewhat secluded trail that is usually in good shape. The route is rated as &amp;ldquo;Moderate&amp;rdquo; because it&amp;rsquo;s a little longer than other starter hikes. This is a part of the Waskahegan Trail and, as such, is periodically maintained and marked. It features the opportunity to visit &amp;ldquo;Berg Stopover&amp;rdquo;, a quaint little hut built on private land that welcomes passing hikers. The hike is &amp;ldquo;out and back&amp;rdquo; so the idea is walk the length of trail and then double back to the parking spot where you started.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/040-berg-section-out-and-back/featured-040-Waskahegan-Berg-Section.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/hikes/040-berg-section-out-and-back/featured-040-Waskahegan-Berg-Section.jpg" />
     </item>
     
   </channel>

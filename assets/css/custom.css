@@ -4,7 +4,7 @@
   font-family: Kalam;
   src: url('/fonts/Kalam-Regular.ttf');
 }
-
+/*  original had margin-top: 25px; -- */
 .RockSalted {
   font-family: Kalam;
   margin-top: 25px;
@@ -23,7 +23,7 @@ h2 {
 .RockSaltedSmall {
   font-family: Kalam;
   font-size: 1.75rem;
-  padding-bottom: 5px;
+  padding-bottom: 3px;
 }
 /*  to change border color as per https://github.com/tailwindlabs/tailwindcss/discussions/12757 ----- */
 html {

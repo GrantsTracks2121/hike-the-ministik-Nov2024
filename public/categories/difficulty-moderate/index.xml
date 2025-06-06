@@ -2,100 +2,100 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Difficulty: Moderate on Hike the Ministik!</title>
-    <link>//localhost:1313/categories/difficulty-moderate/</link>
+    <link>http://localhost:1313/categories/difficulty-moderate/</link>
     <description>Recent content in Difficulty: Moderate on Hike the Ministik!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© {{&lt; currentYear &gt;}} Hike The Ministik!</copyright>
-    <atom:link href="//localhost:1313/categories/difficulty-moderate/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/difficulty-moderate/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Francis Edward Williams Trailhead to the UofA Access Road Gate</title>
-      <link>//localhost:1313/hikes/003-few-to-uofa-gate/</link>
+      <link>http://localhost:1313/hikes/003-few-to-uofa-gate/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/hikes/003-few-to-uofa-gate/</guid>
+      <guid>http://localhost:1313/hikes/003-few-to-uofa-gate/</guid>
       <description>This &amp;ldquo;2-Car&amp;rdquo; hike is a perfect &amp;ldquo;mid-level&amp;rdquo; option for those who have some Ministik experience under their belt. It takes you through a long string of connected hay meadows until you reach a section of the Waskahegan Trail and eventually the U of A Access Road.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/003-few-to-uofa-gate/featured-003-FEW-to-UofA-Access-Road-Gate.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/hikes/003-few-to-uofa-gate/featured-003-FEW-to-UofA-Access-Road-Gate.jpg" />
     </item>
     
     <item>
       <title>Mandy Lake Parking to Oliver Lake East</title>
-      <link>//localhost:1313/hikes/028-mandy-lake-tr-to-oliver-lake/</link>
+      <link>http://localhost:1313/hikes/028-mandy-lake-tr-to-oliver-lake/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/hikes/028-mandy-lake-tr-to-oliver-lake/</guid>
+      <guid>http://localhost:1313/hikes/028-mandy-lake-tr-to-oliver-lake/</guid>
       <description>This hike has all sorts of types of terrain to navigate: it starts out on a road, transitions to a fairly good trail, and ends in a meadow that you’ll need to navigate without the help of a trail. But the end goal will take you to the shoreline of a quiet lake decidedly away from civilization.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/028-mandy-lake-tr-to-oliver-lake/featured-028-Mandy-Lake-PK-to-Oliver-Lake-East.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/hikes/028-mandy-lake-tr-to-oliver-lake/featured-028-Mandy-Lake-PK-to-Oliver-Lake-East.jpg" />
     </item>
     
     <item>
       <title>Mitchell Loop</title>
-      <link>//localhost:1313/hikes/022-mitchell-loop/</link>
+      <link>http://localhost:1313/hikes/022-mitchell-loop/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/hikes/022-mitchell-loop/</guid>
+      <guid>http://localhost:1313/hikes/022-mitchell-loop/</guid>
       <description>This hike is a combination of wide, easy trails punctuated with short crossings of trailless meadows in a seldom-travelled corner of the Ministik. Take a short detour to visit one of the few old structures in the Ministik: the Mitchell Cabin.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/022-mitchell-loop/featured-022-Mitchell-Loop.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/hikes/022-mitchell-loop/featured-022-Mitchell-Loop.jpg" />
     </item>
     
     <item>
       <title>North of Township Road 502 Loop</title>
-      <link>//localhost:1313/hikes/036-north-of-502/</link>
+      <link>http://localhost:1313/hikes/036-north-of-502/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/hikes/036-north-of-502/</guid>
+      <guid>http://localhost:1313/hikes/036-north-of-502/</guid>
       <description>This somewhat awkwardly named hike takes you into a secluded set of trails not too far from parking. There are a couple of overgrown areas to traverse on the way, but otherwise trails are usually kept clear by local quad traffic.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/036-north-of-502/featured-036-North-of-Township-Road-502-Loop.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/hikes/036-north-of-502/featured-036-North-of-Township-Road-502-Loop.jpg" />
     </item>
     
     <item>
       <title>Stick to the Field Station Road</title>
-      <link>//localhost:1313/hikes/005-stick-to-the-road/</link>
+      <link>http://localhost:1313/hikes/005-stick-to-the-road/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/hikes/005-stick-to-the-road/</guid>
+      <guid>http://localhost:1313/hikes/005-stick-to-the-road/</guid>
       <description>This hike is all about easy navigation: you follow a road for the entire hike—a rare thing in the Ministik. If this is your first time hiking in the area, this is a perfect introductory hike.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/005-stick-to-the-road/featured-005-Stick-to-the-Road.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/hikes/005-stick-to-the-road/featured-005-Stick-to-the-Road.jpg" />
     </item>
     
     <item>
       <title>Stove Lake to Crossroads</title>
-      <link>//localhost:1313/hikes/018-stove-lake-to-crossroads/</link>
+      <link>http://localhost:1313/hikes/018-stove-lake-to-crossroads/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/hikes/018-stove-lake-to-crossroads/</guid>
+      <guid>http://localhost:1313/hikes/018-stove-lake-to-crossroads/</guid>
       <description>While this hike isn&amp;rsquo;t listed among the &amp;ldquo;Starter Hikes&amp;rdquo; on the site, it is the next best thing. Rather than roads, there is a trail to follow, but the trail is always clear and easy to navigate. It&amp;rsquo;s a nice little jaunt to an intersection of trails in what will feel like the middle of nowhere.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/018-stove-lake-to-crossroads/featured-018-Stove-Lake-to-Crossroads.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/hikes/018-stove-lake-to-crossroads/featured-018-Stove-Lake-to-Crossroads.jpg" />
     </item>
     
     <item>
       <title>UofA Access Road Gate to Penny Lane</title>
-      <link>//localhost:1313/hikes/007-penny-lane-loop/</link>
+      <link>http://localhost:1313/hikes/007-penny-lane-loop/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/hikes/007-penny-lane-loop/</guid>
+      <guid>http://localhost:1313/hikes/007-penny-lane-loop/</guid>
       <description>If the suggested &amp;ldquo;Starter&amp;rdquo; hikes look a little too tame for you, this hike takes you one step further by guiding you off-road, along the Waskahegan Trail, and then looping back through a hay field on your return to a road.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/007-penny-lane-loop/featured-007-penny-lane-loop.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/hikes/007-penny-lane-loop/featured-007-penny-lane-loop.jpg" />
     </item>
     
     <item>
       <title>Waskahegan Berg Section - 2 Car</title>
-      <link>//localhost:1313/hikes/004-berg-section-2-car/</link>
+      <link>http://localhost:1313/hikes/004-berg-section-2-car/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/hikes/004-berg-section-2-car/</guid>
+      <guid>http://localhost:1313/hikes/004-berg-section-2-car/</guid>
       <description>This hike is a perfect starter for many &amp;ldquo;2-Car&amp;rdquo; hikes listed on this site. This relatively short hike is part of the Waskahegan Trail and, as such, is usually fairly easy to follow. It features the opportunity to visit &amp;ldquo;Berg Stopover,&amp;rdquo; a quaint little hut built on private land that welcomes passing hikers.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/004-berg-section-2-car/featured-004-Waskahegan-Berg-Section.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/hikes/004-berg-section-2-car/featured-004-Waskahegan-Berg-Section.jpg" />
     </item>
     
     <item>
       <title>Waskahegan Berg Section - Out &amp; Back</title>
-      <link>//localhost:1313/hikes/040-berg-section-out-and-back/</link>
+      <link>http://localhost:1313/hikes/040-berg-section-out-and-back/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/hikes/040-berg-section-out-and-back/</guid>
+      <guid>http://localhost:1313/hikes/040-berg-section-out-and-back/</guid>
       <description>This hike is a perfect starter hike on a somewhat secluded trail that is usually in good shape. The route is rated as &amp;ldquo;Moderate&amp;rdquo; because it&amp;rsquo;s a little longer than other starter hikes. This is a part of the Waskahegan Trail and, as such, is periodically maintained and marked. It features the opportunity to visit &amp;ldquo;Berg Stopover&amp;rdquo;, a quaint little hut built on private land that welcomes passing hikers. The hike is &amp;ldquo;out and back&amp;rdquo; so the idea is walk the length of trail and then double back to the parking spot where you started.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/040-berg-section-out-and-back/featured-040-Waskahegan-Berg-Section.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/hikes/040-berg-section-out-and-back/featured-040-Waskahegan-Berg-Section.jpg" />
     </item>
     
   </channel>

@@ -12,13 +12,13 @@ When choosing a map to load and display, Openstreetmap (OSM) maps are **highly r
 
 This site has no association with the developers of any of apps listed here. Apps are listed in alphabetical order.
 
-## [Locus Maps](https://www.locusmap.app/)
+## [Locus Map](https://www.locusmap.app/)
 <div class="w-full">
 <ul>
-  <li>Locus Maps offers comprehensive offline maps and navigation.</li>
+  <li>Locus Map offers comprehensive offline maps and navigation.</li>
   <li>It includes a variety ofdetailed offline maps, such as OSM-based LoMaps, satellite imagery, and region-specific choices.</li>
   <li>These features provide robust offline navigation capabilities, making it perfect for outdoor activities where an internet connection isn't available.</li>
-  <li>Note that the iOS version, "Locus Maps Lite", is a relatively new product. The developers say they plan to add additional features in the future.</li>
+  <li>Note that the iOS version, "Locus Map Lite", is a relatively new product. The developers say they plan to add additional features in the future.</li>
 </ul>
   </div>
   

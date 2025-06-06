@@ -2,90 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Route Type: Loop on Hike the Ministik!</title>
-    <link>//localhost:1313/categories/route-type-loop/</link>
+    <link>http://localhost:1313/categories/route-type-loop/</link>
     <description>Recent content in Route Type: Loop on Hike the Ministik!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© {{&lt; currentYear &gt;}} Hike The Ministik!</copyright>
-    <atom:link href="//localhost:1313/categories/route-type-loop/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/route-type-loop/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Five Meadows Loop</title>
-      <link>//localhost:1313/hikes/009-five-meadows-loop/</link>
+      <link>http://localhost:1313/hikes/009-five-meadows-loop/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/hikes/009-five-meadows-loop/</guid>
+      <guid>http://localhost:1313/hikes/009-five-meadows-loop/</guid>
       <description>Starting from the U of A Access Road Gate, this hike traverses sections of the established Waskahegan Trail as well as a series of five &amp;ldquo;off-trail&amp;rdquo; hay meadows on a wide loop that takes you into the inner depths of the Ministik, eventually passing the Ministik Firetower.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/009-five-meadows-loop/featured-009-Five-Meadows-Loop.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/hikes/009-five-meadows-loop/featured-009-Five-Meadows-Loop.jpg" />
     </item>
     
     <item>
       <title>Francis Edward Williams to Five Meadows Loop</title>
-      <link>//localhost:1313/hikes/037-few-to-five-meadows-loop/</link>
+      <link>http://localhost:1313/hikes/037-few-to-five-meadows-loop/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/hikes/037-few-to-five-meadows-loop/</guid>
+      <guid>http://localhost:1313/hikes/037-few-to-five-meadows-loop/</guid>
       <description>Starting from the Francis Edward Williams trailhead, this hike traverses sections of the established Waskahegan Trail as well as a series of five &amp;ldquo;off-trail&amp;rdquo; hay meadows on a wide loop that takes you into the inner depths of the Ministik, eventually passing the Ministik Firetower.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/037-few-to-five-meadows-loop/featured-037-FEW-to-Five-Meadows-Hike-Fire-Tower-Loop.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/hikes/037-few-to-five-meadows-loop/featured-037-FEW-to-Five-Meadows-Hike-Fire-Tower-Loop.jpg" />
     </item>
     
     <item>
       <title>Mitchell Loop</title>
-      <link>//localhost:1313/hikes/022-mitchell-loop/</link>
+      <link>http://localhost:1313/hikes/022-mitchell-loop/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/hikes/022-mitchell-loop/</guid>
+      <guid>http://localhost:1313/hikes/022-mitchell-loop/</guid>
       <description>This hike is a combination of wide, easy trails punctuated with short crossings of trailless meadows in a seldom-travelled corner of the Ministik. Take a short detour to visit one of the few old structures in the Ministik: the Mitchell Cabin.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/022-mitchell-loop/featured-022-Mitchell-Loop.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/hikes/022-mitchell-loop/featured-022-Mitchell-Loop.jpg" />
     </item>
     
     <item>
       <title>North of Township Road 502 Loop</title>
-      <link>//localhost:1313/hikes/036-north-of-502/</link>
+      <link>http://localhost:1313/hikes/036-north-of-502/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/hikes/036-north-of-502/</guid>
+      <guid>http://localhost:1313/hikes/036-north-of-502/</guid>
       <description>This somewhat awkwardly named hike takes you into a secluded set of trails not too far from parking. There are a couple of overgrown areas to traverse on the way, but otherwise trails are usually kept clear by local quad traffic.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/036-north-of-502/featured-036-North-of-Township-Road-502-Loop.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/hikes/036-north-of-502/featured-036-North-of-Township-Road-502-Loop.jpg" />
     </item>
     
     <item>
       <title>The Enchanted Forest Loop</title>
-      <link>//localhost:1313/hikes/006-enchanted-forest-loop/</link>
+      <link>http://localhost:1313/hikes/006-enchanted-forest-loop/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/hikes/006-enchanted-forest-loop/</guid>
+      <guid>http://localhost:1313/hikes/006-enchanted-forest-loop/</guid>
       <description>The majority of this hike is along the U of A Field Station Access Road, but instead of remaining on the road the entire time, it takes you on a short section of the Waskahegan Trail, loops through a small forested area, and returns to the road. This is a nice introduction to the quiet, understated beauty of this area.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/006-enchanted-forest-loop/featured-006-Enchanted-Forest-Loop.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/hikes/006-enchanted-forest-loop/featured-006-Enchanted-Forest-Loop.jpg" />
     </item>
     
     <item>
       <title>Three Meadows Loop</title>
-      <link>//localhost:1313/hikes/010-three-meadows-loop/</link>
+      <link>http://localhost:1313/hikes/010-three-meadows-loop/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/hikes/010-three-meadows-loop/</guid>
+      <guid>http://localhost:1313/hikes/010-three-meadows-loop/</guid>
       <description>Like the &amp;ldquo;Five Meadows Loop&amp;rdquo;, this hike route takes you from the Waskahegan Trail through three &amp;ldquo;off-trail&amp;rdquo; hay meadows. But beware: the middle section of this hike may look like a sly shortcut compared to the &amp;ldquo;Five Meadows Loop,&amp;rdquo; but that shortcut is through perennially dodgy terrain where you’ll need to exercise your route-finding abilities.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/010-three-meadows-loop/featured-010-Three-Meadows-Loop.jpg" />
-    </item>
-    
-    <item>
-      <title>UofA Access Road Gate to Mandy Lake Parking</title>
-      <link>//localhost:1313/hikes/012-uofa-gate-to-mandy-lake/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>//localhost:1313/hikes/012-uofa-gate-to-mandy-lake/</guid>
-      <description>This &amp;ldquo;2-Car&amp;rdquo; epic hike starts out at the U of A Access Road gate, and traverses both the north and southern Ministik. The first half is on the Waskahegan Trail; the second takes you through some potentially tougher terrain until you reach the established Nesbit Trail. Be aware: this hike will require both stamina and wayfinding abilities and is intended for experienced hikers.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/012-uofa-gate-to-mandy-lake/featured-012-UofA-Gate-to-Mandy-Lake-PK.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/hikes/010-three-meadows-loop/featured-010-Three-Meadows-Loop.jpg" />
     </item>
     
     <item>
       <title>UofA Access Road Gate to Penny Lane</title>
-      <link>//localhost:1313/hikes/007-penny-lane-loop/</link>
+      <link>http://localhost:1313/hikes/007-penny-lane-loop/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/hikes/007-penny-lane-loop/</guid>
+      <guid>http://localhost:1313/hikes/007-penny-lane-loop/</guid>
       <description>If the suggested &amp;ldquo;Starter&amp;rdquo; hikes look a little too tame for you, this hike takes you one step further by guiding you off-road, along the Waskahegan Trail, and then looping back through a hay field on your return to a road.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/007-penny-lane-loop/featured-007-penny-lane-loop.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/hikes/007-penny-lane-loop/featured-007-penny-lane-loop.jpg" />
     </item>
     
   </channel>

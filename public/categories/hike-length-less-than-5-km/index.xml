@@ -2,60 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hike Length: Less Than 5 Km on Hike the Ministik!</title>
-    <link>//localhost:1313/categories/hike-length-less-than-5-km/</link>
+    <link>http://localhost:1313/categories/hike-length-less-than-5-km/</link>
     <description>Recent content in Hike Length: Less Than 5 Km on Hike the Ministik!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© {{&lt; currentYear &gt;}} Hike The Ministik!</copyright>
-    <atom:link href="//localhost:1313/categories/hike-length-less-than-5-km/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/hike-length-less-than-5-km/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Francis Edward Williams Trailhead to the UofA Access Road Gate</title>
-      <link>//localhost:1313/hikes/003-few-to-uofa-gate/</link>
+      <link>http://localhost:1313/hikes/003-few-to-uofa-gate/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/hikes/003-few-to-uofa-gate/</guid>
+      <guid>http://localhost:1313/hikes/003-few-to-uofa-gate/</guid>
       <description>This &amp;ldquo;2-Car&amp;rdquo; hike is a perfect &amp;ldquo;mid-level&amp;rdquo; option for those who have some Ministik experience under their belt. It takes you through a long string of connected hay meadows until you reach a section of the Waskahegan Trail and eventually the U of A Access Road.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/003-few-to-uofa-gate/featured-003-FEW-to-UofA-Access-Road-Gate.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/hikes/003-few-to-uofa-gate/featured-003-FEW-to-UofA-Access-Road-Gate.jpg" />
     </item>
     
     <item>
       <title>Mandy Lake Parking to Old Shelter</title>
-      <link>//localhost:1313/hikes/027-mandy-lake-to-shelter/</link>
+      <link>http://localhost:1313/hikes/027-mandy-lake-to-shelter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/hikes/027-mandy-lake-to-shelter/</guid>
-      <description>This hike takes you along a former road, a rare thing in the Ministik. The going is easy, the navigation simple, which makes this a perfect choice for a starter hike. The final destination is a shelter that has seen better days, but still provides a roof and perhaps a place to rest for a while.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/027-mandy-lake-to-shelter/featured-027-Mandy-Lake-Road-to-Old-Shelter.jpg" />
+      <guid>http://localhost:1313/hikes/027-mandy-lake-to-shelter/</guid>
+      <description>This hike takes you along a former road, a rare thing in the Ministik. The going is easy, the navigation simple, which makes this a perfect choice for a starter hike. The final destination is a shelter that has seen better days, but still provides a roof and a place to rest for a while.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/hikes/027-mandy-lake-to-shelter/featured-027-Mandy-Lake-Road-to-Old-Shelter.jpg" />
     </item>
     
     <item>
       <title>Misasin Trail</title>
-      <link>//localhost:1313/hikes/017-misasin-trail/</link>
+      <link>http://localhost:1313/hikes/017-misasin-trail/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/hikes/017-misasin-trail/</guid>
+      <guid>http://localhost:1313/hikes/017-misasin-trail/</guid>
       <description>The trail name &amp;ldquo;Misasin&amp;rdquo; was coined by local geocachers. In Plains Cree, it means &amp;ldquo;rather large, but not overly large.&amp;rdquo; Consider this &amp;ldquo;out-and-back&amp;rdquo; style hike an exploratory trek rather than a leisurely stroll along a well-defined trail. There is only one long &amp;ldquo;leg&amp;rdquo; to this trail plan because the trail as marked is usually quite easy to follow; what lies beyond, not so much. The trail is seldom travelled and can get quite overgrown, especially during the summer months.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/017-misasin-trail/featured-017-NE-Boundary-Trailhead-to-End-of-Trail-Misasin-Trail.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/hikes/017-misasin-trail/featured-017-NE-Boundary-Trailhead-to-End-of-Trail-Misasin-Trail.jpg" />
     </item>
     
     <item>
       <title>The Enchanted Forest Loop</title>
-      <link>//localhost:1313/hikes/006-enchanted-forest-loop/</link>
+      <link>http://localhost:1313/hikes/006-enchanted-forest-loop/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/hikes/006-enchanted-forest-loop/</guid>
+      <guid>http://localhost:1313/hikes/006-enchanted-forest-loop/</guid>
       <description>The majority of this hike is along the U of A Field Station Access Road, but instead of remaining on the road the entire time, it takes you on a short section of the Waskahegan Trail, loops through a small forested area, and returns to the road. This is a nice introduction to the quiet, understated beauty of this area.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/006-enchanted-forest-loop/featured-006-Enchanted-Forest-Loop.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/hikes/006-enchanted-forest-loop/featured-006-Enchanted-Forest-Loop.jpg" />
     </item>
     
     <item>
       <title>Waskahegan Berg Section - 2 Car</title>
-      <link>//localhost:1313/hikes/004-berg-section-2-car/</link>
+      <link>http://localhost:1313/hikes/004-berg-section-2-car/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/hikes/004-berg-section-2-car/</guid>
+      <guid>http://localhost:1313/hikes/004-berg-section-2-car/</guid>
       <description>This hike is a perfect starter for many &amp;ldquo;2-Car&amp;rdquo; hikes listed on this site. This relatively short hike is part of the Waskahegan Trail and, as such, is usually fairly easy to follow. It features the opportunity to visit &amp;ldquo;Berg Stopover,&amp;rdquo; a quaint little hut built on private land that welcomes passing hikers.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/004-berg-section-2-car/featured-004-Waskahegan-Berg-Section.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/hikes/004-berg-section-2-car/featured-004-Waskahegan-Berg-Section.jpg" />
     </item>
     
   </channel>

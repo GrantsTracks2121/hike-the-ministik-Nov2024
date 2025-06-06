@@ -60,9 +60,9 @@
           href="{{ .RelPermalink }}">{{ .Title | emojify }}</div>
         {{ end }}
 
-        <div class="text-sm text-neutral-500 dark:text-neutral-400">
+        <!-- <div class="text-sm text-neutral-500 dark:text-neutral-400">
           {{ partial "article-meta/basic.html" . }}
-        </div>
+        </div> -->
 
         {{ if .Params.showSummary | default (.Site.Params.list.showSummary | default false) }}
         <div class="py-1 prose dark:prose-invert">

@@ -2,60 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Difficulty: Strenuous on Hike the Ministik!</title>
-    <link>//localhost:1313/categories/difficulty-strenuous/</link>
+    <link>http://localhost:1313/categories/difficulty-strenuous/</link>
     <description>Recent content in Difficulty: Strenuous on Hike the Ministik!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© {{&lt; currentYear &gt;}} Hike The Ministik!</copyright>
-    <atom:link href="//localhost:1313/categories/difficulty-strenuous/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/difficulty-strenuous/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Francis Edward Williams Trailhead to the Ministik Fire Tower</title>
-      <link>//localhost:1313/hikes/002-few-to-fire-tower/</link>
+      <link>http://localhost:1313/hikes/002-few-to-fire-tower/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/hikes/002-few-to-fire-tower/</guid>
+      <guid>http://localhost:1313/hikes/002-few-to-fire-tower/</guid>
       <description>This route offers an &amp;ldquo;alternative&amp;rdquo; starting point for one of the &amp;ldquo;must-do&amp;rdquo; Ministik hikes: a trek to the Ministik Firetower. The route is more &amp;ldquo;direct,&amp;rdquo; but it is decidedly &amp;ldquo;rustic,&amp;rdquo; taking you through long stretches of hay fields until you reach the Waskahegan Trail leading to the tower.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/002-few-to-fire-tower/featured-002-FEW-to-Waskahegan-Fire-Tower.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/hikes/002-few-to-fire-tower/featured-002-FEW-to-Waskahegan-Fire-Tower.jpg" />
     </item>
     
     <item>
       <title>Stove Lake to Mandy Lake Parking</title>
-      <link>//localhost:1313/hikes/019-stove-lake-to-mandy-lake/</link>
+      <link>http://localhost:1313/hikes/019-stove-lake-to-mandy-lake/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/hikes/019-stove-lake-to-mandy-lake/</guid>
+      <guid>http://localhost:1313/hikes/019-stove-lake-to-mandy-lake/</guid>
       <description>This hike takes you through the heart of the Ministik, on all kinds of trails: some usually clear, some usually dodgy. After traversing a cutline, you’ll take part of the Waskahegan Trail, then make your way to the Nesbit Trail on your way to the Mandy Lake Parking spot</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/019-stove-lake-to-mandy-lake/featured-019-Stove-Lake-to-Mandy-Lake-PK.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/hikes/019-stove-lake-to-mandy-lake/featured-019-Stove-Lake-to-Mandy-Lake-PK.jpg" />
     </item>
     
     <item>
       <title>Trek to the Ministik Fire Tower</title>
-      <link>//localhost:1313/hikes/008-uofa-to-fire-tower/</link>
+      <link>http://localhost:1313/hikes/008-uofa-to-fire-tower/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/hikes/008-uofa-to-fire-tower/</guid>
+      <guid>http://localhost:1313/hikes/008-uofa-to-fire-tower/</guid>
       <description>Starting out on the U of A Access Road, and after transitioning to the Waskahegan Trail, this hike takes you to one of the few historical landmarks in the area: the Ministik Firetower. This is a &amp;ldquo;must-do&amp;rdquo; hike for someone with some Ministik hiking experience under their belt.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/008-uofa-to-fire-tower/featured-008-Gate-to-Ministik-Fire-Tower.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/hikes/008-uofa-to-fire-tower/featured-008-Gate-to-Ministik-Fire-Tower.jpg" />
     </item>
     
     <item>
       <title>UofA Access Road Gate to Stove Lake via Deadfall Alley</title>
-      <link>//localhost:1313/hikes/014-uofa-gate-stove-lake-via-deadfall-alley/</link>
+      <link>http://localhost:1313/hikes/014-uofa-gate-stove-lake-via-deadfall-alley/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/hikes/014-uofa-gate-stove-lake-via-deadfall-alley/</guid>
+      <guid>http://localhost:1313/hikes/014-uofa-gate-stove-lake-via-deadfall-alley/</guid>
       <description>This hike takes you on seldom-travelled trails, and because of that, many can be overgrown and hard to follow at times. This hike isn&amp;rsquo;t one of the longest on the site, but it ranks as one of the more strenuous because of the number of obstacles you will need to navigate.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/014-uofa-gate-stove-lake-via-deadfall-alley/featured-014-Gate-Past-Wat-Lake-Crossroads-Stove-Lake.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/hikes/014-uofa-gate-stove-lake-via-deadfall-alley/featured-014-Gate-Past-Wat-Lake-Crossroads-Stove-Lake.jpg" />
     </item>
     
     <item>
       <title>UofA Access Road Gate to Stove Lake via Ministik Fire Tower</title>
-      <link>//localhost:1313/hikes/013-uofa-gate-stove-lake-via-tower/</link>
+      <link>http://localhost:1313/hikes/013-uofa-gate-stove-lake-via-tower/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/hikes/013-uofa-gate-stove-lake-via-tower/</guid>
+      <guid>http://localhost:1313/hikes/013-uofa-gate-stove-lake-via-tower/</guid>
       <description>At almost 10 km, this &amp;ldquo;2-Car&amp;rdquo; hike will test your stamina, but the trails themselves should be easy to follow throughout. After spending the first half on the Waskahegan Trail, you transition to a former cutline that is often traversed by sleds in the winter, making it fairly easy to follow.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hikes/013-uofa-gate-stove-lake-via-tower/featured-013-UofA-Gate-to-Stove-Lake.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/hikes/013-uofa-gate-stove-lake-via-tower/featured-013-UofA-Gate-to-Stove-Lake.jpg" />
     </item>
     
   </channel>

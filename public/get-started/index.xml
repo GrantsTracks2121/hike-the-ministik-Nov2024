@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Start Here on Hike the Ministik!</title>
-    <link>//localhost:1313/get-started/</link>
+    <link>http://localhost:1313/get-started/</link>
     <description>Recent content in Start Here on Hike the Ministik!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© {{&lt; currentYear &gt;}} Hike The Ministik!</copyright>
-    <atom:link href="//localhost:1313/get-started/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/get-started/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Nature of Ministik Hiking Trails</title>
-      <link>//localhost:1313/get-started/ministik-hiking-trails/</link>
+      <link>http://localhost:1313/get-started/ministik-hiking-trails/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/get-started/ministik-hiking-trails/</guid>
+      <guid>http://localhost:1313/get-started/ministik-hiking-trails/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;What is Unique about the Ministik? 
     &lt;div id=&#34;what-is-unique-about-the-ministik&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -28,7 +28,7 @@
   &lt;div class=&#34;lg:w-1/2 lg:-mt-5 lg:float-right rounded-lg lg:ml-5&#34;&gt;
     
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md sm:mt-2 &#34; src=&#34;//localhost:1313/get-started/images/EnchantedForest.jpg&#34; alt=&#34;A section of the Waskahegan Trail through &amp;#34;The Enchanted Forest&amp;#34;&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md sm:mt-2 &#34; src=&#34;http://localhost:1313/get-started/images/EnchantedForest.jpg&#34; alt=&#34;A section of the Waskahegan Trail through &amp;#34;The Enchanted Forest&amp;#34;&#34; /&gt;
   &lt;figcaption&gt;A section of the Waskahegan Trail through &amp;ldquo;The Enchanted Forest&amp;rdquo;&lt;/figcaption&gt;
   
   &lt;/figure&gt;&lt;/div&gt;

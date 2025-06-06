@@ -9,7 +9,7 @@ diffrating: '175'
 categories:
  - "UofA Access Road Gate"
  - "Hike Length: more than 10 km"
- - "Route Type: Loop"
+ - "Route Type: 2 Car"
  - "Difficulty: Expedition"
 showHero: true
 heroStyle: "background"

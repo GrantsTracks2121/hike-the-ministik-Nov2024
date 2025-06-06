@@ -15,7 +15,7 @@ categories:
 showHero: true
 heroStyle: "background"
 showSummary: true
-summary: "This hike takes you along a former road, a rare thing in the Ministik. The going is easy, the navigation simple, which makes this a perfect choice for a starter hike. The final destination is a shelter that has seen better days, but still provides a roof and perhaps a place to rest for a while."
+summary: "This hike takes you along a former road, a rare thing in the Ministik. The going is easy, the navigation simple, which makes this a perfect choice for a starter hike. The final destination is a shelter that has seen better days, but still provides a roof and a place to rest for a while."
 ---
 <div class="flex flex-col text-surface shadow-secondary-1 dark:bg-surface-dark dark:text-white max-w-max lg:flex-row h-auto" style=margin-bottom:-100px;>
 {{< hikedetailsfigure 
@@ -57,7 +57,7 @@ summary: "This hike takes you along a former road, a rare thing in the Ministik.
 
 ## Description
 
-This hike takes you along a former road, a rare thing in the Ministik. The going is easy, the navigation simple, which makes this a perfect choice for a starter hike. The final destination is a shelter that has seen better days, but still provides a roof and perhaps a place to rest for a while.
+This hike takes you along a former road, a rare thing in the Ministik. The going is easy, the navigation simple, which makes this a perfect choice for a starter hike. The final destination is a shelter that has seen better days, but still provides a roof and a place to rest for a while.
 
 {{< routecolordetails "Click to view route leg color key">}}
 

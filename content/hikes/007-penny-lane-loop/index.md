@@ -121,7 +121,7 @@ If the suggested "Starter" hikes look a little too tame for you, this hike takes
         <td class="px-6 py-4 text-base text-gray-700" style="padding-left: 1em;">
           <ul class="tight-list">
             <li>Veer to the right to keep following the road until you reach "Farmer's Road (S)".</li>
-            <li>At this point you'll see a hay meadow off to your right and while you could try to pick up a faint trail just inside the treeline, the better bet is to simply follow the edge of the meadow, keeping the treeline to your left. Use the "Penny Lane" waypoint to provide you with a directly.</li>
+            <li>At this point you'll see a hay meadow off to your right and while you could try to pick up a faint trail just inside the treeline, the better bet is to simply follow the edge of the meadow, keeping the treeline to your left. Walk towards the "Penny Lane" waypoint, which will be around the corner to the left.</li>
             <li>Follow the narrow lane until it deposits you into a large meadow, named "Shinjuku Meadow" after the busy train station in Tokyo. Both the meadow and the train station are full of entrances and exits. 😃 </li>
             <li>Here you veer left around the corner and make your way across the meadow using "Trail meets Shinjuku Meadow" as your next waypoint.</li>
           </ul>
@@ -215,7 +215,7 @@ If the suggested "Starter" hikes look a little too tame for you, this hike takes
       <h4 class="text-base font-semibold">Description</h4>
       <ul class="text-base text-gray-700 tight-list">
             <li>Veer to the right to keep following the road until you reach "Farmer's Road (S)".</li>
-            <li>At this point you'll see a hay meadow off to your right and while you could try to pick up a faint trail just inside the treeline, the better bet is to simply follow the edge of the meadow, keeping the treeline to your left. Use the "Penny Lane" waypoint to provide you with a directly.</li>
+            <li>At this point you'll see a hay meadow off to your right and while you could try to pick up a faint trail just inside the treeline, the better bet is to simply follow the edge of the meadow, keeping the treeline to your left. Walk towards the "Penny Lane" waypoint, which will be around the corner to the left.</li>
             <li>Follow the narrow lane until it deposits you into a large meadow, named "Shinjuku Meadow" after the busy train station in Tokyo. Both the meadow and the train station are full of entrances and exits. 😃 </li>
             <li>Here you veer left around the corner and make your way across the meadow using "Trail meets Shinjuku Meadow" as your next waypoint.</li>
       </ul>

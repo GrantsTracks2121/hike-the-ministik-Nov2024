@@ -51,14 +51,13 @@ summary: "This hike has all sorts of types of terrain to navigate: it starts out
   </div>
 </div>
 
-
 <p>&nbsp;</p>
 
 ## Description
-
 This hike has all sorts of types of terrain to navigate: it starts out on a road, transitions to a fairly good trail, and ends in a meadow that you’ll need to navigate without the help of a trail. But the end goal will take you to the shoreline of a quiet lake decidedly away from civilization. 
 
 {{< routecolordetails "Click to view route leg color key">}}
+</br>
 
 <!-- TABLE: visible on md+ screens -->
 <div class="overflow-x-auto hidden lg:block not-prose">
