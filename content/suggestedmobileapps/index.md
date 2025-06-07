@@ -15,7 +15,7 @@ When choosing a map to load and display, Openstreetmap (OSM) maps are **highly r
 - have both Android and iOS versions, and
 - can be used in offline mode, that is, without a cell signal.
 
-This site has no association with the developers of any of apps listed here. Apps are listed in alphabetical order.
+This site has no affiliation with the developers of any of apps listed here. Apps are listed in alphabetical order.
 
 ## [Locus Map](https://www.locusmap.app/)
 <div class="w-full">

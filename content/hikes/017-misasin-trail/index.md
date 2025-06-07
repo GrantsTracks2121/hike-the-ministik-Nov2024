@@ -132,7 +132,7 @@ View interactive map full screen
 {{< /button >}}</p></div>
 {{< routecolordetails "Click to view route colour key">}}
 
-## {{< icon-heading "download" >}}  Download Hike Route and Description
+## {{< icon-heading "download" >}} &nbsp; Download Hike Route and Description
 ### Hike Route and Waypoints File
 The ".gpx" file contains both the hike route and important waypoints referred to in the hike description. See the <a href="{{< ref "/suggestedmobileapps" >}}" target="_blank">suggestions for mobile apps</a> and open the ".gpx" file in one of those apps on your mobile device. 
 
