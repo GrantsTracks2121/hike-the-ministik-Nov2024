@@ -58,7 +58,7 @@ summary: "Starting from the Francis Edward Williams trailhead, this hike travers
 
 Starting from the Francis Edward Williams trailhead, this hike traverses sections of the established Waskahegan Trail as well as a series of five "off-trail" hay meadows on a wide loop that takes you into the inner depths of the Ministik, eventually passing the Ministik Firetower.  
 
-{{< routecolordetails "Click to view route colour key">}}
+{{< routecolordetails "View route colour key">}}
 </br>
 <!-- TABLE: visible on md+ screens -->
 <div class="overflow-x-auto hidden lg:block not-prose">
@@ -708,7 +708,7 @@ To see all route waypoints, zoom into the map by pinching open on mobile, scroll
 {{< button href="https://umap.openstreetmap.fr/en/map/037-few-to-five-meadows-hike-fire-tower-loop_1128516#14/53.3501/-112.9957?scaleControl=true&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=false&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=false" target="_blank" >}}
 View interactive map full screen 
 {{< /button >}}</p></div>
-{{< routecolordetails "Click to view route colour key">}}
+{{< routecolordetails "View route colour key">}}
 
 ## {{< icon-heading "download" >}} &nbsp; Download Hike Route and Description
 ### Hike Route and Waypoints File

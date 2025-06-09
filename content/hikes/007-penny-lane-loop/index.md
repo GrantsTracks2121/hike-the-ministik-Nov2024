@@ -57,7 +57,7 @@ summary: "If the suggested \"Starter\" hikes look a little too tame for you, thi
 
 If the suggested "Starter" hikes look a little too tame for you, this hike takes you one step further by guiding you off-road, along the Waskahegan Trail, and then looping back through a hay field on your return to a road.  
 
-{{< routecolordetails "Click to view route colour key">}}
+{{< routecolordetails "View route colour key">}}
 </br>
 <!-- TABLE: visible on md+ screens -->
 <div class="overflow-x-auto hidden lg:block not-prose">
@@ -261,7 +261,7 @@ To see all route waypoints, zoom into the map by pinching open on mobile, scroll
 {{< button href="https://umap.openstreetmap.fr/en/map/007-penny-lane-loop_1128517#15/53.3598/-112.9766?scaleControl=true&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=false&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=false" target="_blank" >}}
 View interactive map full screen 
 {{< /button >}}</p></div>
-{{< routecolordetails "Click to view route colour key">}}
+{{< routecolordetails "View route colour key">}}
 
 ## {{< icon-heading "download" >}} &nbsp; Download Hike Route and Description
 ### Hike Route and Waypoints File

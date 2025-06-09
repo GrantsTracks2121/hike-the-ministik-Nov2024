@@ -68,7 +68,7 @@ There are sections of this hike where scratchy bushes beside the trail grow over
 
 
 
-{{< routecolordetails "Click to view route colour key">}}
+{{< routecolordetails "View route colour key">}}
 </br>
 <!-- TABLE: visible on md+ screens -->
 <div class="overflow-x-auto hidden lg:block not-prose">
@@ -131,7 +131,7 @@ To see all route waypoints, zoom into the map by pinching open on mobile, scroll
 View interactive map full screen 
 {{< /button >}}</p></div>
 
-{{< routecolordetails "Click to view route colour key">}}
+{{< routecolordetails "View route colour key">}}
 
 ## {{< icon-heading "download" >}} &nbsp; Download Hike Route and Description
 ### Hike Route and Waypoints File

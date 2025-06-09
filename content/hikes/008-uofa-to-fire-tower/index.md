@@ -57,7 +57,7 @@ summary: "Starting out on the U of A Access Road, and after transitioning to the
 
 Starting out on the U of A Access Road, and after transitioning to the Waskahegan Trail, this hike takes you to one of the few historical landmarks in the area: the Ministik Firetower. This is a "must-do" hike for someone with some Ministik hiking experience under their belt. 
 
-{{< routecolordetails "Click to view route colour key">}}
+{{< routecolordetails "View route colour key">}}
 </br>
 <!-- TABLE: visible on md+ screens -->
 <div class="overflow-x-auto hidden lg:block not-prose">
@@ -213,7 +213,7 @@ To see all route waypoints, zoom into the map by pinching open on mobile, scroll
 {{< button href="https://umap.openstreetmap.fr/en/map/008-gate-to-fire-tower_1128520#14/53.3539/-112.9784?scaleControl=true&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=false&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=false" target="_blank" >}}
 View interactive map full screen 
 {{< /button >}}</p></div>
-{{< routecolordetails "Click to view route colour key">}}
+{{< routecolordetails "View route colour key">}}
 
 ## {{< icon-heading "download" >}} &nbsp; Download Hike Route and Description
 ### Hike Route and Waypoints File

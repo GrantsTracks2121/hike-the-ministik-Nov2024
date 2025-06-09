@@ -56,7 +56,7 @@ summary: "This route offers an \"alternative\" starting point for one of the \"m
 
 This route offers an "alternative" starting point for one of the "must-do" Ministik hikes: a trek to the Ministik Firetower. The route is more "direct," but it is decidedly "rustic," taking you through long stretches of hay fields until you reach the Waskahegan Trail leading to the tower. 
 
-{{< routecolordetails "Click to view route colour key">}}
+{{< routecolordetails "View route colour key">}}
 </br>
 <!-- TABLE: visible on md+ screens -->
 <div class="overflow-x-auto hidden lg:block not-prose">
@@ -273,7 +273,7 @@ To see all route waypoints, zoom into the map by pinching open on mobile, scroll
 {{< button href="https://umap.openstreetmap.fr/en/map/002-few-to-waskahegan-fire-tower_1128467#14/53.3546/-113.0124?scaleControl=true&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=false&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=false" target="_blank" >}}
 View interactive map full screen 
 {{< /button >}}</p></div>
-{{< routecolordetails "Click to view route colour key">}}
+{{< routecolordetails "View route colour key">}}
 
 ## {{< icon-heading "download" >}} &nbsp; Download Hike Route and Description
 ### Hike Route and Waypoints File

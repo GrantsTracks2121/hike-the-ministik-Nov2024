@@ -59,7 +59,7 @@ summary: "This hike takes you along a former road, a rare thing in the Ministik.
 
 This hike takes you along a former road, a rare thing in the Ministik. The going is easy, the navigation simple, which makes this a perfect choice for a starter hike. The final destination is a shelter that has seen better days, but still provides a roof and a place to rest for a while.
 
-{{< routecolordetails "Click to view route colour key">}}
+{{< routecolordetails "View route colour key">}}
 </br>
 <!-- TABLE: visible on md+ screens -->
 <div class="overflow-x-auto hidden lg:block not-prose">
@@ -128,7 +128,7 @@ To see all route waypoints, zoom into the map by pinching open on mobile, scroll
 {{< button href="https://umap.openstreetmap.fr/en/map/027-mandy-lake-road-to-old-shelter_1128651#16/53.3052/-112.9923?scaleControl=true&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=false&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=false" target="_blank" >}}
 View interactive map full screen 
 {{< /button >}}</p></div>
-{{< routecolordetails "Click to view route colour key">}}
+{{< routecolordetails "View route colour key">}}
 
 ## {{< icon-heading "download" >}} &nbsp; Download Hike Route and Description
 ### Hike Route and Waypoints File

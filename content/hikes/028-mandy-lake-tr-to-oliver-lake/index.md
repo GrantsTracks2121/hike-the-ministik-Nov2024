@@ -56,7 +56,7 @@ summary: "This hike has all sorts of types of terrain to navigate: it starts out
 ## Description
 This hike has all sorts of types of terrain to navigate: it starts out on a road, transitions to a fairly good trail, and ends in a meadow that you’ll need to navigate without the help of a trail. But the end goal will take you to the shoreline of a quiet lake decidedly away from civilization. 
 
-{{< routecolordetails "Click to view route colour key">}}
+{{< routecolordetails "View route colour key">}}
 </br>
 
 <!-- TABLE: visible on md+ screens -->
@@ -177,7 +177,7 @@ To see all route waypoints, zoom into the map by pinching open on mobile, scroll
 {{< button href="https://umap.openstreetmap.fr/en/map/028-mandy-lake-pk-to-oliver-lake-east_1128675#15/53.3001/-112.9992?scaleControl=true&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=false&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=false" target="_blank" >}}
 View interactive map full screen 
 {{< /button >}}</p></div>
-{{< routecolordetails "Click to view route colour key">}}
+{{< routecolordetails "View route colour key">}}
 
 ## {{< icon-heading "download" >}} &nbsp; Download Hike Route and Description
 ### Hike Route and Waypoints File

@@ -60,7 +60,7 @@ summary: "The majority of this hike is along the U of A Field Station Access Roa
 
 The majority of this hike is along the U of A Field Station Access Road, but instead of remaining on the road the entire time, it takes you on a short section of the Waskahegan Trail, loops through a small forested area, and returns to the road. This is a nice introduction to the quiet, understated beauty of this area.  
 
-{{< routecolordetails "Click to view route colour key">}}
+{{< routecolordetails "View route colour key">}}
 </br>
 <!-- TABLE: visible on md+ screens -->
 <div class="overflow-x-auto hidden lg:block not-prose">
@@ -205,7 +205,7 @@ To see all route waypoints, zoom into the map by pinching open on mobile, scroll
 {{< button href="https://umap.openstreetmap.fr/en/map/006-enchanted-forest-loop_1128515#15/53.3614/-112.9726?scaleControl=true&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=false&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=false" target="_blank" >}}
 View interactive map full screen 
 {{< /button >}}</p></div>
-{{< routecolordetails "Click to view route colour key">}}
+{{< routecolordetails "View route colour key">}}
 
 
 ## {{< icon-heading "download" >}} &nbsp; Download Hike Route and Description

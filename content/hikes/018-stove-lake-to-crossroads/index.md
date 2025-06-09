@@ -58,7 +58,7 @@ summary: "While this hike isn't listed among the \"Starter Hikes\" on the site, 
 
 While this hike isn't listed among the "Starter Hikes" on the site, it is the next best thing. Rather than roads, there is a trail to follow, but the trail is always clear and easy to navigate. It's a nice little jaunt to an intersection of trails in what will feel like the middle of nowhere.  
 
-{{< routecolordetails "Click to view route colour key">}}
+{{< routecolordetails "View route colour key">}}
 </br>
 <!-- TABLE: visible on md+ screens -->
 <div class="overflow-x-auto hidden lg:block not-prose">
@@ -127,7 +127,7 @@ To see all route waypoints, zoom into the map by pinching open on mobile, scroll
 {{< button href="https://umap.openstreetmap.fr/en/map/018-stove-lake-to-crossroads_1128533#15/53.3364/-112.9423?scaleControl=true&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=false&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=false" target="_blank" >}}
 View interactive map full screen 
 {{< /button >}}</p></div>
-{{< routecolordetails "Click to view route colour key">}}
+{{< routecolordetails "View route colour key">}}
 
 ## {{< icon-heading "download" >}} &nbsp; Download Hike Route and Description
 ### Hike Route and Waypoints File
