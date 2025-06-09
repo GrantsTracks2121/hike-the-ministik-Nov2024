@@ -58,11 +58,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/hikes/005-stick-to-the-road/downloads/stick-to-the-field-station-road/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/about-the-ministik/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
