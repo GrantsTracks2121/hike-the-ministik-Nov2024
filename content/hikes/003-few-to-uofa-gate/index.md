@@ -32,7 +32,7 @@ summary: "This \"2-Car\" hike is a perfect \"mid-level\" option for those who ha
         </tr>
         <tr>
           <td valign="top" width="40%" class="my-4 text-base">&nbsp;</td>
-          <td valign="top" style="padding-left: 10px;" class="my-4 text-base"><a href="/trailheads/uofa-road/" target="_blank">UofA Access Road Gate</a></td>
+          <td valign="top" style="padding-left: 10px;" class="my-4 text-base"><a href="/trailheads/uofaroad/" target="_blank">UofA Access Road Gate</a></td>
         </tr>
         <tr>
           <td valign="top" width="40%" class="my-4 text-base">Hike Length:</td>

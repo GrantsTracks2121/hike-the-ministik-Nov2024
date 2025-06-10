@@ -28,7 +28,7 @@ summary: "This \"2-Car\" hike is an epic expedition that will take you through t
       <tbody>
         <tr>
           <td valign="top" width="40%" class="my-4 text-base">Trailheads:</td>
-          <td valign="top" style="padding-left: 10px;" class="my-4 text-base"><a href="/trailheads/uofa-road/" target="_blank">UofA Access Road Gate</a></td>
+          <td valign="top" style="padding-left: 10px;" class="my-4 text-base"><a href="/trailheads/uofaroad/" target="_blank">UofA Access Road Gate</a></td>
         </tr>
         <tr>
           <td valign="top" width="40%" class="my-4 text-base">&nbsp;</td>

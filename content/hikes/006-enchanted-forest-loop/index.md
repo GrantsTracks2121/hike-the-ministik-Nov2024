@@ -30,7 +30,7 @@ summary: "The majority of this hike is along the U of A Field Station Access Roa
       <tbody>
         <tr>
           <td valign="top" width="40%" class="my-4 text-base">Trailhead:</td>
-          <td valign="top" style="padding-left: 10px;" class="my-4 text-base"><a href="/trailheads/uofa-road/" target="_blank">UofA Access Road Gate</a></td>
+          <td valign="top" style="padding-left: 10px;" class="my-4 text-base"><a href="/trailheads/uofaroad/" target="_blank">UofA Access Road Gate</a></td>
         </tr>
         <tr>
           <td valign="top" width="40%" class="my-4 text-base">Hike Length:</td>

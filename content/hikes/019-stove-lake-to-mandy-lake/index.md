@@ -28,7 +28,7 @@ summary: "This hike takes you through the heart of the Ministik, on all kinds of
       <tbody>
         <tr>
           <td valign="top" width="40%" class="my-4 text-base">Trailheads:</td>
-          <td valign="top" style="padding-left: 10px;" class="my-4 text-base"><a href="/trailheads/stove-lake/" target="_blank">Stove Lake Trailhead</a></td>
+          <td valign="top" style="padding-left: 10px;" class="my-4 text-base"><a href="/trailheads/stove-lake-trailhead/" target="_blank">Stove Lake Trailhead</a></td>
         </tr>
         <tr>
           <td valign="top" width="40%" class="my-4 text-base">&nbsp;</td>

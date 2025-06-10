@@ -28,11 +28,11 @@ summary: "This hike rates as \"Expedition\" for a reason: it's just about 13 km 
       <tbody>
         <tr>
           <td valign="top" width="40%" class="my-4 text-base">Trailheads:</td>
-          <td valign="top" style="padding-left: 10px;" class="my-4 text-base"><a href="/trailheads/stove-lake/" target="_blank">Stove Lake Trailhead</a></td>
+          <td valign="top" style="padding-left: 10px;" class="my-4 text-base"><a href="/trailheads/stove-lake-trailhead/" target="_blank">Stove Lake Trailhead</a></td>
         </tr>
         <tr>
           <td valign="top" width="40%" class="my-4 text-base">&nbsp;</td>
-          <td valign="top" style="padding-left: 10px;" class="my-4 text-base"><a href="/trailheads/fairbrother-corner/" target="_blank">Fairbrother Corner Trailhead</a></td>
+          <td valign="top" style="padding-left: 10px;" class="my-4 text-base"><a href="/trailheads/fairbrother-corner" target="_blank">Fairbrother Corner Trailhead</a></td>
         </tr>
         <tr>
           <td valign="top" width="40%" class="my-4 text-base">Hike Length:</td>
