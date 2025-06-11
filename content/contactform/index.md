@@ -22,7 +22,7 @@ heroStyle: "background"
 <section class="bg-white dark:bg-gray-900">
   <div class="px-4 mx-auto max-w-screen-md">
       <p class="mb-8 lg:mb-8 font-light text-center text-gray-500 dark:text-gray-400 sm:text-xl">Do you have a suggestion? Did find find something you think needs to be changed? Please fill in all the details below.</p>
-     <form id="contact-form" action="#" class="space-y-8" netlify onsubmit="onSubmit(event)">
+     <form id="HikeTheMinistik-contact-form" name="HikeTheMinistik Contact Form" action="#" class="space-y-8" netlify onsubmit="onSubmit(event)">
           <div>
               <label for="email" class="block mb-2 text-sm font-medium text-gray-900 dark:text-gray-300">Your email</label>
               <input type="email" id="email" class="prose shadow-sm bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-primary-500 focus:border-primary-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-primary-500 dark:focus:border-primary-500 dark:shadow-sm-light" placeholder="name@mailhost.com" required>
