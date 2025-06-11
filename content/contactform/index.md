@@ -5,6 +5,7 @@ summary: "Contact Hike The Ministik!"
 showHero: true
 heroStyle: "background"
 ---
+booga
 <script src="https://www.google.com/recaptcha/api.js?render=6LfhI10rAAAAAPjMj_r7RycX5lBBzy3n08XckxJI"></script>
 <script>
   function onSubmit(event) {
