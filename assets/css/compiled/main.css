@@ -5217,8 +5217,8 @@ pre {
     display:none
   }
 
-  .md\:h-20 {
-    height:5rem
+  .md\:h-24 {
+    height:6rem
   }
 
   .md\:h-56 {
@@ -5233,8 +5233,8 @@ pre {
     width:33.333333%
   }
 
-  .md\:w-20 {
-    width:5rem
+  .md\:w-24 {
+    width:6rem
   }
 
   .md\:w-auto {
@@ -5400,8 +5400,8 @@ pre {
     display:none
   }
 
-  .lg\:h-20 {
-    height:5rem
+  .lg\:h-24 {
+    height:6rem
   }
 
   .lg\:h-72 {
@@ -5420,8 +5420,8 @@ pre {
     width:25%
   }
 
-  .lg\:w-20 {
-    width:5rem
+  .lg\:w-24 {
+    width:6rem
   }
 
   .lg\:w-auto {
