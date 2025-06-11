@@ -5217,8 +5217,8 @@ pre {
     display:none
   }
 
-  .md\:h-16 {
-    height:4rem
+  .md\:h-20 {
+    height:5rem
   }
 
   .md\:h-56 {
@@ -5233,8 +5233,8 @@ pre {
     width:33.333333%
   }
 
-  .md\:w-16 {
-    width:4rem
+  .md\:w-20 {
+    width:5rem
   }
 
   .md\:w-auto {
@@ -5294,9 +5294,9 @@ pre {
     padding-bottom:0.125rem
   }
 
-  .md\:text-4xl {
-    font-size:2.25rem;
-    line-height:2.5rem
+  .md\:text-5xl {
+    font-size:3rem;
+    line-height:1
   }
 
   .md\:text-lg {
