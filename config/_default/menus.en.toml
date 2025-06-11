@@ -10,7 +10,7 @@
 # overridden by providing a weight value. The menu will then be
 # ordered by weight from lowest to highest.
 
- [[main]]
+[[main]]
    name = "Start Here"
    pageRef = "get-started"
    weight = 10
@@ -21,21 +21,33 @@
 #   weight = 20
 
 [[main]]
+  name = "Browse Hikes"
+  weight = 20
+
+[[main]]
   name = "By Trailhead"
   parent = "Browse Hikes"
   pageRef = "trailheads"
-  weight = 30
+  weight = 10
 
 [[main]]
   name = "By Hike Length"
   parent = "Browse Hikes"
   pageRef = "hikes-by-length"
-  weight = 40
+  weight = 20
+
+[[main]]
+  name = "Contact"
+  pageRef = "contactform"
+  weight = 999
+
 
 #[[subnavigation]]
 #  name = "An interesting topic"
 #  pageRef = "tags/interesting-topic"
 #  weight = 10
+
+
 
 #[[subnavigation]]
 #  name = "My Awesome Category"
