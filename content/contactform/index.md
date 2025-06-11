@@ -14,7 +14,7 @@ heroStyle: "background"
         // Add the token to a hidden input field in your form
         document.getElementById('g-recaptcha-response').value = token;
         // Now submit your form
-        document.getElementById("contact-form").submit(); // Give your form an ID
+        document.getElementById("HikeTheMinistik-contact-form").submit(); // Give your form an ID
       });
     });
   }
