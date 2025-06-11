@@ -1809,10 +1809,6 @@ select {
   height:50%
 }
 
-.h-10 {
-  height:2.5rem
-}
-
 .h-12 {
   height:3rem
 }
@@ -1903,10 +1899,6 @@ select {
 
 .\!w-px {
   width:1px !important
-}
-
-.w-10 {
-  width:2.5rem
 }
 
 .w-12 {
@@ -5102,16 +5094,16 @@ pre {
     margin-top:1.5rem
   }
 
-  .sm\:h-12 {
-    height:3rem
+  .sm\:h-14 {
+    height:3.5rem
   }
 
   .sm\:w-1\/2 {
     width:50%
   }
 
-  .sm\:w-12 {
-    width:3rem
+  .sm\:w-14 {
+    width:3.5rem
   }
 
   .sm\:w-full {
