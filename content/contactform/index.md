@@ -12,19 +12,35 @@ heroStyle: "background"
   method="POST"
   data-netlify-recaptcha="true"
   data-netlify="true"
-  netlify
 >
   <p>
     <label>
-      Email: <input type="text" name="name" />
+      Email: <input type="text" id="name" name="name" />
     </label>
   </p>
   <p>
     <label>
-      Message: <textarea name="message"></textarea>
+      Message: <textarea id="message" name="message"></textarea>
     </label>
   </p>
   <div data-netlify-recaptcha="true"></div>
+  <p>
+    <button type="submit">Send</button>
+  </p>
+</form>
+
+<form name="contact-test-form" method="POST" data-netlify="true">
+  <input type="hidden" name="subject" 
+  value="Sales inquiry from mysitename.netlify.app" />
+  <p>
+    <label>Your Name: <input type="text" name="name" /></label>
+  </p>
+  <p>
+    <label>Your Email: <input type="email" name="email" /></label>
+  </p>
+  <p>
+    <label>Message: <textarea name="message"></textarea></label>
+  </p>
   <p>
     <button type="submit">Send</button>
   </p>
