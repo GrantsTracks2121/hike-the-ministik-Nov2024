@@ -28,8 +28,8 @@
   
   
   
-  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.6f9deaadccdba1e7ed9315b8e07bd7cff92151e343e66030cef1c1ddd76bd9f6257eae5387022bd1a91b7f8f42a20c14bcf5f35a18fd4735301bcde65f99d4a7.css"
-    integrity="sha512-b53qrczboeftkxW44HvXz/khUeND5mAwzvHB3ddr2fYlfq5ThwIr0akbf49CogwUvPXzWhj9RzUwG83mX5nUpw==" />
+  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.186db7da98bc29ae2bd4ec7847f4c3f092b25109d00ff2de9ce97b8d9be93ebac81694495e111c888d0e5e512c3bcc757d99a8b6585f3c2a625a6b9696edcb2d.css"
+    integrity="sha512-GG232pi8Ka4r1Ox4R/TD8JKyUQnQD/LenOl7jZvpPrrIFpRJXhEciI0OXlEsO8x1fZmotlhfPCpiWmuWlu3LLQ==" />
   
   
   <script type="text/javascript" src="/js/appearance.min.38bd7382e99a1f022051c124356401aa95039c046581db6c79c71fe60e0ced2d839c56e55f4773181919c5e138b0f014104f3fa48a38c9af0f746f31e952dfa0.js"
@@ -144,13 +144,14 @@
     <a href="/" class="flex">
         <span class="sr-only">Hike the Ministik!</span>
 
-        <img src="/img/mhg-logo-outlines-white-200.png"
-            class="logo object-scale-down object-left nozoom
-                   w-16 h-16         /* Default size for mobile (e.g., 64px) */
-                   sm:w-20 sm:h-20   /* Slightly larger for small screens (e.g., 80px) */
-                   md:w-24 md:h-24   /* Larger for medium screens */
-                   lg:w-24 lg:h-24"  /* Even larger for large screens */
-            alt="Hike the Ministik!" />
+        <img src="/img/mhg-logo-outlines-white-200.png" alt="Hike the Ministik!"
+            class="logo object-scale-down object-left nozoom flex-shrink-0
+            w-10 h-10             /* Default size for mobile (e.g., 40px */
+            sm:w-12 sm:h-12       /* Slightly larger for small screens (e.g., 48px) */
+            md:w-16 md:h-16       /* Larger for medium screens (e.g., 64px) */
+            lg:w-20 lg:h-20       /* Even larger for large screens (e.g., 80px) */
+            mr-2 sm:mr-3 md:mr-4  /* Add some right margin, scaled with the size */
+           "/>
 
     </a>
 </div>
@@ -162,7 +163,15 @@
         <nav class="flex space-x-3">
 
             
-            <a href="/" class="text-gray-500 hover:text-gray-900 RockSalted text-2xl md:text-5xl">Hike the Ministik!</a>
+            <a href="/" 
+            class="text-gray-500 hover:text-gray-900 RockSalted
+             text-2xl              /* Mobile: ~24px */
+             sm:text-3xl           /* Small: ~30px (adjusted to align better with logo scale) */
+             md:text-4xl           /* Medium: ~36px */
+             lg:text-5xl           /* Large: ~48px */
+            ">
+
+            Hike the Ministik!</a>
             
 
         </nav>

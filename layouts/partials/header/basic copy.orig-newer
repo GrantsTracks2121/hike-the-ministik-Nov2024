@@ -9,14 +9,13 @@
     <a href="{{ "" | relLangURL }}" class="flex">
         <span class="sr-only">{{ .Site.Title | markdownify }}</span>
 
-        <img src="{{ $logo.RelPermalink }}" alt="{{ .Site.Title }}"
-            class="logo object-scale-down object-left nozoom flex-shrink-0
-            w-10 h-10             /* Default size for mobile (e.g., 40px */
-            sm:w-12 sm:h-12       /* Slightly larger for small screens (e.g., 48px) */
-            md:w-16 md:h-16       /* Larger for medium screens (e.g., 64px) */
-            lg:w-20 lg:h-20       /* Even larger for large screens (e.g., 80px) */
-            mr-2 sm:mr-3 md:mr-4  /* Add some right margin, scaled with the size */
-           "/>
+        <img src="{{ $logo.RelPermalink }}"
+            class="logo object-scale-down object-left nozoom
+                   w-16 h-16         /* Default size for mobile (e.g., 64px) */
+                   sm:w-20 sm:h-20   /* Slightly larger for small screens (e.g., 80px) */
+                   md:w-24 md:h-24   /* Larger for medium screens */
+                   lg:w-24 lg:h-24"  /* Even larger for large screens */
+            alt="{{ .Site.Title }}" />
 
     </a>
 </div>
@@ -43,15 +42,9 @@
         <nav class="flex space-x-3">
 
             {{ if not .Site.Params.disableTextInHeader | default true }}
-            <a href="{{ "" | relLangURL }}" 
-            class="text-gray-500 hover:text-gray-900 RockSalted
-             text-2xl              /* Mobile: ~24px */
-             sm:text-3xl           /* Small: ~30px (adjusted to align better with logo scale) */
-             md:text-4xl           /* Medium: ~36px */
-             lg:text-5xl           /* Large: ~48px */
-            ">
-
-            {{ .Site.Title | markdownify }}</a>
+            <a href="{{ "" | relLangURL }}" class="text-gray-500 hover:text-gray-900 RockSalted text-2xl md:text-4xl lg:text-5xl">{{
+                .Site.Title | markdownify
+                }}</a>
             {{ end }}
 
         </nav>

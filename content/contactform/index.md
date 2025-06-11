@@ -2,6 +2,8 @@
 title: "Contact Hike The Ministik!"
 draft: false
 summary: "Contact Hike The Ministik!"
+showHero: true
+heroStyle: "background"
 ---
 
 <form name="contact" netlify>
