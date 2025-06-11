@@ -63,6 +63,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/contactform/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/hikes/009-five-meadows-loop/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
