@@ -30,8 +30,8 @@
   
   
   
-  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.6f9deaadccdba1e7ed9315b8e07bd7cff92151e343e66030cef1c1ddd76bd9f6257eae5387022bd1a91b7f8f42a20c14bcf5f35a18fd4735301bcde65f99d4a7.css"
-    integrity="sha512-b53qrczboeftkxW44HvXz/khUeND5mAwzvHB3ddr2fYlfq5ThwIr0akbf49CogwUvPXzWhj9RzUwG83mX5nUpw==" />
+  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.6d41ae10d82139b6ecc32207be56b2bb370d4587d8d962b24fc138bf36c96a6e1d7e48f3e9b61cacb52ecb335208c38149949b6e639a64c64d7429f4a165fc6b.css"
+    integrity="sha512-bUGuENghObbswyIHvlayuzcNRYfY2WKyT8E4vzbJam4dfkjz6bYcrLUuyzNSCMOBSZSbbmOaZMZNdCn0oWX8aw==" />
   
   
   <script type="text/javascript" src="/js/appearance.min.38bd7382e99a1f022051c124356401aa95039c046581db6c79c71fe60e0ced2d839c56e55f4773181919c5e138b0f014104f3fa48a38c9af0f746f31e952dfa0.js"
@@ -150,13 +150,14 @@ This list doesn’t yet include all Ministik trailheads. Future additions are pl
     <a href="/" class="flex">
         <span class="sr-only">Hike the Ministik!</span>
 
-        <img src="/img/mhg-logo-outlines-white-200.png"
-            class="logo object-scale-down object-left nozoom
-                   w-16 h-16         /* Default size for mobile (e.g., 64px) */
-                   sm:w-20 sm:h-20   /* Slightly larger for small screens (e.g., 80px) */
-                   md:w-24 md:h-24   /* Larger for medium screens */
-                   lg:w-24 lg:h-24"  /* Even larger for large screens */
-            alt="Hike the Ministik!" />
+        <img src="/img/mhg-logo-outlines-white-200.png" alt="Hike the Ministik!"
+            class="logo object-scale-down object-left nozoom flex-shrink-0
+            w-12 h-12             /* Default size for mobile (e.g., 40px */
+            sm:w-16 sm:h-16       /* Slightly larger for small screens (e.g., 48px) */
+            md:w-24 md:h-24       /* Larger for medium screens (e.g., 64px) */
+            lg:w-24 lg:h-24       /* Even larger for large screens (e.g., 80px) */
+            mr-2 sm:mr-3 md:mr-4  /* Add some right margin, scaled with the size */
+           "/>
 
     </a>
 </div>
@@ -168,7 +169,15 @@ This list doesn’t yet include all Ministik trailheads. Future additions are pl
         <nav class="flex space-x-3">
 
             
-            <a href="/" class="text-gray-500 hover:text-gray-900 RockSalted text-2xl md:text-5xl">Hike the Ministik!</a>
+            <a href="/" 
+            class="text-gray-500 hover:text-gray-900 RockSalted
+             text-2xl              /* Mobile: ~24px */
+             sm:text-4xl           /* Small: ~30px */
+             md:text-5xl           /* Medium: ~36px */
+             lg:text-5xl           /* Large: ~48px */
+            ">
+
+            Hike the Ministik!</a>
             
 
         </nav>
