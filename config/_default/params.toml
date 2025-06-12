@@ -156,11 +156,11 @@ highlightCurrentMenuArea = true
   # domain = "llama.yoursite.com"
 
 [buymeacoffee]
-  # identifier = "hiketheministik"
-  # globalWidget = true
+  identifier = "hiketheministik"
+  globalWidget = true
   # globalWidgetMessage = "Hello"
-  # globalWidgetColor = "#45B185"
-  # globalWidgetPosition = "Right"
+  globalWidgetColor = "#45B185"
+  globalWidgetPosition = "Right"
 
 [verification]
   # google = ""
