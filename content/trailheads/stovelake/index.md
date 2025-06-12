@@ -12,7 +12,7 @@ heroStyle: "background"
 summary: "The Stove Lake Trailhead, named after a now completely dried up lake nearby, has best parking space among Ministik trailheads. Situated on a sharp curve the wide, sloped ditch between the road and the trailhead gate allows room for multiple vehicles. Even in winter there’s room along the road itself to park multiple vehicles safely."
 ---
 <div class="flex flex-col text-surface shadow-secondary-1 dark:bg-surface-dark dark:text-white max-w-max lg:flex-row h-auto sm:pb-10">
-<div class="w-full lg:w-1/2" style="margin-bottom: 20px;">
+<div class="w-full lg:w-1/2" style="margin-bottom: 20px;margin-top: -25px;">
 
 ![Stove Lake Trailhead](featured-stoveLake.jpg "Stove Lake Trailhead")
 

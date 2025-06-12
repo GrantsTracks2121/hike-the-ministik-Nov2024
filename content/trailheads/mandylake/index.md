@@ -13,7 +13,7 @@ summary: "The Mandy Lake Road trailhead is well-used in all seasons. Although it
 ---
 
 <div class="flex flex-col text-surface shadow-secondary-1 dark:bg-surface-dark dark:text-white max-w-max lg:flex-row h-auto">
-<div class="w-full lg:w-1/2">
+<div class="w-full lg:w-1/2" style="margin-bottom: 20px;margin-top: -25px;">
 
 ![Mandy Lake Road Trailhead](featured-mandy-lake-road.jpg "Mandy Lake Road Trailhead")
 

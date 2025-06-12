@@ -12,7 +12,7 @@ heroStyle: "background"
 summary: "Named for a former nearby land owner, Fairbrother corner provides you with immediate access to the Waskahegan Trail. When you walk past the gate the Waskahegan extends both directly east and directly south. There is ample parking here because there is no ditch to speak of and ample space between the road and the treeline. This means you can easily safely park multiple vehicles off the road.?"
 ---
 <div class="flex flex-col text-surface shadow-secondary-1 dark:bg-surface-dark dark:text-white max-w-max lg:flex-row h-auto sm:pb-10">
-<div class="w-full lg:w-1/2" style="margin-bottom: 20px;">
+<div class="w-full lg:w-1/2" style="margin-bottom: 20px;margin-top: -25px;">
 
 ![Fairbrother Corner Trailhead](featured-fairbrotherCorner.jpg "Fairbrother Corner Trailhead")
 

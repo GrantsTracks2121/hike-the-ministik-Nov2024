@@ -13,7 +13,7 @@ summary: "This trailhead offers somewhat meager parking: one good-sized car can 
 ---
 
 <div class="flex flex-col text-surface shadow-secondary-1 dark:bg-surface-dark dark:text-white max-w-max lg:flex-row h-auto">
-<div class="w-full lg:w-1/2" style="margin-bottom: 20px;">
+<div class="w-full lg:w-1/2" style="margin-bottom: 20px;margin-top: -25px;">
 
 ![Francis Edward Williams Trailhead](featured-few.jpg "Francis Edward Williams Trailhead")
 
