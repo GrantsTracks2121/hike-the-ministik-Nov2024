@@ -15,3 +15,8 @@
 
 [context.deploy-preview.environment]
   HUGO_VERSION = "0.127.0"
+  
+[[redirects]]
+	from = "/*"
+	to = "/404/"
+	status = 404
