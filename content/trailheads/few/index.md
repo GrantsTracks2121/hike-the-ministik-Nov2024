@@ -26,7 +26,7 @@ summary: "This trailhead offers somewhat meager parking: one good-sized car can 
           <td valign="top" width="100%" class="mb-2 text-base" colspan="2"><b>🧭 GPS Location</b></td>
         </tr>
         <tr>
-          <td valign="top" colspan="2" class="my-4 text-base"><a href="https://maps.app.goo.gl/rT9MCK823RFvHCgt8" target="_blank">N53 22.011 W113 00.100</a>(Opens in Google Maps)</br>
+          <td valign="top" colspan="2" class="my-4 text-base"><a href="https://maps.app.goo.gl/rT9MCK823RFvHCgt8" target="_blank">N53 22.011 W113 00.100</a> (Opens in Google Maps)</br>
           <p><a href="geo:53.366850,-113.001667">53.366850,-113.001667</a> (Opens in your default map app)</p>
           <p><a href="smartphone.eloquently.warrant://show?threewords=smartphone.eloquently.warrant">///smartphone.eloquently.warrant</a> (Opens in what3words - mobile only)</p>
           </td>

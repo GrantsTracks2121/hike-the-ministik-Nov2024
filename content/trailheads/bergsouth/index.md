@@ -26,7 +26,7 @@ summary: "The Waskahegan Berg Section - South Trailhead is bit different from ot
           <td valign="top" width="100%" class="mb-2 text-base" colspan="2"><b>🧭 GPS Location</b></td>
         </tr>
         <tr>
-          <td valign="top" colspan="2" class="my-4 text-base"><b>Trailhead:</b></br> <a href="https://maps.app.goo.gl/U5CtkTNvsuVEa32s9" target="_blank">N53 22.026 W112 57.994</a>(Opens in Google Maps)</br>
+          <td valign="top" colspan="2" class="my-4 text-base"><b>Trailhead:</b></br> <a href="https://maps.app.goo.gl/U5CtkTNvsuVEa32s9" target="_blank">N53 22.026 W112 57.994</a> (Opens in Google Maps)</br>
           <p><a href="geo:53.367100,-112.966567">53.367100,-112.966567</a> (Opens in your default map app)</p>
           <p><a href="w3w://show?threewords=daisies.lenders.reversible">///daisies.lenders.reversible</a> (Opens in what3words - mobile only)</p>
           </td>

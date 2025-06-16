@@ -25,7 +25,7 @@ summary: "It’s fair to say that the U of A Access Road Gate is the “front do
           <td valign="top" width="100%" class="mb-2 text-base" colspan="2"><b>🧭 GPS Location</b></td>
         </tr>
         <tr>
-          <td valign="top" colspan="2" class="my-4 text-base"><a href="https://maps.app.goo.gl/p6NFvhybbCuPJVet9" target="_blank">N53 22.014 W112 57.904</a>(Opens in Google Maps)</br>
+          <td valign="top" colspan="2" class="my-4 text-base"><a href="https://maps.app.goo.gl/p6NFvhybbCuPJVet9" target="_blank">N53 22.014 W112 57.904</a> (Opens in Google Maps)</br>
          <p><a href="geo:53.366900,-112.965067">53.366900,-112.965067</a> (Opens in your default map app)</p>
          <p><a href="liberally.bouts.unworn://show?threewords=liberally.bouts.unworn">///liberally.bouts.unworn</a> (Opens in what3words - mobile only)</p>
           </td>

@@ -25,7 +25,7 @@ summary: "The Stove Lake Trailhead, named after a now completely dried up lake n
           <td valign="top" width="100%" class="mb-2 text-base" colspan="2"><b>🧭 GPS Location</b></td>
         </tr>
         <tr>
-          <td valign="top" colspan="2" class="my-4 text-base"><a href="https://maps.app.goo.gl/aWebodVdiCCcVfgQ7" target="_blank">N53 20.188 W112 55.673</a>(Opens in Google Maps)</br>
+          <td valign="top" colspan="2" class="my-4 text-base"><a href="https://maps.app.goo.gl/aWebodVdiCCcVfgQ7" target="_blank">N53 20.188 W112 55.673</a> (Opens in Google Maps)</br>
           <p><a href="geo:53.336467,-112.927883">53.336467,-112.927883</a> (Opens in your default map app)</p>
           <p><a href="pyramid.anchor.grills://show?threewords=pyramid.anchor.grills">///pyramid.anchor.grills</a> (Opens in what3words - mobile only)</p>
           </td>

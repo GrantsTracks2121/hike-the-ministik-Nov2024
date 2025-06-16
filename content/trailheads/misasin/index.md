@@ -25,7 +25,7 @@ summary: "Like the trail, this trailhead seems seldom used, but because it is si
           <td valign="top" width="100%" class="mb-2 text-base" colspan="2"><b>🧭 GPS Location</b></td>
         </tr>
         <tr>
-          <td valign="top" colspan="2" class="my-4 text-base"><a href="https://maps.app.goo.gl/34r3stN2LZ2viuLe7" target="_blank">N53 21.431 W112 55.686</a>(Opens in Google Maps)</br>
+          <td valign="top" colspan="2" class="my-4 text-base"><a href="https://maps.app.goo.gl/34r3stN2LZ2viuLe7" target="_blank">N53 21.431 W112 55.686</a> (Opens in Google Maps)</br>
           <p><a href="geo:53.357183,-112.928100">53.357183,-112.928100</a> (Opens in your default map app)</p>
           <p><a href="wolves.installing.suspicions://show?threewords=wolves.installing.suspicions">///wolves.installing.suspicions</a> (Opens in what3words - mobile only)</p>
           </td>
