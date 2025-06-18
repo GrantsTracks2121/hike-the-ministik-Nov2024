@@ -109,7 +109,7 @@ Long sleeves and long pants are highly recommended for this hike.
       </tr>
       <tr class="align-top">
         <td class="black-leg-header text-center">3</td>
-        <td class="px-6 py-4 text-base text-gray-700">Trail meets Shinjuku Meadow (SW) ➜ Trail meets old beaver dam.</td>
+        <td class="px-6 py-4 text-base text-gray-700">Trail meets Shinjuku Meadow (NE) ➜ Trail meets Shinjuku Meadow (SW)</td>
         <td class="px-6 py-4 text-base font-bold text-gray-700 text-center">450 m</td>
         <td class="px-6 py-4 text-base font-bold text-gray-700 text-center">3.05 km</td>
         <td class="px-6 py-4 text-base text-gray-700" style="padding-left: 1em;">
@@ -120,7 +120,7 @@ Long sleeves and long pants are highly recommended for this hike.
       </tr>
       <tr class="align-top">
         <td class="green-leg-header text-center">4</td>
-        <td class="px-6 py-4 text-base text-gray-700"></td>
+        <td class="px-6 py-4 text-base text-gray-700">Trail meets Shinjuku Meadow (SW) ➜ Trail meets old beaver dam</td>
         <td class="px-6 py-4 text-base font-bold text-gray-700 text-center">2.9 km</td>
         <td class="px-6 py-4 text-base font-bold text-gray-700 text-center">5.95 km</td>
         <td class="px-6 py-4 text-base text-gray-700" style="padding-left: 1em;">
@@ -263,7 +263,7 @@ Long sleeves and long pants are highly recommended for this hike.
   <div class="border rounded-lg shadow-md">
     <div class="black-leg-header text-center py-1 font-bold text-white">Leg 3</div>
     <div class="p-4 space-y-2">
-      <p class="-mt-4 text-center text-lg text-gray-700">Trail meets Shinjuku Meadow (SW) ➜ Trail meets old beaver dam</p>
+      <p class="-mt-4 text-center text-lg text-gray-700">Trail meets Shinjuku Meadow (NE) ➜ Trail meets Shinjuku Meadow (SW)</p>
       <p class="text-center text-base font-bold text-gray-700">Distance: 450 m</p>
       <p class="text-center text-base font-bold text-gray-700">Accumulated Distance: 3.05 km</p>
       <h4 class="text-base font-semibold">Description</h4>
@@ -276,7 +276,7 @@ Long sleeves and long pants are highly recommended for this hike.
   <div class="border rounded-lg shadow-md">
     <div class="green-leg-header text-center py-1 font-bold text-white">Leg 4</div>
     <div class="p-4 space-y-2">
-      <p class="-mt-4 text-center text-lg text-gray-700"></p>
+      <p class="-mt-4 text-center text-lg text-gray-700">Trail meets Shinjuku Meadow (SW) ➜ Trail meets old beaver dam</p>
       <p class="text-center text-base font-bold text-gray-700">Distance: 2.9 km</p>
       <p class="text-center text-base font-bold text-gray-700">Accumulated Distance: 5.95 km</p>
       <h4 class="text-base font-semibold">Description</h4>
