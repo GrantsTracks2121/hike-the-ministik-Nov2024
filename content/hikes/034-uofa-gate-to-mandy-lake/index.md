@@ -125,8 +125,7 @@ The directions for this "2-Car" hike assume you'll start at U of A Field Station
           <ul class="tight-list">
             <li>Follow the wide trail to the right, up the hill</li>
             <li>When you reach the bottom of the small hill at "Waskahegan Trail meets road to meadow", bear right to follow the road (which actually looks like a wide trail).</li>
-            <li>We're leaving the Waskahegan Trail at this point, but this hike plan has us looping around back to this place via the Waskahegan from the south.</li>
-            <li>Use the "Road meets meadow 1 (N)" waypoint to get you started</li>
+            <li>Use the "Road meets meadow 1 (N)" waypoint to guide you.</li>
           </ul>
         </td>
       </tr>
@@ -380,8 +379,7 @@ The directions for this "2-Car" hike assume you'll start at U of A Field Station
       <ul class="text-base text-gray-700 tight-list">
             <li>Follow the wide trail to the right, up the hill</li>
             <li>When you reach the bottom of the small hill at "Waskahegan Trail meets road to meadow", bear right to follow the road (which actually looks like a wide trail).</li>
-            <li>We're leaving the Waskahegan Trail at this point, but this hike plan has us looping around back to this place via the Waskahegan from the south.</li>
-            <li>Use the "Road meets meadow 1 (N)" waypoint to get you started</li>
+            <li>Use the "Road meets meadow 1 (N)" waypoint to guide you.</li>
       </ul>
     </div>
   </div>

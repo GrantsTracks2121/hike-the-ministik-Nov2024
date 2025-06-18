@@ -58,16 +58,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/404/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/about-the-ministik/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/contactform/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -108,11 +98,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/use-tracks-waypoints/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/hikes/027-mandy-lake-to-shelter/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -139,11 +124,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/hikes/036-north-of-502/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/changelog/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

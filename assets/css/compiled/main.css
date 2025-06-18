@@ -2224,10 +2224,6 @@ select {
   place-self:center
 }
 
-.self-start {
-  align-self:flex-start
-}
-
 .self-center {
   align-self:center
 }
@@ -5507,10 +5503,6 @@ pre {
     display:none
   }
 
-  .lg\:h-24 {
-    height:6rem
-  }
-
   .lg\:h-72 {
     height:18rem
   }
@@ -5527,7 +5519,7 @@ pre {
     width:25%
   }
 
-  .lg\:w-24 {
+  .lg\:w-\[6rem\] {
     width:6rem
   }
 

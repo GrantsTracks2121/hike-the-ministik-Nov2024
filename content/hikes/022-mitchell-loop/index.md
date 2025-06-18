@@ -1,5 +1,5 @@
 ---
-title: "Mitchell Loop"
+title: "Marshall Mitchell Loop"
 slug: "022-mitchell-loop"
 myhikeid: "022"
 layout: "hikesimple"
@@ -14,13 +14,13 @@ categories:
 showHero: true
 heroStyle: "background"
 showSummary: true
-summary: "This hike is a combination of wide, easy trails punctuated with short crossings of trailless meadows in a seldom-travelled corner of the Ministik. Take a short detour to visit one of the few old structures in the Ministik: the Mitchell Cabin."
+summary: "This hike is a combination of wide, easy trails punctuated with short crossings of trailless meadows in a seldom-travelled corner of the Ministik. Take a short detour to visit one of the few old structures in the Ministik: the Marshall Mitchell Cabin."
 ---
 <div class="flex flex-col text-surface shadow-secondary-1 dark:bg-surface-dark dark:text-white max-w-max lg:flex-row h-auto" style=margin-bottom:-100px;>
 {{< hikedetailsfigure 
     src="featured-022-Mitchell-Loop.jpg"
-    alt="Hike route: Mitchell Loop"
-    caption="Hike route: Mitchell Loop"
+    alt="Hike route: Marshall Mitchell Loop"
+    caption="Hike route: Marshall Mitchell Loop"
 >}}
   <div class="flex flex-col justify-start pl-5 lg:w-1/2 sm:pb-7">
     <h4 class="text-xl font-large mt-4">Hike Details</h4>
@@ -56,7 +56,7 @@ summary: "This hike is a combination of wide, easy trails punctuated with short 
 
 ## Description
 
-This hike is a combination of wide, easy trails punctuated with short crossings of trailless meadows in a seldom-travelled corner of the Ministik. Take a short detour to visit one of the few historical structures in the Ministik: the Mitchell Cabin.  
+This hike is a combination of wide, easy trails punctuated with short crossings of trailless meadows in a seldom-travelled corner of the Ministik. Take a short detour to visit one of the few historical structures in the Ministik: the Marshall Mitchell Cabin. Marshall Mitchell lived in the cabin in the 1930's while trapping and farming in the area.
 
 {{< routecolordetails "View route colour key">}}
 </br>
@@ -184,13 +184,13 @@ This hike is a combination of wide, easy trails punctuated with short crossings 
       </tr>
       <tr class="align-top">
         <td class="green-leg-header text-center">10</td>
-        <td class="px-6 py-4 text-base text-gray-700">Meadow meets side trail to cabin ➜ Mitchell Cabin & Return</td>
+        <td class="px-6 py-4 text-base text-gray-700">Meadow meets side trail to cabin ➜ Marshall Mitchell Cabin & Return</td>
         <td class="px-6 py-4 text-base font-bold text-gray-700 text-center">282 m</td>
         <td class="px-6 py-4 text-base font-bold text-gray-700 text-center">3.865 km</td>
         <td class="px-6 py-4 text-base text-gray-700" style="padding-left: 1em;">
           <ul class="tight-list">
             <li>This section of the hike is optional. You could simply turn left (northeast) and follow this section of the Waskahegan Trail.</li>
-            <li>But a trip to have a look at Mitchell Cabin is recommended. It's a small cabin still standing as of this writing. Another structure nearby hasn't fared as well.</li>
+            <li>But a trip to have a look at Marshall Mitchell Cabin is recommended. It's a small cabin still standing as of this writing. Another structure nearby hasn't fared as well.</li>
             <li>If you decided to visit, make your way back to "Meadow meets side trail to cabin" to continue the hike.</li>
           </ul>
         </td>
@@ -392,13 +392,13 @@ This hike is a combination of wide, easy trails punctuated with short crossings 
   <div class="border rounded-lg shadow-md">
     <div class="green-leg-header text-center py-1 font-bold text-white">Leg 10</div>
     <div class="p-4 space-y-2">
-      <p class="-mt-4 text-center text-lg text-gray-700">Meadow meets side trail to cabin ➜ Mitchell Cabin & Return</p>
+      <p class="-mt-4 text-center text-lg text-gray-700">Meadow meets side trail to cabin ➜ Marshall Mitchell Cabin & Return</p>
       <p class="text-center text-base font-bold text-gray-700">Distance: 282 m</p>
       <p class="text-center text-base font-bold text-gray-700">Accumulated Distance: 3.865 km</p>
       <h4 class="text-base font-semibold">Description</h4>
       <ul class="text-base text-gray-700 tight-list">
         <li>This section of the hike is optional. You could simply turn left (northeast) and follow this section of the Waskahegan Trail.</li>
-        <li>But a trip to have a look at Mitchell Cabin is recommended. It's a small cabin still standing as of this writing. Another structure nearby hasn't fared as well.</li>
+        <li>But a trip to have a look at Marshall Mitchell Cabin is recommended. It's a small cabin still standing as of this writing. Another structure nearby hasn't fared as well.</li>
         <li>If you decided to visit, make your way back to "Meadow meets side trail to cabin" to continue the hike.</li>
       </ul>
     </div>

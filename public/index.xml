@@ -119,16 +119,6 @@
     </item>
     
     <item>
-      <title>About The Ministik</title>
-      <link>http://localhost:1313/about-the-ministik/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/about-the-ministik/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Contact Hike The Ministik!</title>
       <link>http://localhost:1313/contactform/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -179,16 +169,6 @@
     </item>
     
     <item>
-      <title>How to Use the Route Track and Waypoints File</title>
-      <link>http://localhost:1313/use-tracks-waypoints/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/use-tracks-waypoints/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Mandy Lake Parking to Old Shelter</title>
       <link>http://localhost:1313/hikes/027-mandy-lake-to-shelter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -236,16 +216,6 @@
       <guid>http://localhost:1313/hikes/036-north-of-502/</guid>
       <description>This somewhat awkwardly named hike takes you into a secluded set of trails not too far from parking. There are a couple of overgrown areas to traverse on the way, but otherwise trails are usually kept clear by local quad traffic.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/hikes/036-north-of-502/featured-036-North-of-Township-Road-502-Loop.jpg" />
-    </item>
-    
-    <item>
-      <title>Site Changes and Additions</title>
-      <link>http://localhost:1313/changelog/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/changelog/</guid>
-      <description>Review all the changes and additions to the site.</description>
-      
     </item>
     
     <item>
