@@ -9,7 +9,7 @@ showHero: true
 trailhead: true
 heroStyle: "background"
 showSummary: true
-summary: "It’s fair to say that the U of A Access Road Gate is the “front door” of the Ministik. The gated road leads to a former  U of A Research Station. The facility seems to have been shuttered from many years, but the road itself is periodically cleared of deadfall and other obstacles."
+summary: "It’s fair to say that the U of A Access Road Gate is the “front door” of the Ministik. The gated road leads to a former  U of A Research Station. The facility seems to have been shuttered for many years, but the road itself is periodically cleared of deadfall and other obstacles."
 ---
 <div class="flex flex-col text-surface shadow-secondary-1 dark:bg-surface-dark dark:text-white max-w-max lg:flex-row h-auto sm:pb-10" style=margin-bottom:-100px;>
 <div class="w-full lg:w-1/2" style="margin-bottom: 20px;margin-top: -25px;">
@@ -35,7 +35,7 @@ summary: "It’s fair to say that the U of A Access Road Gate is the “front do
         </tr>
         <tr>
           <td valign="top" colspan="2" class="my-4 text-base"><ul>
-          <li>It’s fair to say that the U of A Access Road Gate is the “front door” of the Ministik. The gated road leads to a former  U of A Research Station. The facility seems to have been shuttered from many years, but the road itself is periodically cleared of deadfall and other obstacles.</li>
+          <li>It’s fair to say that the U of A Access Road Gate is the “front door” of the Ministik. The gated road leads to a former  U of A Research Station. The facility seems to have been shuttered for many years, but the road itself is periodically cleared of deadfall and other obstacles.</li>
 
 <li>This entrance gets by far the most traffic over the course of a year, maybe because there’s decent parking space, room for maybe three or even four cars in the ditch near the gate and for more if parked safely along the road east of the gate.</li> 
 

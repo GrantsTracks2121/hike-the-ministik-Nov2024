@@ -9,7 +9,7 @@ trailhead: true
 showSummary: true
 showHero: true
 heroStyle: "background"
-summary: "Named for a former nearby land owner, Fairbrother corner provides you with immediate access to the Waskahegan Trail. When you walk past the gate the Waskahegan extends both directly east and directly south. There is ample parking here because there is no ditch to speak of and ample space between the road and the treeline. This means you can easily safely park multiple vehicles off the road.?"
+summary: "Named for a former, nearby land owner, Fairbrother corner provides you with immediate access to the Waskahegan Trail. When you walk past the gate, the Waskahegan extends both directly east and directly south. Ample parking is available here, thanks to the absence of a ditch and the generous space between the road and the treeline. This means you can easily park multiple vehicles safely off the road."
 ---
 <div class="flex flex-col text-surface shadow-secondary-1 dark:bg-surface-dark dark:text-white max-w-max lg:flex-row h-auto sm:pb-10">
 <div class="w-full lg:w-1/2" style="margin-bottom: 20px;margin-top: -25px;">
@@ -34,9 +34,9 @@ summary: "Named for a former nearby land owner, Fairbrother corner provides you 
           <td valign="top" class="mb-2 text-base"><b>🅿️ Parking</b></td>
         </tr>
         <tr>
-          <td valign="top" colspan="2" class="my-4 text-base"><p>Named for a former nearby land owner, Fairbrother corner provides you with immediate access to the Waskahegan Trail. When you walk past the gate the Waskahegan extends both directly east and directly south.</p>
+          <td valign="top" colspan="2" class="my-4 text-base"><p>Named for a former, nearby land owner, Fairbrother corner provides you with immediate access to the Waskahegan Trail. When you walk past the gate, the Waskahegan extends both directly east and directly south.</p>
 
-<p>There is ample parking here because there is no ditch to speak of and ample space between the road and the treeline. This means you can easily safely park multiple vehicles off the road.</p></td>
+<p>Ample parking is available here, thanks to the absence of a ditch and the generous space between the road and the treeline. This means you can easily park multiple vehicles safely off the road.</p></td>
         </tr>
       </tbody>
       </table>

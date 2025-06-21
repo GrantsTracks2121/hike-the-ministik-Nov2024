@@ -13,7 +13,7 @@ summary: "The site's trail rating system is meant to give hikers an idea of the 
     alt="The color of each leg of a route displays its relative difficulty"
     caption="The color of each leg of a route displays its relative difficulty" >}}When hiking in on an established, maintained hiking trail you expect to be able walk on trails that are fairly uniform, mostly unobstructed by deadfall and growth on the trail and even find the occasional navigational signage along the way.
 
-With the exception of the Waskahegan Trail, the trails in the Ministik provide none of these things. For that reason, someone new to the area should at at least have some idea of what they're getting themselves into when deciding on an outing in the area. 
+With the exception of the Waskahegan Trail, the trails in the Ministik provide none of these things. For that reason, someone new to the area should at least have some idea of what they're getting themselves into when deciding on an outing in the area. 
 
 That's where the trail rating system on this site comes in. It is meant to give you an indication of the combined navigational and physical effort you can expect when walking the trail. 
 
