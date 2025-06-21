@@ -108,17 +108,17 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/hikes/022-mitchell-loop/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/trailheads/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/hikes/017-misasin-trail/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/hikes/022-mitchell-loop/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
