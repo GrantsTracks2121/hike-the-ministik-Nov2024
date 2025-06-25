@@ -9,7 +9,7 @@ description: "Francis Edward Williams Trailhead."
 showHero: true
 heroStyle: "background"
 showSummary: true
-summary: "This trailhead offers somewhat meager parking: one good-sized car can safely pull off the road and park in front of the gate here. If two people are driving Mini Coopers, then maybe two cars. 😃 When parking, beware of the steep ditches here. Especially in winter it's all too easy to slide into the ditch where you'll probably need AMA assistance to get you back out."
+summary: "This trailhead offers somewhat meager parking: one vehicle can safely pull off the road and park in front of the gate here. When parking, beware of the steep ditches here. Especially in winter it's all too easy to slide into the ditch where you'll probably need AMA assistance to get you back out."
 ---
 
 <div class="flex flex-col text-surface shadow-secondary-1 dark:bg-surface-dark dark:text-white max-w-max lg:flex-row h-auto">
