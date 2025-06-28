@@ -86,7 +86,7 @@ This hike takes you along a former road, a rare thing in the Ministik. The going
             <li>The path becomes clearer at "Road meets Big Rock Meadow (E)"</li>
             <li>The trail gradually loses elevation just before you pass "Old Cabin", a structure that has definitely seen better days.</li>
             <li>Continue to the final "Round Shelter" waypoint. As you can see, this shelter has also seen better days. But it's a place where you can rest and perhaps even sign a makeshift "log book" to commemorate your visit.</li>
-            <li>All that's left to do now is retrace your steps toward the parking spot to the east. </li>
+            <li>All that's left to do now is retrace your steps toward the parking spot to the west. </li>
             <li>Congratulations for completing the hike!</li>
           </ul>
         </td>
@@ -108,11 +108,11 @@ This hike takes you along a former road, a rare thing in the Ministik. The going
         <li>One aspect of this hike makes it rare among Ministik hikes: the entire hike is along a road. That makes it a great choice for a Ministik starter hike.</li>
         <li>Starting out from the parking spot at "Mandy Lake Road Trailhead" make sure you veer to the right once you pass through the gate.</li>
         <li>You'll wind your way along the old road and first pass an intersection at "Road / Oliver Lake Trail Intersection".</li>
-        <li>Continue until you reach "Road meets Big Rock Meadow (W)" where the road degrades somewhat but is still quite easy to follow. The name of the meadow isn't commercial for a beer. You'll pass by a couple of big rocks, one of which just begs to be sat on. 😃</li>
+        <li>Continue until you reach "Road meets Big Rock Meadow (W)" where the road degrades somewhat but is still quite easy to follow. The name of the meadow isn't commercial for a beer. It's because the path passes by a couple of big rocks, one of which just begs to be sat on. 😃</li>
         <li>The path becomes clearer at "Road meets Big Rock Meadow (E)"</li>
         <li>The trail gradually loses elevation just before you pass "Old Cabin", a structure that has definitely seen better days.</li>
         <li>Continue to the final "Round Shelter" waypoint. As you can see, this shelter has also seen better days. But it's a place where you can rest and perhaps even sign a makeshift "log book" to commemorate your visit.</li>
-        <li>All that's left to do now is retrace your steps toward the parking spot to the east.</li>
+        <li>All that's left to do now is retrace your steps toward the parking spot to the west.</li>
         <li>Congratulations for completing the hike!</li>
       </ul>
     </div>
