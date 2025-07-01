@@ -36,7 +36,7 @@ summary: "This \"2-Car\" epic hike starts out at the U of A Access Road gate, an
         </tr>
         <tr>
           <td valign="top" width="40%" class="mb-2 text-base">Route Type:</td>
-          <td valign="top" style="padding-left: 10px;" class="mb-2 text-base">Loop</td>
+          <td valign="top" style="padding-left: 10px;" class="mb-2 text-base">2-Car</td>
         </tr>
         <tr>
           <td valign="top" width="40%" class="mb-2 text-base" rowspan="2">Difficulty:</td>
